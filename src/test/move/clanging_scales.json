@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "clanging_scales",
+    "name": "Clanging Scales",
+    "koName": "스케일노이즈",
+    "type": "dragon",
+    "moveCategory": "special",
+    "moveTarget": "all_near_enemies",
+    "power": 110,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "전신의 비늘을 비벼서 큰 소리를 내 공격한다. 공격 후 자신의 방어가 떨어진다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": "",
+    "flags": [
+      "sound_based"
+    ],
+    "pokemonIds": [
+      "snivy",
+      "servine",
+      "serperior",
+      "noibat",
+      "noivern",
+      "kommo_o"
+    ]
+  }
+]

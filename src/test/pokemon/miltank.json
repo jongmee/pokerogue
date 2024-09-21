@@ -1,0 +1,177 @@
+[
+  {
+    "_id": "miltank",
+    "gender": "",
+    "pokedexNumber": "241",
+    "name": "miltank",
+    "koName": "밀탱크",
+    "speciesName": "miltank",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "172",
+    "friendship": "50",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "thick_fat",
+      "scrappy"
+    ],
+    "hiddenAbilityId": "sap_sipper",
+    "passiveAbilityId": "stamina",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 490,
+    "hp": 95,
+    "attack": 80,
+    "defense": 105,
+    "specialAttack": 40,
+    "specialDefense": 70,
+    "speed": 100,
+    "height": 1.2,
+    "weight": 75.5,
+    "eggMoveIds": [
+      "body_press",
+      "bulk_up",
+      "yawn",
+      "sizzly_slide"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 5,
+        "moveId": "rollout"
+      },
+      {
+        "level": 10,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": 15,
+        "moveId": "stomp"
+      },
+      {
+        "level": 20,
+        "moveId": "heal_bell"
+      },
+      {
+        "level": 25,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 30,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 35,
+        "moveId": "milk_drink"
+      },
+      {
+        "level": 40,
+        "moveId": "body_slam"
+      },
+      {
+        "level": 45,
+        "moveId": "play_rough"
+      },
+      {
+        "level": 50,
+        "moveId": "charm"
+      },
+      {
+        "level": 55,
+        "moveId": "high_horsepower"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "mega_kick",
+      "body_slam",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "counter",
+      "strength",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "earthquake",
+      "toxic",
+      "double_team",
+      "metronome",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "curse",
+      "reversal",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "sandstorm",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "rock_smash",
+      "whirlpool",
+      "facade",
+      "focus_punch",
+      "helping_hand",
+      "brick_break",
+      "rock_tomb",
+      "water_pulse",
+      "gyro_ball",
+      "fling",
+      "focus_blast",
+      "giga_impact",
+      "zen_headbutt",
+      "iron_head",
+      "stealth_rock",
+      "heavy_slam",
+      "round",
+      "echoed_voice",
+      "retaliate",
+      "bulldoze",
+      "work_up",
+      "play_rough",
+      "confide",
+      "power_up_punch",
+      "high_horsepower",
+      "stomping_tantrum",
+      "body_press",
+      "steel_roller",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "meadow"
+    ]
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "_id": "raikou",
+    "gender": "",
+    "pokedexNumber": "243",
+    "name": "raikou",
+    "koName": "라이코",
+    "speciesName": "raikou",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "290",
+    "friendship": "35",
+    "types": [
+      "electric"
+    ],
+    "normalAbilityIds": [
+      "pressure"
+    ],
+    "hiddenAbilityId": "inner_focus",
+    "passiveAbilityId": "transistor",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 580,
+    "hp": 90,
+    "attack": 85,
+    "defense": 75,
+    "specialAttack": 115,
+    "specialDefense": 100,
+    "speed": 115,
+    "height": 1.9,
+    "weight": 178,
+    "eggMoveIds": [
+      "parabolic_charge",
+      "nasty_plot",
+      "frost_breath",
+      "electro_drift"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "extreme_speed"
+      },
+      {
+        "level": 1,
+        "moveId": "charge"
+      },
+      {
+        "level": 6,
+        "moveId": "spark"
+      },
+      {
+        "level": 12,
+        "moveId": "bite"
+      },
+      {
+        "level": 18,
+        "moveId": "calm_mind"
+      },
+      {
+        "level": 24,
+        "moveId": "roar"
+      },
+      {
+        "level": 30,
+        "moveId": "thunder_fang"
+      },
+      {
+        "level": 36,
+        "moveId": "howl"
+      },
+      {
+        "level": 42,
+        "moveId": "crunch"
+      },
+      {
+        "level": 48,
+        "moveId": "extrasensory"
+      },
+      {
+        "level": 54,
+        "moveId": "discharge"
+      },
+      {
+        "level": 60,
+        "moveId": "reflect"
+      },
+      {
+        "level": 66,
+        "moveId": "rain_dance"
+      },
+      {
+        "level": 72,
+        "moveId": "thunder"
+      },
+      {
+        "level": 78,
+        "moveId": "zap_cannon"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "cut",
+      "body_slam",
+      "double_edge",
+      "roar",
+      "hyper_beam",
+      "strength",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "dig",
+      "toxic",
+      "agility",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "swift",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "psych_up",
+      "shadow_ball",
+      "rock_smash",
+      "facade",
+      "charge",
+      "helping_hand",
+      "weather_ball",
+      "signal_beam",
+      "calm_mind",
+      "aura_sphere",
+      "giga_impact",
+      "thunder_fang",
+      "rock_climb",
+      "iron_head",
+      "charge_beam",
+      "electro_ball",
+      "round",
+      "scald",
+      "quash",
+      "volt_switch",
+      "bulldoze",
+      "wild_charge",
+      "snarl",
+      "confide",
+      "eerie_impulse",
+      "electric_terrain",
+      "throat_chop",
+      "rising_voltage",
+      "tera_blast",
+      "trailblaze",
+      "supercell_slam"
+    ],
+    "biomeIds": [
+      "power_plant"
+    ]
+  }
+]

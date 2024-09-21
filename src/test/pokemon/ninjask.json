@@ -1,0 +1,185 @@
+[
+  {
+    "_id": "ninjask",
+    "gender": "",
+    "pokedexNumber": "291",
+    "name": "ninjask",
+    "koName": "아이스크",
+    "speciesName": "ninjask",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "160",
+    "friendship": "50",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "speed_boost"
+    ],
+    "hiddenAbilityId": "infiltrator",
+    "passiveAbilityId": "magic_guard",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 456,
+    "hp": 61,
+    "attack": 90,
+    "defense": 45,
+    "specialAttack": 50,
+    "specialDefense": 50,
+    "speed": 160,
+    "height": 0.8,
+    "weight": 12,
+    "eggMoveIds": [
+      "attack_order",
+      "sticky_web",
+      "spirit_shackle",
+      "shell_smash"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "double_team"
+      },
+      {
+        "level": 0,
+        "moveId": "screech"
+      },
+      {
+        "level": 0,
+        "moveId": "fury_cutter"
+      },
+      {
+        "level": 1,
+        "moveId": "baton_pass"
+      },
+      {
+        "level": 1,
+        "moveId": "aerial_ace"
+      },
+      {
+        "level": 1,
+        "moveId": "mud_slap"
+      },
+      {
+        "level": 1,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 1,
+        "moveId": "dig"
+      },
+      {
+        "level": 1,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "harden"
+      },
+      {
+        "level": 1,
+        "moveId": "false_swipe"
+      },
+      {
+        "level": 15,
+        "moveId": "agility"
+      },
+      {
+        "level": 23,
+        "moveId": "absorb"
+      },
+      {
+        "level": 29,
+        "moveId": "bug_bite"
+      },
+      {
+        "level": 36,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 43,
+        "moveId": "mind_reader"
+      },
+      {
+        "level": 50,
+        "moveId": "slash"
+      },
+      {
+        "level": 57,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 64,
+        "moveId": "x_scissor"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "hyper_beam",
+      "solar_beam",
+      "dig",
+      "toxic",
+      "agility",
+      "screech",
+      "double_team",
+      "swift",
+      "leech_life",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "spite",
+      "protect",
+      "mud_slap",
+      "sandstorm",
+      "giga_drain",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "metal_claw",
+      "hidden_power",
+      "sunny_day",
+      "shadow_ball",
+      "uproar",
+      "facade",
+      "air_cutter",
+      "aerial_ace",
+      "roost",
+      "u_turn",
+      "air_slash",
+      "x_scissor",
+      "bug_buzz",
+      "giga_impact",
+      "defog",
+      "bug_bite",
+      "hone_claws",
+      "round",
+      "acrobatics",
+      "struggle_bug",
+      "confide",
+      "skitter_smack",
+      "dual_wingbeat",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "tall_grass"
+    ]
+  }
+]

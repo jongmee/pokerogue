@@ -1,0 +1,202 @@
+[
+  {
+    "_id": "meowstic",
+    "gender": "",
+    "pokedexNumber": "678",
+    "name": "meowstic",
+    "koName": "냐오닉스",
+    "speciesName": "meowstic",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "163",
+    "friendship": "50",
+    "types": [
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "keen_eye",
+      "infiltrator"
+    ],
+    "hiddenAbilityId": "prankster",
+    "passiveAbilityId": "fur_coat",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 466,
+    "hp": 74,
+    "attack": 48,
+    "defense": 76,
+    "specialAttack": 83,
+    "specialDefense": 81,
+    "speed": 104,
+    "height": 0.6,
+    "weight": 8.5,
+    "eggMoveIds": [
+      "glare",
+      "moonblast",
+      "aura_sphere",
+      "psystrike"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "mean_look"
+      },
+      {
+        "level": 1,
+        "moveId": "fake_out"
+      },
+      {
+        "level": 1,
+        "moveId": "disarming_voice"
+      },
+      {
+        "level": 9,
+        "moveId": "confusion"
+      },
+      {
+        "level": 12,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 15,
+        "moveId": "charm"
+      },
+      {
+        "level": 18,
+        "moveId": "covet"
+      },
+      {
+        "level": 21,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 24,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 29,
+        "moveId": "role_play"
+      },
+      {
+        "level": 34,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 34,
+        "moveId": "reflect"
+      },
+      {
+        "level": 39,
+        "moveId": "psyshock"
+      },
+      {
+        "level": 44,
+        "moveId": "imprison"
+      },
+      {
+        "level": 49,
+        "moveId": "quick_guard"
+      },
+      {
+        "level": 54,
+        "moveId": "psychic"
+      },
+      {
+        "level": 59,
+        "moveId": "misty_terrain"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "pay_day",
+      "cut",
+      "psybeam",
+      "hyper_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "dig",
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "swift",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "safeguard",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "torment",
+      "facade",
+      "helping_hand",
+      "trick",
+      "recycle",
+      "skill_swap",
+      "imprison",
+      "fake_tears",
+      "signal_beam",
+      "covet",
+      "calm_mind",
+      "gravity",
+      "payback",
+      "dark_pulse",
+      "energy_ball",
+      "giga_impact",
+      "nasty_plot",
+      "zen_headbutt",
+      "trick_room",
+      "charge_beam",
+      "wonder_room",
+      "psyshock",
+      "magic_room",
+      "round",
+      "echoed_voice",
+      "stored_power",
+      "ally_switch",
+      "work_up",
+      "tail_slap",
+      "disarming_voice",
+      "misty_terrain",
+      "play_rough",
+      "confide",
+      "power_up_punch",
+      "psychic_terrain",
+      "expanding_force",
+      "tera_blast",
+      "trailblaze",
+      "alluring_voice",
+      "psychic_noise"
+    ],
+    "biomeIds": [
+      "metropolis"
+    ]
+  }
+]

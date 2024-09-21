@@ -1,0 +1,175 @@
+[
+  {
+    "_id": "litwick",
+    "gender": "",
+    "pokedexNumber": "607",
+    "name": "litwick",
+    "koName": "불켜미",
+    "speciesName": "litwick",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "55",
+    "friendship": "50",
+    "types": [
+      "ghost",
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "flash_fire",
+      "flame_body"
+    ],
+    "hiddenAbilityId": "infiltrator",
+    "passiveAbilityId": "soul_heart",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 275,
+    "hp": 50,
+    "attack": 30,
+    "defense": 55,
+    "specialAttack": 65,
+    "specialDefense": 55,
+    "speed": 20,
+    "height": 0.3,
+    "weight": 3.1,
+    "eggMoveIds": [
+      "fiery_dance",
+      "earth_power",
+      "moonblast",
+      "astral_barrage"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "smog"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 4,
+        "moveId": "ember"
+      },
+      {
+        "level": 8,
+        "moveId": "minimize"
+      },
+      {
+        "level": 12,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 16,
+        "moveId": "hex"
+      },
+      {
+        "level": 20,
+        "moveId": "will_o_wisp"
+      },
+      {
+        "level": 24,
+        "moveId": "fire_spin"
+      },
+      {
+        "level": 28,
+        "moveId": "night_shade"
+      },
+      {
+        "level": 32,
+        "moveId": "curse"
+      },
+      {
+        "level": 36,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 40,
+        "moveId": "inferno"
+      },
+      {
+        "level": 44,
+        "moveId": "imprison"
+      },
+      {
+        "level": 48,
+        "moveId": "pain_split"
+      },
+      {
+        "level": 52,
+        "moveId": "overheat"
+      },
+      {
+        "level": 56,
+        "moveId": "memento"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "flamethrower",
+      "solar_beam",
+      "fire_spin",
+      "toxic",
+      "psychic",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "haze",
+      "fire_blast",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "pain_split",
+      "hidden_power",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "taunt",
+      "trick",
+      "imprison",
+      "overheat",
+      "calm_mind",
+      "payback",
+      "embargo",
+      "flare_blitz",
+      "dark_pulse",
+      "energy_ball",
+      "trick_room",
+      "flame_charge",
+      "round",
+      "ally_switch",
+      "hex",
+      "incinerate",
+      "confide",
+      "mystical_fire",
+      "skitter_smack",
+      "burning_jealousy",
+      "poltergeist",
+      "tera_blast",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "graveyard",
+      "temple"
+    ]
+  }
+]

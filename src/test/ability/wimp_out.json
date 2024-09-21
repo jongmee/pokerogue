@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "wimp_out",
+    "name": "Wimp Out",
+    "koName": "도망태세",
+    "realased": " (N)",
+    "description": "HP가 절반이 되면 황급히 도망쳐서 지닌 포켓몬으로 돌아간다.",
+    "generation": 7,
+    "pokemonIds": [
+      "wimpod"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

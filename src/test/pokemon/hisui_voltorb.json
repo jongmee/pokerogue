@@ -1,0 +1,164 @@
+[
+  {
+    "_id": "hisui_voltorb",
+    "gender": "",
+    "pokedexNumber": "6100",
+    "name": "hisui_voltorb",
+    "koName": "찌리리공",
+    "speciesName": "hisui_voltorb",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "66",
+    "friendship": "80",
+    "types": [
+      "electric",
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "soundproof",
+      "static"
+    ],
+    "hiddenAbilityId": "aftermath",
+    "passiveAbilityId": "transistor",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 330,
+    "hp": 40,
+    "attack": 30,
+    "defense": 50,
+    "specialAttack": 55,
+    "specialDefense": 55,
+    "speed": 100,
+    "height": 0.5,
+    "weight": 13,
+    "eggMoveIds": [
+      "frost_breath",
+      "nasty_plot",
+      "apple_acid",
+      "electro_drift"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "charge"
+      },
+      {
+        "level": 4,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 6,
+        "moveId": "stun_spore"
+      },
+      {
+        "level": 9,
+        "moveId": "bullet_seed"
+      },
+      {
+        "level": 11,
+        "moveId": "rollout"
+      },
+      {
+        "level": 13,
+        "moveId": "screech"
+      },
+      {
+        "level": 16,
+        "moveId": "charge_beam"
+      },
+      {
+        "level": 20,
+        "moveId": "swift"
+      },
+      {
+        "level": 22,
+        "moveId": "electro_ball"
+      },
+      {
+        "level": 26,
+        "moveId": "self_destruct"
+      },
+      {
+        "level": 29,
+        "moveId": "energy_ball"
+      },
+      {
+        "level": 34,
+        "moveId": "seed_bomb"
+      },
+      {
+        "level": 34,
+        "moveId": "discharge"
+      },
+      {
+        "level": 41,
+        "moveId": "explosion"
+      },
+      {
+        "level": 46,
+        "moveId": "gyro_ball"
+      },
+      {
+        "level": 50,
+        "moveId": "grassy_terrain"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "double_edge",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "agility",
+      "screech",
+      "double_team",
+      "reflect",
+      "self_destruct",
+      "swift",
+      "explosion",
+      "rest",
+      "substitute",
+      "thief",
+      "protect",
+      "giga_drain",
+      "endure",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "facade",
+      "charge",
+      "taunt",
+      "recycle",
+      "bullet_seed",
+      "gyro_ball",
+      "seed_bomb",
+      "energy_ball",
+      "leaf_storm",
+      "grass_knot",
+      "charge_beam",
+      "electro_ball",
+      "foul_play",
+      "volt_switch",
+      "wild_charge",
+      "grassy_terrain",
+      "electric_terrain",
+      "grassy_glide",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "power_plant"
+    ]
+  }
+]

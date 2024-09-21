@@ -1,0 +1,178 @@
+[
+  {
+    "_id": "galar_meowth",
+    "gender": "",
+    "pokedexNumber": "4052",
+    "name": "galar_meowth",
+    "koName": "나옹",
+    "speciesName": "galar_meowth",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "58",
+    "friendship": "50",
+    "types": [
+      "steel"
+    ],
+    "normalAbilityIds": [
+      "pickup",
+      "tough_claws"
+    ],
+    "hiddenAbilityId": "unnerve",
+    "passiveAbilityId": "steelworker",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 290,
+    "hp": 50,
+    "attack": 65,
+    "defense": 55,
+    "specialAttack": 40,
+    "specialDefense": 40,
+    "speed": 40,
+    "height": 0.4,
+    "weight": 7.5,
+    "eggMoveIds": [
+      "aqua_cutter",
+      "knock_off",
+      "bullet_punch",
+      "behemoth_bash"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "fake_out"
+      },
+      {
+        "level": 4,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 8,
+        "moveId": "scratch"
+      },
+      {
+        "level": 12,
+        "moveId": "pay_day"
+      },
+      {
+        "level": 16,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 20,
+        "moveId": "taunt"
+      },
+      {
+        "level": 24,
+        "moveId": "swagger"
+      },
+      {
+        "level": 29,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 32,
+        "moveId": "screech"
+      },
+      {
+        "level": 36,
+        "moveId": "slash"
+      },
+      {
+        "level": 40,
+        "moveId": "metal_sound"
+      },
+      {
+        "level": 44,
+        "moveId": "thrash"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "pay_day",
+      "swords_dance",
+      "cut",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "thunderbolt",
+      "thunder",
+      "dig",
+      "screech",
+      "double_team",
+      "metronome",
+      "amnesia",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "endure",
+      "charm",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "shadow_ball",
+      "uproar",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "hyper_voice",
+      "fake_tears",
+      "metal_sound",
+      "aerial_ace",
+      "iron_defense",
+      "covet",
+      "gyro_ball",
+      "u_turn",
+      "payback",
+      "assurance",
+      "fling",
+      "dark_pulse",
+      "seed_bomb",
+      "x_scissor",
+      "nasty_plot",
+      "shadow_claw",
+      "flash_cannon",
+      "gunk_shot",
+      "iron_head",
+      "stealth_rock",
+      "hone_claws",
+      "foul_play",
+      "round",
+      "retaliate",
+      "work_up",
+      "play_rough",
+      "throat_chop",
+      "steel_beam",
+      "lash_out",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "construction_site"
+    ]
+  }
+]

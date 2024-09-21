@@ -1,0 +1,85 @@
+[
+  {
+    "_id": "combee",
+    "gender": "",
+    "pokedexNumber": "415",
+    "name": "combee",
+    "koName": "세꿀버리",
+    "speciesName": "combee",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "49",
+    "friendship": "50",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "honey_gather"
+    ],
+    "hiddenAbilityId": "hustle",
+    "passiveAbilityId": "intimidate",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 244,
+    "hp": 30,
+    "attack": 30,
+    "defense": 42,
+    "specialAttack": 30,
+    "specialDefense": 42,
+    "speed": 70,
+    "height": 0.3,
+    "weight": 5.5,
+    "eggMoveIds": [
+      "spore",
+      "floaty_fall",
+      "kings_shield",
+      "victory_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "gust"
+      },
+      {
+        "level": 1,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 1,
+        "moveId": "bug_bite"
+      },
+      {
+        "level": 1,
+        "moveId": "struggle_bug"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swift",
+      "snore",
+      "mud_slap",
+      "sleep_talk",
+      "endeavor",
+      "air_cutter",
+      "tailwind",
+      "bug_buzz",
+      "bug_bite",
+      "struggle_bug",
+      "lunge",
+      "skitter_smack",
+      "dual_wingbeat",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "town",
+      "grass",
+      "forest",
+      "jungle"
+    ]
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "_id": "indeedee",
+    "gender": "",
+    "pokedexNumber": "876",
+    "name": "indeedee",
+    "koName": "에써르",
+    "speciesName": "indeedee",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "166",
+    "friendship": "140",
+    "types": [
+      "psychic",
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "inner_focus",
+      "synchronize"
+    ],
+    "hiddenAbilityId": "psychic_surge",
+    "passiveAbilityId": "friend_guard",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 475,
+    "hp": 60,
+    "attack": 65,
+    "defense": 55,
+    "specialAttack": 105,
+    "specialDefense": 95,
+    "speed": 95,
+    "height": 0.9,
+    "weight": 28,
+    "eggMoveIds": [
+      "matcha_gotcha",
+      "expanding_force",
+      "moonblast",
+      "revival_blessing"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "stored_power"
+      },
+      {
+        "level": 1,
+        "moveId": "play_nice"
+      },
+      {
+        "level": 5,
+        "moveId": "encore"
+      },
+      {
+        "level": 10,
+        "moveId": "disarming_voice"
+      },
+      {
+        "level": 15,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 20,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 25,
+        "moveId": "after_you"
+      },
+      {
+        "level": 30,
+        "moveId": "healing_wish"
+      },
+      {
+        "level": 35,
+        "moveId": "psychic"
+      },
+      {
+        "level": 40,
+        "moveId": "calm_mind"
+      },
+      {
+        "level": 45,
+        "moveId": "power_split"
+      },
+      {
+        "level": 50,
+        "moveId": "psychic_terrain"
+      },
+      {
+        "level": 55,
+        "moveId": "last_resort"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "pay_day",
+      "body_slam",
+      "take_down",
+      "psybeam",
+      "psychic",
+      "double_team",
+      "metronome",
+      "swift",
+      "rest",
+      "tri_attack",
+      "substitute",
+      "snore",
+      "protect",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "facade",
+      "helping_hand",
+      "trick",
+      "skill_swap",
+      "imprison",
+      "hyper_voice",
+      "magical_leaf",
+      "calm_mind",
+      "gravity",
+      "power_swap",
+      "drain_punch",
+      "energy_ball",
+      "zen_headbutt",
+      "trick_room",
+      "wonder_room",
+      "psyshock",
+      "magic_room",
+      "round",
+      "stored_power",
+      "ally_switch",
+      "disarming_voice",
+      "draining_kiss",
+      "play_rough",
+      "mystical_fire",
+      "dazzling_gleam",
+      "psychic_terrain",
+      "expanding_force",
+      "terrain_pulse",
+      "tera_blast",
+      "psychic_noise"
+    ],
+    "biomeIds": [
+      "metropolis"
+    ]
+  }
+]

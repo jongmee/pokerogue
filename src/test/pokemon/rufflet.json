@@ -1,0 +1,166 @@
+[
+  {
+    "_id": "rufflet",
+    "gender": "",
+    "pokedexNumber": "627",
+    "name": "rufflet",
+    "koName": "수리둥보",
+    "speciesName": "rufflet",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "70",
+    "friendship": "50",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "keen_eye",
+      "sheer_force"
+    ],
+    "hiddenAbilityId": "hustle",
+    "passiveAbilityId": "speed_boost",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 350,
+    "hp": 70,
+    "attack": 83,
+    "defense": 50,
+    "specialAttack": 37,
+    "specialDefense": 50,
+    "speed": 60,
+    "height": 0.5,
+    "weight": 10.5,
+    "eggMoveIds": [
+      "floaty_fall",
+      "aura_sphere",
+      "no_retreat",
+      "bolt_beak"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "peck"
+      },
+      {
+        "level": 6,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 12,
+        "moveId": "wing_attack"
+      },
+      {
+        "level": 18,
+        "moveId": "tailwind"
+      },
+      {
+        "level": 24,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 30,
+        "moveId": "aerial_ace"
+      },
+      {
+        "level": 36,
+        "moveId": "slash"
+      },
+      {
+        "level": 42,
+        "moveId": "whirlwind"
+      },
+      {
+        "level": 48,
+        "moveId": "crush_claw"
+      },
+      {
+        "level": 55,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 60,
+        "moveId": "defog"
+      },
+      {
+        "level": 66,
+        "moveId": "thrash"
+      },
+      {
+        "level": 72,
+        "moveId": "brave_bird"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "cut",
+      "fly",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "strength",
+      "toxic",
+      "agility",
+      "double_team",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "scary_face",
+      "endure",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "rock_smash",
+      "heat_wave",
+      "facade",
+      "helping_hand",
+      "superpower",
+      "feather_dance",
+      "air_cutter",
+      "rock_tomb",
+      "aerial_ace",
+      "bulk_up",
+      "roost",
+      "pluck",
+      "tailwind",
+      "u_turn",
+      "close_combat",
+      "assurance",
+      "air_slash",
+      "brave_bird",
+      "shadow_claw",
+      "zen_headbutt",
+      "defog",
+      "hone_claws",
+      "round",
+      "sky_drop",
+      "acrobatics",
+      "retaliate",
+      "work_up",
+      "hurricane",
+      "confide",
+      "dual_wingbeat",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "mountain"
+    ]
+  }
+]

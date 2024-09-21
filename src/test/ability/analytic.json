@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "analytic",
+    "name": "Analytic",
+    "koName": "애널라이즈",
+    "realased": "",
+    "description": "제일 마지막에 기술을 쓰면 기술의 위력이 올라간다.",
+    "generation": 5,
+    "pokemonIds": [
+      "clefairy",
+      "clefable",
+      "magnemite",
+      "magneton",
+      "staryu",
+      "starmie",
+      "porygon",
+      "cleffa",
+      "porygon2",
+      "stantler",
+      "torkoal",
+      "magnezone",
+      "porygon_z",
+      "patrat",
+      "watchog",
+      "elgyem",
+      "beheeyem",
+      "wyrdeer"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

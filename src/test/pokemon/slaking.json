@@ -1,0 +1,212 @@
+[
+  {
+    "_id": "slaking",
+    "gender": "",
+    "pokedexNumber": "289",
+    "name": "slaking",
+    "koName": "게을킹",
+    "speciesName": "slaking",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "252",
+    "friendship": "70",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "truant"
+    ],
+    "hiddenAbilityId": "stall",
+    "passiveAbilityId": "guts",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 670,
+    "hp": 150,
+    "attack": 160,
+    "defense": 100,
+    "specialAttack": 95,
+    "specialDefense": 65,
+    "speed": 100,
+    "height": 2,
+    "weight": 130.5,
+    "eggMoveIds": [
+      "facade",
+      "drain_punch",
+      "knock_off",
+      "skill_swap"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "swagger"
+      },
+      {
+        "level": 1,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "yawn"
+      },
+      {
+        "level": 1,
+        "moveId": "encore"
+      },
+      {
+        "level": 1,
+        "moveId": "slack_off"
+      },
+      {
+        "level": 17,
+        "moveId": "amnesia"
+      },
+      {
+        "level": 23,
+        "moveId": "covet"
+      },
+      {
+        "level": 27,
+        "moveId": "throat_chop"
+      },
+      {
+        "level": 33,
+        "moveId": "counter"
+      },
+      {
+        "level": 39,
+        "moveId": "flail"
+      },
+      {
+        "level": 45,
+        "moveId": "fling"
+      },
+      {
+        "level": 52,
+        "moveId": "mega_kick"
+      },
+      {
+        "level": 63,
+        "moveId": "hammer_arm"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "cut",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "low_kick",
+      "counter",
+      "strength",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "earthquake",
+      "dig",
+      "toxic",
+      "double_team",
+      "focus_energy",
+      "metronome",
+      "fire_blast",
+      "amnesia",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "reversal",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "icy_wind",
+      "outrage",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "shadow_ball",
+      "rock_smash",
+      "uproar",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "hyper_voice",
+      "rock_tomb",
+      "aerial_ace",
+      "bulk_up",
+      "mud_shot",
+      "covet",
+      "water_pulse",
+      "fling",
+      "poison_jab",
+      "seed_bomb",
+      "x_scissor",
+      "drain_punch",
+      "focus_blast",
+      "giga_impact",
+      "shadow_claw",
+      "zen_headbutt",
+      "rock_climb",
+      "gunk_shot",
+      "hone_claws",
+      "smack_down",
+      "heavy_slam",
+      "low_sweep",
+      "round",
+      "incinerate",
+      "quash",
+      "retaliate",
+      "bulldoze",
+      "work_up",
+      "wild_charge",
+      "play_rough",
+      "confide",
+      "power_up_punch",
+      "high_horsepower",
+      "throat_chop",
+      "stomping_tantrum",
+      "body_press",
+      "lash_out",
+      "tera_blast",
+      "pounce",
+      "trailblaze",
+      "chilling_water",
+      "hard_press"
+    ],
+    "biomeIds": [
+      "jungle"
+    ]
+  }
+]

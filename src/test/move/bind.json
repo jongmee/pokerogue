@@ -1,0 +1,49 @@
+[
+  {
+    "_id": "bind",
+    "name": "Bind",
+    "koName": "조이기",
+    "type": "normal",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 15,
+    "accuracy": 85,
+    "powerPoint": 20,
+    "effect": "긴 몸이나 덩굴 등을 써서 4-5턴 동안 상대를 조여 공격한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 1,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "onix",
+      "tangela",
+      "pinsir",
+      "omanyte",
+      "omastar",
+      "steelix",
+      "kecleon",
+      "dusclops",
+      "carnivine",
+      "tangrowth",
+      "dusknoir",
+      "throh",
+      "klink",
+      "klang",
+      "klinklang",
+      "eelektrik",
+      "cryogonal",
+      "heatmor",
+      "zygarde",
+      "bewear",
+      "sobble",
+      "drizzile",
+      "inteleon",
+      "clobbopus",
+      "grapploct",
+      "zarude"
+    ]
+  }
+]

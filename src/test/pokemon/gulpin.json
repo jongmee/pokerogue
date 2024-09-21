@@ -1,0 +1,174 @@
+[
+  {
+    "_id": "gulpin",
+    "gender": "",
+    "pokedexNumber": "316",
+    "name": "gulpin",
+    "koName": "꼴깍몬",
+    "speciesName": "gulpin",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "60",
+    "friendship": "70",
+    "types": [
+      "poison"
+    ],
+    "normalAbilityIds": [
+      "liquid_ooze",
+      "sticky_hold"
+    ],
+    "hiddenAbilityId": "gluttony",
+    "passiveAbilityId": "earth_eater",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 302,
+    "hp": 70,
+    "attack": 43,
+    "defense": 53,
+    "specialAttack": 43,
+    "specialDefense": 53,
+    "speed": 40,
+    "height": 0.4,
+    "weight": 10.3,
+    "eggMoveIds": [
+      "strength_sap",
+      "earth_power",
+      "calm_mind",
+      "malignant_chain"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 5,
+        "moveId": "yawn"
+      },
+      {
+        "level": 8,
+        "moveId": "poison_gas"
+      },
+      {
+        "level": 10,
+        "moveId": "sludge"
+      },
+      {
+        "level": 12,
+        "moveId": "amnesia"
+      },
+      {
+        "level": 17,
+        "moveId": "acid_spray"
+      },
+      {
+        "level": 20,
+        "moveId": "encore"
+      },
+      {
+        "level": 25,
+        "moveId": "toxic"
+      },
+      {
+        "level": 28,
+        "moveId": "stockpile"
+      },
+      {
+        "level": 28,
+        "moveId": "spit_up"
+      },
+      {
+        "level": 28,
+        "moveId": "swallow"
+      },
+      {
+        "level": 33,
+        "moveId": "sludge_bomb"
+      },
+      {
+        "level": 36,
+        "moveId": "gastro_acid"
+      },
+      {
+        "level": 41,
+        "moveId": "belch"
+      },
+      {
+        "level": 44,
+        "moveId": "pain_split"
+      },
+      {
+        "level": 49,
+        "moveId": "gunk_shot"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "swords_dance",
+      "body_slam",
+      "take_down",
+      "ice_beam",
+      "counter",
+      "strength",
+      "solar_beam",
+      "thunder_wave",
+      "toxic",
+      "double_team",
+      "self_destruct",
+      "amnesia",
+      "dream_eater",
+      "explosion",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "sludge_bomb",
+      "mud_slap",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "shadow_ball",
+      "rock_smash",
+      "facade",
+      "helping_hand",
+      "bullet_seed",
+      "mud_shot",
+      "water_pulse",
+      "fling",
+      "gastro_acid",
+      "toxic_spikes",
+      "poison_jab",
+      "seed_bomb",
+      "gunk_shot",
+      "venoshock",
+      "sludge_wave",
+      "acid_spray",
+      "round",
+      "confide",
+      "infestation",
+      "power_up_punch",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "swamp"
+    ]
+  }
+]

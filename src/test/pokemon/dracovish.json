@@ -1,0 +1,151 @@
+[
+  {
+    "_id": "dracovish",
+    "gender": "",
+    "pokedexNumber": "882",
+    "name": "dracovish",
+    "koName": "어래곤",
+    "speciesName": "dracovish",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "177",
+    "friendship": "50",
+    "types": [
+      "water",
+      "dragon"
+    ],
+    "normalAbilityIds": [
+      "water_absorb",
+      "strong_jaw"
+    ],
+    "hiddenAbilityId": "sand_rush",
+    "passiveAbilityId": "swift_swim",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 505,
+    "hp": 90,
+    "attack": 90,
+    "defense": 100,
+    "specialAttack": 70,
+    "specialDefense": 80,
+    "speed": 75,
+    "height": 2.3,
+    "weight": 215,
+    "eggMoveIds": [
+      "triple_axel",
+      "dragon_hammer",
+      "thunder_fang",
+      "dragon_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 7,
+        "moveId": "protect"
+      },
+      {
+        "level": 14,
+        "moveId": "brutal_swing"
+      },
+      {
+        "level": 21,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 28,
+        "moveId": "bite"
+      },
+      {
+        "level": 35,
+        "moveId": "dragon_breath"
+      },
+      {
+        "level": 42,
+        "moveId": "stomp"
+      },
+      {
+        "level": 49,
+        "moveId": "super_fang"
+      },
+      {
+        "level": 56,
+        "moveId": "crunch"
+      },
+      {
+        "level": 63,
+        "moveId": "fishious_rend"
+      },
+      {
+        "level": 70,
+        "moveId": "dragon_pulse"
+      },
+      {
+        "level": 77,
+        "moveId": "dragon_rush"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_kick",
+      "body_slam",
+      "hydro_pump",
+      "surf",
+      "hyper_beam",
+      "low_kick",
+      "earthquake",
+      "double_team",
+      "waterfall",
+      "leech_life",
+      "rest",
+      "rock_slide",
+      "super_fang",
+      "substitute",
+      "snore",
+      "protect",
+      "outrage",
+      "endure",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "crunch",
+      "whirlpool",
+      "facade",
+      "dive",
+      "rock_tomb",
+      "rock_blast",
+      "brine",
+      "dragon_pulse",
+      "earth_power",
+      "giga_impact",
+      "ice_fang",
+      "zen_headbutt",
+      "draco_meteor",
+      "iron_head",
+      "stone_edge",
+      "round",
+      "scald",
+      "bulldoze",
+      "brutal_swing",
+      "psychic_fangs",
+      "stomping_tantrum",
+      "liquidation",
+      "meteor_beam"
+    ],
+    "biomeIds": [
+      "wasteland"
+    ]
+  }
+]

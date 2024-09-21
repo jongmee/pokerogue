@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "constrict",
+    "name": "Constrict",
+    "koName": "휘감기",
+    "type": "normal",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 10,
+    "accuracy": 100,
+    "powerPoint": 35,
+    "effect": "촉수나 덩굴 등을 휘감아서 공격한다. 상대의 스피드를 떨어뜨릴 때가 있다.",
+    "effectChance": 10,
+    "prioirty": 0,
+    "generation": 1,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "tangela",
+      "omanyte",
+      "omastar",
+      "spinarak",
+      "ariados",
+      "shuckle",
+      "octillery",
+      "lileep",
+      "cradily",
+      "drifloon",
+      "drifblim",
+      "tangrowth",
+      "audino",
+      "audino_mega",
+      "inkay",
+      "malamar",
+      "comfey",
+      "nihilego",
+      "indeedee"
+    ]
+  }
+]

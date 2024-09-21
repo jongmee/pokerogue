@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "pixilate",
+    "name": "Pixilate",
+    "koName": "페어리스킨",
+    "realased": "",
+    "description": "노말타입의 기술이 페어리타입이 된다. 위력이 조금 올라간다.",
+    "generation": 6,
+    "pokemonIds": [
+      "togepi",
+      "togetic",
+      "snubbull",
+      "granbull",
+      "gardevoir_mega",
+      "altaria_mega",
+      "togekiss",
+      "sylveon",
+      "dedenne"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

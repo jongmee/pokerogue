@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "magician",
+    "name": "Magician",
+    "koName": "매지션",
+    "realased": "",
+    "description": "기술을 맞은 상대의 도구를 빼앗아 버린다.",
+    "generation": 6,
+    "pokemonIds": [
+      "caterpie",
+      "metapod",
+      "butterfree",
+      "butterfree_gigantamax",
+      "drowzee",
+      "hypno",
+      "fennekin",
+      "braixen",
+      "delphox",
+      "klefki",
+      "hoopa",
+      "nickit",
+      "thievul",
+      "sprigatito",
+      "floragato",
+      "meowscarada"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

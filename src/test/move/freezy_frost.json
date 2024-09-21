@@ -1,0 +1,31 @@
+[
+  {
+    "_id": "freezy_frost",
+    "name": "Freezy Frost",
+    "koName": "꽁꽁프로스트",
+    "type": "ice",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 100,
+    "accuracy": 90,
+    "powerPoint": 10,
+    "effect": "차갑게 얼어붙은 흑안개의 결정으로 공격한다. 전원의 능력 변화를 원래대로 돌린다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "eevee_partner",
+      "eevee_gigantamax",
+      "mantine",
+      "snorunt",
+      "glalie",
+      "glalie_mega",
+      "pachirisu",
+      "mantyke",
+      "glaceon",
+      "froslass"
+    ]
+  }
+]

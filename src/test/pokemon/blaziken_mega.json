@@ -1,0 +1,131 @@
+[
+  {
+    "_id": "blaziken_mega",
+    "gender": "",
+    "pokedexNumber": "257",
+    "name": "blaziken_mega",
+    "koName": "번치코_mega",
+    "speciesName": "blaziken",
+    "canChangeForm": true,
+    "formName": "mega",
+    "baseExp": "265",
+    "friendship": "50",
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "speed_boost"
+    ],
+    "hiddenAbilityId": "speed_boost",
+    "passiveAbilityId": "reckless",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 630,
+    "hp": 80,
+    "attack": 160,
+    "defense": 80,
+    "specialAttack": 130,
+    "specialDefense": 80,
+    "speed": 100,
+    "height": 1.9,
+    "weight": 52,
+    "eggMoveIds": [
+      "high_jump_kick",
+      "supercell_slam",
+      "knock_off",
+      "v_create"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "blaze_kick"
+      },
+      {
+        "level": -1,
+        "moveId": "fire_punch"
+      },
+      {
+        "level": -1,
+        "moveId": "ember"
+      },
+      {
+        "level": -1,
+        "moveId": "flamethrower"
+      },
+      {
+        "level": -1,
+        "moveId": "feather_dance"
+      },
+      {
+        "level": 1,
+        "moveId": "double_kick"
+      },
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 9,
+        "moveId": "flame_charge"
+      },
+      {
+        "level": 12,
+        "moveId": "detect"
+      },
+      {
+        "level": 15,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 20,
+        "moveId": "aerial_ace"
+      },
+      {
+        "level": 25,
+        "moveId": "slash"
+      },
+      {
+        "level": 30,
+        "moveId": "bounce"
+      },
+      {
+        "level": 35,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 42,
+        "moveId": "bulk_up"
+      },
+      {
+        "level": 49,
+        "moveId": "reversal"
+      },
+      {
+        "level": 56,
+        "moveId": "flare_blitz"
+      },
+      {
+        "level": 63,
+        "moveId": "brave_bird"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "mountain"
+    ]
+  }
+]

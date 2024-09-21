@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "shell_trap",
+    "name": "Shell Trap",
+    "koName": "트랩셸",
+    "type": "fire",
+    "moveCategory": "special",
+    "moveTarget": "all_near_enemies",
+    "power": 150,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "껍질의 트랩을 설치한다. 상대가 물리 기술을 쓰면 폭발해서 데미지를 준다.",
+    "effectChance": -1,
+    "prioirty": -3,
+    "generation": 7,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "turtonator"
+    ]
+  }
+]

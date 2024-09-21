@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "captivate",
+    "name": "Captivate",
+    "koName": "유혹",
+    "type": "normal",
+    "moveCategory": "status",
+    "moveTarget": "all_near_enemies",
+    "power": -1,
+    "accuracy": 100,
+    "powerPoint": 20,
+    "effect": "수컷은 암컷을 암컷은 수컷을 유혹하여 상대의 특수공격을 크게 떨어뜨린다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 4,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "salazzle"
+    ]
+  }
+]

@@ -1,0 +1,190 @@
+[
+  {
+    "_id": "hisui_decidueye",
+    "gender": "",
+    "pokedexNumber": "6724",
+    "name": "hisui_decidueye",
+    "koName": "모크나이퍼",
+    "speciesName": "hisui_decidueye",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "239",
+    "friendship": "50",
+    "types": [
+      "grass",
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "overgrow"
+    ],
+    "hiddenAbilityId": "scrappy",
+    "passiveAbilityId": "sniper",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 530,
+    "hp": 88,
+    "attack": 112,
+    "defense": 80,
+    "specialAttack": 95,
+    "specialDefense": 95,
+    "speed": 60,
+    "height": 1.6,
+    "weight": 37,
+    "eggMoveIds": [
+      "thousand_arrows",
+      "shadow_bone",
+      "first_impression",
+      "victory_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "triple_arrows"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "u_turn"
+      },
+      {
+        "level": 1,
+        "moveId": "leaf_storm"
+      },
+      {
+        "level": 1,
+        "moveId": "leafage"
+      },
+      {
+        "level": 9,
+        "moveId": "peck"
+      },
+      {
+        "level": 12,
+        "moveId": "shadow_sneak"
+      },
+      {
+        "level": 15,
+        "moveId": "razor_leaf"
+      },
+      {
+        "level": 20,
+        "moveId": "synthesis"
+      },
+      {
+        "level": 25,
+        "moveId": "pluck"
+      },
+      {
+        "level": 30,
+        "moveId": "bulk_up"
+      },
+      {
+        "level": 37,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 44,
+        "moveId": "leaf_blade"
+      },
+      {
+        "level": 51,
+        "moveId": "feather_dance"
+      },
+      {
+        "level": 58,
+        "moveId": "brave_bird"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "take_down",
+      "hyper_beam",
+      "low_kick",
+      "solar_beam",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "haze",
+      "swift",
+      "rest",
+      "substitute",
+      "reversal",
+      "protect",
+      "scary_face",
+      "giga_drain",
+      "endure",
+      "false_swipe",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "synthesis",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "rock_smash",
+      "facade",
+      "focus_punch",
+      "nature_power",
+      "taunt",
+      "helping_hand",
+      "brick_break",
+      "knock_off",
+      "feather_dance",
+      "air_cutter",
+      "rock_tomb",
+      "bullet_seed",
+      "aerial_ace",
+      "frenzy_plant",
+      "bulk_up",
+      "covet",
+      "magical_leaf",
+      "leaf_blade",
+      "roost",
+      "pluck",
+      "tailwind",
+      "u_turn",
+      "close_combat",
+      "worry_seed",
+      "aura_sphere",
+      "seed_bomb",
+      "air_slash",
+      "focus_blast",
+      "energy_ball",
+      "brave_bird",
+      "giga_impact",
+      "nasty_plot",
+      "shadow_claw",
+      "psycho_cut",
+      "defog",
+      "leaf_storm",
+      "grass_knot",
+      "smack_down",
+      "low_sweep",
+      "grass_pledge",
+      "grassy_terrain",
+      "grassy_glide",
+      "coaching",
+      "dual_wingbeat",
+      "tera_blast",
+      "trailblaze",
+      "upper_hand"
+    ],
+    "biomeIds": [
+      "dojo"
+    ]
+  }
+]

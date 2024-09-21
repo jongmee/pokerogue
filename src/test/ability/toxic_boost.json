@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "toxic_boost",
+    "name": "Toxic Boost",
+    "koName": "독폭주",
+    "realased": "",
+    "description": "독 상태가 되었을 때 물리 기술의 위력이 올라간다.",
+    "generation": 5,
+    "pokemonIds": [
+      "gligar",
+      "zangoose",
+      "gliscor"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

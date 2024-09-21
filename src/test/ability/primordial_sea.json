@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "primordial_sea",
+    "name": "Primordial Sea",
+    "koName": "시작의바다",
+    "realased": "",
+    "description": "불꽃타입의 공격을 받지 않는 날씨로 만든다.",
+    "generation": 6,
+    "pokemonIds": [
+      "relicanth",
+      "kyogre_primal",
+      "manaphy"
+    ],
+    "isBypassFaint": true,
+    "isIgnorable": false
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "_id": "floette_yellow",
+    "gender": "",
+    "pokedexNumber": "670",
+    "name": "floette_yellow",
+    "koName": "플라엣테_yellow",
+    "speciesName": "floette",
+    "canChangeForm": true,
+    "formName": "yellow_flower",
+    "baseExp": "130",
+    "friendship": "70",
+    "types": [
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "flower_veil"
+    ],
+    "hiddenAbilityId": "symbiosis",
+    "passiveAbilityId": "grassy_surge",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 371,
+    "hp": 54,
+    "attack": 45,
+    "defense": 47,
+    "specialAttack": 75,
+    "specialDefense": 98,
+    "speed": 52,
+    "height": 0.2,
+    "weight": 0.9,
+    "eggMoveIds": [
+      "glitzy_glow",
+      "mystical_fire",
+      "take_heart",
+      "seed_flare"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "vine_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "fairy_wind"
+      },
+      {
+        "level": 10,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 15,
+        "moveId": "razor_leaf"
+      },
+      {
+        "level": 20,
+        "moveId": "wish"
+      },
+      {
+        "level": 25,
+        "moveId": "magical_leaf"
+      },
+      {
+        "level": 27,
+        "moveId": "grassy_terrain"
+      },
+      {
+        "level": 33,
+        "moveId": "petal_blizzard"
+      },
+      {
+        "level": 38,
+        "moveId": "synthesis"
+      },
+      {
+        "level": 43,
+        "moveId": "misty_terrain"
+      },
+      {
+        "level": 46,
+        "moveId": "moonblast"
+      },
+      {
+        "level": 51,
+        "moveId": "petal_dance"
+      },
+      {
+        "level": 58,
+        "moveId": "solar_beam"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "solar_beam",
+      "toxic",
+      "psychic",
+      "double_team",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "giga_drain",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "facade",
+      "nature_power",
+      "helping_hand",
+      "magical_leaf",
+      "calm_mind",
+      "seed_bomb",
+      "energy_ball",
+      "grass_knot",
+      "round",
+      "echoed_voice",
+      "ally_switch",
+      "grassy_terrain",
+      "misty_terrain",
+      "confide",
+      "dazzling_gleam",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "meadow"
+    ]
+  }
+]

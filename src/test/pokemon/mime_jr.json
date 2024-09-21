@@ -1,0 +1,190 @@
+[
+  {
+    "_id": "mime_jr",
+    "gender": "",
+    "pokedexNumber": "439",
+    "name": "mime_jr",
+    "koName": "흉내내",
+    "speciesName": "mime_jr",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "62",
+    "friendship": "50",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "soundproof",
+      "filter"
+    ],
+    "hiddenAbilityId": "technician",
+    "passiveAbilityId": "opportunist",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 310,
+    "hp": 20,
+    "attack": 25,
+    "defense": 45,
+    "specialAttack": 70,
+    "specialDefense": 90,
+    "speed": 60,
+    "height": 0.6,
+    "weight": 13,
+    "eggMoveIds": [
+      "calm_mind",
+      "moonblast",
+      "sizzly_slide",
+      "lumina_crash"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "copycat"
+      },
+      {
+        "level": 1,
+        "moveId": "barrier"
+      },
+      {
+        "level": 4,
+        "moveId": "baton_pass"
+      },
+      {
+        "level": 8,
+        "moveId": "encore"
+      },
+      {
+        "level": 12,
+        "moveId": "confusion"
+      },
+      {
+        "level": 16,
+        "moveId": "role_play"
+      },
+      {
+        "level": 20,
+        "moveId": "protect"
+      },
+      {
+        "level": 24,
+        "moveId": "recycle"
+      },
+      {
+        "level": 28,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 32,
+        "moveId": "mimic"
+      },
+      {
+        "level": 36,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 36,
+        "moveId": "reflect"
+      },
+      {
+        "level": 36,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 40,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 44,
+        "moveId": "dazzling_gleam"
+      },
+      {
+        "level": 48,
+        "moveId": "psychic"
+      },
+      {
+        "level": 52,
+        "moveId": "teeter_dance"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "psybeam",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "psychic",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "baton_pass",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "uproar",
+      "torment",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "trick",
+      "recycle",
+      "brick_break",
+      "skill_swap",
+      "signal_beam",
+      "covet",
+      "calm_mind",
+      "fling",
+      "drain_punch",
+      "nasty_plot",
+      "trick_room",
+      "grass_knot",
+      "charge_beam",
+      "wonder_room",
+      "psyshock",
+      "magic_room",
+      "round",
+      "stored_power",
+      "ally_switch",
+      "misty_terrain",
+      "confide",
+      "dazzling_gleam",
+      "infestation",
+      "psychic_terrain",
+      "tera_blast"
+    ],
+    "biomeIds": []
+  }
+]

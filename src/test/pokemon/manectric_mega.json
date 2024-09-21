@@ -1,0 +1,110 @@
+[
+  {
+    "_id": "manectric_mega",
+    "gender": "",
+    "pokedexNumber": "310",
+    "name": "manectric_mega",
+    "koName": "썬더볼트_mega",
+    "speciesName": "manectric",
+    "canChangeForm": true,
+    "formName": "mega",
+    "baseExp": "166",
+    "friendship": "50",
+    "types": [
+      "electric"
+    ],
+    "normalAbilityIds": [
+      "intimidate"
+    ],
+    "hiddenAbilityId": "intimidate",
+    "passiveAbilityId": "electric_surge",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 575,
+    "hp": 70,
+    "attack": 75,
+    "defense": 80,
+    "specialAttack": 135,
+    "specialDefense": 80,
+    "speed": 135,
+    "height": 1.8,
+    "weight": 44,
+    "eggMoveIds": [
+      "rising_voltage",
+      "flamethrower",
+      "nasty_plot",
+      "ice_beam"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "fire_fang"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_wave"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "howl"
+      },
+      {
+        "level": 12,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 16,
+        "moveId": "shock_wave"
+      },
+      {
+        "level": 20,
+        "moveId": "bite"
+      },
+      {
+        "level": 24,
+        "moveId": "thunder_fang"
+      },
+      {
+        "level": 30,
+        "moveId": "roar"
+      },
+      {
+        "level": 36,
+        "moveId": "discharge"
+      },
+      {
+        "level": 42,
+        "moveId": "charge"
+      },
+      {
+        "level": 48,
+        "moveId": "wild_charge"
+      },
+      {
+        "level": 54,
+        "moveId": "thunder"
+      },
+      {
+        "level": 60,
+        "moveId": "electric_terrain"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "power_plant"
+    ]
+  }
+]

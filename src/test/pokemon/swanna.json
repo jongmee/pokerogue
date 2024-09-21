@@ -1,0 +1,165 @@
+[
+  {
+    "_id": "swanna",
+    "gender": "",
+    "pokedexNumber": "581",
+    "name": "swanna",
+    "koName": "스완나",
+    "speciesName": "swanna",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "166",
+    "friendship": "70",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "keen_eye",
+      "big_pecks"
+    ],
+    "hiddenAbilityId": "hydration",
+    "passiveAbilityId": "drizzle",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 473,
+    "hp": 75,
+    "attack": 87,
+    "defense": 63,
+    "specialAttack": 87,
+    "specialDefense": 63,
+    "speed": 98,
+    "height": 1.3,
+    "weight": 24.2,
+    "eggMoveIds": [
+      "splishy_splash",
+      "earth_power",
+      "wildbolt_storm",
+      "quiver_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "wing_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "defog"
+      },
+      {
+        "level": 13,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 15,
+        "moveId": "aerial_ace"
+      },
+      {
+        "level": 19,
+        "moveId": "bubble_beam"
+      },
+      {
+        "level": 21,
+        "moveId": "feather_dance"
+      },
+      {
+        "level": 24,
+        "moveId": "aqua_ring"
+      },
+      {
+        "level": 27,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 30,
+        "moveId": "roost"
+      },
+      {
+        "level": 34,
+        "moveId": "rain_dance"
+      },
+      {
+        "level": 40,
+        "moveId": "tailwind"
+      },
+      {
+        "level": 47,
+        "moveId": "brave_bird"
+      },
+      {
+        "level": 55,
+        "moveId": "hurricane"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fly",
+      "double_edge",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "hyper_beam",
+      "toxic",
+      "double_team",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "whirlpool",
+      "uproar",
+      "hail",
+      "facade",
+      "helping_hand",
+      "knock_off",
+      "endeavor",
+      "dive",
+      "feather_dance",
+      "weather_ball",
+      "air_cutter",
+      "aerial_ace",
+      "water_pulse",
+      "roost",
+      "brine",
+      "pluck",
+      "tailwind",
+      "air_slash",
+      "brave_bird",
+      "giga_impact",
+      "defog",
+      "round",
+      "scald",
+      "acrobatics",
+      "hurricane",
+      "disarming_voice",
+      "confide",
+      "liquidation",
+      "flip_turn",
+      "tera_blast",
+      "trailblaze",
+      "chilling_water",
+      "alluring_voice"
+    ],
+    "biomeIds": [
+      "lake"
+    ]
+  }
+]

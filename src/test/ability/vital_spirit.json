@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "vital_spirit",
+    "name": "Vital Spirit",
+    "koName": "의기양양",
+    "realased": "",
+    "description": "의기양양해져서 잠듦 상태가 되지 않는다.",
+    "generation": 3,
+    "pokemonIds": [
+      "mankey",
+      "primeape",
+      "electabuzz",
+      "magmar",
+      "delibird",
+      "tyrogue",
+      "elekid",
+      "magby",
+      "vigoroth",
+      "electivire",
+      "magmortar",
+      "lillipup",
+      "rockruff",
+      "annihilape",
+      "galar_mr_mime"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

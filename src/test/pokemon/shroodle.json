@@ -1,0 +1,159 @@
+[
+  {
+    "_id": "shroodle",
+    "gender": "",
+    "pokedexNumber": "944",
+    "name": "shroodle",
+    "koName": "땃쭈르",
+    "speciesName": "shroodle",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "58",
+    "friendship": "50",
+    "types": [
+      "poison",
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "unburden",
+      "pickpocket"
+    ],
+    "hiddenAbilityId": "prankster",
+    "passiveAbilityId": "corrosion",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 290,
+    "hp": 40,
+    "attack": 65,
+    "defense": 35,
+    "specialAttack": 40,
+    "specialDefense": 35,
+    "speed": 75,
+    "height": 0.2,
+    "weight": 0.7,
+    "eggMoveIds": [
+      "gastro_acid",
+      "parting_shot",
+      "toxic",
+      "sketch"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 5,
+        "moveId": "acid_spray"
+      },
+      {
+        "level": 8,
+        "moveId": "bite"
+      },
+      {
+        "level": 8,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 11,
+        "moveId": "switcheroo"
+      },
+      {
+        "level": 14,
+        "moveId": "poison_fang"
+      },
+      {
+        "level": 18,
+        "moveId": "flatter"
+      },
+      {
+        "level": 21,
+        "moveId": "slash"
+      },
+      {
+        "level": 25,
+        "moveId": "u_turn"
+      },
+      {
+        "level": 29,
+        "moveId": "poison_jab"
+      },
+      {
+        "level": 33,
+        "moveId": "taunt"
+      },
+      {
+        "level": 36,
+        "moveId": "substitute"
+      },
+      {
+        "level": 40,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 45,
+        "moveId": "gunk_shot"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "take_down",
+      "double_edge",
+      "dig",
+      "toxic",
+      "double_team",
+      "metronome",
+      "rest",
+      "super_fang",
+      "substitute",
+      "thief",
+      "protect",
+      "sludge_bomb",
+      "mud_slap",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "knock_off",
+      "endeavor",
+      "mud_shot",
+      "u_turn",
+      "fling",
+      "poison_jab",
+      "nasty_plot",
+      "cross_poison",
+      "gunk_shot",
+      "venoshock",
+      "sludge_wave",
+      "acid_spray",
+      "foul_play",
+      "acrobatics",
+      "skitter_smack",
+      "tera_blast",
+      "pounce",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "forest"
+    ]
+  }
+]

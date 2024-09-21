@@ -1,0 +1,33 @@
+[
+  {
+    "_id": "mimic",
+    "name": "Mimic",
+    "koName": "흉내내기",
+    "type": "normal",
+    "moveCategory": "status",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 10,
+    "effect": "상대가 마지막에 사용한 기술을 배틀을 하는 동안 자신의 기술로 만들 수 있다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 1,
+    "realased": "",
+    "flags": [
+      "ignore_virtual"
+    ],
+    "pokemonIds": [
+      "jigglypuff",
+      "wigglytuff",
+      "mr_mime",
+      "ditto",
+      "sudowoodo",
+      "bonsly",
+      "mime_jr",
+      "chatot",
+      "mr_rime",
+      "galar_mr_mime"
+    ]
+  }
+]

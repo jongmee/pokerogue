@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "ominous_wind",
+    "name": "Ominous Wind",
+    "koName": "괴상한바람",
+    "type": "ghost",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 60,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "소름이 끼칠 만한 돌풍으로 상대를 공격한다. 자신의 모든 능력이 올라갈 때가 있다.",
+    "effectChance": 10,
+    "prioirty": 0,
+    "generation": 4,
+    "realased": "",
+    "flags": [
+      "wind_move"
+    ],
+    "pokemonIds": [
+      "masquerain",
+      "froslass",
+      "darkrai"
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "white_smoke",
+    "name": "White Smoke",
+    "koName": "하얀연기",
+    "realased": "",
+    "description": "하얀 연기의 보호를 받아 상대가 능력을 떨어뜨릴 수 없다.",
+    "generation": 3,
+    "pokemonIds": [
+      "torkoal",
+      "heatmor",
+      "sizzlipede",
+      "centiskorch"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

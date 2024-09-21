@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "magnet_pull",
+    "name": "Magnet Pull",
+    "koName": "자력",
+    "realased": "",
+    "description": "강철타입의 포켓몬을 자력으로 끌어모아 도망칠 수 없게 한다.",
+    "generation": 3,
+    "pokemonIds": [
+      "magnemite",
+      "magneton",
+      "nosepass",
+      "magnezone",
+      "probopass",
+      "meltan",
+      "alola_geodude",
+      "alola_graveler",
+      "alola_golem"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

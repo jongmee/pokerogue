@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "stakeout",
+    "name": "Stakeout",
+    "koName": "잠복",
+    "realased": "",
+    "description": "교체로 나온 상대에게 2배 데미지로 공격할 수 있다.",
+    "generation": 7,
+    "pokemonIds": [
+      "froakie",
+      "frogadier",
+      "greninja",
+      "yungoos",
+      "gumshoos",
+      "nickit",
+      "thievul",
+      "tarountula",
+      "spidops",
+      "maschiff",
+      "mabosstiff"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

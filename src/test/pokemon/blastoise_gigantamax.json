@@ -1,0 +1,111 @@
+[
+  {
+    "_id": "blastoise_gigantamax",
+    "gender": "",
+    "pokedexNumber": "9",
+    "name": "blastoise_gigantamax",
+    "koName": "거북왕_gigantamax",
+    "speciesName": "blastoise",
+    "canChangeForm": true,
+    "formName": "g_max",
+    "baseExp": "265",
+    "friendship": "50",
+    "types": [
+      "water",
+      "steel"
+    ],
+    "normalAbilityIds": [
+      "shell_armor"
+    ],
+    "hiddenAbilityId": "shell_armor",
+    "passiveAbilityId": "sturdy",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 630,
+    "hp": 119,
+    "attack": 83,
+    "defense": 130,
+    "specialAttack": 115,
+    "specialDefense": 115,
+    "speed": 68,
+    "height": 25,
+    "weight": 85.5,
+    "eggMoveIds": [
+      "freeze_dry",
+      "shore_up",
+      "bouncy_bubble",
+      "origin_pulse"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "flash_cannon"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "withdraw"
+      },
+      {
+        "level": 9,
+        "moveId": "rapid_spin"
+      },
+      {
+        "level": 12,
+        "moveId": "bite"
+      },
+      {
+        "level": 15,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 20,
+        "moveId": "protect"
+      },
+      {
+        "level": 25,
+        "moveId": "rain_dance"
+      },
+      {
+        "level": 30,
+        "moveId": "aqua_tail"
+      },
+      {
+        "level": 35,
+        "moveId": "shell_smash"
+      },
+      {
+        "level": 42,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 49,
+        "moveId": "hydro_pump"
+      },
+      {
+        "level": 56,
+        "moveId": "wave_crash"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "lake"
+    ]
+  }
+]

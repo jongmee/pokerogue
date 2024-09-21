@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "wandering_spirit",
+    "name": "Wandering Spirit",
+    "koName": "떠도는영혼",
+    "realased": " (P)",
+    "description": "접촉하는 기술로 공격해온 포켓몬과 특성을 바꾼다.",
+    "generation": 8,
+    "pokemonIds": [
+      "runerigus",
+      "galar_yamask"
+    ],
+    "isBypassFaint": true,
+    "isIgnorable": false
+  }
+]

@@ -1,0 +1,179 @@
+[
+  {
+    "_id": "pawniard",
+    "gender": "",
+    "pokedexNumber": "624",
+    "name": "pawniard",
+    "koName": "자망칼",
+    "speciesName": "pawniard",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "68",
+    "friendship": "35",
+    "types": [
+      "dark",
+      "steel"
+    ],
+    "normalAbilityIds": [
+      "defiant",
+      "inner_focus"
+    ],
+    "hiddenAbilityId": "pressure",
+    "passiveAbilityId": "sword_of_ruin",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 340,
+    "hp": 45,
+    "attack": 85,
+    "defense": 70,
+    "specialAttack": 40,
+    "specialDefense": 40,
+    "speed": 60,
+    "height": 0.5,
+    "weight": 10.2,
+    "eggMoveIds": [
+      "sucker_punch",
+      "ceaseless_edge",
+      "bitter_blade",
+      "last_respects"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 5,
+        "moveId": "fury_cutter"
+      },
+      {
+        "level": 10,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 15,
+        "moveId": "torment"
+      },
+      {
+        "level": 20,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 25,
+        "moveId": "assurance"
+      },
+      {
+        "level": 30,
+        "moveId": "metal_sound"
+      },
+      {
+        "level": 35,
+        "moveId": "slash"
+      },
+      {
+        "level": 40,
+        "moveId": "night_slash"
+      },
+      {
+        "level": 45,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 50,
+        "moveId": "retaliate"
+      },
+      {
+        "level": 55,
+        "moveId": "iron_head"
+      },
+      {
+        "level": 60,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 65,
+        "moveId": "guillotine"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "take_down",
+      "low_kick",
+      "thunder_wave",
+      "dig",
+      "toxic",
+      "screech",
+      "double_team",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "spite",
+      "protect",
+      "scary_face",
+      "sandstorm",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "rock_smash",
+      "beat_up",
+      "torment",
+      "facade",
+      "taunt",
+      "revenge",
+      "brick_break",
+      "knock_off",
+      "rock_tomb",
+      "metal_sound",
+      "aerial_ace",
+      "iron_defense",
+      "payback",
+      "assurance",
+      "embargo",
+      "fling",
+      "rock_polish",
+      "poison_jab",
+      "dark_pulse",
+      "air_slash",
+      "x_scissor",
+      "shadow_claw",
+      "psycho_cut",
+      "flash_cannon",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "grass_knot",
+      "hone_claws",
+      "low_sweep",
+      "foul_play",
+      "round",
+      "retaliate",
+      "snarl",
+      "confide",
+      "power_up_punch",
+      "steel_beam",
+      "lash_out",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "abyss"
+    ]
+  }
+]

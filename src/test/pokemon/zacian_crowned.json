@@ -1,0 +1,111 @@
+[
+  {
+    "_id": "zacian_crowned",
+    "gender": "",
+    "pokedexNumber": "888",
+    "name": "zacian_crowned",
+    "koName": "자시안_crowned",
+    "speciesName": "zacian",
+    "canChangeForm": true,
+    "formName": "crowned",
+    "baseExp": "335",
+    "friendship": "0",
+    "types": [
+      "fairy",
+      "steel"
+    ],
+    "normalAbilityIds": [
+      "intrepid_sword"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "unnerve",
+    "generation": 8,
+    "legendary": true,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 700,
+    "hp": 92,
+    "attack": 150,
+    "defense": 115,
+    "specialAttack": 80,
+    "specialDefense": 115,
+    "speed": 148,
+    "height": 2.8,
+    "weight": 355,
+    "eggMoveIds": [
+      "magical_torque",
+      "mighty_cleave",
+      "bitter_blade",
+      "precipice_blades"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "behemoth_blade"
+      },
+      {
+        "level": 1,
+        "moveId": "bite"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 1,
+        "moveId": "howl"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_guard"
+      },
+      {
+        "level": 1,
+        "moveId": "sacred_sword"
+      },
+      {
+        "level": 11,
+        "moveId": "slash"
+      },
+      {
+        "level": 22,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 33,
+        "moveId": "iron_head"
+      },
+      {
+        "level": 44,
+        "moveId": "noble_roar"
+      },
+      {
+        "level": 55,
+        "moveId": "crunch"
+      },
+      {
+        "level": 66,
+        "moveId": "moonblast"
+      },
+      {
+        "level": 77,
+        "moveId": "close_combat"
+      },
+      {
+        "level": 88,
+        "moveId": "giga_impact"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "snowy_forest"
+    ]
+  }
+]

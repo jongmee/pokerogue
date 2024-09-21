@@ -1,0 +1,171 @@
+[
+  {
+    "_id": "kricketune",
+    "gender": "",
+    "pokedexNumber": "402",
+    "name": "kricketune",
+    "koName": "귀뚤톡크",
+    "speciesName": "kricketune",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "134",
+    "friendship": "70",
+    "types": [
+      "bug"
+    ],
+    "normalAbilityIds": [
+      "swarm"
+    ],
+    "hiddenAbilityId": "technician",
+    "passiveAbilityId": "sharpness",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 384,
+    "hp": 77,
+    "attack": 85,
+    "defense": 51,
+    "specialAttack": 55,
+    "specialDefense": 51,
+    "speed": 65,
+    "height": 1,
+    "weight": 25.5,
+    "eggMoveIds": [
+      "bonemerang",
+      "victory_dance",
+      "stone_axe",
+      "population_bomb"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "fury_cutter"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "bide"
+      },
+      {
+        "level": 14,
+        "moveId": "absorb"
+      },
+      {
+        "level": 18,
+        "moveId": "sing"
+      },
+      {
+        "level": 22,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 26,
+        "moveId": "slash"
+      },
+      {
+        "level": 30,
+        "moveId": "x_scissor"
+      },
+      {
+        "level": 34,
+        "moveId": "screech"
+      },
+      {
+        "level": 36,
+        "moveId": "fell_stinger"
+      },
+      {
+        "level": 38,
+        "moveId": "taunt"
+      },
+      {
+        "level": 42,
+        "moveId": "night_slash"
+      },
+      {
+        "level": 44,
+        "moveId": "sticky_web"
+      },
+      {
+        "level": 46,
+        "moveId": "bug_buzz"
+      },
+      {
+        "level": 50,
+        "moveId": "perish_song"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "take_down",
+      "hyper_beam",
+      "strength",
+      "toxic",
+      "screech",
+      "double_team",
+      "focus_energy",
+      "leech_life",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "mud_slap",
+      "giga_drain",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "baton_pass",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "rock_smash",
+      "uproar",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "hyper_voice",
+      "aerial_ace",
+      "x_scissor",
+      "bug_buzz",
+      "giga_impact",
+      "bug_bite",
+      "hone_claws",
+      "round",
+      "echoed_voice",
+      "struggle_bug",
+      "confide",
+      "infestation",
+      "power_up_punch",
+      "throat_chop",
+      "lunge",
+      "skitter_smack",
+      "tera_blast",
+      "pounce",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "tall_grass"
+    ]
+  }
+]

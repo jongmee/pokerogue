@@ -1,0 +1,156 @@
+[
+  {
+    "_id": "dachsbun",
+    "gender": "",
+    "pokedexNumber": "927",
+    "name": "dachsbun",
+    "koName": "바우첼",
+    "speciesName": "dachsbun",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "167",
+    "friendship": "50",
+    "types": [
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "well_baked_body"
+    ],
+    "hiddenAbilityId": "aroma_veil",
+    "passiveAbilityId": "water_absorb",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 477,
+    "hp": 57,
+    "attack": 80,
+    "defense": 115,
+    "specialAttack": 50,
+    "specialDefense": 80,
+    "speed": 95,
+    "height": 0.5,
+    "weight": 14.9,
+    "eggMoveIds": [
+      "wish",
+      "body_press",
+      "sizzly_slide",
+      "tidy_up"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 3,
+        "moveId": "lick"
+      },
+      {
+        "level": 6,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 8,
+        "moveId": "covet"
+      },
+      {
+        "level": 11,
+        "moveId": "bite"
+      },
+      {
+        "level": 15,
+        "moveId": "baby_doll_eyes"
+      },
+      {
+        "level": 18,
+        "moveId": "play_rough"
+      },
+      {
+        "level": 22,
+        "moveId": "work_up"
+      },
+      {
+        "level": 29,
+        "moveId": "baton_pass"
+      },
+      {
+        "level": 33,
+        "moveId": "roar"
+      },
+      {
+        "level": 38,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 42,
+        "moveId": "charm"
+      },
+      {
+        "level": 47,
+        "moveId": "crunch"
+      },
+      {
+        "level": 53,
+        "moveId": "last_resort"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "hyper_beam",
+      "dig",
+      "agility",
+      "double_team",
+      "rest",
+      "substitute",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "endure",
+      "charm",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "facade",
+      "helping_hand",
+      "endeavor",
+      "mud_shot",
+      "covet",
+      "giga_impact",
+      "thunder_fang",
+      "ice_fang",
+      "fire_fang",
+      "work_up",
+      "snarl",
+      "draining_kiss",
+      "misty_terrain",
+      "play_rough",
+      "dazzling_gleam",
+      "psychic_fangs",
+      "stomping_tantrum",
+      "body_press",
+      "tera_blast",
+      "trailblaze",
+      "alluring_voice"
+    ],
+    "biomeIds": [
+      "metropolis"
+    ]
+  }
+]

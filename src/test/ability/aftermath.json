@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "aftermath",
+    "name": "Aftermath",
+    "koName": "유폭",
+    "realased": "",
+    "description": "기절했을 때 접촉한 상대에게 데미지를 준다.",
+    "generation": 4,
+    "pokemonIds": [
+      "voltorb",
+      "electrode",
+      "drifloon",
+      "drifblim",
+      "stunky",
+      "skuntank",
+      "trubbish",
+      "garbodor",
+      "hisui_voltorb",
+      "hisui_electrode"
+    ],
+    "isBypassFaint": true,
+    "isIgnorable": false
+  }
+]

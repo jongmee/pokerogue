@@ -1,0 +1,178 @@
+[
+  {
+    "_id": "totodile",
+    "gender": "",
+    "pokedexNumber": "158",
+    "name": "totodile",
+    "koName": "리아코",
+    "speciesName": "totodile",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "63",
+    "friendship": "70",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "torrent"
+    ],
+    "hiddenAbilityId": "sheer_force",
+    "passiveAbilityId": "tough_claws",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 314,
+    "hp": 50,
+    "attack": 65,
+    "defense": 64,
+    "specialAttack": 44,
+    "specialDefense": 48,
+    "speed": 43,
+    "height": 0.6,
+    "weight": 9.5,
+    "eggMoveIds": [
+      "thunder_punch",
+      "dragon_dance",
+      "triple_axel",
+      "fishious_rend"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 5,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 9,
+        "moveId": "bite"
+      },
+      {
+        "level": 13,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 19,
+        "moveId": "ice_fang"
+      },
+      {
+        "level": 22,
+        "moveId": "flail"
+      },
+      {
+        "level": 27,
+        "moveId": "crunch"
+      },
+      {
+        "level": 30,
+        "moveId": "slash"
+      },
+      {
+        "level": 33,
+        "moveId": "screech"
+      },
+      {
+        "level": 37,
+        "moveId": "thrash"
+      },
+      {
+        "level": 41,
+        "moveId": "aqua_tail"
+      },
+      {
+        "level": 45,
+        "moveId": "superpower"
+      },
+      {
+        "level": 50,
+        "moveId": "hydro_pump"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "ice_punch",
+      "swords_dance",
+      "cut",
+      "mega_kick",
+      "body_slam",
+      "double_edge",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "low_kick",
+      "counter",
+      "dig",
+      "toxic",
+      "screech",
+      "double_team",
+      "waterfall",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "crunch",
+      "whirlpool",
+      "uproar",
+      "hail",
+      "facade",
+      "focus_punch",
+      "superpower",
+      "brick_break",
+      "endeavor",
+      "dive",
+      "fake_tears",
+      "rock_tomb",
+      "muddy_water",
+      "aerial_ace",
+      "dragon_claw",
+      "dragon_dance",
+      "water_pulse",
+      "fling",
+      "aqua_tail",
+      "shadow_claw",
+      "ice_fang",
+      "hone_claws",
+      "round",
+      "scald",
+      "water_pledge",
+      "work_up",
+      "confide",
+      "power_up_punch",
+      "breaking_swipe",
+      "flip_turn",
+      "tera_blast",
+      "trailblaze",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "swamp"
+    ]
+  }
+]

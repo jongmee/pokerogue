@@ -1,0 +1,164 @@
+[
+  {
+    "_id": "eelektrik",
+    "gender": "",
+    "pokedexNumber": "603",
+    "name": "eelektrik",
+    "koName": "저리릴",
+    "speciesName": "eelektrik",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "142",
+    "friendship": "70",
+    "types": [
+      "electric"
+    ],
+    "normalAbilityIds": [
+      "levitate"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "poison_heal",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 405,
+    "hp": 65,
+    "attack": 85,
+    "defense": 70,
+    "specialAttack": 75,
+    "specialDefense": 70,
+    "speed": 40,
+    "height": 1.2,
+    "weight": 22,
+    "eggMoveIds": [
+      "scald",
+      "strength_sap",
+      "fire_lash",
+      "plasma_fists"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "crunch"
+      },
+      {
+        "level": 1,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_wave"
+      },
+      {
+        "level": 1,
+        "moveId": "spark"
+      },
+      {
+        "level": 1,
+        "moveId": "charge_beam"
+      },
+      {
+        "level": 1,
+        "moveId": "ion_deluge"
+      },
+      {
+        "level": 9,
+        "moveId": "bind"
+      },
+      {
+        "level": 19,
+        "moveId": "acid"
+      },
+      {
+        "level": 29,
+        "moveId": "discharge"
+      },
+      {
+        "level": 44,
+        "moveId": "thunderbolt"
+      },
+      {
+        "level": 49,
+        "moveId": "acid_spray"
+      },
+      {
+        "level": 54,
+        "moveId": "coil"
+      },
+      {
+        "level": 59,
+        "moveId": "wild_charge"
+      },
+      {
+        "level": 64,
+        "moveId": "gastro_acid"
+      },
+      {
+        "level": 69,
+        "moveId": "zap_cannon"
+      },
+      {
+        "level": 74,
+        "moveId": "thrash"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "double_team",
+      "light_screen",
+      "flash",
+      "rest",
+      "super_fang",
+      "substitute",
+      "snore",
+      "protect",
+      "scary_face",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "crunch",
+      "facade",
+      "charge",
+      "knock_off",
+      "signal_beam",
+      "bounce",
+      "u_turn",
+      "gastro_acid",
+      "aqua_tail",
+      "thunder_fang",
+      "flash_cannon",
+      "charge_beam",
+      "electro_ball",
+      "acid_spray",
+      "round",
+      "acrobatics",
+      "volt_switch",
+      "wild_charge",
+      "confide",
+      "eerie_impulse",
+      "electric_terrain",
+      "throat_chop",
+      "lunge",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "seabed"
+    ]
+  }
+]

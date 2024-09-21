@@ -1,0 +1,119 @@
+[
+  {
+    "_id": "audino_mega",
+    "gender": "",
+    "pokedexNumber": "531",
+    "name": "audino_mega",
+    "koName": "다부니_mega",
+    "speciesName": "audino",
+    "canChangeForm": true,
+    "formName": "mega",
+    "baseExp": "390",
+    "friendship": "50",
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "healer"
+    ],
+    "hiddenAbilityId": "healer",
+    "passiveAbilityId": "friend_guard",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 545,
+    "hp": 103,
+    "attack": 60,
+    "defense": 126,
+    "specialAttack": 80,
+    "specialDefense": 126,
+    "speed": 50,
+    "height": 1.5,
+    "weight": 32,
+    "eggMoveIds": [
+      "follow_me",
+      "moonblast",
+      "wish",
+      "lunar_blessing"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "play_nice"
+      },
+      {
+        "level": 4,
+        "moveId": "disarming_voice"
+      },
+      {
+        "level": 9,
+        "moveId": "baby_doll_eyes"
+      },
+      {
+        "level": 12,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 16,
+        "moveId": "growl"
+      },
+      {
+        "level": 20,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 24,
+        "moveId": "life_dew"
+      },
+      {
+        "level": 28,
+        "moveId": "after_you"
+      },
+      {
+        "level": 32,
+        "moveId": "take_down"
+      },
+      {
+        "level": 36,
+        "moveId": "simple_beam"
+      },
+      {
+        "level": 40,
+        "moveId": "hyper_voice"
+      },
+      {
+        "level": 44,
+        "moveId": "heal_pulse"
+      },
+      {
+        "level": 48,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 52,
+        "moveId": "entrainment"
+      },
+      {
+        "level": 56,
+        "moveId": "misty_terrain"
+      },
+      {
+        "level": 60,
+        "moveId": "last_resort"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "fairy_cave"
+    ]
+  }
+]

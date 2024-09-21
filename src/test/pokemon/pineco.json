@@ -1,0 +1,170 @@
+[
+  {
+    "_id": "pineco",
+    "gender": "",
+    "pokedexNumber": "204",
+    "name": "pineco",
+    "koName": "피콘",
+    "speciesName": "pineco",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "58",
+    "friendship": "70",
+    "types": [
+      "bug"
+    ],
+    "normalAbilityIds": [
+      "sturdy"
+    ],
+    "hiddenAbilityId": "overcoat",
+    "passiveAbilityId": "iron_barbs",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 290,
+    "hp": 50,
+    "attack": 65,
+    "defense": 90,
+    "specialAttack": 35,
+    "specialDefense": 35,
+    "speed": 15,
+    "height": 0.6,
+    "weight": 7.2,
+    "eggMoveIds": [
+      "metal_burst",
+      "lunge",
+      "body_press",
+      "shore_up"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "protect"
+      },
+      {
+        "level": 6,
+        "moveId": "self_destruct"
+      },
+      {
+        "level": 9,
+        "moveId": "bug_bite"
+      },
+      {
+        "level": 12,
+        "moveId": "take_down"
+      },
+      {
+        "level": 17,
+        "moveId": "rapid_spin"
+      },
+      {
+        "level": 20,
+        "moveId": "rollout"
+      },
+      {
+        "level": 23,
+        "moveId": "curse"
+      },
+      {
+        "level": 28,
+        "moveId": "spikes"
+      },
+      {
+        "level": 31,
+        "moveId": "payback"
+      },
+      {
+        "level": 34,
+        "moveId": "explosion"
+      },
+      {
+        "level": 39,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 42,
+        "moveId": "gyro_ball"
+      },
+      {
+        "level": 45,
+        "moveId": "double_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "pin_missile",
+      "counter",
+      "strength",
+      "solar_beam",
+      "earthquake",
+      "dig",
+      "toxic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "self_destruct",
+      "swift",
+      "explosion",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "curse",
+      "reversal",
+      "protect",
+      "spikes",
+      "sandstorm",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "rock_smash",
+      "facade",
+      "helping_hand",
+      "revenge",
+      "rock_tomb",
+      "sand_tomb",
+      "iron_defense",
+      "rock_blast",
+      "gravity",
+      "gyro_ball",
+      "payback",
+      "toxic_spikes",
+      "poison_jab",
+      "seed_bomb",
+      "bug_buzz",
+      "stealth_rock",
+      "bug_bite",
+      "venoshock",
+      "round",
+      "struggle_bug",
+      "bulldoze",
+      "drill_run",
+      "confide",
+      "lunge",
+      "tera_blast",
+      "ice_spinner",
+      "pounce"
+    ],
+    "biomeIds": [
+      "forest"
+    ]
+  }
+]

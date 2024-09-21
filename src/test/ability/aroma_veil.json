@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "aroma_veil",
+    "name": "Aroma Veil",
+    "koName": "아로마베일",
+    "realased": " (N)",
+    "description": "자신과 같은 편으로 향하는 멘탈 공격을 막을 수 있다.",
+    "generation": 6,
+    "pokemonIds": [
+      "spritzee",
+      "aromatisse",
+      "milcery",
+      "alcremie",
+      "alcremie_ruby_cream",
+      "alcremie_matcha_cream",
+      "alcremie_mint_cream",
+      "alcremie_lemon_cream",
+      "alcremie_salted_cream",
+      "alcremie_ruby_swirl",
+      "alcremie_caramel_swirl",
+      "alcremie_rainbow_swirl",
+      "lechonk",
+      "dachsbun"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "battle_armor",
+    "name": "Battle Armor",
+    "koName": "전투무장",
+    "realased": "",
+    "description": "단단한 껍질에 보호받아 상대의 공격이 급소에 맞지 않는다.",
+    "generation": 3,
+    "pokemonIds": [
+      "cubone",
+      "marowak",
+      "kabuto",
+      "kabutops",
+      "anorith",
+      "armaldo",
+      "skorupi",
+      "drapion",
+      "type_null",
+      "perrserker",
+      "falinks"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

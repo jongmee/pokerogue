@@ -1,0 +1,33 @@
+[
+  {
+    "_id": "dual_chop",
+    "name": "Dual Chop",
+    "koName": "더블촙",
+    "type": "dragon",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 40,
+    "accuracy": 90,
+    "powerPoint": 15,
+    "effect": "몸의 단단한 부분으로 상대를 때려 공격한다. 2회 연속으로 데미지를 준다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 5,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "machop",
+      "machoke",
+      "machamp",
+      "sceptile",
+      "gabite",
+      "garchomp",
+      "axew",
+      "fraxure",
+      "haxorus",
+      "lurantis"
+    ]
+  }
+]

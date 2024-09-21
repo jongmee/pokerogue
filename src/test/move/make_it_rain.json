@@ -1,0 +1,36 @@
+[
+  {
+    "_id": "make_it_rain",
+    "name": "Make It Rain",
+    "koName": "골드러시",
+    "type": "steel",
+    "moveCategory": "special",
+    "moveTarget": "all_near_enemies",
+    "power": 120,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "대량의 코인을 날려서 공격한다. 자신의 특수공격이 떨어진다. 배틀 후에 돈을 받을 수 있다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 9,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "dialga",
+      "darkrai",
+      "snivy",
+      "servine",
+      "serperior",
+      "goomy",
+      "sliggoo",
+      "goodra",
+      "pheromosa",
+      "magearna",
+      "gholdengo",
+      "alola_meowth",
+      "alola_persian",
+      "hisui_sliggoo",
+      "hisui_goodra"
+    ]
+  }
+]

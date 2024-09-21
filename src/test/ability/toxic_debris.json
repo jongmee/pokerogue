@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "toxic_debris",
+    "name": "Toxic Debris",
+    "koName": "독치장",
+    "realased": "",
+    "description": "물리 기술로 데미지를 받으면 상대의 발밑에 독압정을 뿌린다.",
+    "generation": 9,
+    "pokemonIds": [
+      "qwilfish",
+      "garbodor_gigantamax",
+      "mareanie",
+      "toxapex",
+      "glimmet",
+      "glimmora",
+      "alola_grimer",
+      "alola_muk"
+    ],
+    "isBypassFaint": true,
+    "isIgnorable": false
+  }
+]

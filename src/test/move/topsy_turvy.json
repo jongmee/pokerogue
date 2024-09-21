@@ -1,0 +1,33 @@
+[
+  {
+    "_id": "topsy_turvy",
+    "name": "Topsy-Turvy",
+    "koName": "뒤집어엎기",
+    "type": "dark",
+    "moveCategory": "status",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 20,
+    "effect": "상대에게 걸려 있는 모든 능력 변화를 뒤집어서 반대로 만든다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 6,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "sableye",
+      "sableye_mega",
+      "inkay",
+      "malamar",
+      "klefki",
+      "grapploct",
+      "impidimp",
+      "morgrem",
+      "grimmsnarl",
+      "grimmsnarl_gigantamax",
+      "toedscool",
+      "toedscruel"
+    ]
+  }
+]

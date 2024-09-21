@@ -1,0 +1,162 @@
+[
+  {
+    "_id": "vanilluxe",
+    "gender": "",
+    "pokedexNumber": "584",
+    "name": "vanilluxe",
+    "koName": "배바닐라",
+    "speciesName": "vanilluxe",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "268",
+    "friendship": "50",
+    "types": [
+      "ice"
+    ],
+    "normalAbilityIds": [
+      "ice_body",
+      "snow_warning"
+    ],
+    "hiddenAbilityId": "weak_armor",
+    "passiveAbilityId": "slush_rush",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 535,
+    "hp": 71,
+    "attack": 95,
+    "defense": 85,
+    "specialAttack": 110,
+    "specialDefense": 95,
+    "speed": 79,
+    "height": 1.3,
+    "weight": 57.5,
+    "eggMoveIds": [
+      "earth_power",
+      "aurora_veil",
+      "calm_mind",
+      "sparkly_swirl"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "mist"
+      },
+      {
+        "level": 1,
+        "moveId": "harden"
+      },
+      {
+        "level": 1,
+        "moveId": "taunt"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 1,
+        "moveId": "weather_ball"
+      },
+      {
+        "level": 1,
+        "moveId": "icicle_crash"
+      },
+      {
+        "level": 1,
+        "moveId": "freeze_dry"
+      },
+      {
+        "level": 12,
+        "moveId": "icy_wind"
+      },
+      {
+        "level": 16,
+        "moveId": "avalanche"
+      },
+      {
+        "level": 20,
+        "moveId": "hail"
+      },
+      {
+        "level": 24,
+        "moveId": "icicle_spear"
+      },
+      {
+        "level": 28,
+        "moveId": "uproar"
+      },
+      {
+        "level": 32,
+        "moveId": "acid_armor"
+      },
+      {
+        "level": 38,
+        "moveId": "mirror_coat"
+      },
+      {
+        "level": 44,
+        "moveId": "ice_beam"
+      },
+      {
+        "level": 52,
+        "moveId": "blizzard"
+      },
+      {
+        "level": 60,
+        "moveId": "sheer_cold"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "toxic",
+      "double_team",
+      "light_screen",
+      "self_destruct",
+      "explosion",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "beat_up",
+      "uproar",
+      "hail",
+      "facade",
+      "taunt",
+      "imprison",
+      "hyper_voice",
+      "weather_ball",
+      "signal_beam",
+      "icicle_spear",
+      "iron_defense",
+      "water_pulse",
+      "giga_impact",
+      "avalanche",
+      "flash_cannon",
+      "round",
+      "ally_switch",
+      "frost_breath",
+      "confide",
+      "aurora_veil",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "ice_cave"
+    ]
+  }
+]

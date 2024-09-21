@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "force_palm",
+    "name": "Force Palm",
+    "koName": "발경",
+    "type": "fighting",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 60,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "상대의 몸에 충격파를 부딪쳐 공격한다. 마비 상태로 만들 때가 있다.",
+    "effectChance": 30,
+    "prioirty": 0,
+    "generation": 4,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "breloom",
+      "makuhita",
+      "hariyama",
+      "meditite",
+      "medicham",
+      "riolu",
+      "lucario",
+      "mienfoo",
+      "mienshao",
+      "marshadow",
+      "iron_hands",
+      "okidogi"
+    ]
+  }
+]

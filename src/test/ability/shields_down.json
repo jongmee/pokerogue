@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "shields_down",
+    "name": "Shields Down",
+    "koName": "리밋실드",
+    "realased": " (P)",
+    "description": "HP가 절반이 되면 껍질이 깨져 공격적으로 된다.",
+    "generation": 7,
+    "pokemonIds": [
+      "minior"
+    ],
+    "isBypassFaint": true,
+    "isIgnorable": false
+  }
+]

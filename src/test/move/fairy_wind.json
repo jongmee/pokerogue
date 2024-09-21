@@ -1,0 +1,46 @@
+[
+  {
+    "_id": "fairy_wind",
+    "name": "Fairy Wind",
+    "koName": "요정의바람",
+    "type": "fairy",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 40,
+    "accuracy": 100,
+    "powerPoint": 30,
+    "effect": "요정의 바람을 일으켜 상대에게 몰아쳐서 공격한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 6,
+    "realased": "",
+    "flags": [
+      "wind_move"
+    ],
+    "pokemonIds": [
+      "togetic",
+      "hoppip",
+      "skiploom",
+      "jumpluff",
+      "mawile",
+      "togekiss",
+      "cottonee",
+      "whimsicott",
+      "spritzee",
+      "aromatisse",
+      "swirlix",
+      "slurpuff",
+      "klefki",
+      "cutiefly",
+      "ribombee",
+      "tapu_koko",
+      "tinkatink",
+      "tinkatuff",
+      "tinkaton",
+      "eternal_floette",
+      "galar_ponyta",
+      "galar_rapidash",
+      "galar_weezing"
+    ]
+  }
+]

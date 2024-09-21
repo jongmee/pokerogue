@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "spiky_shield",
+    "name": "Spiky Shield",
+    "koName": "니들가드",
+    "type": "grass",
+    "moveCategory": "status",
+    "moveTarget": "user",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 10,
+    "effect": "상대의 공격을 막음과 동시에 접촉한 상대의 체력을 떨어뜨린다.",
+    "effectChance": -1,
+    "prioirty": 4,
+    "generation": 6,
+    "realased": "",
+    "flags": [
+      "ignore_protect"
+    ],
+    "pokemonIds": [
+      "skarmory",
+      "cacturne",
+      "maractus",
+      "ferroseed",
+      "ferrothorn",
+      "chesnaught",
+      "togedemaru",
+      "glimmora",
+      "alola_sandshrew",
+      "alola_sandslash",
+      "galar_stunfisk"
+    ]
+  }
+]

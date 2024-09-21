@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "solar_power",
+    "name": "Solar Power",
+    "koName": "선파워",
+    "realased": "",
+    "description": "날씨가 맑으면 특수공격이 올라가지만 매 턴 HP가 줄어든다.",
+    "generation": 4,
+    "pokemonIds": [
+      "charmander",
+      "charmeleon",
+      "charizard",
+      "charizard_gigantamax",
+      "sunkern",
+      "sunflora",
+      "houndoom_mega",
+      "tropius",
+      "helioptile",
+      "heliolisk"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

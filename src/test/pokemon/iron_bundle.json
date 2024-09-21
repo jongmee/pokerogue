@@ -1,0 +1,157 @@
+[
+  {
+    "_id": "iron_bundle",
+    "gender": "",
+    "pokedexNumber": "991",
+    "name": "iron_bundle",
+    "koName": "무쇠보따리",
+    "speciesName": "iron_bundle",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "285",
+    "friendship": "0",
+    "types": [
+      "ice",
+      "water"
+    ],
+    "normalAbilityIds": [
+      "quark_drive"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "snow_warning",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 570,
+    "hp": 56,
+    "attack": 80,
+    "defense": 114,
+    "specialAttack": 124,
+    "specialDefense": 60,
+    "speed": 136,
+    "height": 0.6,
+    "weight": 11,
+    "eggMoveIds": [
+      "earth_power",
+      "bouncy_bubble",
+      "nasty_plot",
+      "steam_eruption"
+    ],
+    "levelMoves": [
+      {
+        "level": -1,
+        "moveId": "electric_terrain"
+      },
+      {
+        "level": 1,
+        "moveId": "present"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 7,
+        "moveId": "powder_snow"
+      },
+      {
+        "level": 14,
+        "moveId": "whirlpool"
+      },
+      {
+        "level": 21,
+        "moveId": "take_down"
+      },
+      {
+        "level": 28,
+        "moveId": "drill_peck"
+      },
+      {
+        "level": 35,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 42,
+        "moveId": "freeze_dry"
+      },
+      {
+        "level": 49,
+        "moveId": "flip_turn"
+      },
+      {
+        "level": 56,
+        "moveId": "ice_beam"
+      },
+      {
+        "level": 63,
+        "moveId": "agility"
+      },
+      {
+        "level": 70,
+        "moveId": "snowscape"
+      },
+      {
+        "level": 77,
+        "moveId": "hydro_pump"
+      },
+      {
+        "level": 84,
+        "moveId": "aurora_veil"
+      },
+      {
+        "level": 91,
+        "moveId": "blizzard"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "ice_punch",
+      "body_slam",
+      "take_down",
+      "hydro_pump",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "agility",
+      "double_team",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "protect",
+      "icy_wind",
+      "endure",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "whirlpool",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "air_cutter",
+      "water_pulse",
+      "u_turn",
+      "fling",
+      "giga_impact",
+      "avalanche",
+      "acrobatics",
+      "play_rough",
+      "electric_terrain",
+      "aurora_veil",
+      "flip_turn",
+      "tera_blast",
+      "ice_spinner",
+      "snowscape",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "end"
+    ]
+  }
+]

@@ -1,0 +1,179 @@
+[
+  {
+    "_id": "cubone",
+    "gender": "",
+    "pokedexNumber": "104",
+    "name": "cubone",
+    "koName": "탕구리",
+    "speciesName": "cubone",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "64",
+    "friendship": "50",
+    "types": [
+      "ground"
+    ],
+    "normalAbilityIds": [
+      "rock_head",
+      "lightning_rod"
+    ],
+    "hiddenAbilityId": "battle_armor",
+    "passiveAbilityId": "parental_bond",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 320,
+    "hp": 50,
+    "attack": 50,
+    "defense": 95,
+    "specialAttack": 40,
+    "specialDefense": 50,
+    "speed": 35,
+    "height": 0.4,
+    "weight": 6.5,
+    "eggMoveIds": [
+      "head_smash",
+      "wood_hammer",
+      "shadow_sneak",
+      "bitter_blade"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "mud_slap"
+      },
+      {
+        "level": 4,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 8,
+        "moveId": "false_swipe"
+      },
+      {
+        "level": 12,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 16,
+        "moveId": "retaliate"
+      },
+      {
+        "level": 20,
+        "moveId": "fling"
+      },
+      {
+        "level": 24,
+        "moveId": "stomping_tantrum"
+      },
+      {
+        "level": 29,
+        "moveId": "bone_rush"
+      },
+      {
+        "level": 32,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 36,
+        "moveId": "endeavor"
+      },
+      {
+        "level": 40,
+        "moveId": "bonemerang"
+      },
+      {
+        "level": 44,
+        "moveId": "thrash"
+      },
+      {
+        "level": 48,
+        "moveId": "double_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "thunder_punch",
+      "swords_dance",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "flamethrower",
+      "ice_beam",
+      "blizzard",
+      "low_kick",
+      "counter",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "screech",
+      "double_team",
+      "focus_energy",
+      "fire_blast",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "sandstorm",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "sunny_day",
+      "rock_smash",
+      "uproar",
+      "facade",
+      "focus_punch",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "rock_tomb",
+      "aerial_ace",
+      "iron_defense",
+      "fling",
+      "earth_power",
+      "rock_climb",
+      "iron_head",
+      "stealth_rock",
+      "smack_down",
+      "round",
+      "echoed_voice",
+      "incinerate",
+      "retaliate",
+      "bulldoze",
+      "confide",
+      "power_up_punch",
+      "brutal_swing",
+      "stomping_tantrum",
+      "scorching_sands",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "badlands",
+      "graveyard",
+      "temple"
+    ]
+  }
+]

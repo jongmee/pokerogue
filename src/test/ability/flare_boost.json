@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "flare_boost",
+    "name": "Flare Boost",
+    "koName": "열폭주",
+    "realased": "",
+    "description": "화상 상태가 되었을 때 특수 기술의 위력이 올라간다.",
+    "generation": 5,
+    "pokemonIds": [
+      "pidgey",
+      "pidgeotto",
+      "pidgeot",
+      "pidgeot_mega",
+      "nidoran_f",
+      "nidorina",
+      "nidoqueen",
+      "drifloon",
+      "drifblim",
+      "sigilyph"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "burn_up",
+    "name": "Burn Up",
+    "koName": "불사르기",
+    "type": "fire",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 130,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "전신의 불꽃을 모두 태워서 큰 데미지를 준다. 자신의 불꽃타입이 없어진다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "sizzlipede",
+      "centiskorch"
+    ]
+  }
+]

@@ -1,0 +1,213 @@
+[
+  {
+    "_id": "latias",
+    "gender": "",
+    "pokedexNumber": "380",
+    "name": "latias",
+    "koName": "라티아스",
+    "speciesName": "latias",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "300",
+    "friendship": "90",
+    "types": [
+      "dragon",
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "levitate"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "prism_armor",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 600,
+    "hp": 80,
+    "attack": 80,
+    "defense": 90,
+    "specialAttack": 110,
+    "specialDefense": 130,
+    "speed": 110,
+    "height": 1.4,
+    "weight": 40,
+    "eggMoveIds": [
+      "core_enforcer",
+      "fusion_flare",
+      "sparkly_swirl",
+      "mystical_power"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "stored_power"
+      },
+      {
+        "level": 1,
+        "moveId": "charm"
+      },
+      {
+        "level": 1,
+        "moveId": "psywave"
+      },
+      {
+        "level": 5,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 10,
+        "moveId": "recover"
+      },
+      {
+        "level": 15,
+        "moveId": "confusion"
+      },
+      {
+        "level": 20,
+        "moveId": "tailwind"
+      },
+      {
+        "level": 25,
+        "moveId": "dragon_breath"
+      },
+      {
+        "level": 30,
+        "moveId": "wish"
+      },
+      {
+        "level": 35,
+        "moveId": "mist_ball"
+      },
+      {
+        "level": 40,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 45,
+        "moveId": "dragon_pulse"
+      },
+      {
+        "level": 50,
+        "moveId": "heal_pulse"
+      },
+      {
+        "level": 55,
+        "moveId": "reflect_type"
+      },
+      {
+        "level": 60,
+        "moveId": "psychic"
+      },
+      {
+        "level": 65,
+        "moveId": "guard_split"
+      },
+      {
+        "level": 70,
+        "moveId": "healing_wish"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "cut",
+      "fly",
+      "body_slam",
+      "double_edge",
+      "roar",
+      "surf",
+      "ice_beam",
+      "hyper_beam",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "earthquake",
+      "toxic",
+      "psychic",
+      "agility",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "waterfall",
+      "swift",
+      "dream_eater",
+      "flash",
+      "rest",
+      "tri_attack",
+      "substitute",
+      "snore",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "outrage",
+      "sandstorm",
+      "endure",
+      "charm",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "baton_pass",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "whirlpool",
+      "facade",
+      "helping_hand",
+      "trick",
+      "dive",
+      "weather_ball",
+      "air_cutter",
+      "aerial_ace",
+      "dragon_claw",
+      "covet",
+      "calm_mind",
+      "dragon_dance",
+      "water_pulse",
+      "roost",
+      "tailwind",
+      "aura_sphere",
+      "air_slash",
+      "dragon_pulse",
+      "energy_ball",
+      "giga_impact",
+      "shadow_claw",
+      "psycho_cut",
+      "zen_headbutt",
+      "defog",
+      "draco_meteor",
+      "grass_knot",
+      "charge_beam",
+      "hone_claws",
+      "psyshock",
+      "magic_room",
+      "round",
+      "stored_power",
+      "ally_switch",
+      "retaliate",
+      "bulldoze",
+      "draining_kiss",
+      "confide",
+      "mystical_fire",
+      "breaking_swipe",
+      "scale_shot",
+      "dual_wingbeat",
+      "tera_blast",
+      "chilling_water",
+      "dragon_cheer",
+      "alluring_voice"
+    ],
+    "biomeIds": [
+      "plains"
+    ]
+  }
+]

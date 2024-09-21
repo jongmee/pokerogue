@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "fillet_away",
+    "name": "Fillet Away",
+    "koName": "제살깎기",
+    "type": "normal",
+    "moveCategory": "status",
+    "moveTarget": "user",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 10,
+    "effect": "자신의 HP를 깎아서 자신의 공격, 특수공격, 스피드를 크게 올린다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 9,
+    "realased": "",
+    "flags": [
+      "ignore_protect"
+    ],
+    "pokemonIds": [
+      "arrokuda",
+      "barraskewda",
+      "lechonk",
+      "oinkologne",
+      "veluza"
+    ]
+  }
+]

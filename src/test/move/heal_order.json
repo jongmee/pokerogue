@@ -1,0 +1,39 @@
+[
+  {
+    "_id": "heal_order",
+    "name": "Heal Order",
+    "koName": "회복지령",
+    "type": "bug",
+    "moveCategory": "status",
+    "moveTarget": "user",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 10,
+    "effect": "부하를 불러내어 상처를 회복한다. 최대 HP의 절반만큼 자신의 HP를 회복한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 4,
+    "realased": "",
+    "flags": [
+      "ignore_protect",
+      "triage_move"
+    ],
+    "pokemonIds": [
+      "shuckle",
+      "burmy_plant",
+      "burmy_sandy",
+      "burmy_trash",
+      "mothim",
+      "vespiquen",
+      "karrablast",
+      "escavalier",
+      "zygarde",
+      "wishiwashi",
+      "blipbug",
+      "dottler",
+      "orbeetle",
+      "orbeetle_gigantamax",
+      "falinks"
+    ]
+  }
+]

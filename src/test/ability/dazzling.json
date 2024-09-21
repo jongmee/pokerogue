@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "dazzling",
+    "name": "Dazzling",
+    "koName": "비비드바디",
+    "realased": "",
+    "description": "상대를 놀라게 해서 이쪽을 향한 선제 기술을 사용할 수 없게 한다.",
+    "generation": 7,
+    "pokemonIds": [
+      "bruxish",
+      "flutter_mane"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

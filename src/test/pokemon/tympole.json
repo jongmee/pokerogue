@@ -1,0 +1,151 @@
+[
+  {
+    "_id": "tympole",
+    "gender": "",
+    "pokedexNumber": "535",
+    "name": "tympole",
+    "koName": "동챙이",
+    "speciesName": "tympole",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "59",
+    "friendship": "50",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "swift_swim",
+      "hydration"
+    ],
+    "hiddenAbilityId": "water_absorb",
+    "passiveAbilityId": "poison_heal",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 294,
+    "hp": 50,
+    "attack": 50,
+    "defense": 40,
+    "specialAttack": 50,
+    "specialDefense": 40,
+    "speed": 64,
+    "height": 0.5,
+    "weight": 4.5,
+    "eggMoveIds": [
+      "jet_punch",
+      "high_horsepower",
+      "bulk_up",
+      "surging_strikes"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "bubble"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "echoed_voice"
+      },
+      {
+        "level": 4,
+        "moveId": "acid"
+      },
+      {
+        "level": 8,
+        "moveId": "supersonic"
+      },
+      {
+        "level": 12,
+        "moveId": "mud_shot"
+      },
+      {
+        "level": 16,
+        "moveId": "round"
+      },
+      {
+        "level": 20,
+        "moveId": "bubble_beam"
+      },
+      {
+        "level": 24,
+        "moveId": "flail"
+      },
+      {
+        "level": 28,
+        "moveId": "uproar"
+      },
+      {
+        "level": 32,
+        "moveId": "aqua_ring"
+      },
+      {
+        "level": 36,
+        "moveId": "hyper_voice"
+      },
+      {
+        "level": 40,
+        "moveId": "muddy_water"
+      },
+      {
+        "level": 44,
+        "moveId": "rain_dance"
+      },
+      {
+        "level": 48,
+        "moveId": "hydro_pump"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "hydro_pump",
+      "surf",
+      "toxic",
+      "screech",
+      "double_team",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "sludge_bomb",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "uproar",
+      "hail",
+      "facade",
+      "endeavor",
+      "hyper_voice",
+      "weather_ball",
+      "muddy_water",
+      "bounce",
+      "mud_shot",
+      "water_pulse",
+      "earth_power",
+      "sludge_wave",
+      "round",
+      "echoed_voice",
+      "scald",
+      "confide",
+      "venom_drench",
+      "infestation",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "swamp"
+    ]
+  }
+]

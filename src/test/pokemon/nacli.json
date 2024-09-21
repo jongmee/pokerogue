@@ -1,0 +1,146 @@
+[
+  {
+    "_id": "nacli",
+    "gender": "",
+    "pokedexNumber": "932",
+    "name": "nacli",
+    "koName": "베베솔트",
+    "speciesName": "nacli",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "56",
+    "friendship": "50",
+    "types": [
+      "rock"
+    ],
+    "normalAbilityIds": [
+      "purifying_salt",
+      "sturdy"
+    ],
+    "hiddenAbilityId": "clear_body",
+    "passiveAbilityId": "solid_rock",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 280,
+    "hp": 55,
+    "attack": 55,
+    "defense": 75,
+    "specialAttack": 35,
+    "specialDefense": 35,
+    "speed": 25,
+    "height": 0.4,
+    "weight": 16,
+    "eggMoveIds": [
+      "body_press",
+      "toxic",
+      "curse",
+      "diamond_storm"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "harden"
+      },
+      {
+        "level": 5,
+        "moveId": "rock_throw"
+      },
+      {
+        "level": 7,
+        "moveId": "mud_shot"
+      },
+      {
+        "level": 10,
+        "moveId": "smack_down"
+      },
+      {
+        "level": 13,
+        "moveId": "rock_polish"
+      },
+      {
+        "level": 16,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 20,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 25,
+        "moveId": "recover"
+      },
+      {
+        "level": 30,
+        "moveId": "rock_slide"
+      },
+      {
+        "level": 33,
+        "moveId": "stealth_rock"
+      },
+      {
+        "level": 35,
+        "moveId": "heavy_slam"
+      },
+      {
+        "level": 40,
+        "moveId": "earthquake"
+      },
+      {
+        "level": 45,
+        "moveId": "stone_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "earthquake",
+      "dig",
+      "double_team",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "curse",
+      "protect",
+      "sandstorm",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "facade",
+      "helping_hand",
+      "iron_defense",
+      "mud_shot",
+      "rock_polish",
+      "power_gem",
+      "earth_power",
+      "zen_headbutt",
+      "flash_cannon",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "smack_down",
+      "heavy_slam",
+      "bulldoze",
+      "stomping_tantrum",
+      "meteor_beam",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "mountain",
+      "cave"
+    ]
+  }
+]

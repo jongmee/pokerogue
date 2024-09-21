@@ -1,0 +1,175 @@
+[
+  {
+    "_id": "carbink",
+    "gender": "",
+    "pokedexNumber": "703",
+    "name": "carbink",
+    "koName": "멜리시",
+    "speciesName": "carbink",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "100",
+    "friendship": "50",
+    "types": [
+      "rock",
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "clear_body"
+    ],
+    "hiddenAbilityId": "sturdy",
+    "passiveAbilityId": "solid_rock",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 500,
+    "hp": 50,
+    "attack": 50,
+    "defense": 150,
+    "specialAttack": 50,
+    "specialDefense": 150,
+    "speed": 50,
+    "height": 0.3,
+    "weight": 5.7,
+    "eggMoveIds": [
+      "body_press",
+      "shore_up",
+      "sparkly_swirl",
+      "diamond_storm"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "harden"
+      },
+      {
+        "level": 5,
+        "moveId": "guard_split"
+      },
+      {
+        "level": 10,
+        "moveId": "smack_down"
+      },
+      {
+        "level": 15,
+        "moveId": "flail"
+      },
+      {
+        "level": 20,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 25,
+        "moveId": "rock_polish"
+      },
+      {
+        "level": 30,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 35,
+        "moveId": "rock_slide"
+      },
+      {
+        "level": 40,
+        "moveId": "skill_swap"
+      },
+      {
+        "level": 45,
+        "moveId": "power_gem"
+      },
+      {
+        "level": 50,
+        "moveId": "stealth_rock"
+      },
+      {
+        "level": 55,
+        "moveId": "moonblast"
+      },
+      {
+        "level": 60,
+        "moveId": "stone_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "flash",
+      "explosion",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "spikes",
+      "sandstorm",
+      "endure",
+      "charm",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "hail",
+      "facade",
+      "nature_power",
+      "endeavor",
+      "skill_swap",
+      "rock_tomb",
+      "sand_tomb",
+      "iron_defense",
+      "covet",
+      "calm_mind",
+      "rock_blast",
+      "gravity",
+      "gyro_ball",
+      "guard_swap",
+      "rock_polish",
+      "power_gem",
+      "earth_power",
+      "giga_impact",
+      "flash_cannon",
+      "trick_room",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "wonder_room",
+      "smack_down",
+      "heavy_slam",
+      "round",
+      "ally_switch",
+      "misty_terrain",
+      "confide",
+      "dazzling_gleam",
+      "stomping_tantrum",
+      "body_press",
+      "meteor_beam",
+      "misty_explosion",
+      "terrain_pulse",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "cave",
+      "fairy_cave"
+    ]
+  }
+]

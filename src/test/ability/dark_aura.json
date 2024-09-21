@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "dark_aura",
+    "name": "Dark Aura",
+    "koName": "다크오라",
+    "realased": "",
+    "description": "전원의 악타입 기술이 강해진다.",
+    "generation": 6,
+    "pokemonIds": [
+      "murkrow",
+      "honchkrow",
+      "zorua",
+      "zoroark",
+      "yveltal",
+      "alola_meowth",
+      "alola_persian",
+      "galar_moltres"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

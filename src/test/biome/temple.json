@@ -1,0 +1,117 @@
+[
+  {
+    "_id": "temple",
+    "name": "Temple",
+    "koName": "사원",
+    "types": [
+      "ghost"
+    ],
+    "nextBiomes": [
+      {
+        "name": "desert",
+        "percentage": 50
+      },
+      {
+        "name": "swamp",
+        "percentage": 25
+      },
+      {
+        "name": "ruins",
+        "percentage": 25
+      }
+    ],
+    "nativePokemons": [
+      {
+        "tier": "보통",
+        "pokemonIds": [
+          "gastly",
+          "haunter",
+          "natu",
+          "xatu",
+          "duskull",
+          "dusclops",
+          "yamask",
+          "cofagrigus",
+          "golett",
+          "golurk",
+          "honedge",
+          "doublade"
+        ]
+      },
+      {
+        "tier": "드묾",
+        "pokemonIds": [
+          "cubone",
+          "marowak",
+          "baltoy",
+          "claydol",
+          "chingling",
+          "chimecho",
+          "skorupi",
+          "drapion",
+          "litwick",
+          "lampent"
+        ]
+      },
+      {
+        "tier": "레어",
+        "pokemonIds": [
+          "gimmighoul",
+          "gholdengo"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어",
+        "pokemonIds": []
+      },
+      {
+        "tier": "울트라 레어",
+        "pokemonIds": [
+          "hoopa",
+          "tapu_koko"
+        ]
+      },
+      {
+        "tier": "보스",
+        "pokemonIds": [
+          "chimecho",
+          "cofagrigus",
+          "golurk",
+          "aegislash"
+        ]
+      },
+      {
+        "tier": "레어 보스",
+        "pokemonIds": [
+          "gholdengo"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어 보스",
+        "pokemonIds": [
+          "hoopa",
+          "tapu_koko"
+        ]
+      },
+      {
+        "tier": "슈퍼 울트라 레어 보스",
+        "pokemonIds": [
+          "regigigas"
+        ]
+      }
+    ],
+    "trainers": [
+      {
+        "name": "멜리사",
+        "types": [
+          "ghost"
+        ],
+        "pokemonIds": [
+          "misdreavus",
+          "drifloon",
+          "spiritomb"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "_id": "plusle",
+    "gender": "",
+    "pokedexNumber": "311",
+    "name": "plusle",
+    "koName": "플러시",
+    "speciesName": "plusle",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "142",
+    "friendship": "70",
+    "types": [
+      "electric"
+    ],
+    "normalAbilityIds": [
+      "plus"
+    ],
+    "hiddenAbilityId": "lightning_rod",
+    "passiveAbilityId": "power_spot",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 405,
+    "hp": 60,
+    "attack": 50,
+    "defense": 40,
+    "specialAttack": 85,
+    "specialDefense": 75,
+    "speed": 95,
+    "height": 0.4,
+    "weight": 4.2,
+    "eggMoveIds": [
+      "flamethrower",
+      "glitzy_glow",
+      "splishy_splash",
+      "tail_glow"
+    ],
+    "levelMoves": [
+      {
+        "level": -1,
+        "moveId": "nuzzle"
+      },
+      {
+        "level": 1,
+        "moveId": "play_nice"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_wave"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 4,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 7,
+        "moveId": "spark"
+      },
+      {
+        "level": 10,
+        "moveId": "encore"
+      },
+      {
+        "level": 13,
+        "moveId": "switcheroo"
+      },
+      {
+        "level": 16,
+        "moveId": "swift"
+      },
+      {
+        "level": 19,
+        "moveId": "electro_ball"
+      },
+      {
+        "level": 22,
+        "moveId": "copycat"
+      },
+      {
+        "level": 26,
+        "moveId": "charge"
+      },
+      {
+        "level": 31,
+        "moveId": "discharge"
+      },
+      {
+        "level": 34,
+        "moveId": "baton_pass"
+      },
+      {
+        "level": 37,
+        "moveId": "agility"
+      },
+      {
+        "level": 40,
+        "moveId": "last_resort"
+      },
+      {
+        "level": 43,
+        "moveId": "thunder"
+      },
+      {
+        "level": 46,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 49,
+        "moveId": "entrainment"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "thunder_punch",
+      "mega_kick",
+      "body_slam",
+      "counter",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "agility",
+      "double_team",
+      "light_screen",
+      "metronome",
+      "swift",
+      "flash",
+      "rest",
+      "super_fang",
+      "substitute",
+      "snore",
+      "protect",
+      "mud_slap",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "uproar",
+      "facade",
+      "charge",
+      "helping_hand",
+      "endeavor",
+      "skill_swap",
+      "fake_tears",
+      "signal_beam",
+      "covet",
+      "fling",
+      "nasty_plot",
+      "grass_knot",
+      "charge_beam",
+      "electro_ball",
+      "round",
+      "echoed_voice",
+      "volt_switch",
+      "electroweb",
+      "wild_charge",
+      "play_rough",
+      "confide",
+      "tera_blast",
+      "trailblaze",
+      "alluring_voice"
+    ],
+    "biomeIds": [
+      "power_plant"
+    ]
+  }
+]

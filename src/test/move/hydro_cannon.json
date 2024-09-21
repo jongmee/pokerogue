@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "hydro_cannon",
+    "name": "Hydro Cannon",
+    "koName": "하이드로캐논",
+    "type": "water",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 150,
+    "accuracy": 90,
+    "powerPoint": 5,
+    "effect": "물의 대포를 상대에게 발사해서 공격한다. 다음 턴은 움직일 수 없다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 3,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "blastoise",
+      "mew",
+      "feraligatr",
+      "swampert",
+      "empoleon",
+      "samurott",
+      "greninja",
+      "primarina",
+      "inteleon",
+      "quaquaval",
+      "hisui_samurott"
+    ]
+  }
+]

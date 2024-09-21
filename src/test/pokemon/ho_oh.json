@@ -1,0 +1,191 @@
+[
+  {
+    "_id": "ho_oh",
+    "gender": "",
+    "pokedexNumber": "250",
+    "name": "ho_oh",
+    "koName": "칠색조",
+    "speciesName": "ho_oh",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "340",
+    "friendship": "0",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "pressure"
+    ],
+    "hiddenAbilityId": "regenerator",
+    "passiveAbilityId": "magic_guard",
+    "generation": 2,
+    "legendary": true,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 680,
+    "hp": 106,
+    "attack": 130,
+    "defense": 90,
+    "specialAttack": 110,
+    "specialDefense": 154,
+    "speed": 90,
+    "height": 3.8,
+    "weight": 199,
+    "eggMoveIds": [
+      "floaty_fall",
+      "precipice_blades",
+      "revival_blessing",
+      "bolt_beak"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "gust"
+      },
+      {
+        "level": 1,
+        "moveId": "whirlwind"
+      },
+      {
+        "level": 1,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 1,
+        "moveId": "weather_ball"
+      },
+      {
+        "level": 9,
+        "moveId": "life_dew"
+      },
+      {
+        "level": 18,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 27,
+        "moveId": "calm_mind"
+      },
+      {
+        "level": 36,
+        "moveId": "extrasensory"
+      },
+      {
+        "level": 45,
+        "moveId": "recover"
+      },
+      {
+        "level": 54,
+        "moveId": "sacred_fire"
+      },
+      {
+        "level": 63,
+        "moveId": "sunny_day"
+      },
+      {
+        "level": 72,
+        "moveId": "fire_blast"
+      },
+      {
+        "level": 81,
+        "moveId": "future_sight"
+      },
+      {
+        "level": 90,
+        "moveId": "sky_attack"
+      },
+      {
+        "level": 99,
+        "moveId": "overheat"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fly",
+      "body_slam",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "hyper_beam",
+      "strength",
+      "solar_beam",
+      "fire_spin",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "earthquake",
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "fire_blast",
+      "swift",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "sandstorm",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "steel_wing",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "rock_smash",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "helping_hand",
+      "imprison",
+      "hyper_voice",
+      "weather_ball",
+      "air_cutter",
+      "overheat",
+      "signal_beam",
+      "aerial_ace",
+      "calm_mind",
+      "roost",
+      "pluck",
+      "tailwind",
+      "flare_blitz",
+      "air_slash",
+      "brave_bird",
+      "earth_power",
+      "giga_impact",
+      "zen_headbutt",
+      "defog",
+      "iron_head",
+      "charge_beam",
+      "flame_charge",
+      "round",
+      "echoed_voice",
+      "sky_drop",
+      "incinerate",
+      "bulldoze",
+      "confide",
+      "mystical_fire",
+      "dual_wingbeat",
+      "scorching_sands",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "mountain"
+    ]
+  }
+]

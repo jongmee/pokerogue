@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "tickle",
+    "name": "Tickle",
+    "koName": "간지르기",
+    "type": "normal",
+    "moveCategory": "status",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": 100,
+    "powerPoint": 20,
+    "effect": "몸을 간질여 웃게 만들어서 상대의 공격과 방어를 떨어뜨린다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 3,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "tangela",
+      "aipom",
+      "whiscash",
+      "ambipom",
+      "tangrowth",
+      "minccino",
+      "cinccino",
+      "gothita",
+      "gothorita",
+      "gothitelle",
+      "tapu_lele",
+      "nihilego",
+      "dondozo",
+      "wo_chien"
+    ]
+  }
+]

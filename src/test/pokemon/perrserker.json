@@ -1,0 +1,195 @@
+[
+  {
+    "_id": "perrserker",
+    "gender": "",
+    "pokedexNumber": "863",
+    "name": "perrserker",
+    "koName": "나이킹",
+    "speciesName": "perrserker",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "154",
+    "friendship": "50",
+    "types": [
+      "steel"
+    ],
+    "normalAbilityIds": [
+      "battle_armor",
+      "tough_claws"
+    ],
+    "hiddenAbilityId": "steely_spirit",
+    "passiveAbilityId": "steelworker",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 440,
+    "hp": 70,
+    "attack": 110,
+    "defense": 100,
+    "specialAttack": 50,
+    "specialDefense": 60,
+    "speed": 50,
+    "height": 0.8,
+    "weight": 28,
+    "eggMoveIds": [
+      "aqua_cutter",
+      "knock_off",
+      "bullet_punch",
+      "behemoth_bash"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "iron_head"
+      },
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "fake_out"
+      },
+      {
+        "level": 1,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 1,
+        "moveId": "metal_burst"
+      },
+      {
+        "level": 1,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 12,
+        "moveId": "pay_day"
+      },
+      {
+        "level": 16,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 20,
+        "moveId": "taunt"
+      },
+      {
+        "level": 24,
+        "moveId": "swagger"
+      },
+      {
+        "level": 31,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 36,
+        "moveId": "screech"
+      },
+      {
+        "level": 42,
+        "moveId": "slash"
+      },
+      {
+        "level": 48,
+        "moveId": "metal_sound"
+      },
+      {
+        "level": 54,
+        "moveId": "thrash"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "pay_day",
+      "swords_dance",
+      "cut",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "thunderbolt",
+      "thunder",
+      "dig",
+      "screech",
+      "double_team",
+      "metronome",
+      "amnesia",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "endure",
+      "charm",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "iron_tail",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "shadow_ball",
+      "uproar",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "hyper_voice",
+      "fake_tears",
+      "metal_sound",
+      "iron_defense",
+      "covet",
+      "gyro_ball",
+      "u_turn",
+      "close_combat",
+      "payback",
+      "assurance",
+      "fling",
+      "dark_pulse",
+      "seed_bomb",
+      "x_scissor",
+      "giga_impact",
+      "nasty_plot",
+      "shadow_claw",
+      "flash_cannon",
+      "gunk_shot",
+      "iron_head",
+      "stealth_rock",
+      "hone_claws",
+      "heavy_slam",
+      "foul_play",
+      "round",
+      "retaliate",
+      "work_up",
+      "play_rough",
+      "throat_chop",
+      "steel_beam",
+      "lash_out",
+      "tera_blast",
+      "trailblaze",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "construction_site"
+    ]
+  }
+]

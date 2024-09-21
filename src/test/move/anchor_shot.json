@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "anchor_shot",
+    "name": "Anchor Shot",
+    "koName": "앵커샷",
+    "type": "steel",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 80,
+    "accuracy": 100,
+    "powerPoint": 20,
+    "effect": "앵커를 상대에게 휘감아서 공격한다. 상대는 도망칠 수 없게 된다.",
+    "effectChance": 100,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "dhelmise"
+    ]
+  }
+]

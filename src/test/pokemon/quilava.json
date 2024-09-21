@@ -1,0 +1,170 @@
+[
+  {
+    "_id": "quilava",
+    "gender": "",
+    "pokedexNumber": "156",
+    "name": "quilava",
+    "koName": "마그케인",
+    "speciesName": "quilava",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "142",
+    "friendship": "70",
+    "types": [
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "blaze"
+    ],
+    "hiddenAbilityId": "flash_fire",
+    "passiveAbilityId": "drought",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 405,
+    "hp": 58,
+    "attack": 64,
+    "defense": 58,
+    "specialAttack": 80,
+    "specialDefense": 65,
+    "speed": 80,
+    "height": 0.9,
+    "weight": 19,
+    "eggMoveIds": [
+      "nasty_plot",
+      "scorching_sands",
+      "fiery_dance",
+      "electro_drift"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "smokescreen"
+      },
+      {
+        "level": 10,
+        "moveId": "ember"
+      },
+      {
+        "level": 13,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 20,
+        "moveId": "flame_wheel"
+      },
+      {
+        "level": 24,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": 31,
+        "moveId": "swift"
+      },
+      {
+        "level": 35,
+        "moveId": "flame_charge"
+      },
+      {
+        "level": 42,
+        "moveId": "lava_plume"
+      },
+      {
+        "level": 46,
+        "moveId": "flamethrower"
+      },
+      {
+        "level": 53,
+        "moveId": "inferno"
+      },
+      {
+        "level": 57,
+        "moveId": "rollout"
+      },
+      {
+        "level": 64,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 68,
+        "moveId": "overheat"
+      },
+      {
+        "level": 75,
+        "moveId": "eruption"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "cut",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "strength",
+      "fire_spin",
+      "dig",
+      "toxic",
+      "double_team",
+      "fire_blast",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "reversal",
+      "protect",
+      "mud_slap",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "sunny_day",
+      "rock_smash",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "focus_punch",
+      "nature_power",
+      "brick_break",
+      "endeavor",
+      "overheat",
+      "aerial_ace",
+      "covet",
+      "flare_blitz",
+      "fire_fang",
+      "zen_headbutt",
+      "iron_head",
+      "flame_charge",
+      "round",
+      "incinerate",
+      "fire_pledge",
+      "work_up",
+      "wild_charge",
+      "play_rough",
+      "confide",
+      "burning_jealousy",
+      "tera_blast",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "volcano"
+    ]
+  }
+]

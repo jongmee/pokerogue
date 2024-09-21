@@ -1,0 +1,190 @@
+[
+  {
+    "_id": "quagsire",
+    "gender": "",
+    "pokedexNumber": "195",
+    "name": "quagsire",
+    "koName": "누오",
+    "speciesName": "quagsire",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "151",
+    "friendship": "50",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "normalAbilityIds": [
+      "damp",
+      "water_absorb"
+    ],
+    "hiddenAbilityId": "unaware",
+    "passiveAbilityId": "comatose",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 430,
+    "hp": 95,
+    "attack": 85,
+    "defense": 85,
+    "specialAttack": 65,
+    "specialDefense": 65,
+    "speed": 35,
+    "height": 1.4,
+    "weight": 75,
+    "eggMoveIds": [
+      "sizzly_slide",
+      "recover",
+      "curse",
+      "surging_strikes"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "rain_dance"
+      },
+      {
+        "level": 1,
+        "moveId": "mud_shot"
+      },
+      {
+        "level": 12,
+        "moveId": "mist"
+      },
+      {
+        "level": 12,
+        "moveId": "haze"
+      },
+      {
+        "level": 16,
+        "moveId": "slam"
+      },
+      {
+        "level": 23,
+        "moveId": "yawn"
+      },
+      {
+        "level": 28,
+        "moveId": "aqua_tail"
+      },
+      {
+        "level": 34,
+        "moveId": "muddy_water"
+      },
+      {
+        "level": 40,
+        "moveId": "amnesia"
+      },
+      {
+        "level": 46,
+        "moveId": "toxic"
+      },
+      {
+        "level": 52,
+        "moveId": "earthquake"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "ice_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "counter",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "double_team",
+      "haze",
+      "waterfall",
+      "amnesia",
+      "flash",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "sludge_bomb",
+      "mud_slap",
+      "spikes",
+      "icy_wind",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "rock_smash",
+      "whirlpool",
+      "hail",
+      "facade",
+      "focus_punch",
+      "helping_hand",
+      "brick_break",
+      "dive",
+      "rock_tomb",
+      "muddy_water",
+      "mud_shot",
+      "water_pulse",
+      "fling",
+      "guard_swap",
+      "toxic_spikes",
+      "aqua_tail",
+      "drain_punch",
+      "focus_blast",
+      "earth_power",
+      "giga_impact",
+      "avalanche",
+      "stone_edge",
+      "stealth_rock",
+      "sludge_wave",
+      "acid_spray",
+      "round",
+      "scald",
+      "bulldoze",
+      "confide",
+      "eerie_impulse",
+      "infestation",
+      "power_up_punch",
+      "high_horsepower",
+      "stomping_tantrum",
+      "liquidation",
+      "body_press",
+      "tera_blast",
+      "snowscape",
+      "trailblaze",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "lake",
+      "swamp"
+    ]
+  }
+]

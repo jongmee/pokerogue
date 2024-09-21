@@ -1,0 +1,184 @@
+[
+  {
+    "_id": "magcargo",
+    "gender": "",
+    "pokedexNumber": "219",
+    "name": "magcargo",
+    "koName": "마그카르고",
+    "speciesName": "magcargo",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "151",
+    "friendship": "70",
+    "types": [
+      "fire",
+      "rock"
+    ],
+    "normalAbilityIds": [
+      "magma_armor",
+      "flame_body"
+    ],
+    "hiddenAbilityId": "weak_armor",
+    "passiveAbilityId": "desolate_land",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 430,
+    "hp": 60,
+    "attack": 50,
+    "defense": 120,
+    "specialAttack": 90,
+    "specialDefense": 80,
+    "speed": 30,
+    "height": 0.8,
+    "weight": 55,
+    "eggMoveIds": [
+      "burning_bulwark",
+      "power_gem",
+      "solar_beam",
+      "magma_storm"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "shell_smash"
+      },
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 1,
+        "moveId": "rock_throw"
+      },
+      {
+        "level": 1,
+        "moveId": "smog"
+      },
+      {
+        "level": 1,
+        "moveId": "yawn"
+      },
+      {
+        "level": 1,
+        "moveId": "earth_power"
+      },
+      {
+        "level": 13,
+        "moveId": "harden"
+      },
+      {
+        "level": 20,
+        "moveId": "clear_smog"
+      },
+      {
+        "level": 22,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 27,
+        "moveId": "incinerate"
+      },
+      {
+        "level": 29,
+        "moveId": "rock_slide"
+      },
+      {
+        "level": 34,
+        "moveId": "lava_plume"
+      },
+      {
+        "level": 36,
+        "moveId": "amnesia"
+      },
+      {
+        "level": 43,
+        "moveId": "body_slam"
+      },
+      {
+        "level": 47,
+        "moveId": "recover"
+      },
+      {
+        "level": 54,
+        "moveId": "flamethrower"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "flamethrower",
+      "hyper_beam",
+      "strength",
+      "solar_beam",
+      "fire_spin",
+      "earthquake",
+      "toxic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "self_destruct",
+      "fire_blast",
+      "amnesia",
+      "explosion",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "hidden_power",
+      "sunny_day",
+      "rock_smash",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "nature_power",
+      "overheat",
+      "rock_tomb",
+      "sand_tomb",
+      "iron_defense",
+      "mud_shot",
+      "rock_blast",
+      "gyro_ball",
+      "guard_swap",
+      "flare_blitz",
+      "rock_polish",
+      "power_gem",
+      "earth_power",
+      "giga_impact",
+      "stone_edge",
+      "stealth_rock",
+      "smack_down",
+      "flame_charge",
+      "round",
+      "incinerate",
+      "bulldoze",
+      "heat_crash",
+      "confide",
+      "infestation",
+      "stomping_tantrum",
+      "burning_jealousy",
+      "scorching_sands",
+      "tera_blast",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "mountain",
+      "volcano"
+    ]
+  }
+]

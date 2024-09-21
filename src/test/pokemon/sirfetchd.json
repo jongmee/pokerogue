@@ -1,0 +1,163 @@
+[
+  {
+    "_id": "sirfetchd",
+    "gender": "",
+    "pokedexNumber": "865",
+    "name": "sirfetchd",
+    "koName": "창파나이트",
+    "speciesName": "sirfetchd",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "177",
+    "friendship": "50",
+    "types": [
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "steadfast"
+    ],
+    "hiddenAbilityId": "scrappy",
+    "passiveAbilityId": "intrepid_sword",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 507,
+    "hp": 62,
+    "attack": 135,
+    "defense": 95,
+    "specialAttack": 68,
+    "specialDefense": 82,
+    "speed": 65,
+    "height": 0.8,
+    "weight": 117,
+    "eggMoveIds": [
+      "roost",
+      "sacred_sword",
+      "kings_shield",
+      "behemoth_blade"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 1,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "peck"
+      },
+      {
+        "level": 1,
+        "moveId": "fury_cutter"
+      },
+      {
+        "level": 1,
+        "moveId": "first_impression"
+      },
+      {
+        "level": 15,
+        "moveId": "rock_smash"
+      },
+      {
+        "level": 20,
+        "moveId": "brutal_swing"
+      },
+      {
+        "level": 25,
+        "moveId": "detect"
+      },
+      {
+        "level": 30,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 35,
+        "moveId": "defog"
+      },
+      {
+        "level": 40,
+        "moveId": "brick_break"
+      },
+      {
+        "level": 45,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 50,
+        "moveId": "slam"
+      },
+      {
+        "level": 55,
+        "moveId": "leaf_blade"
+      },
+      {
+        "level": 60,
+        "moveId": "final_gambit"
+      },
+      {
+        "level": 65,
+        "moveId": "brave_bird"
+      },
+      {
+        "level": 70,
+        "moveId": "meteor_assault"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "body_slam",
+      "double_team",
+      "focus_energy",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "endure",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "sunny_day",
+      "rock_smash",
+      "facade",
+      "helping_hand",
+      "superpower",
+      "revenge",
+      "brick_break",
+      "knock_off",
+      "iron_defense",
+      "covet",
+      "leaf_blade",
+      "close_combat",
+      "assurance",
+      "poison_jab",
+      "brave_bird",
+      "defog",
+      "round",
+      "retaliate",
+      "work_up",
+      "solar_blade",
+      "throat_chop",
+      "brutal_swing",
+      "grassy_glide",
+      "coaching",
+      "dual_wingbeat"
+    ],
+    "biomeIds": [
+      "dojo"
+    ]
+  }
+]

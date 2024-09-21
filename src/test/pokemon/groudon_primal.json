@@ -1,0 +1,107 @@
+[
+  {
+    "_id": "groudon_primal",
+    "gender": "",
+    "pokedexNumber": "383",
+    "name": "groudon_primal",
+    "koName": "그란돈_primal",
+    "speciesName": "groudon",
+    "canChangeForm": true,
+    "formName": "primal",
+    "baseExp": "335",
+    "friendship": "0",
+    "types": [
+      "ground",
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "desolate_land"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "turboblaze",
+    "generation": 3,
+    "legendary": true,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 770,
+    "hp": 100,
+    "attack": 180,
+    "defense": 160,
+    "specialAttack": 150,
+    "specialDefense": 90,
+    "speed": 90,
+    "height": 5,
+    "weight": 999.7,
+    "eggMoveIds": [
+      "stone_axe",
+      "solar_blade",
+      "morning_sun",
+      "sacred_fire"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "precipice_blades"
+      },
+      {
+        "level": 1,
+        "moveId": "mud_shot"
+      },
+      {
+        "level": 1,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 1,
+        "moveId": "lava_plume"
+      },
+      {
+        "level": 1,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 9,
+        "moveId": "earth_power"
+      },
+      {
+        "level": 18,
+        "moveId": "bulk_up"
+      },
+      {
+        "level": 27,
+        "moveId": "earthquake"
+      },
+      {
+        "level": 36,
+        "moveId": "hammer_arm"
+      },
+      {
+        "level": 45,
+        "moveId": "fissure"
+      },
+      {
+        "level": 54,
+        "moveId": "rest"
+      },
+      {
+        "level": 72,
+        "moveId": "fire_blast"
+      },
+      {
+        "level": 81,
+        "moveId": "solar_beam"
+      },
+      {
+        "level": 90,
+        "moveId": "eruption"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "badlands"
+    ]
+  }
+]

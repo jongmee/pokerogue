@@ -1,0 +1,177 @@
+[
+  {
+    "_id": "flaaffy",
+    "gender": "",
+    "pokedexNumber": "180",
+    "name": "flaaffy",
+    "koName": "보송송",
+    "speciesName": "flaaffy",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "128",
+    "friendship": "70",
+    "types": [
+      "electric"
+    ],
+    "normalAbilityIds": [
+      "static"
+    ],
+    "hiddenAbilityId": "plus",
+    "passiveAbilityId": "electromorphosis",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 365,
+    "hp": 70,
+    "attack": 55,
+    "defense": 55,
+    "specialAttack": 80,
+    "specialDefense": 60,
+    "speed": 45,
+    "height": 0.8,
+    "weight": 13.3,
+    "eggMoveIds": [
+      "ice_beam",
+      "parabolic_charge",
+      "core_enforcer",
+      "tail_glow"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 6,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 9,
+        "moveId": "thunder_wave"
+      },
+      {
+        "level": 11,
+        "moveId": "cotton_spore"
+      },
+      {
+        "level": 16,
+        "moveId": "charge"
+      },
+      {
+        "level": 20,
+        "moveId": "take_down"
+      },
+      {
+        "level": 25,
+        "moveId": "electro_ball"
+      },
+      {
+        "level": 29,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 34,
+        "moveId": "power_gem"
+      },
+      {
+        "level": 38,
+        "moveId": "discharge"
+      },
+      {
+        "level": 43,
+        "moveId": "cotton_guard"
+      },
+      {
+        "level": 47,
+        "moveId": "dazzling_gleam"
+      },
+      {
+        "level": 52,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 56,
+        "moveId": "thunder"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "low_kick",
+      "counter",
+      "strength",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "dig",
+      "toxic",
+      "agility",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "swift",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "safeguard",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "rock_smash",
+      "facade",
+      "focus_punch",
+      "charge",
+      "helping_hand",
+      "brick_break",
+      "endeavor",
+      "signal_beam",
+      "fling",
+      "power_gem",
+      "charge_beam",
+      "electro_ball",
+      "round",
+      "echoed_voice",
+      "volt_switch",
+      "electroweb",
+      "wild_charge",
+      "confide",
+      "eerie_impulse",
+      "electric_terrain",
+      "dazzling_gleam",
+      "power_up_punch",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "meadow",
+      "power_plant"
+    ]
+  }
+]

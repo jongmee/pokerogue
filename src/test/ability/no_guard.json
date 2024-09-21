@@ -1,0 +1,36 @@
+[
+  {
+    "_id": "no_guard",
+    "name": "No Guard",
+    "koName": "노가드",
+    "realased": "",
+    "description": "노가드전법에 따라 서로가 사용하는 기술이 반드시 맞게 된다.",
+    "generation": 4,
+    "pokemonIds": [
+      "pidgeot_mega",
+      "poliwag",
+      "poliwhirl",
+      "poliwrath",
+      "machop",
+      "machoke",
+      "machamp",
+      "politoed",
+      "patrat",
+      "watchog",
+      "karrablast",
+      "mienfoo",
+      "mienshao",
+      "golett",
+      "golurk",
+      "honedge",
+      "doublade",
+      "scorbunny",
+      "raboot",
+      "cinderace",
+      "cinderace_gigantamax",
+      "dracozolt"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

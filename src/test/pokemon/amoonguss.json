@@ -1,0 +1,157 @@
+[
+  {
+    "_id": "amoonguss",
+    "gender": "",
+    "pokedexNumber": "591",
+    "name": "amoonguss",
+    "koName": "뽀록나",
+    "speciesName": "amoonguss",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "162",
+    "friendship": "50",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "normalAbilityIds": [
+      "effect_spore"
+    ],
+    "hiddenAbilityId": "regenerator",
+    "passiveAbilityId": "thick_fat",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 464,
+    "hp": 114,
+    "attack": 85,
+    "defense": 70,
+    "specialAttack": 85,
+    "specialDefense": 80,
+    "speed": 30,
+    "height": 0.6,
+    "weight": 10.5,
+    "eggMoveIds": [
+      "pollen_puff",
+      "parting_shot",
+      "foul_play",
+      "sappy_seed"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 1,
+        "moveId": "growth"
+      },
+      {
+        "level": 1,
+        "moveId": "stun_spore"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 1,
+        "moveId": "bide"
+      },
+      {
+        "level": 12,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 16,
+        "moveId": "synthesis"
+      },
+      {
+        "level": 20,
+        "moveId": "clear_smog"
+      },
+      {
+        "level": 24,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 28,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 32,
+        "moveId": "ingrain"
+      },
+      {
+        "level": 36,
+        "moveId": "toxic"
+      },
+      {
+        "level": 42,
+        "moveId": "rage_powder"
+      },
+      {
+        "level": 48,
+        "moveId": "solar_beam"
+      },
+      {
+        "level": 54,
+        "moveId": "spore"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "hyper_beam",
+      "solar_beam",
+      "toxic",
+      "double_team",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "synthesis",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "facade",
+      "nature_power",
+      "bullet_seed",
+      "magical_leaf",
+      "payback",
+      "gastro_acid",
+      "worry_seed",
+      "seed_bomb",
+      "energy_ball",
+      "giga_impact",
+      "leaf_storm",
+      "grass_knot",
+      "venoshock",
+      "foul_play",
+      "round",
+      "hex",
+      "grassy_terrain",
+      "confide",
+      "pollen_puff",
+      "stomping_tantrum",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "grass",
+      "jungle"
+    ]
+  }
+]

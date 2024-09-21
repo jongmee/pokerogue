@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "dancer",
+    "name": "Dancer",
+    "koName": "무희",
+    "realased": "",
+    "description": "누군가 춤 기술을 쓰면 자신도 이어서 춤 기술을 쓸 수 있다.",
+    "generation": 7,
+    "pokemonIds": [
+      "oricorio"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

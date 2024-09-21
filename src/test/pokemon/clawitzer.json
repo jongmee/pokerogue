@@ -1,0 +1,172 @@
+[
+  {
+    "_id": "clawitzer",
+    "gender": "",
+    "pokedexNumber": "693",
+    "name": "clawitzer",
+    "koName": "블로스터",
+    "speciesName": "clawitzer",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "100",
+    "friendship": "50",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "mega_launcher"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "swift_swim",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 500,
+    "hp": 71,
+    "attack": 73,
+    "defense": 88,
+    "specialAttack": 120,
+    "specialDefense": 89,
+    "speed": 59,
+    "height": 1.3,
+    "weight": 35.3,
+    "eggMoveIds": [
+      "shell_smash",
+      "armor_cannon",
+      "water_shuriken",
+      "origin_pulse"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "splash"
+      },
+      {
+        "level": 1,
+        "moveId": "flail"
+      },
+      {
+        "level": 1,
+        "moveId": "dark_pulse"
+      },
+      {
+        "level": 1,
+        "moveId": "dragon_pulse"
+      },
+      {
+        "level": 1,
+        "moveId": "heal_pulse"
+      },
+      {
+        "level": 15,
+        "moveId": "aqua_jet"
+      },
+      {
+        "level": 20,
+        "moveId": "smack_down"
+      },
+      {
+        "level": 25,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 30,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 35,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 42,
+        "moveId": "aura_sphere"
+      },
+      {
+        "level": 49,
+        "moveId": "bounce"
+      },
+      {
+        "level": 56,
+        "moveId": "muddy_water"
+      },
+      {
+        "level": 63,
+        "moveId": "crabhammer"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "body_slam",
+      "take_down",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "toxic",
+      "double_team",
+      "waterfall",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "shadow_ball",
+      "facade",
+      "helping_hand",
+      "dive",
+      "weather_ball",
+      "muddy_water",
+      "bounce",
+      "mud_shot",
+      "water_pulse",
+      "u_turn",
+      "aura_sphere",
+      "dark_pulse",
+      "aqua_tail",
+      "dragon_pulse",
+      "focus_blast",
+      "giga_impact",
+      "flash_cannon",
+      "hone_claws",
+      "venoshock",
+      "smack_down",
+      "sludge_wave",
+      "round",
+      "scald",
+      "confide",
+      "liquidation",
+      "terrain_pulse",
+      "flip_turn",
+      "tera_blast",
+      "pounce",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "beach"
+    ]
+  }
+]

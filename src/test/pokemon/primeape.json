@@ -1,0 +1,213 @@
+[
+  {
+    "_id": "primeape",
+    "gender": "",
+    "pokedexNumber": "57",
+    "name": "primeape",
+    "koName": "성원숭",
+    "speciesName": "primeape",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "159",
+    "friendship": "70",
+    "types": [
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "vital_spirit",
+      "anger_point"
+    ],
+    "hiddenAbilityId": "defiant",
+    "passiveAbilityId": "iron_fist",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 455,
+    "hp": 65,
+    "attack": 105,
+    "defense": 60,
+    "specialAttack": 60,
+    "specialDefense": 70,
+    "speed": 95,
+    "height": 1,
+    "weight": 32,
+    "eggMoveIds": [
+      "drain_punch",
+      "play_rough",
+      "meteor_mash",
+      "no_retreat"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 1,
+        "moveId": "fling"
+      },
+      {
+        "level": 5,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 8,
+        "moveId": "low_kick"
+      },
+      {
+        "level": 15,
+        "moveId": "seismic_toss"
+      },
+      {
+        "level": 17,
+        "moveId": "swagger"
+      },
+      {
+        "level": 22,
+        "moveId": "cross_chop"
+      },
+      {
+        "level": 26,
+        "moveId": "assurance"
+      },
+      {
+        "level": 30,
+        "moveId": "thrash"
+      },
+      {
+        "level": 35,
+        "moveId": "rage_fist"
+      },
+      {
+        "level": 39,
+        "moveId": "close_combat"
+      },
+      {
+        "level": 44,
+        "moveId": "screech"
+      },
+      {
+        "level": 48,
+        "moveId": "stomping_tantrum"
+      },
+      {
+        "level": 53,
+        "moveId": "outrage"
+      },
+      {
+        "level": 57,
+        "moveId": "final_gambit"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "pay_day",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "low_kick",
+      "counter",
+      "strength",
+      "thunderbolt",
+      "thunder",
+      "earthquake",
+      "dig",
+      "toxic",
+      "screech",
+      "double_team",
+      "focus_energy",
+      "metronome",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "reversal",
+      "spite",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "outrage",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "rock_smash",
+      "beat_up",
+      "uproar",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "revenge",
+      "brick_break",
+      "endeavor",
+      "overheat",
+      "rock_tomb",
+      "aerial_ace",
+      "bulk_up",
+      "covet",
+      "u_turn",
+      "close_combat",
+      "payback",
+      "assurance",
+      "fling",
+      "poison_jab",
+      "seed_bomb",
+      "drain_punch",
+      "vacuum_wave",
+      "focus_blast",
+      "giga_impact",
+      "shadow_claw",
+      "rock_climb",
+      "gunk_shot",
+      "stone_edge",
+      "stealth_rock",
+      "hone_claws",
+      "smack_down",
+      "low_sweep",
+      "round",
+      "acrobatics",
+      "retaliate",
+      "bulldoze",
+      "work_up",
+      "confide",
+      "power_up_punch",
+      "throat_chop",
+      "stomping_tantrum",
+      "lash_out",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "plains",
+      "dojo"
+    ]
+  }
+]

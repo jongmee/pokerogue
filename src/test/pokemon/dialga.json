@@ -1,0 +1,183 @@
+[
+  {
+    "_id": "dialga",
+    "gender": "",
+    "pokedexNumber": "483",
+    "name": "dialga",
+    "koName": "디아루가",
+    "speciesName": "dialga",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "340",
+    "friendship": "0",
+    "types": [
+      "steel",
+      "dragon"
+    ],
+    "normalAbilityIds": [
+      "pressure"
+    ],
+    "hiddenAbilityId": "telepathy",
+    "passiveAbilityId": "levitate",
+    "generation": 4,
+    "legendary": true,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 680,
+    "hp": 100,
+    "attack": 120,
+    "defense": 120,
+    "specialAttack": 150,
+    "specialDefense": 100,
+    "speed": 90,
+    "height": 5.4,
+    "weight": 683,
+    "eggMoveIds": [
+      "core_enforcer",
+      "take_heart",
+      "recover",
+      "make_it_rain"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 1,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 8,
+        "moveId": "dragon_breath"
+      },
+      {
+        "level": 16,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 24,
+        "moveId": "slash"
+      },
+      {
+        "level": 32,
+        "moveId": "flash_cannon"
+      },
+      {
+        "level": 40,
+        "moveId": "dragon_claw"
+      },
+      {
+        "level": 48,
+        "moveId": "aura_sphere"
+      },
+      {
+        "level": 56,
+        "moveId": "power_gem"
+      },
+      {
+        "level": 64,
+        "moveId": "metal_burst"
+      },
+      {
+        "level": 72,
+        "moveId": "earth_power"
+      },
+      {
+        "level": 80,
+        "moveId": "iron_tail"
+      },
+      {
+        "level": 88,
+        "moveId": "roar_of_time"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "cut",
+      "body_slam",
+      "take_down",
+      "roar",
+      "flamethrower",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "strength",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "earthquake",
+      "toxic",
+      "double_team",
+      "fire_blast",
+      "swift",
+      "flash",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "outrage",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "iron_tail",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "rock_smash",
+      "facade",
+      "trick",
+      "brick_break",
+      "hyper_voice",
+      "overheat",
+      "rock_tomb",
+      "metal_sound",
+      "aerial_ace",
+      "iron_defense",
+      "dragon_claw",
+      "bulk_up",
+      "gravity",
+      "aura_sphere",
+      "dragon_pulse",
+      "power_gem",
+      "focus_blast",
+      "earth_power",
+      "giga_impact",
+      "shadow_claw",
+      "flash_cannon",
+      "trick_room",
+      "draco_meteor",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "hone_claws",
+      "heavy_slam",
+      "round",
+      "echoed_voice",
+      "incinerate",
+      "bulldoze",
+      "dragon_tail",
+      "confide",
+      "stomping_tantrum",
+      "body_press",
+      "breaking_swipe",
+      "steel_beam",
+      "scale_shot",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "wasteland"
+    ]
+  }
+]

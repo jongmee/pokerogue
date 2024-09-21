@@ -1,0 +1,114 @@
+[
+  {
+    "_id": "mewtwo_mega_y",
+    "gender": "",
+    "pokedexNumber": "150",
+    "name": "mewtwo_mega_y",
+    "koName": "뮤츠_mega_y",
+    "speciesName": "mewtwo",
+    "canChangeForm": true,
+    "formName": "mega_y",
+    "baseExp": "340",
+    "friendship": "0",
+    "types": [
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "insomnia"
+    ],
+    "hiddenAbilityId": "insomnia",
+    "passiveAbilityId": "neuroforce",
+    "generation": 1,
+    "legendary": true,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 780,
+    "hp": 106,
+    "attack": 150,
+    "defense": 70,
+    "specialAttack": 194,
+    "specialDefense": 120,
+    "speed": 140,
+    "height": 1.5,
+    "weight": 33,
+    "eggMoveIds": [
+      "meteor_mash",
+      "moonblast",
+      "thunderous_kick",
+      "photon_geyser"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "disable"
+      },
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 1,
+        "moveId": "swift"
+      },
+      {
+        "level": 1,
+        "moveId": "life_dew"
+      },
+      {
+        "level": 8,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 16,
+        "moveId": "psycho_cut"
+      },
+      {
+        "level": 24,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 32,
+        "moveId": "amnesia"
+      },
+      {
+        "level": 40,
+        "moveId": "aura_sphere"
+      },
+      {
+        "level": 48,
+        "moveId": "psychic"
+      },
+      {
+        "level": 56,
+        "moveId": "power_swap"
+      },
+      {
+        "level": 56,
+        "moveId": "guard_swap"
+      },
+      {
+        "level": 64,
+        "moveId": "mist"
+      },
+      {
+        "level": 72,
+        "moveId": "psystrike"
+      },
+      {
+        "level": 80,
+        "moveId": "recover"
+      },
+      {
+        "level": 88,
+        "moveId": "future_sight"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "laboratory"
+    ]
+  }
+]

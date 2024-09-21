@@ -1,0 +1,186 @@
+[
+  {
+    "_id": "mandibuzz",
+    "gender": "",
+    "pokedexNumber": "630",
+    "name": "mandibuzz",
+    "koName": "버랜지나",
+    "speciesName": "mandibuzz",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "179",
+    "friendship": "35",
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "big_pecks",
+      "overcoat"
+    ],
+    "hiddenAbilityId": "weak_armor",
+    "passiveAbilityId": "thick_fat",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 510,
+    "hp": 110,
+    "attack": 65,
+    "defense": 105,
+    "specialAttack": 55,
+    "specialDefense": 95,
+    "speed": 80,
+    "height": 1.2,
+    "weight": 39.5,
+    "eggMoveIds": [
+      "foul_play",
+      "body_press",
+      "roost",
+      "ruination"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "bone_rush"
+      },
+      {
+        "level": 1,
+        "moveId": "gust"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "toxic"
+      },
+      {
+        "level": 1,
+        "moveId": "sky_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "flatter"
+      },
+      {
+        "level": 1,
+        "moveId": "pluck"
+      },
+      {
+        "level": 18,
+        "moveId": "tailwind"
+      },
+      {
+        "level": 24,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 30,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 36,
+        "moveId": "whirlwind"
+      },
+      {
+        "level": 42,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 48,
+        "moveId": "dark_pulse"
+      },
+      {
+        "level": 57,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 64,
+        "moveId": "defog"
+      },
+      {
+        "level": 72,
+        "moveId": "attract"
+      },
+      {
+        "level": 80,
+        "moveId": "brave_bird"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "cut",
+      "fly",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "toxic",
+      "double_team",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "spite",
+      "protect",
+      "scary_face",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "rock_smash",
+      "uproar",
+      "heat_wave",
+      "torment",
+      "facade",
+      "taunt",
+      "knock_off",
+      "feather_dance",
+      "fake_tears",
+      "air_cutter",
+      "rock_tomb",
+      "aerial_ace",
+      "iron_defense",
+      "roost",
+      "pluck",
+      "tailwind",
+      "u_turn",
+      "payback",
+      "assurance",
+      "embargo",
+      "dark_pulse",
+      "air_slash",
+      "brave_bird",
+      "giga_impact",
+      "nasty_plot",
+      "defog",
+      "foul_play",
+      "round",
+      "incinerate",
+      "acrobatics",
+      "retaliate",
+      "hurricane",
+      "snarl",
+      "confide",
+      "lash_out",
+      "dual_wingbeat",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "mountain"
+    ]
+  }
+]

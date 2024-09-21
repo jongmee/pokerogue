@@ -1,0 +1,164 @@
+[
+  {
+    "_id": "greedent",
+    "gender": "",
+    "pokedexNumber": "820",
+    "name": "greedent",
+    "koName": "요씽리스",
+    "speciesName": "greedent",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "161",
+    "friendship": "50",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "cheek_pouch"
+    ],
+    "hiddenAbilityId": "gluttony",
+    "passiveAbilityId": "harvest",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 460,
+    "hp": 120,
+    "attack": 95,
+    "defense": 95,
+    "specialAttack": 55,
+    "specialDefense": 75,
+    "speed": 20,
+    "height": 0.6,
+    "weight": 6,
+    "eggMoveIds": [
+      "knock_off",
+      "slack_off",
+      "body_press",
+      "population_bomb"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "covet"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "bite"
+      },
+      {
+        "level": 1,
+        "moveId": "stuff_cheeks"
+      },
+      {
+        "level": 15,
+        "moveId": "stockpile"
+      },
+      {
+        "level": 15,
+        "moveId": "spit_up"
+      },
+      {
+        "level": 15,
+        "moveId": "swallow"
+      },
+      {
+        "level": 20,
+        "moveId": "body_slam"
+      },
+      {
+        "level": 27,
+        "moveId": "rest"
+      },
+      {
+        "level": 34,
+        "moveId": "counter"
+      },
+      {
+        "level": 41,
+        "moveId": "bullet_seed"
+      },
+      {
+        "level": 48,
+        "moveId": "super_fang"
+      },
+      {
+        "level": 55,
+        "moveId": "belch"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "counter",
+      "earthquake",
+      "dig",
+      "double_team",
+      "amnesia",
+      "rest",
+      "super_fang",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "uproar",
+      "facade",
+      "superpower",
+      "knock_off",
+      "endeavor",
+      "hyper_voice",
+      "bullet_seed",
+      "mud_shot",
+      "covet",
+      "gyro_ball",
+      "payback",
+      "assurance",
+      "fling",
+      "seed_bomb",
+      "giga_impact",
+      "thunder_fang",
+      "ice_fang",
+      "fire_fang",
+      "round",
+      "bulldoze",
+      "wild_charge",
+      "tail_slap",
+      "high_horsepower",
+      "brutal_swing",
+      "psychic_fangs",
+      "stomping_tantrum",
+      "body_press",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "plains"
+    ]
+  }
+]

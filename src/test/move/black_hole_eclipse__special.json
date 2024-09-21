@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "black_hole_eclipse__special",
+    "name": "Black Hole Eclipse",
+    "koName": "블랙홀이클립스",
+    "type": "dark",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 1,
+    "effect": "Dummy Data",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": " (N)",
+    "flags": [
+      "ignore_virtual"
+    ],
+    "pokemonIds": []
+  }
+]

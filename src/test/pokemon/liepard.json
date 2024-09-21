@@ -1,0 +1,169 @@
+[
+  {
+    "_id": "liepard",
+    "gender": "",
+    "pokedexNumber": "510",
+    "name": "liepard",
+    "koName": "레파르다스",
+    "speciesName": "liepard",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "156",
+    "friendship": "50",
+    "types": [
+      "dark"
+    ],
+    "normalAbilityIds": [
+      "limber",
+      "unburden"
+    ],
+    "hiddenAbilityId": "prankster",
+    "passiveAbilityId": "pickup",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 446,
+    "hp": 64,
+    "attack": 88,
+    "defense": 50,
+    "specialAttack": 88,
+    "specialDefense": 50,
+    "speed": 106,
+    "height": 1.1,
+    "weight": 37.5,
+    "eggMoveIds": [
+      "encore",
+      "obstruct",
+      "parting_shot",
+      "wicked_blow"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "assist"
+      },
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "fake_out"
+      },
+      {
+        "level": 12,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 16,
+        "moveId": "torment"
+      },
+      {
+        "level": 23,
+        "moveId": "assurance"
+      },
+      {
+        "level": 28,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 34,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 40,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 46,
+        "moveId": "night_slash"
+      },
+      {
+        "level": 52,
+        "moveId": "play_rough"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "pay_day",
+      "cut",
+      "hyper_beam",
+      "thunder_wave",
+      "toxic",
+      "screech",
+      "double_team",
+      "swift",
+      "dream_eater",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "spite",
+      "protect",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "rock_smash",
+      "torment",
+      "facade",
+      "taunt",
+      "trick",
+      "knock_off",
+      "hyper_voice",
+      "fake_tears",
+      "aerial_ace",
+      "covet",
+      "u_turn",
+      "payback",
+      "assurance",
+      "embargo",
+      "dark_pulse",
+      "seed_bomb",
+      "giga_impact",
+      "nasty_plot",
+      "shadow_claw",
+      "psycho_cut",
+      "gunk_shot",
+      "grass_knot",
+      "hone_claws",
+      "foul_play",
+      "round",
+      "echoed_voice",
+      "snarl",
+      "play_rough",
+      "confide",
+      "throat_chop",
+      "skitter_smack",
+      "burning_jealousy",
+      "lash_out",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "abyss",
+      "jungle"
+    ]
+  }
+]

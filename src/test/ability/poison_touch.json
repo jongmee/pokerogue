@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "poison_touch",
+    "name": "Poison Touch",
+    "koName": "독수",
+    "realased": "",
+    "description": "접촉하기만 해도 상대를 독 상태로 만들 때가 있다.",
+    "generation": 5,
+    "pokemonIds": [
+      "grimer",
+      "muk",
+      "croagunk",
+      "toxicroak",
+      "seismitoad",
+      "skrelp",
+      "dragalge",
+      "sneasler",
+      "grafaiai",
+      "alola_grimer",
+      "alola_muk"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

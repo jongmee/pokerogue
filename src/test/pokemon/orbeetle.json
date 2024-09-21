@@ -1,0 +1,169 @@
+[
+  {
+    "_id": "orbeetle",
+    "gender": "",
+    "pokedexNumber": "826",
+    "name": "orbeetle",
+    "koName": "이올브",
+    "speciesName": "orbeetle",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "253",
+    "friendship": "50",
+    "types": [
+      "bug",
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "swarm",
+      "frisk"
+    ],
+    "hiddenAbilityId": "telepathy",
+    "passiveAbilityId": "psychic_surge",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 505,
+    "hp": 60,
+    "attack": 45,
+    "defense": 110,
+    "specialAttack": 80,
+    "specialDefense": 120,
+    "speed": 90,
+    "height": 0.4,
+    "weight": 40.8,
+    "eggMoveIds": [
+      "heal_order",
+      "expanding_force",
+      "spore",
+      "tail_glow"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 1,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 1,
+        "moveId": "reflect"
+      },
+      {
+        "level": 1,
+        "moveId": "struggle_bug"
+      },
+      {
+        "level": 4,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 8,
+        "moveId": "magic_coat"
+      },
+      {
+        "level": 12,
+        "moveId": "agility"
+      },
+      {
+        "level": 16,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 20,
+        "moveId": "hypnosis"
+      },
+      {
+        "level": 24,
+        "moveId": "ally_switch"
+      },
+      {
+        "level": 28,
+        "moveId": "bug_buzz"
+      },
+      {
+        "level": 32,
+        "moveId": "mirror_coat"
+      },
+      {
+        "level": 36,
+        "moveId": "psychic"
+      },
+      {
+        "level": 40,
+        "moveId": "after_you"
+      },
+      {
+        "level": 44,
+        "moveId": "calm_mind"
+      },
+      {
+        "level": 48,
+        "moveId": "psychic_terrain"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "psybeam",
+      "hyper_beam",
+      "solar_beam",
+      "psychic",
+      "agility",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "leech_life",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "giga_drain",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "baton_pass",
+      "hidden_power",
+      "shadow_ball",
+      "future_sight",
+      "facade",
+      "helping_hand",
+      "trick",
+      "skill_swap",
+      "imprison",
+      "iron_defense",
+      "calm_mind",
+      "u_turn",
+      "payback",
+      "power_swap",
+      "guard_swap",
+      "bug_buzz",
+      "energy_ball",
+      "giga_impact",
+      "psycho_cut",
+      "zen_headbutt",
+      "trick_room",
+      "wonder_room",
+      "psyshock",
+      "magic_room",
+      "round",
+      "stored_power",
+      "ally_switch",
+      "struggle_bug",
+      "psychic_terrain",
+      "body_press",
+      "expanding_force"
+    ],
+    "biomeIds": [
+      "forest"
+    ]
+  }
+]

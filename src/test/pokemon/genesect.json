@@ -1,0 +1,178 @@
+[
+  {
+    "_id": "genesect",
+    "gender": "",
+    "pokedexNumber": "649",
+    "name": "genesect",
+    "koName": "게노세크트",
+    "speciesName": "genesect",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "300",
+    "friendship": "0",
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "normalAbilityIds": [
+      "download"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "protean",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": true,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 600,
+    "hp": 71,
+    "attack": 120,
+    "defense": 95,
+    "specialAttack": 120,
+    "specialDefense": 95,
+    "speed": 99,
+    "height": 1.5,
+    "weight": 82.5,
+    "eggMoveIds": [
+      "extreme_speed",
+      "u_turn",
+      "tachyon_cutter",
+      "tail_glow"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "fury_cutter"
+      },
+      {
+        "level": 7,
+        "moveId": "screech"
+      },
+      {
+        "level": 14,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 21,
+        "moveId": "fell_stinger"
+      },
+      {
+        "level": 28,
+        "moveId": "flame_charge"
+      },
+      {
+        "level": 35,
+        "moveId": "metal_sound"
+      },
+      {
+        "level": 42,
+        "moveId": "x_scissor"
+      },
+      {
+        "level": 49,
+        "moveId": "magnet_rise"
+      },
+      {
+        "level": 56,
+        "moveId": "bug_buzz"
+      },
+      {
+        "level": 63,
+        "moveId": "simple_beam"
+      },
+      {
+        "level": 70,
+        "moveId": "zap_cannon"
+      },
+      {
+        "level": 77,
+        "moveId": "lock_on"
+      },
+      {
+        "level": 84,
+        "moveId": "techno_blast"
+      },
+      {
+        "level": 91,
+        "moveId": "self_destruct"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fly",
+      "flamethrower",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "psychic",
+      "screech",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "self_destruct",
+      "swift",
+      "leech_life",
+      "flash",
+      "explosion",
+      "rest",
+      "tri_attack",
+      "substitute",
+      "snore",
+      "protect",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "metal_claw",
+      "hidden_power",
+      "facade",
+      "recycle",
+      "blaze_kick",
+      "metal_sound",
+      "signal_beam",
+      "aerial_ace",
+      "iron_defense",
+      "gravity",
+      "u_turn",
+      "assurance",
+      "rock_polish",
+      "dark_pulse",
+      "x_scissor",
+      "bug_buzz",
+      "energy_ball",
+      "giga_impact",
+      "shadow_claw",
+      "zen_headbutt",
+      "flash_cannon",
+      "gunk_shot",
+      "iron_head",
+      "bug_bite",
+      "charge_beam",
+      "hone_claws",
+      "flame_charge",
+      "round",
+      "ally_switch",
+      "struggle_bug",
+      "electroweb",
+      "confide",
+      "infestation",
+      "steel_beam",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "factory"
+    ]
+  }
+]

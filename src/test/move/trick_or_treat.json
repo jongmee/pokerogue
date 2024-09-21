@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "trick_or_treat",
+    "name": "Trick-or-Treat",
+    "koName": "핼러윈",
+    "type": "ghost",
+    "moveCategory": "status",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": 100,
+    "powerPoint": 20,
+    "effect": "상대를 핼러윈으로 초대한다. 상대 타입에 고스트타입이 추가된다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 6,
+    "realased": " (P)",
+    "flags": [],
+    "pokemonIds": [
+      "pumpkaboo",
+      "gourgeist"
+    ]
+  }
+]

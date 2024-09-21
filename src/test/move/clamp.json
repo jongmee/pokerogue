@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "clamp",
+    "name": "Clamp",
+    "koName": "껍질끼우기",
+    "type": "water",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 35,
+    "accuracy": 85,
+    "powerPoint": 15,
+    "effect": "매우 튼튼하고 두꺼운 껍질에 4-5턴 동안 상대를 끼워서 공격한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 1,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "clamperl"
+    ]
+  }
+]

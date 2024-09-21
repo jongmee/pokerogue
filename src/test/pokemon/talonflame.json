@@ -1,0 +1,174 @@
+[
+  {
+    "_id": "talonflame",
+    "gender": "",
+    "pokedexNumber": "663",
+    "name": "talonflame",
+    "koName": "파이어로",
+    "speciesName": "talonflame",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "175",
+    "friendship": "50",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "flame_body"
+    ],
+    "hiddenAbilityId": "gale_wings",
+    "passiveAbilityId": "magic_guard",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 499,
+    "hp": 78,
+    "attack": 81,
+    "defense": 71,
+    "specialAttack": 74,
+    "specialDefense": 69,
+    "speed": 126,
+    "height": 1.2,
+    "weight": 24.5,
+    "eggMoveIds": [
+      "drill_run",
+      "burning_bulwark",
+      "head_smash",
+      "volt_tackle"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 1,
+        "moveId": "peck"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "feint"
+      },
+      {
+        "level": 1,
+        "moveId": "flare_blitz"
+      },
+      {
+        "level": 1,
+        "moveId": "flame_charge"
+      },
+      {
+        "level": 15,
+        "moveId": "flail"
+      },
+      {
+        "level": 22,
+        "moveId": "acrobatics"
+      },
+      {
+        "level": 29,
+        "moveId": "agility"
+      },
+      {
+        "level": 38,
+        "moveId": "aerial_ace"
+      },
+      {
+        "level": 47,
+        "moveId": "tailwind"
+      },
+      {
+        "level": 56,
+        "moveId": "steel_wing"
+      },
+      {
+        "level": 65,
+        "moveId": "roost"
+      },
+      {
+        "level": 74,
+        "moveId": "fly"
+      },
+      {
+        "level": 83,
+        "moveId": "brave_bird"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "fly",
+      "take_down",
+      "double_edge",
+      "flamethrower",
+      "hyper_beam",
+      "solar_beam",
+      "fire_spin",
+      "toxic",
+      "agility",
+      "double_team",
+      "fire_blast",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "endure",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "taunt",
+      "feather_dance",
+      "air_cutter",
+      "overheat",
+      "aerial_ace",
+      "bulk_up",
+      "roost",
+      "tailwind",
+      "u_turn",
+      "flare_blitz",
+      "air_slash",
+      "brave_bird",
+      "giga_impact",
+      "defog",
+      "hone_claws",
+      "flame_charge",
+      "round",
+      "incinerate",
+      "acrobatics",
+      "work_up",
+      "hurricane",
+      "confide",
+      "dual_wingbeat",
+      "tera_blast",
+      "temper_flare",
+      "upper_hand"
+    ],
+    "biomeIds": [
+      "plains",
+      "mountain"
+    ]
+  }
+]

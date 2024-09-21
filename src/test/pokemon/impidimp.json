@@ -1,0 +1,153 @@
+[
+  {
+    "_id": "impidimp",
+    "gender": "",
+    "pokedexNumber": "859",
+    "name": "impidimp",
+    "koName": "메롱꿍",
+    "speciesName": "impidimp",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "53",
+    "friendship": "50",
+    "types": [
+      "dark",
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "prankster",
+      "frisk"
+    ],
+    "hiddenAbilityId": "pickpocket",
+    "passiveAbilityId": "fur_coat",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 265,
+    "hp": 45,
+    "attack": 45,
+    "defense": 30,
+    "specialAttack": 55,
+    "specialDefense": 40,
+    "speed": 50,
+    "height": 0.4,
+    "weight": 5.5,
+    "eggMoveIds": [
+      "encore",
+      "parting_shot",
+      "topsy_turvy",
+      "wicked_blow"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "fake_out"
+      },
+      {
+        "level": 1,
+        "moveId": "confide"
+      },
+      {
+        "level": 4,
+        "moveId": "bite"
+      },
+      {
+        "level": 8,
+        "moveId": "flatter"
+      },
+      {
+        "level": 12,
+        "moveId": "fake_tears"
+      },
+      {
+        "level": 16,
+        "moveId": "assurance"
+      },
+      {
+        "level": 20,
+        "moveId": "swagger"
+      },
+      {
+        "level": 24,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 28,
+        "moveId": "torment"
+      },
+      {
+        "level": 33,
+        "moveId": "dark_pulse"
+      },
+      {
+        "level": 36,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 40,
+        "moveId": "play_rough"
+      },
+      {
+        "level": 44,
+        "moveId": "foul_play"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "mega_kick",
+      "take_down",
+      "low_kick",
+      "thunder_wave",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "metronome",
+      "leech_life",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "scary_face",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "uproar",
+      "torment",
+      "facade",
+      "taunt",
+      "trick",
+      "revenge",
+      "fake_tears",
+      "assurance",
+      "fling",
+      "dark_pulse",
+      "drain_punch",
+      "nasty_plot",
+      "foul_play",
+      "round",
+      "retaliate",
+      "draining_kiss",
+      "misty_terrain",
+      "play_rough",
+      "confide",
+      "dazzling_gleam",
+      "burning_jealousy",
+      "lash_out",
+      "tera_blast",
+      "trailblaze",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "abyss"
+    ]
+  }
+]

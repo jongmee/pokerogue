@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "fairy_lock",
+    "name": "Fairy Lock",
+    "koName": "페어리록",
+    "type": "fairy",
+    "moveCategory": "status",
+    "moveTarget": "both_sides",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 10,
+    "effect": "록을 걸어 다음 턴의 모든 포켓몬을 도망가지 못하게 한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 6,
+    "realased": " (N)",
+    "flags": [],
+    "pokemonIds": [
+      "klefki"
+    ]
+  }
+]

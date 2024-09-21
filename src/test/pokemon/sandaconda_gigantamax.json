@@ -1,0 +1,98 @@
+[
+  {
+    "_id": "sandaconda_gigantamax",
+    "gender": "",
+    "pokedexNumber": "844",
+    "name": "sandaconda_gigantamax",
+    "koName": "사다이사_gigantamax",
+    "speciesName": "sandaconda",
+    "canChangeForm": true,
+    "formName": "g_max",
+    "baseExp": "179",
+    "friendship": "50",
+    "types": [
+      "ground"
+    ],
+    "normalAbilityIds": [
+      "sand_spit"
+    ],
+    "hiddenAbilityId": "sand_spit",
+    "passiveAbilityId": "sand_rush",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 610,
+    "hp": 117,
+    "attack": 137,
+    "defense": 140,
+    "specialAttack": 55,
+    "specialDefense": 80,
+    "speed": 81,
+    "height": 22,
+    "weight": 65.5,
+    "eggMoveIds": [
+      "shore_up",
+      "shed_tail",
+      "mountain_gale",
+      "thousand_arrows"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "wrap"
+      },
+      {
+        "level": 1,
+        "moveId": "minimize"
+      },
+      {
+        "level": 1,
+        "moveId": "brutal_swing"
+      },
+      {
+        "level": 15,
+        "moveId": "bulldoze"
+      },
+      {
+        "level": 20,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 25,
+        "moveId": "glare"
+      },
+      {
+        "level": 30,
+        "moveId": "dig"
+      },
+      {
+        "level": 35,
+        "moveId": "sandstorm"
+      },
+      {
+        "level": 42,
+        "moveId": "slam"
+      },
+      {
+        "level": 49,
+        "moveId": "coil"
+      },
+      {
+        "level": 51,
+        "moveId": "sand_tomb"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "desert"
+    ]
+  }
+]

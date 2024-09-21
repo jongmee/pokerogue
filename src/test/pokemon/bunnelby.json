@@ -1,0 +1,166 @@
+[
+  {
+    "_id": "bunnelby",
+    "gender": "",
+    "pokedexNumber": "659",
+    "name": "bunnelby",
+    "koName": "파르빗",
+    "speciesName": "bunnelby",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "47",
+    "friendship": "50",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "pickup",
+      "cheek_pouch"
+    ],
+    "hiddenAbilityId": "huge_power",
+    "passiveAbilityId": "guts",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 237,
+    "hp": 38,
+    "attack": 36,
+    "defense": 38,
+    "specialAttack": 32,
+    "specialDefense": 36,
+    "speed": 57,
+    "height": 0.4,
+    "weight": 5,
+    "eggMoveIds": [
+      "drain_punch",
+      "tidy_up",
+      "facade",
+      "extreme_speed"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "mud_slap"
+      },
+      {
+        "level": 3,
+        "moveId": "tackle"
+      },
+      {
+        "level": 6,
+        "moveId": "laser_focus"
+      },
+      {
+        "level": 9,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 12,
+        "moveId": "mud_shot"
+      },
+      {
+        "level": 15,
+        "moveId": "flail"
+      },
+      {
+        "level": 18,
+        "moveId": "double_kick"
+      },
+      {
+        "level": 21,
+        "moveId": "bulldoze"
+      },
+      {
+        "level": 24,
+        "moveId": "dig"
+      },
+      {
+        "level": 27,
+        "moveId": "bounce"
+      },
+      {
+        "level": 30,
+        "moveId": "take_down"
+      },
+      {
+        "level": 33,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 36,
+        "moveId": "earthquake"
+      },
+      {
+        "level": 39,
+        "moveId": "super_fang"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "take_down",
+      "surf",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "agility",
+      "double_team",
+      "rest",
+      "rock_slide",
+      "super_fang",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "sludge_bomb",
+      "mud_slap",
+      "spikes",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rock_smash",
+      "torment",
+      "facade",
+      "nature_power",
+      "recycle",
+      "brick_break",
+      "endeavor",
+      "rock_tomb",
+      "bulk_up",
+      "bounce",
+      "mud_shot",
+      "u_turn",
+      "payback",
+      "fling",
+      "iron_head",
+      "stone_edge",
+      "grass_knot",
+      "smack_down",
+      "round",
+      "bulldoze",
+      "work_up",
+      "wild_charge",
+      "confide",
+      "power_up_punch",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "cave"
+    ]
+  }
+]

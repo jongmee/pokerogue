@@ -1,0 +1,103 @@
+[
+  {
+    "_id": "cramorant_gorging",
+    "gender": "",
+    "pokedexNumber": "845",
+    "name": "cramorant_gorging",
+    "koName": "윽우지_gorging",
+    "speciesName": "cramorant",
+    "canChangeForm": true,
+    "formName": "gorging_form",
+    "baseExp": "166",
+    "friendship": "50",
+    "types": [
+      "flying",
+      "water"
+    ],
+    "normalAbilityIds": [
+      "gulp_missile"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "lightning_rod",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 475,
+    "hp": 70,
+    "attack": 85,
+    "defense": 55,
+    "specialAttack": 85,
+    "specialDefense": 95,
+    "speed": 85,
+    "height": 0.8,
+    "weight": 18,
+    "eggMoveIds": [
+      "apple_acid",
+      "surf",
+      "scorching_sands",
+      "oblivion_wing"
+    ],
+    "levelMoves": [
+      {
+        "level": -1,
+        "moveId": "belch"
+      },
+      {
+        "level": 1,
+        "moveId": "peck"
+      },
+      {
+        "level": 1,
+        "moveId": "stockpile"
+      },
+      {
+        "level": 1,
+        "moveId": "spit_up"
+      },
+      {
+        "level": 1,
+        "moveId": "swallow"
+      },
+      {
+        "level": 7,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 14,
+        "moveId": "fury_attack"
+      },
+      {
+        "level": 21,
+        "moveId": "pluck"
+      },
+      {
+        "level": 28,
+        "moveId": "dive"
+      },
+      {
+        "level": 35,
+        "moveId": "drill_peck"
+      },
+      {
+        "level": 42,
+        "moveId": "amnesia"
+      },
+      {
+        "level": 49,
+        "moveId": "thrash"
+      },
+      {
+        "level": 56,
+        "moveId": "hydro_pump"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "sea"
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "delta_stream",
+    "name": "Delta Stream",
+    "koName": "델타스트림",
+    "realased": "",
+    "description": "비행타입의 약점이 없어지는 날씨로 만든다.",
+    "generation": 6,
+    "pokemonIds": [
+      "lugia",
+      "rayquaza_mega"
+    ],
+    "isBypassFaint": true,
+    "isIgnorable": false
+  }
+]

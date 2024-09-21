@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "shield_dust",
+    "name": "Shield Dust",
+    "koName": "인분",
+    "realased": " (P)",
+    "description": "인분에 보호받아 기술의 추가 효과를 받지 않게 된다.",
+    "generation": 3,
+    "pokemonIds": [
+      "caterpie",
+      "weedle",
+      "venomoth",
+      "wurmple",
+      "dustox",
+      "scatterbug",
+      "cutiefly",
+      "ribombee",
+      "snom",
+      "frosmoth"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

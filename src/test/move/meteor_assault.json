@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "meteor_assault",
+    "name": "Meteor Assault",
+    "koName": "스타어설트",
+    "type": "fighting",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 150,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "굵은 줄기를 휘둘러서 공격한다. 단 자신도 비틀거리기 때문에 다음 턴은 움직일 수 없다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "sirfetchd"
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "good_as_gold",
+    "name": "Good as Gold",
+    "koName": "황금몸",
+    "realased": " (P)",
+    "description": "산화하지 않는 튼튼한 황금몸 덕분에 상대의 변화 기술의 영향을 받지 않는다.",
+    "generation": 9,
+    "pokemonIds": [
+      "gholdengo"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

@@ -1,0 +1,187 @@
+[
+  {
+    "_id": "ninetales",
+    "gender": "",
+    "pokedexNumber": "38",
+    "name": "ninetales",
+    "koName": "나인테일",
+    "speciesName": "ninetales",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "177",
+    "friendship": "50",
+    "types": [
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "flash_fire"
+    ],
+    "hiddenAbilityId": "drought",
+    "passiveAbilityId": "fur_coat",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 505,
+    "hp": 73,
+    "attack": 76,
+    "defense": 75,
+    "specialAttack": 81,
+    "specialDefense": 100,
+    "speed": 100,
+    "height": 1.1,
+    "weight": 19.9,
+    "eggMoveIds": [
+      "moonblast",
+      "infernal_parade",
+      "morning_sun",
+      "tail_glow"
+    ],
+    "levelMoves": [
+      {
+        "level": -1,
+        "moveId": "disable"
+      },
+      {
+        "level": -1,
+        "moveId": "ember"
+      },
+      {
+        "level": -1,
+        "moveId": "fire_spin"
+      },
+      {
+        "level": -1,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": -1,
+        "moveId": "fire_blast"
+      },
+      {
+        "level": -1,
+        "moveId": "spite"
+      },
+      {
+        "level": -1,
+        "moveId": "safeguard"
+      },
+      {
+        "level": -1,
+        "moveId": "will_o_wisp"
+      },
+      {
+        "level": -1,
+        "moveId": "imprison"
+      },
+      {
+        "level": -1,
+        "moveId": "extrasensory"
+      },
+      {
+        "level": -1,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": -1,
+        "moveId": "incinerate"
+      },
+      {
+        "level": -1,
+        "moveId": "inferno"
+      },
+      {
+        "level": 1,
+        "moveId": "flamethrower"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "hyper_beam",
+      "solar_beam",
+      "fire_spin",
+      "dig",
+      "toxic",
+      "agility",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "reflect",
+      "fire_blast",
+      "swift",
+      "dream_eater",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "pain_split",
+      "baton_pass",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "helping_hand",
+      "imprison",
+      "weather_ball",
+      "fake_tears",
+      "overheat",
+      "covet",
+      "calm_mind",
+      "payback",
+      "power_swap",
+      "flare_blitz",
+      "dark_pulse",
+      "energy_ball",
+      "giga_impact",
+      "nasty_plot",
+      "zen_headbutt",
+      "psyshock",
+      "flame_charge",
+      "foul_play",
+      "round",
+      "stored_power",
+      "hex",
+      "incinerate",
+      "tail_slap",
+      "snarl",
+      "confide",
+      "mystical_fire",
+      "burning_jealousy",
+      "scorching_sands",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "volcano"
+    ]
+  }
+]

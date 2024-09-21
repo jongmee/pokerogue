@@ -1,0 +1,166 @@
+[
+  {
+    "_id": "scovillain",
+    "gender": "",
+    "pokedexNumber": "952",
+    "name": "scovillain",
+    "koName": "스코빌런",
+    "speciesName": "scovillain",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "170",
+    "friendship": "50",
+    "types": [
+      "grass",
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "chlorophyll",
+      "insomnia"
+    ],
+    "hiddenAbilityId": "moody",
+    "passiveAbilityId": "parental_bond",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 486,
+    "hp": 65,
+    "attack": 108,
+    "defense": 65,
+    "specialAttack": 108,
+    "specialDefense": 65,
+    "speed": 75,
+    "height": 0.9,
+    "weight": 15,
+    "eggMoveIds": [
+      "strength_sap",
+      "apple_acid",
+      "frost_breath",
+      "torch_song"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "flamethrower"
+      },
+      {
+        "level": 0,
+        "moveId": "spicy_extract"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "fire_fang"
+      },
+      {
+        "level": 1,
+        "moveId": "leafage"
+      },
+      {
+        "level": 4,
+        "moveId": "bite"
+      },
+      {
+        "level": 10,
+        "moveId": "growth"
+      },
+      {
+        "level": 13,
+        "moveId": "razor_leaf"
+      },
+      {
+        "level": 17,
+        "moveId": "sunny_day"
+      },
+      {
+        "level": 21,
+        "moveId": "bullet_seed"
+      },
+      {
+        "level": 24,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 28,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 33,
+        "moveId": "worry_seed"
+      },
+      {
+        "level": 38,
+        "moveId": "crunch"
+      },
+      {
+        "level": 44,
+        "moveId": "seed_bomb"
+      },
+      {
+        "level": 48,
+        "moveId": "solar_beam"
+      },
+      {
+        "level": 48,
+        "moveId": "overheat"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "flamethrower",
+      "hyper_beam",
+      "solar_beam",
+      "double_team",
+      "fire_blast",
+      "rest",
+      "super_fang",
+      "substitute",
+      "thief",
+      "protect",
+      "scary_face",
+      "sandstorm",
+      "giga_drain",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "sunny_day",
+      "crunch",
+      "will_o_wisp",
+      "facade",
+      "helping_hand",
+      "endeavor",
+      "overheat",
+      "bullet_seed",
+      "magical_leaf",
+      "worry_seed",
+      "seed_bomb",
+      "energy_ball",
+      "giga_impact",
+      "fire_fang",
+      "zen_headbutt",
+      "leaf_storm",
+      "grass_knot",
+      "grassy_terrain",
+      "stomping_tantrum",
+      "grassy_glide",
+      "burning_jealousy",
+      "lash_out",
+      "tera_blast",
+      "trailblaze",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "badlands"
+    ]
+  }
+]

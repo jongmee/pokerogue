@@ -1,0 +1,170 @@
+[
+  {
+    "_id": "elgyem",
+    "gender": "",
+    "pokedexNumber": "605",
+    "name": "elgyem",
+    "koName": "리그레",
+    "speciesName": "elgyem",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "67",
+    "friendship": "50",
+    "types": [
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "telepathy",
+      "synchronize"
+    ],
+    "hiddenAbilityId": "analytic",
+    "passiveAbilityId": "prism_armor",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 335,
+    "hp": 55,
+    "attack": 55,
+    "defense": 55,
+    "specialAttack": 85,
+    "specialDefense": 55,
+    "speed": 30,
+    "height": 0.5,
+    "weight": 9,
+    "eggMoveIds": [
+      "luster_purge",
+      "trick_room",
+      "aura_sphere",
+      "tail_glow"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 6,
+        "moveId": "imprison"
+      },
+      {
+        "level": 8,
+        "moveId": "heal_block"
+      },
+      {
+        "level": 12,
+        "moveId": "teleport"
+      },
+      {
+        "level": 18,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 24,
+        "moveId": "guard_split"
+      },
+      {
+        "level": 24,
+        "moveId": "power_split"
+      },
+      {
+        "level": 30,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 36,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 43,
+        "moveId": "recover"
+      },
+      {
+        "level": 48,
+        "moveId": "calm_mind"
+      },
+      {
+        "level": 54,
+        "moveId": "wonder_room"
+      },
+      {
+        "level": 60,
+        "moveId": "psychic"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "psybeam",
+      "thunderbolt",
+      "thunder_wave",
+      "toxic",
+      "psychic",
+      "agility",
+      "screech",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "dream_eater",
+      "flash",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "endure",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "pain_split",
+      "hidden_power",
+      "rain_dance",
+      "psych_up",
+      "shadow_ball",
+      "uproar",
+      "facade",
+      "trick",
+      "recycle",
+      "skill_swap",
+      "imprison",
+      "rock_tomb",
+      "cosmic_power",
+      "signal_beam",
+      "calm_mind",
+      "gravity",
+      "embargo",
+      "power_swap",
+      "guard_swap",
+      "dark_pulse",
+      "energy_ball",
+      "nasty_plot",
+      "zen_headbutt",
+      "trick_room",
+      "charge_beam",
+      "wonder_room",
+      "psyshock",
+      "round",
+      "echoed_voice",
+      "stored_power",
+      "ally_switch",
+      "confide",
+      "expanding_force",
+      "meteor_beam",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "ruins",
+      "space"
+    ]
+  }
+]

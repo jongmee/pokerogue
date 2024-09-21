@@ -1,0 +1,207 @@
+[
+  {
+    "_id": "lopunny",
+    "gender": "",
+    "pokedexNumber": "428",
+    "name": "lopunny",
+    "koName": "이어롭",
+    "speciesName": "lopunny",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "168",
+    "friendship": "140",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "cute_charm",
+      "klutz"
+    ],
+    "hiddenAbilityId": "limber",
+    "passiveAbilityId": "adaptability",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 480,
+    "hp": 65,
+    "attack": 76,
+    "defense": 84,
+    "specialAttack": 54,
+    "specialDefense": 96,
+    "speed": 105,
+    "height": 1.2,
+    "weight": 33.3,
+    "eggMoveIds": [
+      "triple_axel",
+      "swords_dance",
+      "thunderous_kick",
+      "multi_attack"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "return"
+      },
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": 1,
+        "moveId": "splash"
+      },
+      {
+        "level": 1,
+        "moveId": "mirror_coat"
+      },
+      {
+        "level": 1,
+        "moveId": "magic_coat"
+      },
+      {
+        "level": 1,
+        "moveId": "baby_doll_eyes"
+      },
+      {
+        "level": 1,
+        "moveId": "rototiller"
+      },
+      {
+        "level": 12,
+        "moveId": "after_you"
+      },
+      {
+        "level": 16,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 20,
+        "moveId": "double_kick"
+      },
+      {
+        "level": 24,
+        "moveId": "charm"
+      },
+      {
+        "level": 28,
+        "moveId": "baton_pass"
+      },
+      {
+        "level": 32,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 36,
+        "moveId": "agility"
+      },
+      {
+        "level": 40,
+        "moveId": "entrainment"
+      },
+      {
+        "level": 44,
+        "moveId": "flatter"
+      },
+      {
+        "level": 48,
+        "moveId": "bounce"
+      },
+      {
+        "level": 52,
+        "moveId": "healing_wish"
+      },
+      {
+        "level": 56,
+        "moveId": "high_jump_kick"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "cut",
+      "mega_kick",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "low_kick",
+      "strength",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "dig",
+      "toxic",
+      "agility",
+      "double_team",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "reversal",
+      "protect",
+      "mud_slap",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "baton_pass",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "shadow_ball",
+      "rock_smash",
+      "uproar",
+      "facade",
+      "focus_punch",
+      "helping_hand",
+      "endeavor",
+      "hyper_voice",
+      "fake_tears",
+      "cosmic_power",
+      "bounce",
+      "covet",
+      "water_pulse",
+      "u_turn",
+      "close_combat",
+      "payback",
+      "assurance",
+      "fling",
+      "aura_sphere",
+      "drain_punch",
+      "focus_blast",
+      "giga_impact",
+      "grass_knot",
+      "charge_beam",
+      "low_sweep",
+      "round",
+      "acrobatics",
+      "retaliate",
+      "work_up",
+      "play_rough",
+      "confide",
+      "power_up_punch",
+      "brutal_swing",
+      "triple_axel",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "plains"
+    ]
+  }
+]

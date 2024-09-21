@@ -1,0 +1,163 @@
+[
+  {
+    "_id": "bellsprout",
+    "gender": "",
+    "pokedexNumber": "69",
+    "name": "bellsprout",
+    "koName": "모다피",
+    "speciesName": "bellsprout",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "60",
+    "friendship": "70",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "normalAbilityIds": [
+      "chlorophyll"
+    ],
+    "hiddenAbilityId": "gluttony",
+    "passiveAbilityId": "protosynthesis",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 300,
+    "hp": 50,
+    "attack": 75,
+    "defense": 35,
+    "specialAttack": 70,
+    "specialDefense": 30,
+    "speed": 40,
+    "height": 0.7,
+    "weight": 4,
+    "eggMoveIds": [
+      "solar_blade",
+      "strength_sap",
+      "fire_lash",
+      "victory_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "vine_whip"
+      },
+      {
+        "level": 7,
+        "moveId": "growth"
+      },
+      {
+        "level": 11,
+        "moveId": "wrap"
+      },
+      {
+        "level": 13,
+        "moveId": "sleep_powder"
+      },
+      {
+        "level": 15,
+        "moveId": "poison_powder"
+      },
+      {
+        "level": 17,
+        "moveId": "stun_spore"
+      },
+      {
+        "level": 23,
+        "moveId": "acid"
+      },
+      {
+        "level": 27,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 29,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 35,
+        "moveId": "gastro_acid"
+      },
+      {
+        "level": 39,
+        "moveId": "razor_leaf"
+      },
+      {
+        "level": 41,
+        "moveId": "poison_jab"
+      },
+      {
+        "level": 47,
+        "moveId": "slam"
+      },
+      {
+        "level": 52,
+        "moveId": "power_whip"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "take_down",
+      "double_edge",
+      "solar_beam",
+      "toxic",
+      "double_team",
+      "reflect",
+      "leech_life",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "sludge_bomb",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "synthesis",
+      "hidden_power",
+      "sunny_day",
+      "facade",
+      "nature_power",
+      "knock_off",
+      "weather_ball",
+      "bullet_seed",
+      "magical_leaf",
+      "gastro_acid",
+      "worry_seed",
+      "poison_jab",
+      "seed_bomb",
+      "energy_ball",
+      "leaf_storm",
+      "power_whip",
+      "grass_knot",
+      "venoshock",
+      "sludge_wave",
+      "acid_spray",
+      "round",
+      "grassy_terrain",
+      "confide",
+      "infestation",
+      "lunge",
+      "grassy_glide",
+      "tera_blast",
+      "pounce",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "town",
+      "forest"
+    ]
+  }
+]

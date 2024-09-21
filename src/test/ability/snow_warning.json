@@ -1,0 +1,39 @@
+[
+  {
+    "_id": "snow_warning",
+    "name": "Snow Warning",
+    "koName": "눈퍼뜨리기",
+    "realased": "",
+    "description": "등장했을 때 날씨를 눈으로 만든다.",
+    "generation": 4,
+    "pokemonIds": [
+      "articuno",
+      "snorunt",
+      "glalie",
+      "glalie_mega",
+      "regice",
+      "snover",
+      "abomasnow",
+      "abomasnow_mega",
+      "froslass",
+      "vanilluxe",
+      "cryogonal",
+      "kyurem",
+      "kyurem_black",
+      "kyurem_white",
+      "amaura",
+      "aurorus",
+      "snom",
+      "frosmoth",
+      "iron_bundle",
+      "frigibax",
+      "arctibax",
+      "baxcalibur",
+      "chien_pao",
+      "alola_vulpix",
+      "alola_ninetales"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

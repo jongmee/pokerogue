@@ -1,0 +1,245 @@
+[
+  {
+    "_id": "lucario",
+    "gender": "",
+    "pokedexNumber": "448",
+    "name": "lucario",
+    "koName": "루카리오",
+    "speciesName": "lucario",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "184",
+    "friendship": "50",
+    "types": [
+      "fighting",
+      "steel"
+    ],
+    "normalAbilityIds": [
+      "steadfast",
+      "inner_focus"
+    ],
+    "hiddenAbilityId": "justified",
+    "passiveAbilityId": "minds_eye",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 525,
+    "hp": 70,
+    "attack": 110,
+    "defense": 70,
+    "specialAttack": 115,
+    "specialDefense": 70,
+    "speed": 90,
+    "height": 1.2,
+    "weight": 54,
+    "eggMoveIds": [
+      "thunderous_kick",
+      "tachyon_cutter",
+      "triple_axel",
+      "double_iron_bash"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "aura_sphere"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "screech"
+      },
+      {
+        "level": 1,
+        "moveId": "reversal"
+      },
+      {
+        "level": 1,
+        "moveId": "detect"
+      },
+      {
+        "level": 1,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 1,
+        "moveId": "rock_smash"
+      },
+      {
+        "level": 1,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 1,
+        "moveId": "feint"
+      },
+      {
+        "level": 1,
+        "moveId": "copycat"
+      },
+      {
+        "level": 1,
+        "moveId": "vacuum_wave"
+      },
+      {
+        "level": 1,
+        "moveId": "final_gambit"
+      },
+      {
+        "level": 1,
+        "moveId": "life_dew"
+      },
+      {
+        "level": 12,
+        "moveId": "counter"
+      },
+      {
+        "level": 16,
+        "moveId": "work_up"
+      },
+      {
+        "level": 20,
+        "moveId": "force_palm"
+      },
+      {
+        "level": 24,
+        "moveId": "calm_mind"
+      },
+      {
+        "level": 28,
+        "moveId": "metal_sound"
+      },
+      {
+        "level": 32,
+        "moveId": "quick_guard"
+      },
+      {
+        "level": 36,
+        "moveId": "bone_rush"
+      },
+      {
+        "level": 40,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 44,
+        "moveId": "heal_pulse"
+      },
+      {
+        "level": 48,
+        "moveId": "meteor_mash"
+      },
+      {
+        "level": 52,
+        "moveId": "dragon_pulse"
+      },
+      {
+        "level": 56,
+        "moveId": "extreme_speed"
+      },
+      {
+        "level": 60,
+        "moveId": "close_combat"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "ice_punch",
+      "thunder_punch",
+      "swords_dance",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "roar",
+      "hyper_beam",
+      "low_kick",
+      "counter",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "psychic",
+      "agility",
+      "screech",
+      "double_team",
+      "focus_energy",
+      "metronome",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "reversal",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "shadow_ball",
+      "rock_smash",
+      "facade",
+      "focus_punch",
+      "helping_hand",
+      "revenge",
+      "brick_break",
+      "blaze_kick",
+      "rock_tomb",
+      "metal_sound",
+      "aerial_ace",
+      "iron_defense",
+      "bulk_up",
+      "calm_mind",
+      "water_pulse",
+      "close_combat",
+      "payback",
+      "fling",
+      "aura_sphere",
+      "poison_jab",
+      "dark_pulse",
+      "dragon_pulse",
+      "drain_punch",
+      "vacuum_wave",
+      "focus_blast",
+      "giga_impact",
+      "nasty_plot",
+      "shadow_claw",
+      "zen_headbutt",
+      "flash_cannon",
+      "rock_climb",
+      "stone_edge",
+      "hone_claws",
+      "low_sweep",
+      "round",
+      "retaliate",
+      "bulldoze",
+      "work_up",
+      "confide",
+      "power_up_punch",
+      "steel_beam",
+      "terrain_pulse",
+      "coaching",
+      "tera_blast",
+      "trailblaze",
+      "upper_hand"
+    ],
+    "biomeIds": [
+      "dojo"
+    ]
+  }
+]

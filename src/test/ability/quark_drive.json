@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "quark_drive",
+    "name": "Quark Drive",
+    "koName": "쿼크차지",
+    "realased": " (P)",
+    "description": "부스트에너지를 지니고 있거나 일렉트릭필드일 때 가장 높은 능력이 올라간다.",
+    "generation": 9,
+    "pokemonIds": [
+      "iron_treads",
+      "iron_bundle",
+      "iron_hands",
+      "iron_jugulis",
+      "iron_moth",
+      "iron_thorns",
+      "iron_valiant",
+      "iron_leaves",
+      "iron_boulder",
+      "iron_crown"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

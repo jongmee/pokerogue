@@ -1,0 +1,174 @@
+[
+  {
+    "_id": "wartortle",
+    "gender": "",
+    "pokedexNumber": "8",
+    "name": "wartortle",
+    "koName": "어니부기",
+    "speciesName": "wartortle",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "142",
+    "friendship": "50",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "torrent"
+    ],
+    "hiddenAbilityId": "rain_dish",
+    "passiveAbilityId": "sturdy",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 405,
+    "hp": 59,
+    "attack": 63,
+    "defense": 80,
+    "specialAttack": 65,
+    "specialDefense": 80,
+    "speed": 58,
+    "height": 1,
+    "weight": 22.5,
+    "eggMoveIds": [
+      "freeze_dry",
+      "shore_up",
+      "bouncy_bubble",
+      "origin_pulse"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "withdraw"
+      },
+      {
+        "level": 9,
+        "moveId": "rapid_spin"
+      },
+      {
+        "level": 12,
+        "moveId": "bite"
+      },
+      {
+        "level": 15,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 20,
+        "moveId": "protect"
+      },
+      {
+        "level": 25,
+        "moveId": "rain_dance"
+      },
+      {
+        "level": 30,
+        "moveId": "aqua_tail"
+      },
+      {
+        "level": 35,
+        "moveId": "shell_smash"
+      },
+      {
+        "level": 40,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 45,
+        "moveId": "hydro_pump"
+      },
+      {
+        "level": 50,
+        "moveId": "wave_crash"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "ice_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "counter",
+      "strength",
+      "dig",
+      "toxic",
+      "double_team",
+      "haze",
+      "reflect",
+      "waterfall",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "outrage",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "rock_smash",
+      "whirlpool",
+      "hail",
+      "facade",
+      "focus_punch",
+      "helping_hand",
+      "brick_break",
+      "dive",
+      "weather_ball",
+      "rock_tomb",
+      "muddy_water",
+      "iron_defense",
+      "water_pulse",
+      "gyro_ball",
+      "brine",
+      "fling",
+      "aura_sphere",
+      "aqua_tail",
+      "dragon_pulse",
+      "zen_headbutt",
+      "round",
+      "scald",
+      "water_pledge",
+      "work_up",
+      "confide",
+      "power_up_punch",
+      "flip_turn",
+      "tera_blast",
+      "ice_spinner",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "lake"
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "water_compaction",
+    "name": "Water Compaction",
+    "koName": "꾸덕꾸덕굳기",
+    "realased": "",
+    "description": "물타입의 기술을 받으면 방어가 크게 올라간다.",
+    "generation": 7,
+    "pokemonIds": [
+      "sandygast",
+      "palossand"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

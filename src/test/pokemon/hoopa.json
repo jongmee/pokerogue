@@ -1,0 +1,203 @@
+[
+  {
+    "_id": "hoopa",
+    "gender": "",
+    "pokedexNumber": "720",
+    "name": "hoopa",
+    "koName": "후파",
+    "speciesName": "hoopa",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "270",
+    "friendship": "100",
+    "types": [
+      "psychic",
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "magician"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "opportunist",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": true,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 600,
+    "hp": 80,
+    "attack": 110,
+    "defense": 60,
+    "specialAttack": 150,
+    "specialDefense": 130,
+    "speed": 70,
+    "height": 0.5,
+    "weight": 9,
+    "eggMoveIds": [
+      "photon_geyser",
+      "secret_sword",
+      "fiery_wrath",
+      "shell_smash"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 1,
+        "moveId": "destiny_bond"
+      },
+      {
+        "level": 1,
+        "moveId": "ally_switch"
+      },
+      {
+        "level": 6,
+        "moveId": "astonish"
+      },
+      {
+        "level": 10,
+        "moveId": "trick"
+      },
+      {
+        "level": 15,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 19,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 25,
+        "moveId": "skill_swap"
+      },
+      {
+        "level": 29,
+        "moveId": "guard_split"
+      },
+      {
+        "level": 29,
+        "moveId": "power_split"
+      },
+      {
+        "level": 35,
+        "moveId": "phantom_force"
+      },
+      {
+        "level": 46,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 50,
+        "moveId": "trick_room"
+      },
+      {
+        "level": 50,
+        "moveId": "wonder_room"
+      },
+      {
+        "level": 55,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 68,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 75,
+        "moveId": "psychic"
+      },
+      {
+        "level": 85,
+        "moveId": "hyperspace_hole"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "take_down",
+      "psybeam",
+      "hyper_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "swift",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "scary_face",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "uproar",
+      "torment",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "trick",
+      "recycle",
+      "brick_break",
+      "knock_off",
+      "skill_swap",
+      "rock_tomb",
+      "signal_beam",
+      "covet",
+      "calm_mind",
+      "gravity",
+      "embargo",
+      "fling",
+      "dark_pulse",
+      "drain_punch",
+      "focus_blast",
+      "energy_ball",
+      "giga_impact",
+      "nasty_plot",
+      "zen_headbutt",
+      "trick_room",
+      "gunk_shot",
+      "grass_knot",
+      "charge_beam",
+      "wonder_room",
+      "psyshock",
+      "magic_room",
+      "foul_play",
+      "round",
+      "ally_switch",
+      "quash",
+      "phantom_force",
+      "confide",
+      "power_up_punch",
+      "throat_chop",
+      "psychic_terrain",
+      "expanding_force",
+      "skitter_smack",
+      "lash_out",
+      "tera_blast",
+      "psychic_noise"
+    ],
+    "biomeIds": [
+      "temple"
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "light_of_ruin",
+    "name": "Light of Ruin",
+    "koName": "파멸의빛",
+    "type": "fairy",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 140,
+    "accuracy": 90,
+    "powerPoint": 5,
+    "effect": "영원의 꽃의 파워를 빌려서 강력한 광선을 쏜다. 자신도 상당한 데미지를 입는다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 6,
+    "realased": "",
+    "flags": [
+      "reckless_move"
+    ],
+    "pokemonIds": [
+      "clefairy",
+      "clefable",
+      "cleffa",
+      "solosis",
+      "duosion",
+      "reuniclus",
+      "eternal_floette"
+    ]
+  }
+]

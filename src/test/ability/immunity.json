@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "immunity",
+    "name": "Immunity",
+    "koName": "면역",
+    "realased": "",
+    "description": "체내에 면역을 가지고 있어 독 상태가 되지 않는다.",
+    "generation": 3,
+    "pokemonIds": [
+      "snorlax",
+      "gligar",
+      "zangoose"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

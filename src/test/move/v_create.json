@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "v_create",
+    "name": "V-create",
+    "koName": "V제너레이트",
+    "type": "fire",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 180,
+    "accuracy": 95,
+    "powerPoint": 5,
+    "effect": "작열하는 불꽃을 이마에서 발생시켜 이판사판으로 몸통박치기한다. 방어, 특수방어, 스피드가 떨어진다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 5,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "torchic",
+      "combusken",
+      "blaziken",
+      "blaziken_mega",
+      "skitty",
+      "delcatty",
+      "spinda",
+      "rayquaza",
+      "rayquaza_mega",
+      "victini",
+      "heatmor",
+      "galar_darumaka",
+      "galar_darmanitan",
+      "galar_darmanitan_zen"
+    ]
+  }
+]

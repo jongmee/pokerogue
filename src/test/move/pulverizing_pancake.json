@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "pulverizing_pancake",
+    "name": "Pulverizing Pancake",
+    "koName": "진심의공격",
+    "type": "normal",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 210,
+    "accuracy": -1,
+    "powerPoint": 1,
+    "effect": "Z파워로 진심을 낸 잠만보가 거대한 몸을 움직여서 전력으로 상대를 공격한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": " (P)",
+    "flags": [
+      "makes_contact",
+      "ignore_virtual"
+    ],
+    "pokemonIds": []
+  }
+]

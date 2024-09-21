@@ -1,0 +1,175 @@
+[
+  {
+    "_id": "bellossom",
+    "gender": "",
+    "pokedexNumber": "182",
+    "name": "bellossom",
+    "koName": "아르코",
+    "speciesName": "bellossom",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "245",
+    "friendship": "50",
+    "types": [
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "chlorophyll"
+    ],
+    "hiddenAbilityId": "healer",
+    "passiveAbilityId": "triage",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 490,
+    "hp": 75,
+    "attack": 80,
+    "defense": 95,
+    "specialAttack": 90,
+    "specialDefense": 100,
+    "speed": 50,
+    "height": 0.4,
+    "weight": 5.8,
+    "eggMoveIds": [
+      "sludge_bomb",
+      "fiery_dance",
+      "strength_sap",
+      "spore"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "petal_blizzard"
+      },
+      {
+        "level": 1,
+        "moveId": "acid"
+      },
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 1,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 1,
+        "moveId": "growth"
+      },
+      {
+        "level": 1,
+        "moveId": "poison_powder"
+      },
+      {
+        "level": 1,
+        "moveId": "stun_spore"
+      },
+      {
+        "level": 1,
+        "moveId": "sleep_powder"
+      },
+      {
+        "level": 1,
+        "moveId": "petal_dance"
+      },
+      {
+        "level": 1,
+        "moveId": "toxic"
+      },
+      {
+        "level": 1,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 1,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 1,
+        "moveId": "moonlight"
+      },
+      {
+        "level": 1,
+        "moveId": "quiver_dance"
+      },
+      {
+        "level": 1,
+        "moveId": "grassy_terrain"
+      },
+      {
+        "level": 1,
+        "moveId": "moonblast"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "double_edge",
+      "hyper_beam",
+      "solar_beam",
+      "toxic",
+      "double_team",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "sludge_bomb",
+      "giga_drain",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "baton_pass",
+      "encore",
+      "synthesis",
+      "hidden_power",
+      "sunny_day",
+      "uproar",
+      "facade",
+      "nature_power",
+      "helping_hand",
+      "endeavor",
+      "weather_ball",
+      "bullet_seed",
+      "magical_leaf",
+      "leaf_blade",
+      "fling",
+      "gastro_acid",
+      "worry_seed",
+      "seed_bomb",
+      "drain_punch",
+      "energy_ball",
+      "giga_impact",
+      "leaf_storm",
+      "grass_knot",
+      "venoshock",
+      "acid_spray",
+      "round",
+      "petal_blizzard",
+      "grassy_terrain",
+      "play_rough",
+      "confide",
+      "dazzling_gleam",
+      "infestation",
+      "pollen_puff",
+      "grassy_glide",
+      "triple_axel",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "tall_grass"
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "rocky_payload",
+    "name": "Rocky Payload",
+    "koName": "바위나르기",
+    "realased": "",
+    "description": "바위타입 기술의 위력이 올라간다.",
+    "generation": 9,
+    "pokemonIds": [
+      "onix",
+      "steelix",
+      "steelix_mega",
+      "timburr",
+      "gurdurr",
+      "conkeldurr",
+      "dwebble",
+      "crustle",
+      "terrakion",
+      "rockruff",
+      "lycanroc",
+      "chewtle",
+      "drednaw",
+      "drednaw_gigantamax",
+      "bombirdier"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

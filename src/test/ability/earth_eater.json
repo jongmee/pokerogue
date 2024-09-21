@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "earth_eater",
+    "name": "Earth Eater",
+    "koName": "흙먹기",
+    "realased": " (P)",
+    "description": "땅타입의 기술로 공격받으면 데미지를 받지 않고 회복한다.",
+    "generation": 9,
+    "pokemonIds": [
+      "aron",
+      "lairon",
+      "aggron",
+      "aggron_mega",
+      "gulpin",
+      "swalot",
+      "shieldon",
+      "bastiodon",
+      "heatran",
+      "cufant",
+      "copperajah",
+      "copperajah_gigantamax",
+      "orthworm",
+      "sandy_shocks"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

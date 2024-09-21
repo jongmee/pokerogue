@@ -1,0 +1,201 @@
+[
+  {
+    "_id": "plains",
+    "name": "Plains",
+    "koName": "평야",
+    "types": [
+      "normal"
+    ],
+    "nextBiomes": [
+      {
+        "name": "grass",
+        "percentage": 33.33333333333333
+      },
+      {
+        "name": "metropolis",
+        "percentage": 33.33333333333333
+      },
+      {
+        "name": "lake",
+        "percentage": 33.33333333333333
+      }
+    ],
+    "nativePokemons": [
+      {
+        "tier": "보통",
+        "pokemonIds": [
+          "sentret",
+          "furret",
+          "yungoos",
+          "gumshoos",
+          "skwovet",
+          "greedent",
+          "meowth",
+          "persian",
+          "poochyena",
+          "mightyena",
+          "zubat",
+          "golbat",
+          "zigzagoon",
+          "linoone",
+          "bidoof",
+          "bibarel",
+          "lechonk",
+          "oinkologne"
+        ]
+      },
+      {
+        "tier": "드묾",
+        "pokemonIds": [
+          "doduo",
+          "dodrio",
+          "poochyena",
+          "mightyena",
+          "starly",
+          "staravia",
+          "staraptor",
+          "pidove",
+          "tranquill",
+          "unfezant",
+          "pawmi",
+          "pawmo",
+          "pawmot",
+          "rockruff",
+          "lycanroc",
+          "mankey",
+          "primeape",
+          "annihilape",
+          "pidgey",
+          "pidgeotto",
+          "pidgeot",
+          "spearow",
+          "fearow",
+          "pikachu",
+          "fletchling",
+          "fletchinder",
+          "talonflame"
+        ]
+      },
+      {
+        "tier": "레어",
+        "pokemonIds": [
+          "paldea_tauros",
+          "shinx",
+          "luxio",
+          "luxray",
+          "abra",
+          "kadabra",
+          "buneary",
+          "lopunny",
+          "rookidee",
+          "corvisquire",
+          "corviknight"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어",
+        "pokemonIds": [
+          "farfetchd",
+          "lickitung",
+          "chansey",
+          "eevee",
+          "snorlax",
+          "dunsparce",
+          "dudunsparce"
+        ]
+      },
+      {
+        "tier": "울트라 레어",
+        "pokemonIds": [
+          "ditto",
+          "latias",
+          "latios"
+        ]
+      },
+      {
+        "tier": "보스",
+        "pokemonIds": [
+          "dodrio",
+          "furret",
+          "gumshoos",
+          "greedent",
+          "persian",
+          "mightyena",
+          "linoone",
+          "bibarel",
+          "lopunny",
+          "oinkologne"
+        ]
+      },
+      {
+        "tier": "레어 보스",
+        "pokemonIds": [
+          "pawmot",
+          "paldea_tauros",
+          "lycanroc",
+          "farfetchd",
+          "snorlax",
+          "lickilicky",
+          "dudunsparce"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어 보스",
+        "pokemonIds": [
+          "latias",
+          "latios"
+        ]
+      },
+      {
+        "tier": "슈퍼 울트라 레어 보스",
+        "pokemonIds": []
+      }
+    ],
+    "trainers": [
+      {
+        "name": "덴트",
+        "types": [
+          "grass"
+        ],
+        "pokemonIds": [
+          "pansage",
+          "cottonee",
+          "petilil"
+        ]
+      },
+      {
+        "name": "팟",
+        "types": [
+          "fire"
+        ],
+        "pokemonIds": [
+          "pansear",
+          "darumaka",
+          "heatmor"
+        ]
+      },
+      {
+        "name": "콘",
+        "types": [
+          "water"
+        ],
+        "pokemonIds": [
+          "panpour",
+          "basculin",
+          "tympole"
+        ]
+      },
+      {
+        "name": "체렌",
+        "types": [
+          "normal"
+        ],
+        "pokemonIds": [
+          "lillipup",
+          "minccino",
+          "patrat"
+        ]
+      }
+    ]
+  }
+]

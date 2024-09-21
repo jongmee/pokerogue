@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "clangorous_soul",
+    "name": "Clangorous Soul",
+    "koName": "소울비트",
+    "type": "dragon",
+    "moveCategory": "status",
+    "moveTarget": "user",
+    "power": -1,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "자신의 HP를 조금 깎아서 모든 능력을 올린다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [
+      "ignore_protect",
+      "sound_based",
+      "dance_move"
+    ],
+    "pokemonIds": [
+      "druddigon",
+      "yveltal",
+      "zygarde",
+      "kommo_o",
+      "necrozma",
+      "grookey",
+      "thwackey",
+      "rillaboom",
+      "rillaboom_gigantamax",
+      "cyclizar"
+    ]
+  }
+]

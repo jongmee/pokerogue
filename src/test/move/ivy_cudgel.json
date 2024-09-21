@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "ivy_cudgel",
+    "name": "Ivy Cudgel",
+    "koName": "덩굴방망이",
+    "type": "grass",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 100,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "덩굴을 휘감은 방망이로 때린다. 쓰고 있는 가면에 따라 타입이 바뀐다. 급소에 맞기 쉽다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 9,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "farfetchd",
+      "krabby",
+      "kingler",
+      "kingler_gigantamax",
+      "cacnea",
+      "cacturne",
+      "pansage",
+      "simisage"
+    ]
+  }
+]

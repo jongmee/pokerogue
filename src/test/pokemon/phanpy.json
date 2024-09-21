@@ -1,0 +1,162 @@
+[
+  {
+    "_id": "phanpy",
+    "gender": "",
+    "pokedexNumber": "231",
+    "name": "phanpy",
+    "koName": "코코리",
+    "speciesName": "phanpy",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "66",
+    "friendship": "70",
+    "types": [
+      "ground"
+    ],
+    "normalAbilityIds": [
+      "pickup"
+    ],
+    "hiddenAbilityId": "sand_veil",
+    "passiveAbilityId": "speed_boost",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 330,
+    "hp": 90,
+    "attack": 60,
+    "defense": 60,
+    "specialAttack": 40,
+    "specialDefense": 40,
+    "speed": 40,
+    "height": 0.5,
+    "weight": 33.5,
+    "eggMoveIds": [
+      "shore_up",
+      "swords_dance",
+      "icicle_crash",
+      "collision_course"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": 1,
+        "moveId": "odor_sleuth"
+      },
+      {
+        "level": 6,
+        "moveId": "flail"
+      },
+      {
+        "level": 10,
+        "moveId": "rollout"
+      },
+      {
+        "level": 15,
+        "moveId": "bulldoze"
+      },
+      {
+        "level": 19,
+        "moveId": "endure"
+      },
+      {
+        "level": 24,
+        "moveId": "slam"
+      },
+      {
+        "level": 28,
+        "moveId": "take_down"
+      },
+      {
+        "level": 33,
+        "moveId": "charm"
+      },
+      {
+        "level": 37,
+        "moveId": "last_resort"
+      },
+      {
+        "level": 42,
+        "moveId": "double_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "counter",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "double_team",
+      "focus_energy",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "sandstorm",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "rock_smash",
+      "facade",
+      "helping_hand",
+      "superpower",
+      "knock_off",
+      "endeavor",
+      "hyper_voice",
+      "rock_tomb",
+      "sand_tomb",
+      "mud_shot",
+      "seed_bomb",
+      "earth_power",
+      "gunk_shot",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "smack_down",
+      "heavy_slam",
+      "round",
+      "echoed_voice",
+      "bulldoze",
+      "play_rough",
+      "confide",
+      "high_horsepower",
+      "stomping_tantrum",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "badlands"
+    ]
+  }
+]

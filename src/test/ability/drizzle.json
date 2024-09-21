@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "drizzle",
+    "name": "Drizzle",
+    "koName": "잔비",
+    "realased": "",
+    "description": "등장했을 때 날씨를 비로 만든다.",
+    "generation": 3,
+    "pokemonIds": [
+      "zapdos",
+      "politoed",
+      "mudkip",
+      "marshtomp",
+      "swampert",
+      "swampert_mega",
+      "lotad",
+      "lombre",
+      "ludicolo",
+      "pelipper",
+      "clamperl",
+      "huntail",
+      "gorebyss",
+      "kyogre",
+      "piplup",
+      "prinplup",
+      "empoleon",
+      "ducklett",
+      "swanna",
+      "tornadus_incarnate",
+      "tornadus_therian",
+      "thundurus_incarnate",
+      "thundurus_therian"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

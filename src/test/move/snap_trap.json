@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "snap_trap",
+    "name": "Snap Trap",
+    "koName": "집게덫",
+    "type": "grass",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 35,
+    "accuracy": 100,
+    "powerPoint": 15,
+    "effect": "집게덫으로 붙잡은 뒤 4-5턴 동안 상대를 끼워서 공격한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "tangela",
+      "tangrowth",
+      "galar_stunfisk"
+    ]
+  }
+]

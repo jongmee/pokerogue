@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "comeuppance",
+    "name": "Comeuppance",
+    "koName": "앙갚음",
+    "type": "dark",
+    "moveCategory": "physical",
+    "moveTarget": "attacker",
+    "power": -1,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "기술을 쓰기 전에 마지막으로 받은 기술의 데미지를 늘려서 기술을 쓴 상대에게 돌려준다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 9,
+    "realased": "",
+    "flags": [
+      "makes_contact",
+      "redirect_counter"
+    ],
+    "pokemonIds": [
+      "wobbuffet",
+      "houndour",
+      "houndoom",
+      "wailmer",
+      "wailord",
+      "wynaut",
+      "honchkrow",
+      "pyukumuku",
+      "guzzlord",
+      "mabosstiff"
+    ]
+  }
+]

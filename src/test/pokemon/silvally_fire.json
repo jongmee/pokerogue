@@ -1,0 +1,142 @@
+[
+  {
+    "_id": "silvally_fire",
+    "gender": "",
+    "pokedexNumber": "773",
+    "name": "silvally_fire",
+    "koName": "실버디_fire",
+    "speciesName": "silvally",
+    "canChangeForm": true,
+    "formName": "type:_fire",
+    "baseExp": "285",
+    "friendship": "0",
+    "types": [
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "rks_system"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "adaptability",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 570,
+    "hp": 95,
+    "attack": 95,
+    "defense": 95,
+    "specialAttack": 95,
+    "specialDefense": 95,
+    "speed": 95,
+    "height": 2.3,
+    "weight": 100.5,
+    "eggMoveIds": [
+      "dire_claw",
+      "recover",
+      "extreme_speed",
+      "shell_smash"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "multi_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "bite"
+      },
+      {
+        "level": 1,
+        "moveId": "explosion"
+      },
+      {
+        "level": 1,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 1,
+        "moveId": "imprison"
+      },
+      {
+        "level": 1,
+        "moveId": "poison_fang"
+      },
+      {
+        "level": 1,
+        "moveId": "aerial_ace"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_fang"
+      },
+      {
+        "level": 1,
+        "moveId": "ice_fang"
+      },
+      {
+        "level": 1,
+        "moveId": "fire_fang"
+      },
+      {
+        "level": 1,
+        "moveId": "iron_head"
+      },
+      {
+        "level": 1,
+        "moveId": "heal_block"
+      },
+      {
+        "level": 15,
+        "moveId": "double_hit"
+      },
+      {
+        "level": 20,
+        "moveId": "metal_sound"
+      },
+      {
+        "level": 25,
+        "moveId": "crush_claw"
+      },
+      {
+        "level": 30,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 35,
+        "moveId": "tri_attack"
+      },
+      {
+        "level": 40,
+        "moveId": "x_scissor"
+      },
+      {
+        "level": 45,
+        "moveId": "crunch"
+      },
+      {
+        "level": 50,
+        "moveId": "take_down"
+      },
+      {
+        "level": 55,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 60,
+        "moveId": "parting_shot"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "laboratory"
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "techno_blast",
+    "name": "Techno Blast",
+    "koName": "테크노버스터",
+    "type": "normal",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 120,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "광탄을 상대에게 방출한다. 자신이 지니고 있는 카세트에 의해 타입이 바뀐다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 5,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "porygon",
+      "porygon2",
+      "porygon_z",
+      "genesect"
+    ]
+  }
+]

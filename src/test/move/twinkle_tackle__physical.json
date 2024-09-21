@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "twinkle_tackle__physical",
+    "name": "Twinkle Tackle",
+    "koName": "러블리스타임팩트",
+    "type": "fairy",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 1,
+    "effect": "Z파워로 매혹의 공간을 만들어 전력으로 상대를 가지고 논다. 원래 기술에 따라 위력이 변한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": " (N)",
+    "flags": [
+      "makes_contact",
+      "ignore_virtual"
+    ],
+    "pokemonIds": []
+  }
+]

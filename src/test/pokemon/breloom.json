@@ -1,0 +1,210 @@
+[
+  {
+    "_id": "breloom",
+    "gender": "",
+    "pokedexNumber": "286",
+    "name": "breloom",
+    "koName": "버섯모",
+    "speciesName": "breloom",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "161",
+    "friendship": "70",
+    "types": [
+      "grass",
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "effect_spore",
+      "poison_heal"
+    ],
+    "hiddenAbilityId": "technician",
+    "passiveAbilityId": "guts",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 460,
+    "hp": 60,
+    "attack": 130,
+    "defense": 80,
+    "specialAttack": 60,
+    "specialDefense": 60,
+    "speed": 70,
+    "height": 1.2,
+    "weight": 39.2,
+    "eggMoveIds": [
+      "accelerock",
+      "trailblaze",
+      "storm_throw",
+      "sappy_seed"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "mach_punch"
+      },
+      {
+        "level": -1,
+        "moveId": "spore"
+      },
+      {
+        "level": 1,
+        "moveId": "poison_powder"
+      },
+      {
+        "level": 1,
+        "moveId": "growth"
+      },
+      {
+        "level": 1,
+        "moveId": "toxic"
+      },
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "stun_spore"
+      },
+      {
+        "level": 1,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 12,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 15,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 19,
+        "moveId": "feint"
+      },
+      {
+        "level": 22,
+        "moveId": "counter"
+      },
+      {
+        "level": 28,
+        "moveId": "force_palm"
+      },
+      {
+        "level": 33,
+        "moveId": "worry_seed"
+      },
+      {
+        "level": 39,
+        "moveId": "brick_break"
+      },
+      {
+        "level": 44,
+        "moveId": "seed_bomb"
+      },
+      {
+        "level": 50,
+        "moveId": "dynamic_punch"
+      },
+      {
+        "level": 55,
+        "moveId": "focus_punch"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "thunder_punch",
+      "swords_dance",
+      "cut",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "hyper_beam",
+      "low_kick",
+      "counter",
+      "strength",
+      "solar_beam",
+      "dig",
+      "toxic",
+      "double_team",
+      "swift",
+      "flash",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "reversal",
+      "protect",
+      "sludge_bomb",
+      "mud_slap",
+      "giga_drain",
+      "endure",
+      "charm",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "iron_tail",
+      "synthesis",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "rock_smash",
+      "facade",
+      "focus_punch",
+      "helping_hand",
+      "superpower",
+      "brick_break",
+      "fake_tears",
+      "rock_tomb",
+      "bullet_seed",
+      "aerial_ace",
+      "bulk_up",
+      "mud_shot",
+      "magical_leaf",
+      "close_combat",
+      "fling",
+      "worry_seed",
+      "poison_jab",
+      "seed_bomb",
+      "drain_punch",
+      "vacuum_wave",
+      "focus_blast",
+      "energy_ball",
+      "giga_impact",
+      "zen_headbutt",
+      "leaf_storm",
+      "gunk_shot",
+      "stone_edge",
+      "grass_knot",
+      "venoshock",
+      "low_sweep",
+      "round",
+      "retaliate",
+      "bulldoze",
+      "work_up",
+      "grassy_terrain",
+      "confide",
+      "power_up_punch",
+      "tera_blast",
+      "pounce"
+    ],
+    "biomeIds": [
+      "grass",
+      "forest",
+      "jungle"
+    ]
+  }
+]

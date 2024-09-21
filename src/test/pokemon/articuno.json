@@ -1,0 +1,179 @@
+[
+  {
+    "_id": "articuno",
+    "gender": "",
+    "pokedexNumber": "144",
+    "name": "articuno",
+    "koName": "프리져",
+    "speciesName": "articuno",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "290",
+    "friendship": "35",
+    "types": [
+      "ice",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "pressure"
+    ],
+    "hiddenAbilityId": "snow_cloak",
+    "passiveAbilityId": "snow_warning",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 580,
+    "hp": 90,
+    "attack": 85,
+    "defense": 100,
+    "specialAttack": 95,
+    "specialDefense": 125,
+    "speed": 85,
+    "height": 1.7,
+    "weight": 55.4,
+    "eggMoveIds": [
+      "earth_power",
+      "calm_mind",
+      "aurora_veil",
+      "aeroblast"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "gust"
+      },
+      {
+        "level": 1,
+        "moveId": "mist"
+      },
+      {
+        "level": 5,
+        "moveId": "powder_snow"
+      },
+      {
+        "level": 10,
+        "moveId": "reflect"
+      },
+      {
+        "level": 15,
+        "moveId": "ice_shard"
+      },
+      {
+        "level": 20,
+        "moveId": "agility"
+      },
+      {
+        "level": 25,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 30,
+        "moveId": "tailwind"
+      },
+      {
+        "level": 35,
+        "moveId": "freeze_dry"
+      },
+      {
+        "level": 40,
+        "moveId": "roost"
+      },
+      {
+        "level": 45,
+        "moveId": "ice_beam"
+      },
+      {
+        "level": 50,
+        "moveId": "snowscape"
+      },
+      {
+        "level": 55,
+        "moveId": "hurricane"
+      },
+      {
+        "level": 60,
+        "moveId": "haze"
+      },
+      {
+        "level": 65,
+        "moveId": "blizzard"
+      },
+      {
+        "level": 70,
+        "moveId": "sheer_cold"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fly",
+      "take_down",
+      "double_edge",
+      "roar",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "toxic",
+      "agility",
+      "double_team",
+      "light_screen",
+      "haze",
+      "reflect",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "steel_wing",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "rock_smash",
+      "hail",
+      "facade",
+      "helping_hand",
+      "feather_dance",
+      "weather_ball",
+      "air_cutter",
+      "signal_beam",
+      "aerial_ace",
+      "icicle_spear",
+      "water_pulse",
+      "roost",
+      "pluck",
+      "tailwind",
+      "u_turn",
+      "air_slash",
+      "brave_bird",
+      "giga_impact",
+      "avalanche",
+      "defog",
+      "round",
+      "sky_drop",
+      "frost_breath",
+      "hurricane",
+      "confide",
+      "aurora_veil",
+      "triple_axel",
+      "dual_wingbeat",
+      "tera_blast",
+      "ice_spinner",
+      "snowscape"
+    ],
+    "biomeIds": [
+      "ice_cave"
+    ]
+  }
+]

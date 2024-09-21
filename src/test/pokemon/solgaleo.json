@@ -1,0 +1,201 @@
+[
+  {
+    "_id": "solgaleo",
+    "gender": "",
+    "pokedexNumber": "791",
+    "name": "solgaleo",
+    "koName": "솔가레오",
+    "speciesName": "solgaleo",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "340",
+    "friendship": "0",
+    "types": [
+      "psychic",
+      "steel"
+    ],
+    "normalAbilityIds": [
+      "full_metal_body"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "beast_boost",
+    "generation": 7,
+    "legendary": true,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 680,
+    "hp": 137,
+    "attack": 137,
+    "defense": 107,
+    "specialAttack": 113,
+    "specialDefense": 89,
+    "speed": 97,
+    "height": 3.4,
+    "weight": 230,
+    "eggMoveIds": [
+      "photon_geyser",
+      "precipice_blades",
+      "sacred_fire",
+      "astral_barrage"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "sunsteel_strike"
+      },
+      {
+        "level": 1,
+        "moveId": "teleport"
+      },
+      {
+        "level": 1,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 1,
+        "moveId": "cosmic_power"
+      },
+      {
+        "level": 1,
+        "moveId": "noble_roar"
+      },
+      {
+        "level": 1,
+        "moveId": "wake_up_slap"
+      },
+      {
+        "level": 7,
+        "moveId": "iron_head"
+      },
+      {
+        "level": 14,
+        "moveId": "metal_sound"
+      },
+      {
+        "level": 21,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 28,
+        "moveId": "flash_cannon"
+      },
+      {
+        "level": 35,
+        "moveId": "morning_sun"
+      },
+      {
+        "level": 42,
+        "moveId": "crunch"
+      },
+      {
+        "level": 49,
+        "moveId": "metal_burst"
+      },
+      {
+        "level": 56,
+        "moveId": "wild_charge"
+      },
+      {
+        "level": 63,
+        "moveId": "solar_beam"
+      },
+      {
+        "level": 70,
+        "moveId": "flare_blitz"
+      },
+      {
+        "level": 77,
+        "moveId": "wide_guard"
+      },
+      {
+        "level": 84,
+        "moveId": "giga_impact"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "hyper_beam",
+      "solar_beam",
+      "fire_spin",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "earthquake",
+      "toxic",
+      "psychic",
+      "agility",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "fire_blast",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "scary_face",
+      "outrage",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "iron_tail",
+      "metal_claw",
+      "hidden_power",
+      "sunny_day",
+      "crunch",
+      "psych_up",
+      "future_sight",
+      "facade",
+      "helping_hand",
+      "superpower",
+      "knock_off",
+      "endeavor",
+      "hyper_voice",
+      "rock_tomb",
+      "metal_sound",
+      "cosmic_power",
+      "iron_defense",
+      "calm_mind",
+      "gyro_ball",
+      "close_combat",
+      "flare_blitz",
+      "focus_blast",
+      "giga_impact",
+      "zen_headbutt",
+      "flash_cannon",
+      "trick_room",
+      "iron_head",
+      "stone_edge",
+      "psyshock",
+      "heavy_slam",
+      "flame_charge",
+      "round",
+      "bulldoze",
+      "work_up",
+      "wild_charge",
+      "heat_crash",
+      "snarl",
+      "confide",
+      "mystical_fire",
+      "psychic_fangs",
+      "steel_beam",
+      "expanding_force",
+      "steel_roller",
+      "meteor_beam",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "space"
+    ]
+  }
+]

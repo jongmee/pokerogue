@@ -1,0 +1,210 @@
+[
+  {
+    "_id": "annihilape",
+    "gender": "",
+    "pokedexNumber": "979",
+    "name": "annihilape",
+    "koName": "저승갓숭",
+    "speciesName": "annihilape",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "268",
+    "friendship": "50",
+    "types": [
+      "fighting",
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "vital_spirit",
+      "inner_focus"
+    ],
+    "hiddenAbilityId": "defiant",
+    "passiveAbilityId": "iron_fist",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 535,
+    "hp": 110,
+    "attack": 115,
+    "defense": 80,
+    "specialAttack": 50,
+    "specialDefense": 90,
+    "speed": 90,
+    "height": 1.2,
+    "weight": 56,
+    "eggMoveIds": [
+      "drain_punch",
+      "play_rough",
+      "meteor_mash",
+      "no_retreat"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "shadow_punch"
+      },
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "counter"
+      },
+      {
+        "level": 1,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 1,
+        "moveId": "fling"
+      },
+      {
+        "level": 5,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 8,
+        "moveId": "low_kick"
+      },
+      {
+        "level": 12,
+        "moveId": "seismic_toss"
+      },
+      {
+        "level": 17,
+        "moveId": "swagger"
+      },
+      {
+        "level": 22,
+        "moveId": "cross_chop"
+      },
+      {
+        "level": 26,
+        "moveId": "assurance"
+      },
+      {
+        "level": 30,
+        "moveId": "thrash"
+      },
+      {
+        "level": 35,
+        "moveId": "rage_fist"
+      },
+      {
+        "level": 39,
+        "moveId": "close_combat"
+      },
+      {
+        "level": 44,
+        "moveId": "screech"
+      },
+      {
+        "level": 48,
+        "moveId": "stomping_tantrum"
+      },
+      {
+        "level": 53,
+        "moveId": "outrage"
+      },
+      {
+        "level": 57,
+        "moveId": "final_gambit"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "pay_day",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "low_kick",
+      "strength",
+      "thunderbolt",
+      "thunder",
+      "earthquake",
+      "dig",
+      "night_shade",
+      "screech",
+      "double_team",
+      "focus_energy",
+      "metronome",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "curse",
+      "reversal",
+      "spite",
+      "protect",
+      "scary_face",
+      "outrage",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "shadow_ball",
+      "rock_smash",
+      "beat_up",
+      "uproar",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "revenge",
+      "brick_break",
+      "endeavor",
+      "overheat",
+      "rock_tomb",
+      "bulk_up",
+      "covet",
+      "u_turn",
+      "close_combat",
+      "assurance",
+      "fling",
+      "poison_jab",
+      "seed_bomb",
+      "drain_punch",
+      "vacuum_wave",
+      "focus_blast",
+      "giga_impact",
+      "shadow_claw",
+      "rock_climb",
+      "gunk_shot",
+      "stone_edge",
+      "stealth_rock",
+      "smack_down",
+      "low_sweep",
+      "acrobatics",
+      "bulldoze",
+      "phantom_force",
+      "power_up_punch",
+      "stomping_tantrum",
+      "lash_out",
+      "coaching"
+    ],
+    "biomeIds": [
+      "plains",
+      "dojo"
+    ]
+  }
+]

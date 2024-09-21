@@ -1,0 +1,206 @@
+[
+  {
+    "_id": "hitmonchan",
+    "gender": "",
+    "pokedexNumber": "107",
+    "name": "hitmonchan",
+    "koName": "홍수몬",
+    "speciesName": "hitmonchan",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "159",
+    "friendship": "50",
+    "types": [
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "keen_eye",
+      "iron_fist"
+    ],
+    "hiddenAbilityId": "inner_focus",
+    "passiveAbilityId": "moxie",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 455,
+    "hp": 50,
+    "attack": 105,
+    "defense": 79,
+    "specialAttack": 35,
+    "specialDefense": 110,
+    "speed": 76,
+    "height": 1.4,
+    "weight": 50.2,
+    "eggMoveIds": [
+      "victory_dance",
+      "thunderous_kick",
+      "meteor_mash",
+      "wicked_blow"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "drain_punch"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 1,
+        "moveId": "fake_out"
+      },
+      {
+        "level": 1,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 1,
+        "moveId": "feint"
+      },
+      {
+        "level": 1,
+        "moveId": "pursuit"
+      },
+      {
+        "level": 1,
+        "moveId": "comet_punch"
+      },
+      {
+        "level": 4,
+        "moveId": "mach_punch"
+      },
+      {
+        "level": 8,
+        "moveId": "vacuum_wave"
+      },
+      {
+        "level": 12,
+        "moveId": "detect"
+      },
+      {
+        "level": 16,
+        "moveId": "bullet_punch"
+      },
+      {
+        "level": 21,
+        "moveId": "quick_guard"
+      },
+      {
+        "level": 24,
+        "moveId": "thunder_punch"
+      },
+      {
+        "level": 24,
+        "moveId": "ice_punch"
+      },
+      {
+        "level": 24,
+        "moveId": "fire_punch"
+      },
+      {
+        "level": 28,
+        "moveId": "agility"
+      },
+      {
+        "level": 32,
+        "moveId": "mega_punch"
+      },
+      {
+        "level": 36,
+        "moveId": "close_combat"
+      },
+      {
+        "level": 40,
+        "moveId": "counter"
+      },
+      {
+        "level": 44,
+        "moveId": "focus_punch"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "swords_dance",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "low_kick",
+      "counter",
+      "strength",
+      "earthquake",
+      "toxic",
+      "agility",
+      "double_team",
+      "focus_energy",
+      "metronome",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "reversal",
+      "protect",
+      "mud_slap",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "rock_smash",
+      "uproar",
+      "facade",
+      "focus_punch",
+      "helping_hand",
+      "revenge",
+      "brick_break",
+      "endeavor",
+      "rock_tomb",
+      "bulk_up",
+      "covet",
+      "close_combat",
+      "fling",
+      "aura_sphere",
+      "drain_punch",
+      "vacuum_wave",
+      "focus_blast",
+      "rock_climb",
+      "stone_edge",
+      "low_sweep",
+      "round",
+      "retaliate",
+      "bulldoze",
+      "work_up",
+      "confide",
+      "power_up_punch",
+      "throat_chop",
+      "coaching",
+      "tera_blast",
+      "trailblaze",
+      "upper_hand"
+    ],
+    "biomeIds": [
+      "dojo",
+      "construction_site"
+    ]
+  }
+]

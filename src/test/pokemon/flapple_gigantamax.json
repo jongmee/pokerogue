@@ -1,0 +1,119 @@
+[
+  {
+    "_id": "flapple_gigantamax",
+    "gender": "",
+    "pokedexNumber": "841",
+    "name": "flapple_gigantamax",
+    "koName": "애프룡_gigantamax",
+    "speciesName": "flapple",
+    "canChangeForm": true,
+    "formName": "g_max",
+    "baseExp": "170",
+    "friendship": "50",
+    "types": [
+      "grass",
+      "dragon"
+    ],
+    "normalAbilityIds": [
+      "hustle"
+    ],
+    "hiddenAbilityId": "hustle",
+    "passiveAbilityId": "dragons_maw",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 585,
+    "hp": 90,
+    "attack": 130,
+    "defense": 100,
+    "specialAttack": 85,
+    "specialDefense": 80,
+    "speed": 100,
+    "height": 24,
+    "weight": 1,
+    "eggMoveIds": [
+      "matcha_gotcha",
+      "dragon_hammer",
+      "flower_trick",
+      "strength_sap"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "wing_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "growth"
+      },
+      {
+        "level": 1,
+        "moveId": "withdraw"
+      },
+      {
+        "level": 1,
+        "moveId": "twister"
+      },
+      {
+        "level": 1,
+        "moveId": "recycle"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 4,
+        "moveId": "acid_spray"
+      },
+      {
+        "level": 8,
+        "moveId": "acrobatics"
+      },
+      {
+        "level": 12,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 16,
+        "moveId": "protect"
+      },
+      {
+        "level": 20,
+        "moveId": "dragon_breath"
+      },
+      {
+        "level": 24,
+        "moveId": "dragon_dance"
+      },
+      {
+        "level": 28,
+        "moveId": "dragon_pulse"
+      },
+      {
+        "level": 32,
+        "moveId": "grav_apple"
+      },
+      {
+        "level": 36,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 40,
+        "moveId": "fly"
+      },
+      {
+        "level": 44,
+        "moveId": "dragon_rush"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "meadow"
+    ]
+  }
+]

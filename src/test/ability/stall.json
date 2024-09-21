@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "stall",
+    "name": "Stall",
+    "koName": "시간벌기",
+    "realased": "",
+    "description": "기술을 사용하는 순서가 반드시 마지막이 된다.",
+    "generation": 4,
+    "pokemonIds": [
+      "slakoth",
+      "slaking",
+      "sableye"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

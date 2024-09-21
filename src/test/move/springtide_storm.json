@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "springtide_storm",
+    "name": "Springtide Storm",
+    "koName": "봄의폭풍",
+    "type": "fairy",
+    "moveCategory": "special",
+    "moveTarget": "all_near_enemies",
+    "power": 100,
+    "accuracy": 80,
+    "powerPoint": 5,
+    "effect": "애증 섞인 강렬한 바람으로 상대를 둘러싸서 공격한다. 상대의 공격을 떨어뜨릴 때가 있다.",
+    "effectChance": 30,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [
+      "wind_move"
+    ],
+    "pokemonIds": []
+  }
+]

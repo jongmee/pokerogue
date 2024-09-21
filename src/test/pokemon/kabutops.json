@@ -1,0 +1,197 @@
+[
+  {
+    "_id": "kabutops",
+    "gender": "",
+    "pokedexNumber": "141",
+    "name": "kabutops",
+    "koName": "투구푸스",
+    "speciesName": "kabutops",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "173",
+    "friendship": "50",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "normalAbilityIds": [
+      "swift_swim",
+      "battle_armor"
+    ],
+    "hiddenAbilityId": "weak_armor",
+    "passiveAbilityId": "tough_claws",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 495,
+    "hp": 60,
+    "attack": 115,
+    "defense": 105,
+    "specialAttack": 65,
+    "specialDefense": 70,
+    "speed": 80,
+    "height": 1.3,
+    "weight": 40.5,
+    "eggMoveIds": [
+      "ceaseless_edge",
+      "high_horsepower",
+      "triple_dive",
+      "mighty_cleave"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "slash"
+      },
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 1,
+        "moveId": "harden"
+      },
+      {
+        "level": 1,
+        "moveId": "feint"
+      },
+      {
+        "level": 1,
+        "moveId": "night_slash"
+      },
+      {
+        "level": 15,
+        "moveId": "aqua_jet"
+      },
+      {
+        "level": 20,
+        "moveId": "leer"
+      },
+      {
+        "level": 25,
+        "moveId": "mud_shot"
+      },
+      {
+        "level": 30,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 35,
+        "moveId": "brine"
+      },
+      {
+        "level": 43,
+        "moveId": "protect"
+      },
+      {
+        "level": 49,
+        "moveId": "leech_life"
+      },
+      {
+        "level": 56,
+        "moveId": "liquidation"
+      },
+      {
+        "level": 63,
+        "moveId": "metal_sound"
+      },
+      {
+        "level": 70,
+        "moveId": "stone_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "low_kick",
+      "dig",
+      "toxic",
+      "screech",
+      "double_team",
+      "confuse_ray",
+      "reflect",
+      "waterfall",
+      "leech_life",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "sandstorm",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "rock_smash",
+      "whirlpool",
+      "hail",
+      "facade",
+      "nature_power",
+      "superpower",
+      "brick_break",
+      "knock_off",
+      "dive",
+      "rock_tomb",
+      "metal_sound",
+      "aerial_ace",
+      "iron_defense",
+      "mud_shot",
+      "rock_blast",
+      "water_pulse",
+      "brine",
+      "rock_polish",
+      "aqua_tail",
+      "x_scissor",
+      "earth_power",
+      "giga_impact",
+      "psycho_cut",
+      "rock_climb",
+      "cross_poison",
+      "stone_edge",
+      "stealth_rock",
+      "hone_claws",
+      "smack_down",
+      "round",
+      "scald",
+      "razor_shell",
+      "confide",
+      "liquidation",
+      "meteor_beam",
+      "flip_turn",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "seabed"
+    ]
+  }
+]

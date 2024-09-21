@@ -1,0 +1,33 @@
+[
+  {
+    "_id": "conversion",
+    "name": "Conversion",
+    "koName": "텍스처",
+    "type": "normal",
+    "moveCategory": "status",
+    "moveTarget": "user",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 30,
+    "effect": "자신의 타입을 배운 기술 중 가장 위에 있는 기술과 같은 타입으로 바꾼다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 1,
+    "realased": "",
+    "flags": [
+      "ignore_protect"
+    ],
+    "pokemonIds": [
+      "porygon",
+      "pineco",
+      "forretress",
+      "porygon2",
+      "smeargle",
+      "porygon_z",
+      "rookidee",
+      "corvisquire",
+      "corviknight",
+      "corviknight_gigantamax"
+    ]
+  }
+]

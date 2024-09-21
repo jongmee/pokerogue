@@ -1,0 +1,119 @@
+[
+  {
+    "_id": "scizor_mega",
+    "gender": "",
+    "pokedexNumber": "212",
+    "name": "scizor_mega",
+    "koName": "핫삼_mega",
+    "speciesName": "scizor",
+    "canChangeForm": true,
+    "formName": "mega",
+    "baseExp": "175",
+    "friendship": "50",
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "normalAbilityIds": [
+      "technician"
+    ],
+    "hiddenAbilityId": "technician",
+    "passiveAbilityId": "tinted_lens",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 600,
+    "hp": 70,
+    "attack": 150,
+    "defense": 140,
+    "specialAttack": 65,
+    "specialDefense": 100,
+    "speed": 75,
+    "height": 2,
+    "weight": 125,
+    "eggMoveIds": [
+      "mighty_cleave",
+      "bug_bite",
+      "storm_throw",
+      "double_iron_bash"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "bullet_punch"
+      },
+      {
+        "level": 1,
+        "moveId": "wing_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "agility"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "false_swipe"
+      },
+      {
+        "level": 1,
+        "moveId": "fury_cutter"
+      },
+      {
+        "level": 1,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 12,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 16,
+        "moveId": "double_team"
+      },
+      {
+        "level": 20,
+        "moveId": "double_hit"
+      },
+      {
+        "level": 24,
+        "moveId": "slash"
+      },
+      {
+        "level": 28,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 32,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 36,
+        "moveId": "iron_head"
+      },
+      {
+        "level": 40,
+        "moveId": "x_scissor"
+      },
+      {
+        "level": 44,
+        "moveId": "swords_dance"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "jungle"
+    ]
+  }
+]

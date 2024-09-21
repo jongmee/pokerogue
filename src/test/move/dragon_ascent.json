@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "dragon_ascent",
+    "name": "Dragon Ascent",
+    "koName": "화룡점정",
+    "type": "flying",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 120,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "넓은 하늘에서 급속으로 강하하여 상대를 공격한다. 자신의 방어와 특수방어가 떨어진다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 6,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "magikarp",
+      "gyarados",
+      "gyarados_mega",
+      "rayquaza"
+    ]
+  }
+]

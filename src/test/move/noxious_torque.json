@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "noxious_torque",
+    "name": "Noxious Torque",
+    "koName": "포이즌액셀",
+    "type": "poison",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 100,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "독성 엔진으로 상대에게 부릉거린다. 독 상태로 만들 때가 있다.",
+    "effectChance": 30,
+    "prioirty": 0,
+    "generation": 9,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "weedle",
+      "kakuna",
+      "beedrill",
+      "beedrill_mega",
+      "ekans",
+      "arbok",
+      "nidoran_m",
+      "nidorino",
+      "nidoking",
+      "grimer",
+      "muk",
+      "venipede",
+      "whirlipede",
+      "scolipede",
+      "varoom",
+      "revavroom"
+    ]
+  }
+]

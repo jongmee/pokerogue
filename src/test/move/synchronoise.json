@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "synchronoise",
+    "name": "Synchronoise",
+    "koName": "싱크로노이즈",
+    "type": "psychic",
+    "moveCategory": "special",
+    "moveTarget": "all_near_others",
+    "power": 120,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "이상한 전파로 주위에 있는 자신과 같은 타입의 포켓몬에게 데미지를 준다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 5,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "chimecho",
+      "chatot",
+      "beheeyem"
+    ]
+  }
+]

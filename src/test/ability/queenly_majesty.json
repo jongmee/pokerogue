@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "queenly_majesty",
+    "name": "Queenly Majesty",
+    "koName": "여왕의위엄",
+    "realased": "",
+    "description": "상대에게 위압감을 줘서 이쪽을 향한 선제 기술을 사용할 수 없게 한다.",
+    "generation": 7,
+    "pokemonIds": [
+      "tsareena"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

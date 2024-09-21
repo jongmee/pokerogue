@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "ice_body",
+    "name": "Ice Body",
+    "koName": "아이스바디",
+    "realased": " (P)",
+    "description": "날씨가 눈일 때 HP를 조금씩 회복한다.",
+    "generation": 4,
+    "pokemonIds": [
+      "seel",
+      "dewgong",
+      "snorunt",
+      "glalie",
+      "spheal",
+      "sealeo",
+      "walrein",
+      "regice",
+      "glaceon",
+      "vanillite",
+      "vanillish",
+      "vanilluxe",
+      "bergmite",
+      "avalugg",
+      "mr_rime",
+      "arctovish",
+      "frigibax",
+      "arctibax",
+      "baxcalibur",
+      "galar_mr_mime",
+      "hisui_avalugg"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

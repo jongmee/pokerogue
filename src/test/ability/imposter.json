@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "imposter",
+    "name": "Imposter",
+    "koName": "괴짜",
+    "realased": "",
+    "description": "눈앞의 포켓몬으로 변신해버린다.",
+    "generation": 5,
+    "pokemonIds": [
+      "ditto"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

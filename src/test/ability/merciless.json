@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "merciless",
+    "name": "Merciless",
+    "koName": "무도한행동",
+    "realased": "",
+    "description": "독 상태의 상대를 공격하면 반드시 급소에 맞는다.",
+    "generation": 7,
+    "pokemonIds": [
+      "mareanie",
+      "toxapex",
+      "overqwil",
+      "hisui_qwilfish"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

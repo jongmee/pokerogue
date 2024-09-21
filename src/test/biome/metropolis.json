@@ -1,0 +1,150 @@
+[
+  {
+    "_id": "metropolis",
+    "name": "Metropolis",
+    "koName": "대도시",
+    "types": [
+      "normal"
+    ],
+    "nextBiomes": [
+      {
+        "name": "slum",
+        "percentage": 100
+      }
+    ],
+    "nativePokemons": [
+      {
+        "tier": "보통",
+        "pokemonIds": [
+          "yamper",
+          "boltund",
+          "patrat",
+          "watchog",
+          "houndour",
+          "houndoom",
+          "rattata",
+          "raticate",
+          "zigzagoon",
+          "linoone",
+          "lillipup",
+          "herdier",
+          "stoutland"
+        ]
+      },
+      {
+        "tier": "드묾",
+        "pokemonIds": [
+          "patrat",
+          "watchog",
+          "indeedee",
+          "espurr",
+          "meowstic",
+          "pikachu",
+          "glameow",
+          "purugly",
+          "furfrou",
+          "fidough",
+          "dachsbun",
+          "squawkabilly"
+        ]
+      },
+      {
+        "tier": "레어",
+        "pokemonIds": [
+          "tandemaus",
+          "maushold",
+          "morpeko",
+          "varoom",
+          "revavroom"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어",
+        "pokemonIds": [
+          "ditto",
+          "eevee",
+          "smeargle"
+        ]
+      },
+      {
+        "tier": "울트라 레어",
+        "pokemonIds": [
+          "castform"
+        ]
+      },
+      {
+        "tier": "보스",
+        "pokemonIds": [
+          "boltund",
+          "meowstic",
+          "stoutland",
+          "furfrou",
+          "dachsbun"
+        ]
+      },
+      {
+        "tier": "레어 보스",
+        "pokemonIds": [
+          "maushold",
+          "castform",
+          "revavroom"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어 보스",
+        "pokemonIds": []
+      },
+      {
+        "tier": "슈퍼 울트라 레어 보스",
+        "pokemonIds": []
+      }
+    ],
+    "trainers": [
+      {
+        "name": "꼭두",
+        "types": [
+          "fairy",
+          "normal"
+        ],
+        "pokemonIds": [
+          "girafarig",
+          "miltank"
+        ]
+      },
+      {
+        "name": "종길",
+        "types": [
+          "normal"
+        ],
+        "pokemonIds": [
+          "slakoth",
+          "spinda",
+          "chansey",
+          "kangaskhan"
+        ]
+      },
+      {
+        "name": "모야모",
+        "types": [
+          "electric"
+        ],
+        "pokemonIds": [
+          "tadbulb",
+          "wattrel",
+          "voltorb"
+        ]
+      },
+      {
+        "name": "청목",
+        "types": [
+          "normal"
+        ],
+        "pokemonIds": [
+          "starly",
+          "dunsparce",
+          "komala"
+        ]
+      }
+    ]
+  }
+]

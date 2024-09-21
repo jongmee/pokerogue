@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "fairy_aura",
+    "name": "Fairy Aura",
+    "koName": "페어리오라",
+    "realased": "",
+    "description": "전원의 페어리타입 기술이 강해진다.",
+    "generation": 6,
+    "pokemonIds": [
+      "xerneas_neutral",
+      "xerneas_active",
+      "tapu_fini",
+      "hatenna",
+      "hattrem",
+      "hatterene",
+      "hatterene_gigantamax",
+      "enamorus_incarnate",
+      "enamorus_therian"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "_id": "kowtow_cleave",
+    "name": "Kowtow Cleave",
+    "koName": "도각참",
+    "type": "dark",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 85,
+    "accuracy": -1,
+    "powerPoint": 10,
+    "effect": "머리를 조아려 상대를 방심하게 만든 뒤에 베어 버린다. 공격은 반드시 명중한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 9,
+    "realased": "",
+    "flags": [
+      "makes_contact",
+      "slicing_move"
+    ],
+    "pokemonIds": [
+      "seedot",
+      "nuzleaf",
+      "shiftry",
+      "absol",
+      "absol_mega",
+      "kingambit",
+      "iron_boulder"
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "overdrive",
+    "name": "Overdrive",
+    "koName": "오버드라이브",
+    "type": "electric",
+    "moveCategory": "special",
+    "moveTarget": "all_near_enemies",
+    "power": 80,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "기타나 베이스를 쳐서 큰 울림과 강한 진동을 상대에게 전달하여 공격한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [
+      "sound_based"
+    ],
+    "pokemonIds": [
+      "noibat",
+      "noivern",
+      "toxtricity",
+      "toxtricity_lowkey",
+      "fuecoco",
+      "crocalor",
+      "skeledirge"
+    ]
+  }
+]

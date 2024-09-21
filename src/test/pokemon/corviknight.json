@@ -1,0 +1,179 @@
+[
+  {
+    "_id": "corviknight",
+    "gender": "",
+    "pokedexNumber": "823",
+    "name": "corviknight",
+    "koName": "아머까오",
+    "speciesName": "corviknight",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "248",
+    "friendship": "50",
+    "types": [
+      "flying",
+      "steel"
+    ],
+    "normalAbilityIds": [
+      "pressure",
+      "unnerve"
+    ],
+    "hiddenAbilityId": "mirror_armor",
+    "passiveAbilityId": "iron_barbs",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 495,
+    "hp": 98,
+    "attack": 87,
+    "defense": 105,
+    "specialAttack": 53,
+    "specialDefense": 85,
+    "speed": 67,
+    "height": 2.2,
+    "weight": 75,
+    "eggMoveIds": [
+      "roost",
+      "body_press",
+      "kings_shield",
+      "behemoth_bash"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "steel_wing"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "peck"
+      },
+      {
+        "level": 1,
+        "moveId": "screech"
+      },
+      {
+        "level": 1,
+        "moveId": "metal_sound"
+      },
+      {
+        "level": 1,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 1,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 1,
+        "moveId": "power_trip"
+      },
+      {
+        "level": 12,
+        "moveId": "fury_attack"
+      },
+      {
+        "level": 16,
+        "moveId": "pluck"
+      },
+      {
+        "level": 22,
+        "moveId": "taunt"
+      },
+      {
+        "level": 28,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 34,
+        "moveId": "drill_peck"
+      },
+      {
+        "level": 42,
+        "moveId": "swagger"
+      },
+      {
+        "level": 50,
+        "moveId": "brave_bird"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fly",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "agility",
+      "screech",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "focus_energy",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "reversal",
+      "spite",
+      "protect",
+      "scary_face",
+      "endure",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "rock_smash",
+      "facade",
+      "taunt",
+      "revenge",
+      "fake_tears",
+      "air_cutter",
+      "metal_sound",
+      "aerial_ace",
+      "iron_defense",
+      "bulk_up",
+      "roost",
+      "pluck",
+      "tailwind",
+      "u_turn",
+      "payback",
+      "assurance",
+      "air_slash",
+      "brave_bird",
+      "giga_impact",
+      "nasty_plot",
+      "flash_cannon",
+      "defog",
+      "iron_head",
+      "hone_claws",
+      "heavy_slam",
+      "round",
+      "retaliate",
+      "work_up",
+      "hurricane",
+      "body_press",
+      "steel_beam",
+      "dual_wingbeat",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "plains",
+      "mountain"
+    ]
+  }
+]

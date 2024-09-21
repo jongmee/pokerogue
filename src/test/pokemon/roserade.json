@@ -1,0 +1,184 @@
+[
+  {
+    "_id": "roserade",
+    "gender": "",
+    "pokedexNumber": "407",
+    "name": "roserade",
+    "koName": "로즈레이드",
+    "speciesName": "roserade",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "258",
+    "friendship": "50",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "normalAbilityIds": [
+      "natural_cure",
+      "poison_point"
+    ],
+    "hiddenAbilityId": "technician",
+    "passiveAbilityId": "grassy_surge",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 515,
+    "hp": 60,
+    "attack": 70,
+    "defense": 65,
+    "specialAttack": 125,
+    "specialDefense": 105,
+    "speed": 90,
+    "height": 0.9,
+    "weight": 14.5,
+    "eggMoveIds": [
+      "fiery_dance",
+      "acid_spray",
+      "bouncy_bubble",
+      "quiver_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "poison_sting"
+      },
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 1,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 1,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 1,
+        "moveId": "growth"
+      },
+      {
+        "level": 1,
+        "moveId": "stun_spore"
+      },
+      {
+        "level": 1,
+        "moveId": "petal_dance"
+      },
+      {
+        "level": 1,
+        "moveId": "toxic"
+      },
+      {
+        "level": 1,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 1,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 1,
+        "moveId": "synthesis"
+      },
+      {
+        "level": 1,
+        "moveId": "ingrain"
+      },
+      {
+        "level": 1,
+        "moveId": "aromatherapy"
+      },
+      {
+        "level": 1,
+        "moveId": "magical_leaf"
+      },
+      {
+        "level": 1,
+        "moveId": "worry_seed"
+      },
+      {
+        "level": 1,
+        "moveId": "toxic_spikes"
+      },
+      {
+        "level": 1,
+        "moveId": "petal_blizzard"
+      },
+      {
+        "level": 1,
+        "moveId": "grassy_terrain"
+      },
+      {
+        "level": 1,
+        "moveId": "venom_drench"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "body_slam",
+      "pin_missile",
+      "hyper_beam",
+      "solar_beam",
+      "toxic",
+      "double_team",
+      "swift",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "sludge_bomb",
+      "mud_slap",
+      "spikes",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "synthesis",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "uproar",
+      "facade",
+      "nature_power",
+      "weather_ball",
+      "bullet_seed",
+      "covet",
+      "magical_leaf",
+      "worry_seed",
+      "toxic_spikes",
+      "poison_jab",
+      "seed_bomb",
+      "energy_ball",
+      "giga_impact",
+      "leaf_storm",
+      "power_whip",
+      "grass_knot",
+      "venoshock",
+      "round",
+      "petal_blizzard",
+      "grassy_terrain",
+      "confide",
+      "venom_drench",
+      "dazzling_gleam",
+      "grassy_glide",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "meadow"
+    ]
+  }
+]

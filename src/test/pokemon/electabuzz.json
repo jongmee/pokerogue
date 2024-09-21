@@ -1,0 +1,180 @@
+[
+  {
+    "_id": "electabuzz",
+    "gender": "",
+    "pokedexNumber": "125",
+    "name": "electabuzz",
+    "koName": "에레브",
+    "speciesName": "electabuzz",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "172",
+    "friendship": "50",
+    "types": [
+      "electric"
+    ],
+    "normalAbilityIds": [
+      "static"
+    ],
+    "hiddenAbilityId": "vital_spirit",
+    "passiveAbilityId": "sheer_force",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 490,
+    "hp": 65,
+    "attack": 83,
+    "defense": 57,
+    "specialAttack": 95,
+    "specialDefense": 85,
+    "speed": 105,
+    "height": 1.1,
+    "weight": 30,
+    "eggMoveIds": [
+      "blazing_torque",
+      "tidy_up",
+      "mountain_gale",
+      "zippy_zap"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "charge"
+      },
+      {
+        "level": 12,
+        "moveId": "swift"
+      },
+      {
+        "level": 16,
+        "moveId": "shock_wave"
+      },
+      {
+        "level": 20,
+        "moveId": "thunder_wave"
+      },
+      {
+        "level": 24,
+        "moveId": "screech"
+      },
+      {
+        "level": 28,
+        "moveId": "thunder_punch"
+      },
+      {
+        "level": 34,
+        "moveId": "discharge"
+      },
+      {
+        "level": 40,
+        "moveId": "low_kick"
+      },
+      {
+        "level": 46,
+        "moveId": "thunderbolt"
+      },
+      {
+        "level": 52,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 58,
+        "moveId": "thunder"
+      },
+      {
+        "level": 64,
+        "moveId": "giga_impact"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "low_kick",
+      "counter",
+      "strength",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "psychic",
+      "screech",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "metronome",
+      "swift",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "rock_smash",
+      "uproar",
+      "facade",
+      "focus_punch",
+      "charge",
+      "taunt",
+      "helping_hand",
+      "brick_break",
+      "knock_off",
+      "metal_sound",
+      "signal_beam",
+      "bulk_up",
+      "covet",
+      "fling",
+      "focus_blast",
+      "giga_impact",
+      "rock_climb",
+      "charge_beam",
+      "electro_ball",
+      "low_sweep",
+      "round",
+      "volt_switch",
+      "electroweb",
+      "wild_charge",
+      "confide",
+      "power_up_punch",
+      "rising_voltage",
+      "tera_blast",
+      "supercell_slam"
+    ],
+    "biomeIds": [
+      "power_plant"
+    ]
+  }
+]

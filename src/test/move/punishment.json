@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "punishment",
+    "name": "Punishment",
+    "koName": "혼내기",
+    "type": "dark",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "능력 변화로 상대가 파워업한 만큼 기술의 위력이 올라간다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 4,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "tsareena"
+    ]
+  }
+]

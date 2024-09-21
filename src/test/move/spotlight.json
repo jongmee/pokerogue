@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "spotlight",
+    "name": "Spotlight",
+    "koName": "스포트라이트",
+    "type": "normal",
+    "moveCategory": "status",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 15,
+    "effect": "포켓몬에게 스포트라이트를 비춰 그 턴에서 그 포켓몬만 공격할 수 있게 한다.",
+    "effectChance": -1,
+    "prioirty": 3,
+    "generation": 7,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "clefairy",
+      "clefable",
+      "starmie",
+      "lanturn"
+    ]
+  }
+]

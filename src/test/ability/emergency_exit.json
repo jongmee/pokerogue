@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "emergency_exit",
+    "name": "Emergency Exit",
+    "koName": "위기회피",
+    "realased": " (N)",
+    "description": "HP가 절반이 되면 위험을 회피하기 위해 지닌 포켓몬으로 돌아간다.",
+    "generation": 7,
+    "pokemonIds": [
+      "archen",
+      "archeops",
+      "golisopod"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

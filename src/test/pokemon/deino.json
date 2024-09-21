@@ -1,0 +1,175 @@
+[
+  {
+    "_id": "deino",
+    "gender": "",
+    "pokedexNumber": "633",
+    "name": "deino",
+    "koName": "모노두",
+    "speciesName": "deino",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "60",
+    "friendship": "35",
+    "types": [
+      "dark",
+      "dragon"
+    ],
+    "normalAbilityIds": [
+      "hustle"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "parental_bond",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 300,
+    "hp": 52,
+    "attack": 65,
+    "defense": 50,
+    "specialAttack": 45,
+    "specialDefense": 50,
+    "speed": 38,
+    "height": 0.8,
+    "weight": 17.3,
+    "eggMoveIds": [
+      "fiery_wrath",
+      "esper_wing",
+      "sludge_bomb",
+      "fickle_beam"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 4,
+        "moveId": "dragon_breath"
+      },
+      {
+        "level": 8,
+        "moveId": "bite"
+      },
+      {
+        "level": 12,
+        "moveId": "roar"
+      },
+      {
+        "level": 16,
+        "moveId": "assurance"
+      },
+      {
+        "level": 20,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 24,
+        "moveId": "work_up"
+      },
+      {
+        "level": 28,
+        "moveId": "slam"
+      },
+      {
+        "level": 32,
+        "moveId": "crunch"
+      },
+      {
+        "level": 36,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 40,
+        "moveId": "dragon_pulse"
+      },
+      {
+        "level": 44,
+        "moveId": "body_slam"
+      },
+      {
+        "level": 48,
+        "moveId": "hyper_voice"
+      },
+      {
+        "level": 52,
+        "moveId": "dragon_rush"
+      },
+      {
+        "level": 56,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 60,
+        "moveId": "outrage"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "roar",
+      "strength",
+      "thunder_wave",
+      "toxic",
+      "screech",
+      "double_team",
+      "focus_energy",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "spite",
+      "protect",
+      "scary_face",
+      "outrage",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "psych_up",
+      "rock_smash",
+      "uproar",
+      "torment",
+      "facade",
+      "taunt",
+      "superpower",
+      "hyper_voice",
+      "assurance",
+      "dark_pulse",
+      "aqua_tail",
+      "dragon_pulse",
+      "earth_power",
+      "nasty_plot",
+      "thunder_fang",
+      "ice_fang",
+      "fire_fang",
+      "zen_headbutt",
+      "draco_meteor",
+      "round",
+      "incinerate",
+      "dragon_tail",
+      "work_up",
+      "snarl",
+      "confide",
+      "tera_blast",
+      "dragon_cheer"
+    ],
+    "biomeIds": [
+      "wasteland",
+      "abyss"
+    ]
+  }
+]

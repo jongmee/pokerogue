@@ -1,0 +1,169 @@
+[
+  {
+    "_id": "natu",
+    "gender": "",
+    "pokedexNumber": "177",
+    "name": "natu",
+    "koName": "네이티",
+    "speciesName": "natu",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "64",
+    "friendship": "50",
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "synchronize",
+      "early_bird"
+    ],
+    "hiddenAbilityId": "magic_bounce",
+    "passiveAbilityId": "tinted_lens",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 320,
+    "hp": 40,
+    "attack": 50,
+    "defense": 45,
+    "specialAttack": 70,
+    "specialDefense": 45,
+    "speed": 70,
+    "height": 0.2,
+    "weight": 2,
+    "eggMoveIds": [
+      "aeroblast",
+      "roost",
+      "calm_mind",
+      "lumina_crash"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "peck"
+      },
+      {
+        "level": 5,
+        "moveId": "stored_power"
+      },
+      {
+        "level": 10,
+        "moveId": "teleport"
+      },
+      {
+        "level": 15,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 20,
+        "moveId": "night_shade"
+      },
+      {
+        "level": 26,
+        "moveId": "psycho_shift"
+      },
+      {
+        "level": 30,
+        "moveId": "power_swap"
+      },
+      {
+        "level": 35,
+        "moveId": "psychic"
+      },
+      {
+        "level": 35,
+        "moveId": "guard_swap"
+      },
+      {
+        "level": 40,
+        "moveId": "wish"
+      },
+      {
+        "level": 45,
+        "moveId": "future_sight"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "solar_beam",
+      "thunder_wave",
+      "toxic",
+      "psychic",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "haze",
+      "reflect",
+      "swift",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "baton_pass",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "heat_wave",
+      "facade",
+      "trick",
+      "skill_swap",
+      "imprison",
+      "feather_dance",
+      "air_cutter",
+      "cosmic_power",
+      "signal_beam",
+      "aerial_ace",
+      "calm_mind",
+      "roost",
+      "pluck",
+      "tailwind",
+      "u_turn",
+      "power_swap",
+      "guard_swap",
+      "air_slash",
+      "zen_headbutt",
+      "trick_room",
+      "grass_knot",
+      "psyshock",
+      "magic_room",
+      "round",
+      "stored_power",
+      "ally_switch",
+      "confide",
+      "dazzling_gleam",
+      "expanding_force",
+      "dual_wingbeat",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "mountain",
+      "ruins",
+      "temple"
+    ]
+  }
+]

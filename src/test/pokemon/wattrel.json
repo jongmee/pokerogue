@@ -1,0 +1,143 @@
+[
+  {
+    "_id": "wattrel",
+    "gender": "",
+    "pokedexNumber": "940",
+    "name": "wattrel",
+    "koName": "찌리비",
+    "speciesName": "wattrel",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "56",
+    "friendship": "50",
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "wind_power",
+      "volt_absorb"
+    ],
+    "hiddenAbilityId": "competitive",
+    "passiveAbilityId": "sheer_force",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 280,
+    "hp": 40,
+    "attack": 40,
+    "defense": 35,
+    "specialAttack": 55,
+    "specialDefense": 40,
+    "speed": 70,
+    "height": 0.4,
+    "weight": 3.6,
+    "eggMoveIds": [
+      "nasty_plot",
+      "splishy_splash",
+      "sandsear_storm",
+      "electro_shot"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "peck"
+      },
+      {
+        "level": 4,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 7,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 11,
+        "moveId": "pluck"
+      },
+      {
+        "level": 15,
+        "moveId": "spark"
+      },
+      {
+        "level": 19,
+        "moveId": "uproar"
+      },
+      {
+        "level": 23,
+        "moveId": "roost"
+      },
+      {
+        "level": 27,
+        "moveId": "dual_wingbeat"
+      },
+      {
+        "level": 32,
+        "moveId": "agility"
+      },
+      {
+        "level": 37,
+        "moveId": "volt_switch"
+      },
+      {
+        "level": 43,
+        "moveId": "discharge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fly",
+      "take_down",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "agility",
+      "double_team",
+      "swift",
+      "rest",
+      "substitute",
+      "protect",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "uproar",
+      "facade",
+      "charge",
+      "endeavor",
+      "feather_dance",
+      "weather_ball",
+      "air_cutter",
+      "aerial_ace",
+      "roost",
+      "pluck",
+      "tailwind",
+      "u_turn",
+      "air_slash",
+      "brave_bird",
+      "charge_beam",
+      "electro_ball",
+      "acrobatics",
+      "volt_switch",
+      "electroweb",
+      "wild_charge",
+      "hurricane",
+      "eerie_impulse",
+      "electric_terrain",
+      "dual_wingbeat",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "sea"
+    ]
+  }
+]

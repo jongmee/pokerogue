@@ -1,0 +1,40 @@
+[
+  {
+    "_id": "cotton_guard",
+    "name": "Cotton Guard",
+    "koName": "코튼가드",
+    "type": "grass",
+    "moveCategory": "status",
+    "moveTarget": "user",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 10,
+    "effect": "푹신푹신한 솜털로 자신의 몸을 둘러싸서 지킨다. 방어를 매우 크게 올린다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 5,
+    "realased": "",
+    "flags": [
+      "ignore_protect"
+    ],
+    "pokemonIds": [
+      "chansey",
+      "mareep",
+      "flaaffy",
+      "ampharos",
+      "blissey",
+      "swablu",
+      "altaria",
+      "happiny",
+      "cottonee",
+      "whimsicott",
+      "maractus",
+      "furfrou",
+      "swirlix",
+      "slurpuff",
+      "eldegoss",
+      "wooloo",
+      "dubwool"
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "mind_blown",
+    "name": "Mind Blown",
+    "koName": "깜짝헤드",
+    "type": "fire",
+    "moveCategory": "special",
+    "moveTarget": "all_near_others",
+    "power": 150,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "자신의 머리를 폭발시켜 주위의 모든 것을 공격한다. 자신도 데미지를 받는다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "drifloon",
+      "drifblim",
+      "blacephalon",
+      "eternal_floette"
+    ]
+  }
+]

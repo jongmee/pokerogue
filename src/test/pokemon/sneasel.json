@@ -1,0 +1,189 @@
+[
+  {
+    "_id": "sneasel",
+    "gender": "",
+    "pokedexNumber": "215",
+    "name": "sneasel",
+    "koName": "포푸니",
+    "speciesName": "sneasel",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "86",
+    "friendship": "35",
+    "types": [
+      "dark",
+      "ice"
+    ],
+    "normalAbilityIds": [
+      "inner_focus",
+      "keen_eye"
+    ],
+    "hiddenAbilityId": "pickpocket",
+    "passiveAbilityId": "tough_claws",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 430,
+    "hp": 55,
+    "attack": 95,
+    "defense": 55,
+    "specialAttack": 35,
+    "specialDefense": 75,
+    "speed": 115,
+    "height": 0.9,
+    "weight": 28,
+    "eggMoveIds": [
+      "dire_claw",
+      "storm_throw",
+      "triple_axel",
+      "wicked_blow"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 6,
+        "moveId": "taunt"
+      },
+      {
+        "level": 12,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 18,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 24,
+        "moveId": "icy_wind"
+      },
+      {
+        "level": 30,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 36,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 42,
+        "moveId": "beat_up"
+      },
+      {
+        "level": 48,
+        "moveId": "agility"
+      },
+      {
+        "level": 54,
+        "moveId": "screech"
+      },
+      {
+        "level": 60,
+        "moveId": "slash"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "ice_punch",
+      "swords_dance",
+      "cut",
+      "mega_kick",
+      "take_down",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "low_kick",
+      "counter",
+      "strength",
+      "dig",
+      "toxic",
+      "agility",
+      "screech",
+      "double_team",
+      "reflect",
+      "swift",
+      "dream_eater",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "reversal",
+      "spite",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "rock_smash",
+      "whirlpool",
+      "beat_up",
+      "hail",
+      "torment",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "brick_break",
+      "knock_off",
+      "fake_tears",
+      "aerial_ace",
+      "icicle_spear",
+      "calm_mind",
+      "water_pulse",
+      "payback",
+      "embargo",
+      "fling",
+      "poison_jab",
+      "dark_pulse",
+      "x_scissor",
+      "giga_impact",
+      "nasty_plot",
+      "avalanche",
+      "shadow_claw",
+      "psycho_cut",
+      "hone_claws",
+      "low_sweep",
+      "foul_play",
+      "round",
+      "retaliate",
+      "snarl",
+      "confide",
+      "power_up_punch",
+      "throat_chop",
+      "lash_out",
+      "triple_axel",
+      "tera_blast",
+      "snowscape",
+      "trailblaze",
+      "upper_hand"
+    ],
+    "biomeIds": [
+      "ice_cave",
+      "snowy_forest"
+    ]
+  }
+]

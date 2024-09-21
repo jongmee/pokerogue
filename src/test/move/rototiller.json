@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "rototiller",
+    "name": "Rototiller",
+    "koName": "일구기",
+    "type": "ground",
+    "moveCategory": "status",
+    "moveTarget": "all",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 10,
+    "effect": "땅을 일구어 초목이 자라기 쉽게 한다. 풀타입의 공격과 특수공격이 오른다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 6,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "dugtrio",
+      "linoone",
+      "bibarel",
+      "lopunny",
+      "watchog",
+      "excadrill",
+      "diggersby",
+      "alola_dugtrio"
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "triage",
+    "name": "Triage",
+    "koName": "힐링시프트",
+    "realased": "",
+    "description": "회복 기술을 먼저 사용할 수 있다.",
+    "generation": 7,
+    "pokemonIds": [
+      "oddish",
+      "gloom",
+      "vileplume",
+      "paras",
+      "parasect",
+      "bellossom",
+      "morelull",
+      "shiinotic",
+      "comfey",
+      "tapu_bulu"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

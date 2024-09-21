@@ -1,0 +1,43 @@
+[
+  {
+    "_id": "headlong_rush",
+    "name": "Headlong Rush",
+    "koName": "들이받기",
+    "type": "ground",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 120,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "온 힘을 다한 몸통박치기를 날린다. 자신의 방어와 특수방어가 떨어진다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [
+      "makes_contact",
+      "punching_move"
+    ],
+    "pokemonIds": [
+      "diglett",
+      "dugtrio",
+      "taillow",
+      "swellow",
+      "hariyama",
+      "torterra",
+      "golett",
+      "golurk",
+      "terrakion",
+      "swirlix",
+      "slurpuff",
+      "fomantis",
+      "lurantis",
+      "ursaluna",
+      "finizen",
+      "palafin_zero",
+      "palafin_hero",
+      "great_tusk",
+      "bloodmoon_ursaluna"
+    ]
+  }
+]

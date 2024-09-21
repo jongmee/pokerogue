@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "perish_body",
+    "name": "Perish Body",
+    "koName": "멸망의바디",
+    "realased": "",
+    "description": "접촉하는 기술을 받으면 3턴 후에 양쪽 모두 기절한다. 교체되면 효과가 없어진다.",
+    "generation": 8,
+    "pokemonIds": [
+      "cursola"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

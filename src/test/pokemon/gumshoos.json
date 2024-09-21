@@ -1,0 +1,179 @@
+[
+  {
+    "_id": "gumshoos",
+    "gender": "",
+    "pokedexNumber": "735",
+    "name": "gumshoos",
+    "koName": "형사구스",
+    "speciesName": "gumshoos",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "146",
+    "friendship": "70",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "stakeout",
+      "strong_jaw"
+    ],
+    "hiddenAbilityId": "adaptability",
+    "passiveAbilityId": "tough_claws",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 418,
+    "hp": 88,
+    "attack": 110,
+    "defense": 60,
+    "specialAttack": 55,
+    "specialDefense": 60,
+    "speed": 45,
+    "height": 0.7,
+    "weight": 14.2,
+    "eggMoveIds": [
+      "extreme_speed",
+      "knock_off",
+      "tidy_up",
+      "multi_attack"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "payback"
+      },
+      {
+        "level": 1,
+        "moveId": "pursuit"
+      },
+      {
+        "level": 13,
+        "moveId": "work_up"
+      },
+      {
+        "level": 19,
+        "moveId": "bite"
+      },
+      {
+        "level": 23,
+        "moveId": "mud_slap"
+      },
+      {
+        "level": 27,
+        "moveId": "super_fang"
+      },
+      {
+        "level": 31,
+        "moveId": "take_down"
+      },
+      {
+        "level": 35,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 39,
+        "moveId": "crunch"
+      },
+      {
+        "level": 43,
+        "moveId": "yawn"
+      },
+      {
+        "level": 47,
+        "moveId": "thrash"
+      },
+      {
+        "level": 52,
+        "moveId": "rest"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "hyper_beam",
+      "earthquake",
+      "dig",
+      "toxic",
+      "double_team",
+      "rest",
+      "super_fang",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "reversal",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "uproar",
+      "torment",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "revenge",
+      "knock_off",
+      "endeavor",
+      "rock_tomb",
+      "mud_shot",
+      "u_turn",
+      "payback",
+      "fling",
+      "seed_bomb",
+      "giga_impact",
+      "thunder_fang",
+      "ice_fang",
+      "fire_fang",
+      "zen_headbutt",
+      "iron_head",
+      "low_sweep",
+      "round",
+      "echoed_voice",
+      "bulldoze",
+      "work_up",
+      "wild_charge",
+      "confide",
+      "psychic_fangs",
+      "stomping_tantrum",
+      "tera_blast",
+      "trailblaze",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "plains"
+    ]
+  }
+]

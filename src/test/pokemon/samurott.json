@@ -1,0 +1,195 @@
+[
+  {
+    "_id": "samurott",
+    "gender": "",
+    "pokedexNumber": "503",
+    "name": "samurott",
+    "koName": "대검귀",
+    "speciesName": "samurott",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "238",
+    "friendship": "70",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "torrent"
+    ],
+    "hiddenAbilityId": "shell_armor",
+    "passiveAbilityId": "intrepid_sword",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 528,
+    "hp": 95,
+    "attack": 100,
+    "defense": 85,
+    "specialAttack": 108,
+    "specialDefense": 70,
+    "speed": 70,
+    "height": 1.5,
+    "weight": 94.6,
+    "eggMoveIds": [
+      "triple_axel",
+      "shell_side_arm",
+      "sacred_sword",
+      "shell_smash"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "slash"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "megahorn"
+      },
+      {
+        "level": 1,
+        "moveId": "soak"
+      },
+      {
+        "level": 13,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 18,
+        "moveId": "razor_shell"
+      },
+      {
+        "level": 21,
+        "moveId": "fury_cutter"
+      },
+      {
+        "level": 25,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 29,
+        "moveId": "aerial_ace"
+      },
+      {
+        "level": 34,
+        "moveId": "aqua_jet"
+      },
+      {
+        "level": 39,
+        "moveId": "encore"
+      },
+      {
+        "level": 46,
+        "moveId": "aqua_tail"
+      },
+      {
+        "level": 51,
+        "moveId": "retaliate"
+      },
+      {
+        "level": 58,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 63,
+        "moveId": "hydro_pump"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "body_slam",
+      "take_down",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "strength",
+      "dig",
+      "toxic",
+      "double_team",
+      "focus_energy",
+      "waterfall",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "scary_face",
+      "icy_wind",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "megahorn",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "rock_smash",
+      "whirlpool",
+      "hail",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "superpower",
+      "revenge",
+      "brick_break",
+      "knock_off",
+      "dive",
+      "hydro_cannon",
+      "aerial_ace",
+      "covet",
+      "water_pulse",
+      "fling",
+      "aqua_tail",
+      "air_slash",
+      "x_scissor",
+      "vacuum_wave",
+      "giga_impact",
+      "avalanche",
+      "grass_knot",
+      "round",
+      "scald",
+      "retaliate",
+      "water_pledge",
+      "bulldoze",
+      "dragon_tail",
+      "work_up",
+      "drill_run",
+      "sacred_sword",
+      "razor_shell",
+      "confide",
+      "smart_strike",
+      "liquidation",
+      "flip_turn",
+      "tera_blast",
+      "snowscape",
+      "chilling_water",
+      "upper_hand"
+    ],
+    "biomeIds": [
+      "lake"
+    ]
+  }
+]

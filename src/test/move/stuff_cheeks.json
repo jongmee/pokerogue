@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "stuff_cheeks",
+    "name": "Stuff Cheeks",
+    "koName": "볼가득넣기",
+    "type": "normal",
+    "moveCategory": "status",
+    "moveTarget": "user",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 10,
+    "effect": "지니고 있는 나무열매를 먹고 방어를 크게 올린다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": " (P)",
+    "flags": [
+      "ignore_protect"
+    ],
+    "pokemonIds": [
+      "snorlax",
+      "snorlax_gigantamax",
+      "shuckle",
+      "tropius",
+      "munchlax",
+      "skwovet",
+      "greedent"
+    ]
+  }
+]

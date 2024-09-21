@@ -1,0 +1,182 @@
+[
+  {
+    "_id": "delcatty",
+    "gender": "",
+    "pokedexNumber": "301",
+    "name": "delcatty",
+    "koName": "델케티",
+    "speciesName": "delcatty",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "140",
+    "friendship": "70",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "cute_charm",
+      "normalize"
+    ],
+    "hiddenAbilityId": "wonder_skin",
+    "passiveAbilityId": "scrappy",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 400,
+    "hp": 70,
+    "attack": 65,
+    "defense": 65,
+    "specialAttack": 55,
+    "specialDefense": 55,
+    "speed": 90,
+    "height": 1.1,
+    "weight": 32.6,
+    "eggMoveIds": [
+      "thunderous_kick",
+      "entrainment",
+      "tidy_up",
+      "v_create"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "fake_out"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "sing"
+      },
+      {
+        "level": 1,
+        "moveId": "attract"
+      },
+      {
+        "level": 1,
+        "moveId": "disarming_voice"
+      },
+      {
+        "level": 1,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 1,
+        "moveId": "copycat"
+      },
+      {
+        "level": 1,
+        "moveId": "payback"
+      },
+      {
+        "level": 1,
+        "moveId": "charm"
+      },
+      {
+        "level": 1,
+        "moveId": "facade"
+      },
+      {
+        "level": 1,
+        "moveId": "covet"
+      },
+      {
+        "level": 1,
+        "moveId": "heal_bell"
+      },
+      {
+        "level": 1,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 1,
+        "moveId": "baby_doll_eyes"
+      },
+      {
+        "level": 1,
+        "moveId": "play_rough"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "pay_day",
+      "body_slam",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "strength",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "dig",
+      "toxic",
+      "double_team",
+      "swift",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "safeguard",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "rock_smash",
+      "uproar",
+      "facade",
+      "helping_hand",
+      "hyper_voice",
+      "cosmic_power",
+      "covet",
+      "calm_mind",
+      "water_pulse",
+      "payback",
+      "giga_impact",
+      "nasty_plot",
+      "zen_headbutt",
+      "grass_knot",
+      "charge_beam",
+      "round",
+      "echoed_voice",
+      "retaliate",
+      "work_up",
+      "wild_charge",
+      "disarming_voice",
+      "play_rough",
+      "confide",
+      "stomping_tantrum",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "meadow"
+    ]
+  }
+]

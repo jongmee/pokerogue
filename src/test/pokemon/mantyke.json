@@ -1,0 +1,156 @@
+[
+  {
+    "_id": "mantyke",
+    "gender": "",
+    "pokedexNumber": "458",
+    "name": "mantyke",
+    "koName": "타만타",
+    "speciesName": "mantyke",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "69",
+    "friendship": "50",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "swift_swim",
+      "water_absorb"
+    ],
+    "hiddenAbilityId": "water_veil",
+    "passiveAbilityId": "unaware",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 345,
+    "hp": 45,
+    "attack": 20,
+    "defense": 50,
+    "specialAttack": 60,
+    "specialDefense": 120,
+    "speed": 50,
+    "height": 1,
+    "weight": 65,
+    "eggMoveIds": [
+      "splishy_splash",
+      "freezy_frost",
+      "nasty_plot",
+      "oblivion_wing"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 4,
+        "moveId": "supersonic"
+      },
+      {
+        "level": 8,
+        "moveId": "wing_attack"
+      },
+      {
+        "level": 12,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 16,
+        "moveId": "wide_guard"
+      },
+      {
+        "level": 20,
+        "moveId": "agility"
+      },
+      {
+        "level": 24,
+        "moveId": "bubble_beam"
+      },
+      {
+        "level": 28,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 32,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 36,
+        "moveId": "aqua_ring"
+      },
+      {
+        "level": 40,
+        "moveId": "bounce"
+      },
+      {
+        "level": 44,
+        "moveId": "take_down"
+      },
+      {
+        "level": 48,
+        "moveId": "hydro_pump"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "earthquake",
+      "toxic",
+      "agility",
+      "double_team",
+      "confuse_ray",
+      "haze",
+      "waterfall",
+      "swift",
+      "amnesia",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "whirlpool",
+      "hail",
+      "facade",
+      "helping_hand",
+      "dive",
+      "air_cutter",
+      "signal_beam",
+      "aerial_ace",
+      "bounce",
+      "water_pulse",
+      "tailwind",
+      "air_slash",
+      "round",
+      "scald",
+      "acrobatics",
+      "bulldoze",
+      "confide",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "seabed"
+    ]
+  }
+]

@@ -1,0 +1,187 @@
+[
+  {
+    "_id": "runerigus",
+    "gender": "",
+    "pokedexNumber": "867",
+    "name": "runerigus",
+    "koName": "데스판",
+    "speciesName": "runerigus",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "169",
+    "friendship": "50",
+    "types": [
+      "ground",
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "wandering_spirit"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "tablets_of_ruin",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 483,
+    "hp": 58,
+    "attack": 95,
+    "defense": 145,
+    "specialAttack": 50,
+    "specialDefense": 105,
+    "speed": 30,
+    "height": 1.6,
+    "weight": 66.6,
+    "eggMoveIds": [
+      "strength_sap",
+      "dire_claw",
+      "thousand_waves",
+      "spectral_thief"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "shadow_claw"
+      },
+      {
+        "level": 1,
+        "moveId": "night_shade"
+      },
+      {
+        "level": 1,
+        "moveId": "haze"
+      },
+      {
+        "level": 1,
+        "moveId": "protect"
+      },
+      {
+        "level": 1,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 12,
+        "moveId": "disable"
+      },
+      {
+        "level": 16,
+        "moveId": "brutal_swing"
+      },
+      {
+        "level": 20,
+        "moveId": "crafty_shield"
+      },
+      {
+        "level": 24,
+        "moveId": "hex"
+      },
+      {
+        "level": 28,
+        "moveId": "mean_look"
+      },
+      {
+        "level": 32,
+        "moveId": "slam"
+      },
+      {
+        "level": 38,
+        "moveId": "curse"
+      },
+      {
+        "level": 44,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 50,
+        "moveId": "earthquake"
+      },
+      {
+        "level": 56,
+        "moveId": "guard_split"
+      },
+      {
+        "level": 56,
+        "moveId": "power_split"
+      },
+      {
+        "level": 62,
+        "moveId": "destiny_bond"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "hyper_beam",
+      "earthquake",
+      "psychic",
+      "night_shade",
+      "double_team",
+      "haze",
+      "amnesia",
+      "flash",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "scary_face",
+      "sandstorm",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "rain_dance",
+      "shadow_ball",
+      "will_o_wisp",
+      "facade",
+      "taunt",
+      "trick",
+      "revenge",
+      "skill_swap",
+      "imprison",
+      "fake_tears",
+      "rock_tomb",
+      "sand_tomb",
+      "iron_defense",
+      "calm_mind",
+      "rock_blast",
+      "payback",
+      "power_swap",
+      "guard_swap",
+      "toxic_spikes",
+      "dark_pulse",
+      "dragon_pulse",
+      "energy_ball",
+      "earth_power",
+      "giga_impact",
+      "nasty_plot",
+      "shadow_claw",
+      "zen_headbutt",
+      "trick_room",
+      "stone_edge",
+      "stealth_rock",
+      "grass_knot",
+      "wonder_room",
+      "round",
+      "ally_switch",
+      "hex",
+      "bulldoze",
+      "phantom_force",
+      "brutal_swing",
+      "body_press",
+      "poltergeist"
+    ],
+    "biomeIds": [
+      "ruins"
+    ]
+  }
+]

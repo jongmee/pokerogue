@@ -1,0 +1,152 @@
+[
+  {
+    "_id": "lycanroc_dusk",
+    "gender": "",
+    "pokedexNumber": "745",
+    "name": "lycanroc_dusk",
+    "koName": "루가루암_dusk",
+    "speciesName": "lycanroc",
+    "canChangeForm": true,
+    "formName": "dusk_form",
+    "baseExp": "170",
+    "friendship": "50",
+    "types": [
+      "rock"
+    ],
+    "normalAbilityIds": [
+      "tough_claws"
+    ],
+    "hiddenAbilityId": "tough_claws",
+    "passiveAbilityId": "rocky_payload",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 487,
+    "hp": 75,
+    "attack": 117,
+    "defense": 65,
+    "specialAttack": 55,
+    "specialDefense": 65,
+    "speed": 110,
+    "height": 0.8,
+    "weight": 25,
+    "eggMoveIds": [
+      "high_horsepower",
+      "tidy_up",
+      "ice_spinner",
+      "mighty_cleave"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "crush_claw"
+      },
+      {
+        "level": 1,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "counter"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "double_team"
+      },
+      {
+        "level": 1,
+        "moveId": "reversal"
+      },
+      {
+        "level": 1,
+        "moveId": "endure"
+      },
+      {
+        "level": 1,
+        "moveId": "taunt"
+      },
+      {
+        "level": 1,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_guard"
+      },
+      {
+        "level": 1,
+        "moveId": "accelerock"
+      },
+      {
+        "level": 12,
+        "moveId": "rock_throw"
+      },
+      {
+        "level": 16,
+        "moveId": "howl"
+      },
+      {
+        "level": 20,
+        "moveId": "bite"
+      },
+      {
+        "level": 24,
+        "moveId": "rock_tomb"
+      },
+      {
+        "level": 30,
+        "moveId": "roar"
+      },
+      {
+        "level": 36,
+        "moveId": "rock_slide"
+      },
+      {
+        "level": 42,
+        "moveId": "crunch"
+      },
+      {
+        "level": 48,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 54,
+        "moveId": "stealth_rock"
+      },
+      {
+        "level": 60,
+        "moveId": "stone_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "focus_energy",
+      "reversal",
+      "reversal",
+      "outrage",
+      "work_up",
+      "drill_run",
+      "tail_slap"
+    ],
+    "biomeIds": [
+      "plains",
+      "forest",
+      "cave"
+    ]
+  }
+]

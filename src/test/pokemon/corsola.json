@@ -1,0 +1,170 @@
+[
+  {
+    "_id": "corsola",
+    "gender": "",
+    "pokedexNumber": "222",
+    "name": "corsola",
+    "koName": "코산호",
+    "speciesName": "corsola",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "144",
+    "friendship": "50",
+    "types": [
+      "water",
+      "rock"
+    ],
+    "normalAbilityIds": [
+      "hustle",
+      "natural_cure"
+    ],
+    "hiddenAbilityId": "regenerator",
+    "passiveAbilityId": "storm_drain",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 410,
+    "hp": 65,
+    "attack": 55,
+    "defense": 95,
+    "specialAttack": 65,
+    "specialDefense": 95,
+    "speed": 35,
+    "height": 0.6,
+    "weight": 5,
+    "eggMoveIds": [
+      "scald",
+      "freeze_dry",
+      "strength_sap",
+      "salt_cure"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "harden"
+      },
+      {
+        "level": 5,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 10,
+        "moveId": "aqua_ring"
+      },
+      {
+        "level": 15,
+        "moveId": "endure"
+      },
+      {
+        "level": 20,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 25,
+        "moveId": "bubble_beam"
+      },
+      {
+        "level": 30,
+        "moveId": "flail"
+      },
+      {
+        "level": 35,
+        "moveId": "life_dew"
+      },
+      {
+        "level": 40,
+        "moveId": "power_gem"
+      },
+      {
+        "level": 45,
+        "moveId": "earth_power"
+      },
+      {
+        "level": 50,
+        "moveId": "recover"
+      },
+      {
+        "level": 55,
+        "moveId": "mirror_coat"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "psychic",
+      "screech",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "self_destruct",
+      "amnesia",
+      "explosion",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "shadow_ball",
+      "rock_smash",
+      "whirlpool",
+      "hail",
+      "facade",
+      "nature_power",
+      "endeavor",
+      "rock_tomb",
+      "icicle_spear",
+      "iron_defense",
+      "calm_mind",
+      "rock_blast",
+      "water_pulse",
+      "brine",
+      "rock_polish",
+      "power_gem",
+      "earth_power",
+      "stone_edge",
+      "stealth_rock",
+      "round",
+      "scald",
+      "bulldoze",
+      "confide",
+      "throat_chop",
+      "stomping_tantrum",
+      "liquidation",
+      "meteor_beam",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "seabed"
+    ]
+  }
+]

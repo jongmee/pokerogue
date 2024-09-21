@@ -1,0 +1,148 @@
+[
+  {
+    "_id": "veluza",
+    "gender": "",
+    "pokedexNumber": "976",
+    "name": "veluza",
+    "koName": "가비루사",
+    "speciesName": "veluza",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "167",
+    "friendship": "50",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "mold_breaker"
+    ],
+    "hiddenAbilityId": "sharpness",
+    "passiveAbilityId": "super_luck",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 478,
+    "hp": 90,
+    "attack": 102,
+    "defense": 73,
+    "specialAttack": 78,
+    "specialDefense": 65,
+    "speed": 70,
+    "height": 2.5,
+    "weight": 90,
+    "eggMoveIds": [
+      "psyblade",
+      "flip_turn",
+      "ice_spinner",
+      "bitter_blade"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "aqua_jet"
+      },
+      {
+        "level": 7,
+        "moveId": "pluck"
+      },
+      {
+        "level": 11,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 15,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 20,
+        "moveId": "slash"
+      },
+      {
+        "level": 25,
+        "moveId": "aqua_cutter"
+      },
+      {
+        "level": 30,
+        "moveId": "fillet_away"
+      },
+      {
+        "level": 35,
+        "moveId": "night_slash"
+      },
+      {
+        "level": 40,
+        "moveId": "psycho_cut"
+      },
+      {
+        "level": 45,
+        "moveId": "liquidation"
+      },
+      {
+        "level": 50,
+        "moveId": "crunch"
+      },
+      {
+        "level": 55,
+        "moveId": "final_gambit"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "psychic",
+      "agility",
+      "double_team",
+      "focus_energy",
+      "waterfall",
+      "rest",
+      "substitute",
+      "protect",
+      "icy_wind",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "hidden_power",
+      "rain_dance",
+      "crunch",
+      "endeavor",
+      "water_pulse",
+      "pluck",
+      "giga_impact",
+      "ice_fang",
+      "psycho_cut",
+      "zen_headbutt",
+      "stored_power",
+      "drill_run",
+      "psychic_terrain",
+      "psychic_fangs",
+      "liquidation",
+      "expanding_force",
+      "scale_shot",
+      "flip_turn",
+      "tera_blast",
+      "snowscape",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "seabed"
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "bad_dreams",
+    "name": "Bad Dreams",
+    "koName": "나이트메어",
+    "realased": "",
+    "description": "잠듦 상태의 상대에게 데미지를 준다.",
+    "generation": 4,
+    "pokemonIds": [
+      "darkrai"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

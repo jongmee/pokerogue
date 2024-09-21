@@ -1,0 +1,33 @@
+[
+  {
+    "_id": "searing_shot",
+    "name": "Searing Shot",
+    "koName": "화염탄",
+    "type": "fire",
+    "moveCategory": "special",
+    "moveTarget": "all_near_others",
+    "power": 100,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "새빨간 불꽃으로 자신의 주위에 있는 포켓몬을 공격한다. 화상 상태로 만들 때가 있다.",
+    "effectChance": 30,
+    "prioirty": 0,
+    "generation": 5,
+    "realased": "",
+    "flags": [
+      "ballbomb_move"
+    ],
+    "pokemonIds": [
+      "victini",
+      "xerneas_neutral",
+      "xerneas_active",
+      "poipole",
+      "naganadel",
+      "hatenna",
+      "hattrem",
+      "hatterene",
+      "hatterene_gigantamax",
+      "iron_moth"
+    ]
+  }
+]

@@ -1,0 +1,224 @@
+[
+  {
+    "_id": "kommo_o",
+    "gender": "",
+    "pokedexNumber": "784",
+    "name": "kommo_o",
+    "koName": "짜랑고우거",
+    "speciesName": "kommo_o",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "300",
+    "friendship": "50",
+    "types": [
+      "dragon",
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "bulletproof",
+      "soundproof"
+    ],
+    "hiddenAbilityId": "overcoat",
+    "passiveAbilityId": "dauntless_shield",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 600,
+    "hp": 75,
+    "attack": 110,
+    "defense": 125,
+    "specialAttack": 100,
+    "specialDefense": 105,
+    "speed": 85,
+    "height": 1.6,
+    "weight": 78.2,
+    "eggMoveIds": [
+      "body_press",
+      "shell_side_arm",
+      "secret_sword",
+      "glaive_rush"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "clanging_scales"
+      },
+      {
+        "level": -1,
+        "moveId": "belly_drum"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "protect"
+      },
+      {
+        "level": 1,
+        "moveId": "dragon_tail"
+      },
+      {
+        "level": 1,
+        "moveId": "bide"
+      },
+      {
+        "level": 1,
+        "moveId": "sky_uppercut"
+      },
+      {
+        "level": 12,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 16,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 20,
+        "moveId": "work_up"
+      },
+      {
+        "level": 24,
+        "moveId": "screech"
+      },
+      {
+        "level": 28,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 32,
+        "moveId": "dragon_claw"
+      },
+      {
+        "level": 38,
+        "moveId": "noble_roar"
+      },
+      {
+        "level": 44,
+        "moveId": "dragon_dance"
+      },
+      {
+        "level": 52,
+        "moveId": "outrage"
+      },
+      {
+        "level": 60,
+        "moveId": "close_combat"
+      },
+      {
+        "level": 68,
+        "moveId": "clangorous_soul"
+      },
+      {
+        "level": 76,
+        "moveId": "boomburst"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "swords_dance",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "hyper_beam",
+      "low_kick",
+      "counter",
+      "earthquake",
+      "toxic",
+      "screech",
+      "double_team",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "reversal",
+      "protect",
+      "scary_face",
+      "outrage",
+      "sandstorm",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "iron_tail",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "uproar",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "superpower",
+      "revenge",
+      "brick_break",
+      "endeavor",
+      "hyper_voice",
+      "rock_tomb",
+      "metal_sound",
+      "aerial_ace",
+      "iron_defense",
+      "dragon_claw",
+      "bulk_up",
+      "dragon_dance",
+      "water_pulse",
+      "close_combat",
+      "payback",
+      "fling",
+      "aura_sphere",
+      "rock_polish",
+      "poison_jab",
+      "aqua_tail",
+      "x_scissor",
+      "dragon_pulse",
+      "drain_punch",
+      "vacuum_wave",
+      "focus_blast",
+      "giga_impact",
+      "shadow_claw",
+      "flash_cannon",
+      "draco_meteor",
+      "iron_head",
+      "stealth_rock",
+      "round",
+      "echoed_voice",
+      "bulldoze",
+      "dragon_tail",
+      "work_up",
+      "confide",
+      "brutal_swing",
+      "stomping_tantrum",
+      "body_press",
+      "breaking_swipe",
+      "scale_shot",
+      "coaching",
+      "tera_blast",
+      "dragon_cheer",
+      "upper_hand"
+    ],
+    "biomeIds": [
+      "wasteland"
+    ]
+  }
+]

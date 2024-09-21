@@ -1,0 +1,150 @@
+[
+  {
+    "_id": "unfezant",
+    "gender": "",
+    "pokedexNumber": "521",
+    "name": "unfezant",
+    "koName": "켄호로우",
+    "speciesName": "unfezant",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "244",
+    "friendship": "50",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "big_pecks",
+      "super_luck"
+    ],
+    "hiddenAbilityId": "rivalry",
+    "passiveAbilityId": "sniper",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 488,
+    "hp": 80,
+    "attack": 115,
+    "defense": 80,
+    "specialAttack": 65,
+    "specialDefense": 55,
+    "speed": 93,
+    "height": 1.2,
+    "weight": 29,
+    "eggMoveIds": [
+      "gunk_shot",
+      "tidy_up",
+      "floaty_fall",
+      "triple_arrows"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "gust"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 12,
+        "moveId": "taunt"
+      },
+      {
+        "level": 16,
+        "moveId": "air_cutter"
+      },
+      {
+        "level": 20,
+        "moveId": "swagger"
+      },
+      {
+        "level": 26,
+        "moveId": "feather_dance"
+      },
+      {
+        "level": 36,
+        "moveId": "detect"
+      },
+      {
+        "level": 42,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 50,
+        "moveId": "roost"
+      },
+      {
+        "level": 58,
+        "moveId": "tailwind"
+      },
+      {
+        "level": 66,
+        "moveId": "sky_attack"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fly",
+      "hyper_beam",
+      "toxic",
+      "agility",
+      "double_team",
+      "focus_energy",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "endure",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "uproar",
+      "heat_wave",
+      "facade",
+      "taunt",
+      "feather_dance",
+      "air_cutter",
+      "aerial_ace",
+      "roost",
+      "pluck",
+      "tailwind",
+      "u_turn",
+      "air_slash",
+      "brave_bird",
+      "giga_impact",
+      "defog",
+      "round",
+      "echoed_voice",
+      "work_up",
+      "hurricane",
+      "confide",
+      "dual_wingbeat",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "plains",
+      "mountain"
+    ]
+  }
+]

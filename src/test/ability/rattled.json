@@ -1,0 +1,33 @@
+[
+  {
+    "_id": "rattled",
+    "name": "Rattled",
+    "koName": "주눅",
+    "realased": "",
+    "description": "위협이나 악타입과 고스트타입과 벌레타입의 기술에 주눅이 들어 스피드가 올라간다.",
+    "generation": 5,
+    "pokemonIds": [
+      "magikarp",
+      "ledyba",
+      "sudowoodo",
+      "dunsparce",
+      "snubbull",
+      "granbull",
+      "poochyena",
+      "whismur",
+      "clamperl",
+      "bonsly",
+      "cubchoo",
+      "yamper",
+      "toxel",
+      "wiglett",
+      "wugtrio",
+      "dudunsparce",
+      "gimmighoul",
+      "alola_meowth",
+      "alola_persian"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

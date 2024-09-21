@@ -1,0 +1,190 @@
+[
+  {
+    "_id": "vigoroth",
+    "gender": "",
+    "pokedexNumber": "288",
+    "name": "vigoroth",
+    "koName": "발바로",
+    "speciesName": "vigoroth",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "154",
+    "friendship": "70",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "vital_spirit"
+    ],
+    "hiddenAbilityId": "insomnia",
+    "passiveAbilityId": "guts",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 440,
+    "hp": 80,
+    "attack": 80,
+    "defense": 80,
+    "specialAttack": 55,
+    "specialDefense": 55,
+    "speed": 90,
+    "height": 1.4,
+    "weight": 46.5,
+    "eggMoveIds": [
+      "facade",
+      "drain_punch",
+      "knock_off",
+      "skill_swap"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 1,
+        "moveId": "encore"
+      },
+      {
+        "level": 1,
+        "moveId": "uproar"
+      },
+      {
+        "level": 14,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 17,
+        "moveId": "endure"
+      },
+      {
+        "level": 23,
+        "moveId": "slash"
+      },
+      {
+        "level": 27,
+        "moveId": "throat_chop"
+      },
+      {
+        "level": 33,
+        "moveId": "counter"
+      },
+      {
+        "level": 37,
+        "moveId": "focus_punch"
+      },
+      {
+        "level": 43,
+        "moveId": "reversal"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "cut",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "ice_beam",
+      "blizzard",
+      "low_kick",
+      "counter",
+      "strength",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "earthquake",
+      "dig",
+      "toxic",
+      "double_team",
+      "focus_energy",
+      "metronome",
+      "fire_blast",
+      "amnesia",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "reversal",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "icy_wind",
+      "outrage",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "shadow_ball",
+      "rock_smash",
+      "uproar",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "hyper_voice",
+      "rock_tomb",
+      "aerial_ace",
+      "bulk_up",
+      "mud_shot",
+      "covet",
+      "water_pulse",
+      "fling",
+      "poison_jab",
+      "seed_bomb",
+      "x_scissor",
+      "drain_punch",
+      "focus_blast",
+      "shadow_claw",
+      "zen_headbutt",
+      "rock_climb",
+      "gunk_shot",
+      "hone_claws",
+      "low_sweep",
+      "round",
+      "incinerate",
+      "retaliate",
+      "bulldoze",
+      "work_up",
+      "play_rough",
+      "confide",
+      "power_up_punch",
+      "throat_chop",
+      "stomping_tantrum",
+      "lash_out",
+      "tera_blast",
+      "trailblaze",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "jungle"
+    ]
+  }
+]

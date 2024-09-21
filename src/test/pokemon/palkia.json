@@ -1,0 +1,185 @@
+[
+  {
+    "_id": "palkia",
+    "gender": "",
+    "pokedexNumber": "484",
+    "name": "palkia",
+    "koName": "펄기아",
+    "speciesName": "palkia",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "340",
+    "friendship": "0",
+    "types": [
+      "water",
+      "dragon"
+    ],
+    "normalAbilityIds": [
+      "pressure"
+    ],
+    "hiddenAbilityId": "telepathy",
+    "passiveAbilityId": "speed_boost",
+    "generation": 4,
+    "legendary": true,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 680,
+    "hp": 90,
+    "attack": 120,
+    "defense": 100,
+    "specialAttack": 150,
+    "specialDefense": 120,
+    "speed": 100,
+    "height": 4.2,
+    "weight": 336,
+    "eggMoveIds": [
+      "recover",
+      "take_heart",
+      "freeze_dry",
+      "origin_pulse"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 1,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 8,
+        "moveId": "dragon_breath"
+      },
+      {
+        "level": 16,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 24,
+        "moveId": "slash"
+      },
+      {
+        "level": 32,
+        "moveId": "aqua_ring"
+      },
+      {
+        "level": 48,
+        "moveId": "aura_sphere"
+      },
+      {
+        "level": 56,
+        "moveId": "power_gem"
+      },
+      {
+        "level": 64,
+        "moveId": "aqua_tail"
+      },
+      {
+        "level": 72,
+        "moveId": "earth_power"
+      },
+      {
+        "level": 80,
+        "moveId": "spacial_rend"
+      },
+      {
+        "level": 88,
+        "moveId": "hydro_pump"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "cut",
+      "body_slam",
+      "take_down",
+      "roar",
+      "flamethrower",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "strength",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "earthquake",
+      "toxic",
+      "double_team",
+      "fire_blast",
+      "waterfall",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "icy_wind",
+      "outrage",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "rock_smash",
+      "whirlpool",
+      "hail",
+      "facade",
+      "focus_punch",
+      "trick",
+      "brick_break",
+      "dive",
+      "hyper_voice",
+      "rock_tomb",
+      "aerial_ace",
+      "dragon_claw",
+      "bulk_up",
+      "water_pulse",
+      "gravity",
+      "brine",
+      "fling",
+      "aura_sphere",
+      "aqua_tail",
+      "dragon_pulse",
+      "power_gem",
+      "focus_blast",
+      "earth_power",
+      "giga_impact",
+      "avalanche",
+      "shadow_claw",
+      "trick_room",
+      "draco_meteor",
+      "stone_edge",
+      "hone_claws",
+      "heavy_slam",
+      "round",
+      "echoed_voice",
+      "incinerate",
+      "bulldoze",
+      "dragon_tail",
+      "confide",
+      "stomping_tantrum",
+      "liquidation",
+      "body_press",
+      "breaking_swipe",
+      "scale_shot",
+      "dual_wingbeat",
+      "tera_blast",
+      "snowscape"
+    ],
+    "biomeIds": [
+      "abyss"
+    ]
+  }
+]

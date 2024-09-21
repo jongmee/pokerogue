@@ -1,0 +1,132 @@
+[
+  {
+    "_id": "arrokuda",
+    "gender": "",
+    "pokedexNumber": "846",
+    "name": "arrokuda",
+    "koName": "찌로꼬치",
+    "speciesName": "arrokuda",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "56",
+    "friendship": "50",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "swift_swim"
+    ],
+    "hiddenAbilityId": "propeller_tail",
+    "passiveAbilityId": "intimidate",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 280,
+    "hp": 41,
+    "attack": 63,
+    "defense": 40,
+    "specialAttack": 40,
+    "specialDefense": 30,
+    "speed": 66,
+    "height": 0.5,
+    "weight": 1,
+    "eggMoveIds": [
+      "supercell_slam",
+      "knock_off",
+      "ice_spinner",
+      "fillet_away"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "peck"
+      },
+      {
+        "level": 1,
+        "moveId": "aqua_jet"
+      },
+      {
+        "level": 6,
+        "moveId": "fury_attack"
+      },
+      {
+        "level": 12,
+        "moveId": "bite"
+      },
+      {
+        "level": 18,
+        "moveId": "agility"
+      },
+      {
+        "level": 24,
+        "moveId": "dive"
+      },
+      {
+        "level": 30,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 36,
+        "moveId": "crunch"
+      },
+      {
+        "level": 42,
+        "moveId": "liquidation"
+      },
+      {
+        "level": 48,
+        "moveId": "double_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "double_edge",
+      "hydro_pump",
+      "surf",
+      "agility",
+      "double_team",
+      "focus_energy",
+      "waterfall",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "crunch",
+      "whirlpool",
+      "facade",
+      "brick_break",
+      "dive",
+      "bounce",
+      "water_pulse",
+      "close_combat",
+      "assurance",
+      "poison_jab",
+      "ice_fang",
+      "round",
+      "scald",
+      "drill_run",
+      "throat_chop",
+      "psychic_fangs",
+      "liquidation",
+      "scale_shot",
+      "flip_turn",
+      "tera_blast",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "seabed"
+    ]
+  }
+]

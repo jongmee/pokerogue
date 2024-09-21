@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "unburden",
+    "name": "Unburden",
+    "koName": "곡예",
+    "realased": " (N)",
+    "description": "지니던 도구가 없어지면 스피드가 올라간다.",
+    "generation": 4,
+    "pokemonIds": [
+      "krabby",
+      "kingler",
+      "kingler_gigantamax",
+      "hitmonlee",
+      "treecko",
+      "grovyle",
+      "sceptile",
+      "drifloon",
+      "drifblim",
+      "purrloin",
+      "liepard",
+      "accelgor",
+      "swirlix",
+      "slurpuff",
+      "hawlucha",
+      "nickit",
+      "thievul",
+      "sneasler",
+      "shroodle",
+      "grafaiai",
+      "bombirdier"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

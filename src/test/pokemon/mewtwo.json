@@ -1,0 +1,249 @@
+[
+  {
+    "_id": "mewtwo",
+    "gender": "",
+    "pokedexNumber": "150",
+    "name": "mewtwo",
+    "koName": "뮤츠",
+    "speciesName": "mewtwo",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "340",
+    "friendship": "0",
+    "types": [
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "pressure"
+    ],
+    "hiddenAbilityId": "unnerve",
+    "passiveAbilityId": "neuroforce",
+    "generation": 1,
+    "legendary": true,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 680,
+    "hp": 106,
+    "attack": 110,
+    "defense": 90,
+    "specialAttack": 154,
+    "specialDefense": 90,
+    "speed": 130,
+    "height": 2,
+    "weight": 122,
+    "eggMoveIds": [
+      "meteor_mash",
+      "moonblast",
+      "thunderous_kick",
+      "photon_geyser"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "disable"
+      },
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 1,
+        "moveId": "swift"
+      },
+      {
+        "level": 1,
+        "moveId": "life_dew"
+      },
+      {
+        "level": 8,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 16,
+        "moveId": "psycho_cut"
+      },
+      {
+        "level": 24,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 32,
+        "moveId": "amnesia"
+      },
+      {
+        "level": 40,
+        "moveId": "aura_sphere"
+      },
+      {
+        "level": 48,
+        "moveId": "psychic"
+      },
+      {
+        "level": 56,
+        "moveId": "power_swap"
+      },
+      {
+        "level": 56,
+        "moveId": "guard_swap"
+      },
+      {
+        "level": 64,
+        "moveId": "mist"
+      },
+      {
+        "level": 72,
+        "moveId": "psystrike"
+      },
+      {
+        "level": 80,
+        "moveId": "recover"
+      },
+      {
+        "level": 88,
+        "moveId": "future_sight"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "pay_day",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "flamethrower",
+      "ice_beam",
+      "blizzard",
+      "psybeam",
+      "hyper_beam",
+      "low_kick",
+      "counter",
+      "strength",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "earthquake",
+      "toxic",
+      "psychic",
+      "agility",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "metronome",
+      "self_destruct",
+      "fire_blast",
+      "swift",
+      "amnesia",
+      "dream_eater",
+      "flash",
+      "rest",
+      "rock_slide",
+      "tri_attack",
+      "substitute",
+      "snore",
+      "curse",
+      "reversal",
+      "spite",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "icy_wind",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "rock_smash",
+      "hail",
+      "torment",
+      "will_o_wisp",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "trick",
+      "recycle",
+      "brick_break",
+      "knock_off",
+      "skill_swap",
+      "imprison",
+      "dive",
+      "weather_ball",
+      "rock_tomb",
+      "signal_beam",
+      "aerial_ace",
+      "bulk_up",
+      "calm_mind",
+      "water_pulse",
+      "gravity",
+      "embargo",
+      "fling",
+      "power_swap",
+      "guard_swap",
+      "aura_sphere",
+      "poison_jab",
+      "dark_pulse",
+      "aqua_tail",
+      "power_gem",
+      "drain_punch",
+      "focus_blast",
+      "energy_ball",
+      "earth_power",
+      "giga_impact",
+      "nasty_plot",
+      "avalanche",
+      "psycho_cut",
+      "zen_headbutt",
+      "rock_climb",
+      "trick_room",
+      "stone_edge",
+      "grass_knot",
+      "charge_beam",
+      "wonder_room",
+      "psyshock",
+      "magic_room",
+      "electro_ball",
+      "low_sweep",
+      "foul_play",
+      "round",
+      "stored_power",
+      "ally_switch",
+      "hex",
+      "incinerate",
+      "bulldoze",
+      "hurricane",
+      "confide",
+      "power_up_punch",
+      "psychic_terrain",
+      "speed_swap",
+      "brutal_swing",
+      "stomping_tantrum",
+      "expanding_force",
+      "lash_out",
+      "tera_blast",
+      "trailblaze",
+      "chilling_water",
+      "psychic_noise"
+    ],
+    "biomeIds": [
+      "laboratory"
+    ]
+  }
+]

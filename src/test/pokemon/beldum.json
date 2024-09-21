@@ -1,0 +1,63 @@
+[
+  {
+    "_id": "beldum",
+    "gender": "",
+    "pokedexNumber": "374",
+    "name": "beldum",
+    "koName": "메탕",
+    "speciesName": "beldum",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "60",
+    "friendship": "35",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "clear_body"
+    ],
+    "hiddenAbilityId": "light_metal",
+    "passiveAbilityId": "levitate",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 300,
+    "hp": 40,
+    "attack": 55,
+    "defense": 80,
+    "specialAttack": 35,
+    "specialDefense": 60,
+    "speed": 30,
+    "height": 0.6,
+    "weight": 95.2,
+    "eggMoveIds": [
+      "high_horsepower",
+      "recover",
+      "triple_axel",
+      "shift_gear"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "iron_defense",
+      "zen_headbutt",
+      "iron_head",
+      "steel_beam",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "factory",
+      "space"
+    ]
+  }
+]

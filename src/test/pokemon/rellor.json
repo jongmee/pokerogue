@@ -1,0 +1,123 @@
+[
+  {
+    "_id": "rellor",
+    "gender": "",
+    "pokedexNumber": "953",
+    "name": "rellor",
+    "koName": "구르데",
+    "speciesName": "rellor",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "54",
+    "friendship": "50",
+    "types": [
+      "bug"
+    ],
+    "normalAbilityIds": [
+      "compound_eyes"
+    ],
+    "hiddenAbilityId": "shed_skin",
+    "passiveAbilityId": "prankster",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 270,
+    "hp": 41,
+    "attack": 50,
+    "defense": 60,
+    "specialAttack": 31,
+    "specialDefense": 58,
+    "speed": 30,
+    "height": 0.2,
+    "weight": 1,
+    "eggMoveIds": [
+      "heal_block",
+      "recover",
+      "heat_wave",
+      "lumina_crash"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": 4,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 7,
+        "moveId": "struggle_bug"
+      },
+      {
+        "level": 11,
+        "moveId": "rollout"
+      },
+      {
+        "level": 15,
+        "moveId": "mud_shot"
+      },
+      {
+        "level": 20,
+        "moveId": "bug_bite"
+      },
+      {
+        "level": 24,
+        "moveId": "take_down"
+      },
+      {
+        "level": 29,
+        "moveId": "dig"
+      },
+      {
+        "level": 35,
+        "moveId": "lunge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "dig",
+      "double_team",
+      "leech_life",
+      "rest",
+      "substitute",
+      "thief",
+      "protect",
+      "sludge_bomb",
+      "mud_slap",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "facade",
+      "weather_ball",
+      "rock_tomb",
+      "cosmic_power",
+      "iron_defense",
+      "mud_shot",
+      "fling",
+      "x_scissor",
+      "bug_buzz",
+      "gunk_shot",
+      "bug_bite",
+      "struggle_bug",
+      "lunge",
+      "skitter_smack",
+      "tera_blast",
+      "pounce"
+    ],
+    "biomeIds": [
+      "desert"
+    ]
+  }
+]

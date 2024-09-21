@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "jungle_healing",
+    "name": "Jungle Healing",
+    "koName": "정글힐",
+    "type": "grass",
+    "moveCategory": "status",
+    "moveTarget": "user_and_allies",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 10,
+    "effect": "정글과 하나가 되어 자신과 배틀에 나와 있는 같은 편의 HP와 모든 상태를 회복한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "oranguru",
+      "zarude"
+    ]
+  }
+]

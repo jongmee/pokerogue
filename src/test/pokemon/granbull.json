@@ -1,0 +1,209 @@
+[
+  {
+    "_id": "granbull",
+    "gender": "",
+    "pokedexNumber": "210",
+    "name": "granbull",
+    "koName": "그랑블루",
+    "speciesName": "granbull",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "158",
+    "friendship": "70",
+    "types": [
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "intimidate",
+      "quick_feet"
+    ],
+    "hiddenAbilityId": "rattled",
+    "passiveAbilityId": "pixilate",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 450,
+    "hp": 90,
+    "attack": 120,
+    "defense": 75,
+    "specialAttack": 60,
+    "specialDefense": 60,
+    "speed": 45,
+    "height": 1.4,
+    "weight": 48.7,
+    "eggMoveIds": [
+      "facade",
+      "earthquake",
+      "swords_dance",
+      "extreme_speed"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 1,
+        "moveId": "outrage"
+      },
+      {
+        "level": 1,
+        "moveId": "charm"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_fang"
+      },
+      {
+        "level": 1,
+        "moveId": "ice_fang"
+      },
+      {
+        "level": 1,
+        "moveId": "fire_fang"
+      },
+      {
+        "level": 7,
+        "moveId": "bite"
+      },
+      {
+        "level": 13,
+        "moveId": "lick"
+      },
+      {
+        "level": 19,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 27,
+        "moveId": "roar"
+      },
+      {
+        "level": 35,
+        "moveId": "last_resort"
+      },
+      {
+        "level": 43,
+        "moveId": "play_rough"
+      },
+      {
+        "level": 51,
+        "moveId": "payback"
+      },
+      {
+        "level": 59,
+        "moveId": "crunch"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "hyper_beam",
+      "low_kick",
+      "counter",
+      "strength",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "earthquake",
+      "dig",
+      "toxic",
+      "double_team",
+      "reflect",
+      "metronome",
+      "fire_blast",
+      "rest",
+      "rock_slide",
+      "super_fang",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "reversal",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "mud_slap",
+      "outrage",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "shadow_ball",
+      "rock_smash",
+      "torment",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "superpower",
+      "brick_break",
+      "endeavor",
+      "hyper_voice",
+      "overheat",
+      "rock_tomb",
+      "bulk_up",
+      "covet",
+      "water_pulse",
+      "close_combat",
+      "payback",
+      "fling",
+      "focus_blast",
+      "giga_impact",
+      "thunder_fang",
+      "ice_fang",
+      "fire_fang",
+      "rock_climb",
+      "stone_edge",
+      "round",
+      "incinerate",
+      "retaliate",
+      "bulldoze",
+      "work_up",
+      "wild_charge",
+      "snarl",
+      "play_rough",
+      "confide",
+      "dazzling_gleam",
+      "power_up_punch",
+      "psychic_fangs",
+      "stomping_tantrum",
+      "tera_blast",
+      "trailblaze",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "meadow"
+    ]
+  }
+]

@@ -1,0 +1,196 @@
+[
+  {
+    "_id": "barbaracle",
+    "gender": "",
+    "pokedexNumber": "689",
+    "name": "barbaracle",
+    "koName": "거북손데스",
+    "speciesName": "barbaracle",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "175",
+    "friendship": "50",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "normalAbilityIds": [
+      "tough_claws",
+      "sniper"
+    ],
+    "hiddenAbilityId": "pickpocket",
+    "passiveAbilityId": "sap_sipper",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 500,
+    "hp": 72,
+    "attack": 105,
+    "defense": 115,
+    "specialAttack": 54,
+    "specialDefense": 86,
+    "speed": 68,
+    "height": 1.3,
+    "weight": 96,
+    "eggMoveIds": [
+      "triple_axel",
+      "accelerock",
+      "dire_claw",
+      "mighty_cleave"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "withdraw"
+      },
+      {
+        "level": 1,
+        "moveId": "skull_bash"
+      },
+      {
+        "level": 1,
+        "moveId": "mud_slap"
+      },
+      {
+        "level": 12,
+        "moveId": "fury_cutter"
+      },
+      {
+        "level": 16,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 20,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 24,
+        "moveId": "rock_polish"
+      },
+      {
+        "level": 28,
+        "moveId": "slash"
+      },
+      {
+        "level": 32,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 36,
+        "moveId": "razor_shell"
+      },
+      {
+        "level": 42,
+        "moveId": "shell_smash"
+      },
+      {
+        "level": 48,
+        "moveId": "cross_chop"
+      },
+      {
+        "level": 54,
+        "moveId": "stone_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "low_kick",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "screech",
+      "double_team",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "sludge_bomb",
+      "mud_slap",
+      "icy_wind",
+      "sandstorm",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "rain_dance",
+      "rock_smash",
+      "whirlpool",
+      "beat_up",
+      "uproar",
+      "torment",
+      "facade",
+      "nature_power",
+      "taunt",
+      "helping_hand",
+      "superpower",
+      "brick_break",
+      "endeavor",
+      "dive",
+      "rock_tomb",
+      "muddy_water",
+      "aerial_ace",
+      "iron_defense",
+      "dragon_claw",
+      "bulk_up",
+      "mud_shot",
+      "rock_blast",
+      "water_pulse",
+      "payback",
+      "assurance",
+      "embargo",
+      "fling",
+      "rock_polish",
+      "poison_jab",
+      "x_scissor",
+      "focus_blast",
+      "earth_power",
+      "giga_impact",
+      "shadow_claw",
+      "stone_edge",
+      "stealth_rock",
+      "grass_knot",
+      "hone_claws",
+      "smack_down",
+      "sludge_wave",
+      "round",
+      "scald",
+      "bulldoze",
+      "razor_shell",
+      "confide",
+      "infestation",
+      "power_up_punch",
+      "brutal_swing",
+      "liquidation",
+      "meteor_beam",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "beach"
+    ]
+  }
+]

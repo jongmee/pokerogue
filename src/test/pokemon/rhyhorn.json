@@ -1,0 +1,186 @@
+[
+  {
+    "_id": "rhyhorn",
+    "gender": "",
+    "pokedexNumber": "111",
+    "name": "rhyhorn",
+    "koName": "뿔카노",
+    "speciesName": "rhyhorn",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "69",
+    "friendship": "50",
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "normalAbilityIds": [
+      "lightning_rod",
+      "rock_head"
+    ],
+    "hiddenAbilityId": "reckless",
+    "passiveAbilityId": "filter",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 345,
+    "hp": 80,
+    "attack": 85,
+    "defense": 95,
+    "specialAttack": 30,
+    "specialDefense": 30,
+    "speed": 25,
+    "height": 1,
+    "weight": 115,
+    "eggMoveIds": [
+      "shore_up",
+      "ice_hammer",
+      "accelerock",
+      "head_smash"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 5,
+        "moveId": "smack_down"
+      },
+      {
+        "level": 10,
+        "moveId": "bulldoze"
+      },
+      {
+        "level": 15,
+        "moveId": "horn_attack"
+      },
+      {
+        "level": 20,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 25,
+        "moveId": "stomp"
+      },
+      {
+        "level": 30,
+        "moveId": "rock_blast"
+      },
+      {
+        "level": 35,
+        "moveId": "drill_run"
+      },
+      {
+        "level": 40,
+        "moveId": "take_down"
+      },
+      {
+        "level": 45,
+        "moveId": "earthquake"
+      },
+      {
+        "level": 50,
+        "moveId": "stone_edge"
+      },
+      {
+        "level": 55,
+        "moveId": "megahorn"
+      },
+      {
+        "level": 60,
+        "moveId": "horn_drill"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "ice_beam",
+      "blizzard",
+      "counter",
+      "strength",
+      "thunderbolt",
+      "thunder",
+      "earthquake",
+      "dig",
+      "toxic",
+      "double_team",
+      "fire_blast",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "reversal",
+      "spite",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "icy_wind",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "megahorn",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "rock_smash",
+      "uproar",
+      "facade",
+      "superpower",
+      "endeavor",
+      "rock_tomb",
+      "mud_shot",
+      "rock_blast",
+      "payback",
+      "rock_polish",
+      "poison_jab",
+      "aqua_tail",
+      "dragon_pulse",
+      "earth_power",
+      "thunder_fang",
+      "ice_fang",
+      "fire_fang",
+      "rock_climb",
+      "stone_edge",
+      "stealth_rock",
+      "smack_down",
+      "heavy_slam",
+      "round",
+      "incinerate",
+      "bulldoze",
+      "drill_run",
+      "confide",
+      "high_horsepower",
+      "smart_strike",
+      "stomping_tantrum",
+      "scorching_sands",
+      "tera_blast",
+      "supercell_slam"
+    ],
+    "biomeIds": [
+      "mountain",
+      "badlands",
+      "construction_site"
+    ]
+  }
+]

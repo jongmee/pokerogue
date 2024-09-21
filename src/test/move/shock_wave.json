@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "shock_wave",
+    "name": "Shock Wave",
+    "koName": "전격파",
+    "type": "electric",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 60,
+    "accuracy": -1,
+    "powerPoint": 20,
+    "effect": "전격을 재빠르게 상대에게 날린다. 공격은 반드시 명중한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 3,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "electabuzz",
+      "elekid",
+      "electrike",
+      "manectric",
+      "electivire",
+      "rotom",
+      "blitzle",
+      "zebstrika",
+      "tapu_koko",
+      "xurkitree",
+      "toxtricity",
+      "toxtricity_lowkey",
+      "regieleki",
+      "raging_bolt"
+    ]
+  }
+]

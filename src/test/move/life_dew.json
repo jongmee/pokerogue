@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "life_dew",
+    "name": "Life Dew",
+    "koName": "생명의물방울",
+    "type": "water",
+    "moveCategory": "status",
+    "moveTarget": "user_and_allies",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 10,
+    "effect": "신비한 물을 흩뿌려서 자신과 배틀에 나와 있는 같은 편의 HP를 회복한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [
+      "ignore_protect"
+    ],
+    "pokemonIds": [
+      "clefairy",
+      "clefable",
+      "chansey",
+      "lapras",
+      "mewtwo",
+      "mew",
+      "togepi",
+      "togetic",
+      "corsola",
+      "blissey",
+      "ho_oh",
+      "celebi",
+      "ralts",
+      "kirlia",
+      "gardevoir",
+      "milotic",
+      "jirachi",
+      "lucario",
+      "togekiss",
+      "gallade",
+      "audino",
+      "hatenna",
+      "hattrem",
+      "hatterene",
+      "calyrex",
+      "calyrex_ice",
+      "calyrex_shadow"
+    ]
+  }
+]

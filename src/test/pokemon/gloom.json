@@ -1,0 +1,157 @@
+[
+  {
+    "_id": "gloom",
+    "gender": "",
+    "pokedexNumber": "44",
+    "name": "gloom",
+    "koName": "냄새꼬",
+    "speciesName": "gloom",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "138",
+    "friendship": "50",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "normalAbilityIds": [
+      "chlorophyll"
+    ],
+    "hiddenAbilityId": "stench",
+    "passiveAbilityId": "triage",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 395,
+    "hp": 60,
+    "attack": 65,
+    "defense": 70,
+    "specialAttack": 85,
+    "specialDefense": 75,
+    "speed": 40,
+    "height": 0.8,
+    "weight": 8.6,
+    "eggMoveIds": [
+      "sludge_bomb",
+      "fiery_dance",
+      "strength_sap",
+      "spore"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "acid"
+      },
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 1,
+        "moveId": "growth"
+      },
+      {
+        "level": 1,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 12,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 14,
+        "moveId": "poison_powder"
+      },
+      {
+        "level": 16,
+        "moveId": "stun_spore"
+      },
+      {
+        "level": 18,
+        "moveId": "sleep_powder"
+      },
+      {
+        "level": 20,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 26,
+        "moveId": "toxic"
+      },
+      {
+        "level": 32,
+        "moveId": "moonblast"
+      },
+      {
+        "level": 38,
+        "moveId": "grassy_terrain"
+      },
+      {
+        "level": 44,
+        "moveId": "moonlight"
+      },
+      {
+        "level": 50,
+        "moveId": "petal_dance"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "take_down",
+      "double_edge",
+      "solar_beam",
+      "toxic",
+      "double_team",
+      "reflect",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "sludge_bomb",
+      "giga_drain",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "synthesis",
+      "hidden_power",
+      "sunny_day",
+      "facade",
+      "nature_power",
+      "bullet_seed",
+      "fling",
+      "gastro_acid",
+      "worry_seed",
+      "seed_bomb",
+      "drain_punch",
+      "energy_ball",
+      "leaf_storm",
+      "grass_knot",
+      "venoshock",
+      "acid_spray",
+      "round",
+      "petal_blizzard",
+      "grassy_terrain",
+      "confide",
+      "dazzling_gleam",
+      "infestation",
+      "pollen_puff",
+      "grassy_glide",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "tall_grass"
+    ]
+  }
+]

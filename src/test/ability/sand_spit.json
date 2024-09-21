@@ -1,0 +1,19 @@
+[
+  {
+    "_id": "sand_spit",
+    "name": "Sand Spit",
+    "koName": "모래뿜기",
+    "realased": "",
+    "description": "공격을 받으면 모래바람을 일으킨다.",
+    "generation": 8,
+    "pokemonIds": [
+      "sandygast",
+      "palossand",
+      "silicobra",
+      "sandaconda",
+      "sandaconda_gigantamax"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "_id": "poochyena",
+    "gender": "",
+    "pokedexNumber": "261",
+    "name": "poochyena",
+    "koName": "포챠나",
+    "speciesName": "poochyena",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "56",
+    "friendship": "70",
+    "types": [
+      "dark"
+    ],
+    "normalAbilityIds": [
+      "run_away",
+      "quick_feet"
+    ],
+    "hiddenAbilityId": "rattled",
+    "passiveAbilityId": "tough_claws",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 220,
+    "hp": 35,
+    "attack": 55,
+    "defense": 35,
+    "specialAttack": 30,
+    "specialDefense": 30,
+    "speed": 35,
+    "height": 0.5,
+    "weight": 13.6,
+    "eggMoveIds": [
+      "jaw_lock",
+      "close_combat",
+      "dire_claw",
+      "no_retreat"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 4,
+        "moveId": "howl"
+      },
+      {
+        "level": 7,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 10,
+        "moveId": "bite"
+      },
+      {
+        "level": 13,
+        "moveId": "leer"
+      },
+      {
+        "level": 16,
+        "moveId": "roar"
+      },
+      {
+        "level": 19,
+        "moveId": "swagger"
+      },
+      {
+        "level": 22,
+        "moveId": "assurance"
+      },
+      {
+        "level": 25,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 28,
+        "moveId": "taunt"
+      },
+      {
+        "level": 31,
+        "moveId": "crunch"
+      },
+      {
+        "level": 34,
+        "moveId": "yawn"
+      },
+      {
+        "level": 36,
+        "moveId": "take_down"
+      },
+      {
+        "level": 40,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 44,
+        "moveId": "play_rough"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "counter",
+      "dig",
+      "toxic",
+      "double_team",
+      "rest",
+      "super_fang",
+      "substitute",
+      "thief",
+      "snore",
+      "spite",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "psych_up",
+      "shadow_ball",
+      "rock_smash",
+      "uproar",
+      "torment",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "endeavor",
+      "hyper_voice",
+      "covet",
+      "payback",
+      "assurance",
+      "embargo",
+      "dark_pulse",
+      "nasty_plot",
+      "thunder_fang",
+      "ice_fang",
+      "fire_fang",
+      "foul_play",
+      "round",
+      "incinerate",
+      "retaliate",
+      "snarl",
+      "play_rough",
+      "confide",
+      "psychic_fangs",
+      "lash_out",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "town",
+      "plains"
+    ]
+  }
+]

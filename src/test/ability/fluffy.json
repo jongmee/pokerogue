@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "fluffy",
+    "name": "Fluffy",
+    "koName": "복슬복슬",
+    "realased": "",
+    "description": "상대로부터 받은 접촉하는 기술의 데미지를 반감시키지만 불꽃타입 기술의 데미지는 2배가 된다.",
+    "generation": 7,
+    "pokemonIds": [
+      "hoppip",
+      "skiploom",
+      "jumpluff",
+      "cottonee",
+      "whimsicott",
+      "furfrou",
+      "furfrou_heart",
+      "furfrou_star",
+      "furfrou_diamond",
+      "furfrou_debutante",
+      "furfrou_matron",
+      "furfrou_dandy",
+      "furfrou_la_reine",
+      "furfrou_kabuki",
+      "furfrou_pharaoh",
+      "stufful",
+      "bewear",
+      "wooloo",
+      "dubwool",
+      "greavard",
+      "houndstone"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

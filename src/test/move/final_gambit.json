@@ -1,0 +1,36 @@
+[
+  {
+    "_id": "final_gambit",
+    "name": "Final Gambit",
+    "koName": "목숨걸기",
+    "type": "fighting",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "목숨을 걸고 상대를 공격한다. 자신은 기절하게 되지만 상대에게 HP만큼의 데미지를 준다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 5,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "mankey",
+      "primeape",
+      "zangoose",
+      "starly",
+      "staravia",
+      "staraptor",
+      "riolu",
+      "lucario",
+      "victini",
+      "shelmet",
+      "accelgor",
+      "sirfetchd",
+      "veluza",
+      "annihilape",
+      "galar_farfetchd"
+    ]
+  }
+]

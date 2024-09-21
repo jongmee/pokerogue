@@ -1,0 +1,31 @@
+[
+  {
+    "_id": "multiscale",
+    "name": "Multiscale",
+    "koName": "멀티스케일",
+    "realased": "",
+    "description": "HP가 꽉 찼을 때 받는 데미지가 줄어든다.",
+    "generation": 5,
+    "pokemonIds": [
+      "goldeen",
+      "seaking",
+      "magikarp",
+      "gyarados",
+      "gyarados_mega",
+      "dragonite",
+      "lugia",
+      "seviper",
+      "luvdisc",
+      "snivy",
+      "servine",
+      "serperior",
+      "archen",
+      "archeops",
+      "alomomola",
+      "bruxish",
+      "regidrago"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

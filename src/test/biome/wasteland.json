@@ -1,0 +1,159 @@
+[
+  {
+    "_id": "wasteland",
+    "name": "Wasteland",
+    "koName": "황무지",
+    "types": [
+      "dragon"
+    ],
+    "nextBiomes": [
+      {
+        "name": "badlands",
+        "percentage": 100
+      }
+    ],
+    "nativePokemons": [
+      {
+        "tier": "보통",
+        "pokemonIds": [
+          "bagon",
+          "shelgon",
+          "salamence",
+          "goomy",
+          "sliggoo",
+          "goodra",
+          "jangmo_o",
+          "hakamo_o",
+          "kommo_o",
+          "larvitar",
+          "pupitar",
+          "tyranitar",
+          "vibrava",
+          "flygon",
+          "gible",
+          "gabite",
+          "garchomp",
+          "axew",
+          "fraxure",
+          "haxorus"
+        ]
+      },
+      {
+        "tier": "드묾",
+        "pokemonIds": [
+          "deino",
+          "zweilous",
+          "hydreigon",
+          "swablu",
+          "altaria",
+          "drampa",
+          "cyclizar"
+        ]
+      },
+      {
+        "tier": "레어",
+        "pokemonIds": [
+          "dreepy",
+          "drakloak",
+          "dragapult",
+          "dratini",
+          "dragonair",
+          "dragonite",
+          "frigibax",
+          "arctibax",
+          "baxcalibur"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어",
+        "pokemonIds": [
+          "aerodactyl",
+          "druddigon",
+          "tyrunt",
+          "tyrantrum",
+          "dracozolt",
+          "dracovish"
+        ]
+      },
+      {
+        "tier": "울트라 레어",
+        "pokemonIds": [
+          "regidrago"
+        ]
+      },
+      {
+        "tier": "보스",
+        "pokemonIds": [
+          "salamence",
+          "goodra",
+          "kommo_o",
+          "tyranitar",
+          "dragapult",
+          "dragonite",
+          "flygon",
+          "garchomp",
+          "haxorus",
+          "drampa",
+          "baxcalibur"
+        ]
+      },
+      {
+        "tier": "레어 보스",
+        "pokemonIds": [
+          "aerodactyl",
+          "druddigon",
+          "tyrantrum",
+          "dracozolt",
+          "dracovish"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어 보스",
+        "pokemonIds": [
+          "regidrago"
+        ]
+      },
+      {
+        "tier": "슈퍼 울트라 레어 보스",
+        "pokemonIds": [
+          "dialga"
+        ]
+      }
+    ],
+    "trainers": [
+      {
+        "name": "이향",
+        "types": [
+          "water"
+        ],
+        "pokemonIds": [
+          "dratini",
+          "horsea",
+          "gyarados"
+        ]
+      },
+      {
+        "name": "사간",
+        "types": [
+          "dragon"
+        ],
+        "pokemonIds": [
+          "druddigon",
+          "axew",
+          "deino"
+        ]
+      },
+      {
+        "name": "금랑",
+        "types": [
+          "dragon"
+        ],
+        "pokemonIds": [
+          "duraludon",
+          "turtonator",
+          "goomy"
+        ]
+      }
+    ]
+  }
+]

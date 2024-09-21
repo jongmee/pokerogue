@@ -1,0 +1,116 @@
+[
+  {
+    "_id": "altaria_mega",
+    "gender": "",
+    "pokedexNumber": "334",
+    "name": "altaria_mega",
+    "koName": "파비코리_mega",
+    "speciesName": "altaria",
+    "canChangeForm": true,
+    "formName": "mega",
+    "baseExp": "172",
+    "friendship": "50",
+    "types": [
+      "dragon",
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "pixilate"
+    ],
+    "hiddenAbilityId": "pixilate",
+    "passiveAbilityId": "adaptability",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 590,
+    "hp": 75,
+    "attack": 110,
+    "defense": 110,
+    "specialAttack": 110,
+    "specialDefense": 105,
+    "speed": 80,
+    "height": 1.5,
+    "weight": 20.6,
+    "eggMoveIds": [
+      "roost",
+      "nasty_plot",
+      "floaty_fall",
+      "boomburst"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "dragon_pulse"
+      },
+      {
+        "level": 1,
+        "moveId": "pluck"
+      },
+      {
+        "level": 1,
+        "moveId": "peck"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "disarming_voice"
+      },
+      {
+        "level": 1,
+        "moveId": "mist"
+      },
+      {
+        "level": 12,
+        "moveId": "fury_attack"
+      },
+      {
+        "level": 16,
+        "moveId": "round"
+      },
+      {
+        "level": 20,
+        "moveId": "dragon_breath"
+      },
+      {
+        "level": 24,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 28,
+        "moveId": "sing"
+      },
+      {
+        "level": 32,
+        "moveId": "cotton_guard"
+      },
+      {
+        "level": 38,
+        "moveId": "take_down"
+      },
+      {
+        "level": 44,
+        "moveId": "moonblast"
+      },
+      {
+        "level": 50,
+        "moveId": "perish_song"
+      },
+      {
+        "level": 56,
+        "moveId": "sky_attack"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "mountain",
+      "wasteland"
+    ]
+  }
+]

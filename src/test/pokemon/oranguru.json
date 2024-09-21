@@ -1,0 +1,189 @@
+[
+  {
+    "_id": "oranguru",
+    "gender": "",
+    "pokedexNumber": "765",
+    "name": "oranguru",
+    "koName": "하랑우탄",
+    "speciesName": "oranguru",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "172",
+    "friendship": "50",
+    "types": [
+      "normal",
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "inner_focus",
+      "telepathy"
+    ],
+    "hiddenAbilityId": "symbiosis",
+    "passiveAbilityId": "power_spot",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 490,
+    "hp": 90,
+    "attack": 60,
+    "defense": 80,
+    "specialAttack": 90,
+    "specialDefense": 110,
+    "speed": 60,
+    "height": 1.5,
+    "weight": 76,
+    "eggMoveIds": [
+      "jungle_healing",
+      "yawn",
+      "follow_me",
+      "lumina_crash"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 1,
+        "moveId": "taunt"
+      },
+      {
+        "level": 5,
+        "moveId": "after_you"
+      },
+      {
+        "level": 10,
+        "moveId": "calm_mind"
+      },
+      {
+        "level": 15,
+        "moveId": "stored_power"
+      },
+      {
+        "level": 20,
+        "moveId": "psych_up"
+      },
+      {
+        "level": 25,
+        "moveId": "quash"
+      },
+      {
+        "level": 30,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 35,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 40,
+        "moveId": "trick_room"
+      },
+      {
+        "level": 45,
+        "moveId": "psychic"
+      },
+      {
+        "level": 50,
+        "moveId": "instruct"
+      },
+      {
+        "level": 55,
+        "moveId": "foul_play"
+      },
+      {
+        "level": 60,
+        "moveId": "future_sight"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "psybeam",
+      "hyper_beam",
+      "thunderbolt",
+      "thunder",
+      "earthquake",
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "swift",
+      "dream_eater",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "spite",
+      "protect",
+      "scary_face",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "pain_split",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "facade",
+      "nature_power",
+      "taunt",
+      "trick",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "skill_swap",
+      "imprison",
+      "hyper_voice",
+      "covet",
+      "calm_mind",
+      "gravity",
+      "payback",
+      "embargo",
+      "fling",
+      "focus_blast",
+      "energy_ball",
+      "giga_impact",
+      "nasty_plot",
+      "zen_headbutt",
+      "trick_room",
+      "charge_beam",
+      "wonder_room",
+      "psyshock",
+      "magic_room",
+      "foul_play",
+      "round",
+      "stored_power",
+      "ally_switch",
+      "quash",
+      "bulldoze",
+      "work_up",
+      "confide",
+      "psychic_terrain",
+      "brutal_swing",
+      "expanding_force",
+      "terrain_pulse",
+      "tera_blast",
+      "trailblaze",
+      "chilling_water",
+      "psychic_noise"
+    ],
+    "biomeIds": [
+      "jungle"
+    ]
+  }
+]

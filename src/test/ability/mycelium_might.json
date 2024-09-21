@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "mycelium_might",
+    "name": "Mycelium Might",
+    "koName": "균사의힘",
+    "realased": "",
+    "description": "변화 기술을 사용할 때 반드시 행동이 느려지지만 상대 특성에 방해받지 않는다.",
+    "generation": 9,
+    "pokemonIds": [
+      "toedscool",
+      "toedscruel"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

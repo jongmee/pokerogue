@@ -1,0 +1,40 @@
+[
+  {
+    "_id": "clear_smog",
+    "name": "Clear Smog",
+    "koName": "클리어스모그",
+    "type": "poison",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 50,
+    "accuracy": -1,
+    "powerPoint": 15,
+    "effect": "특수한 진흙 덩어리를 상대에게 내던져서 공격한다. 능력 변화를 원래대로 돌린다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 5,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "koffing",
+      "weezing",
+      "magmar",
+      "slugma",
+      "magcargo",
+      "magby",
+      "torkoal",
+      "magmortar",
+      "trubbish",
+      "garbodor",
+      "foongus",
+      "amoonguss",
+      "nihilego",
+      "charcadet",
+      "armarouge",
+      "ceruledge",
+      "brute_bonnet",
+      "munkidori",
+      "galar_weezing"
+    ]
+  }
+]

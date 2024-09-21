@@ -1,0 +1,193 @@
+[
+  {
+    "_id": "kirlia",
+    "gender": "",
+    "pokedexNumber": "281",
+    "name": "kirlia",
+    "koName": "킬리아",
+    "speciesName": "kirlia",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "97",
+    "friendship": "35",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "synchronize",
+      "trace"
+    ],
+    "hiddenAbilityId": "telepathy",
+    "passiveAbilityId": "psychic_surge",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 278,
+    "hp": 38,
+    "attack": 35,
+    "defense": 35,
+    "specialAttack": 65,
+    "specialDefense": 55,
+    "speed": 50,
+    "height": 0.8,
+    "weight": 20.2,
+    "eggMoveIds": [
+      "psyblade",
+      "bitter_blade",
+      "no_retreat",
+      "boomburst"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "disarming_voice"
+      },
+      {
+        "level": 1,
+        "moveId": "double_team"
+      },
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 9,
+        "moveId": "hypnosis"
+      },
+      {
+        "level": 12,
+        "moveId": "draining_kiss"
+      },
+      {
+        "level": 15,
+        "moveId": "teleport"
+      },
+      {
+        "level": 18,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 23,
+        "moveId": "life_dew"
+      },
+      {
+        "level": 28,
+        "moveId": "charm"
+      },
+      {
+        "level": 33,
+        "moveId": "calm_mind"
+      },
+      {
+        "level": 38,
+        "moveId": "psychic"
+      },
+      {
+        "level": 43,
+        "moveId": "heal_pulse"
+      },
+      {
+        "level": 48,
+        "moveId": "dream_eater"
+      },
+      {
+        "level": 53,
+        "moveId": "future_sight"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "mega_kick",
+      "body_slam",
+      "psybeam",
+      "hyper_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "toxic",
+      "psychic",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "metronome",
+      "swift",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "pain_split",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "torment",
+      "will_o_wisp",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "trick",
+      "recycle",
+      "knock_off",
+      "skill_swap",
+      "imprison",
+      "hyper_voice",
+      "signal_beam",
+      "magical_leaf",
+      "calm_mind",
+      "fling",
+      "zen_headbutt",
+      "trick_room",
+      "grass_knot",
+      "charge_beam",
+      "wonder_room",
+      "psyshock",
+      "magic_room",
+      "round",
+      "echoed_voice",
+      "stored_power",
+      "ally_switch",
+      "disarming_voice",
+      "draining_kiss",
+      "misty_terrain",
+      "confide",
+      "dazzling_gleam",
+      "psychic_terrain",
+      "expanding_force",
+      "triple_axel",
+      "tera_blast",
+      "alluring_voice"
+    ],
+    "biomeIds": [
+      "meadow",
+      "fairy_cave"
+    ]
+  }
+]

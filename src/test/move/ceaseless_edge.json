@@ -1,0 +1,49 @@
+[
+  {
+    "_id": "ceaseless_edge",
+    "name": "Ceaseless Edge",
+    "koName": "비검천중파",
+    "type": "dark",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 65,
+    "accuracy": 90,
+    "powerPoint": 15,
+    "effect": "조개껍질 검으로 공격한다. 조개껍질 파편은 압정이 되어 상대의 발밑에 흩어진다.",
+    "effectChance": 100,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [
+      "makes_contact",
+      "slicing_move"
+    ],
+    "pokemonIds": [
+      "kabuto",
+      "kabutops",
+      "cacnea",
+      "cacturne",
+      "corphish",
+      "crawdaunt",
+      "stunky",
+      "skuntank",
+      "pawniard",
+      "bisharp",
+      "cobalion",
+      "terrakion",
+      "virizion",
+      "chespin",
+      "quilladin",
+      "chesnaught",
+      "mareanie",
+      "toxapex",
+      "obstagoon",
+      "overqwil",
+      "kingambit",
+      "galar_zigzagoon",
+      "galar_linoone",
+      "hisui_qwilfish",
+      "hisui_samurott"
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "_id": "burning_bulwark",
+    "name": "Burning Bulwark",
+    "koName": "화염의수호",
+    "type": "fire",
+    "moveCategory": "status",
+    "moveTarget": "user",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 10,
+    "effect": "상대의 공격을 초고열의 털로 방어하는 동시에 접촉한 상대를 화상 상태로 만든다.",
+    "effectChance": -1,
+    "prioirty": 4,
+    "generation": 9,
+    "realased": "",
+    "flags": [
+      "ignore_protect"
+    ],
+    "pokemonIds": [
+      "slugma",
+      "magcargo",
+      "smeargle",
+      "entei",
+      "torkoal",
+      "fletchling",
+      "fletchinder",
+      "talonflame",
+      "pikipek",
+      "trumbeak",
+      "toucannon",
+      "turtonator",
+      "sizzlipede",
+      "centiskorch",
+      "centiskorch_gigantamax",
+      "gouging_fire"
+    ]
+  }
+]

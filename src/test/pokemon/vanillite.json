@@ -1,0 +1,150 @@
+[
+  {
+    "_id": "vanillite",
+    "gender": "",
+    "pokedexNumber": "582",
+    "name": "vanillite",
+    "koName": "바닐프티",
+    "speciesName": "vanillite",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "61",
+    "friendship": "50",
+    "types": [
+      "ice"
+    ],
+    "normalAbilityIds": [
+      "ice_body",
+      "snow_cloak"
+    ],
+    "hiddenAbilityId": "weak_armor",
+    "passiveAbilityId": "slush_rush",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 305,
+    "hp": 36,
+    "attack": 50,
+    "defense": 50,
+    "specialAttack": 65,
+    "specialDefense": 60,
+    "speed": 44,
+    "height": 0.4,
+    "weight": 5.7,
+    "eggMoveIds": [
+      "earth_power",
+      "aurora_veil",
+      "calm_mind",
+      "sparkly_swirl"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "harden"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 1,
+        "moveId": "powder_snow"
+      },
+      {
+        "level": 4,
+        "moveId": "taunt"
+      },
+      {
+        "level": 8,
+        "moveId": "mist"
+      },
+      {
+        "level": 12,
+        "moveId": "icy_wind"
+      },
+      {
+        "level": 16,
+        "moveId": "avalanche"
+      },
+      {
+        "level": 20,
+        "moveId": "hail"
+      },
+      {
+        "level": 24,
+        "moveId": "icicle_spear"
+      },
+      {
+        "level": 28,
+        "moveId": "uproar"
+      },
+      {
+        "level": 32,
+        "moveId": "acid_armor"
+      },
+      {
+        "level": 36,
+        "moveId": "mirror_coat"
+      },
+      {
+        "level": 40,
+        "moveId": "ice_beam"
+      },
+      {
+        "level": 44,
+        "moveId": "blizzard"
+      },
+      {
+        "level": 48,
+        "moveId": "sheer_cold"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "ice_beam",
+      "blizzard",
+      "toxic",
+      "double_team",
+      "light_screen",
+      "self_destruct",
+      "explosion",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "uproar",
+      "hail",
+      "facade",
+      "taunt",
+      "imprison",
+      "hyper_voice",
+      "signal_beam",
+      "icicle_spear",
+      "iron_defense",
+      "water_pulse",
+      "avalanche",
+      "flash_cannon",
+      "round",
+      "ally_switch",
+      "frost_breath",
+      "confide",
+      "aurora_veil",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "ice_cave"
+    ]
+  }
+]

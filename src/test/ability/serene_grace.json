@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "serene_grace",
+    "name": "Serene Grace",
+    "koName": "하늘의은총",
+    "realased": " (P)",
+    "description": "하늘의 은총 덕분에 기술의 추가 효과가 나오기 쉽다.",
+    "generation": 3,
+    "pokemonIds": [
+      "chansey",
+      "togepi",
+      "togetic",
+      "dunsparce",
+      "blissey",
+      "jirachi",
+      "happiny",
+      "togekiss",
+      "shaymin_sky",
+      "deerling_spring",
+      "deerling_summer",
+      "deerling_autumn",
+      "deerling_winter",
+      "sawsbuck_spring",
+      "sawsbuck_summer",
+      "sawsbuck_autumn",
+      "sawsbuck_winter",
+      "meloetta_aria",
+      "meloetta_pirouette",
+      "dudunsparce",
+      "galar_articuno"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

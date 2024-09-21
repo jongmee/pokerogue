@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "teeter_dance",
+    "name": "Teeter Dance",
+    "koName": "흔들흔들댄스",
+    "type": "normal",
+    "moveCategory": "status",
+    "moveTarget": "all_near_others",
+    "power": -1,
+    "accuracy": 100,
+    "powerPoint": 20,
+    "effect": "흔들흔들 댄스를 춰서 주위에 있는 포켓몬을 혼란 상태로 만든다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 3,
+    "realased": "",
+    "flags": [
+      "dance_move"
+    ],
+    "pokemonIds": [
+      "mr_mime",
+      "lombre",
+      "ludicolo",
+      "grumpig",
+      "spinda",
+      "mime_jr",
+      "lilligant",
+      "oricorio",
+      "bounsweet",
+      "steenee",
+      "tsareena",
+      "mr_rime",
+      "galar_mr_mime",
+      "hisui_lilligant"
+    ]
+  }
+]

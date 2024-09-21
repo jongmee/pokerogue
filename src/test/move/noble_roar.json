@@ -1,0 +1,43 @@
+[
+  {
+    "_id": "noble_roar",
+    "name": "Noble Roar",
+    "koName": "부르짖기",
+    "type": "normal",
+    "moveCategory": "status",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": 100,
+    "powerPoint": 30,
+    "effect": "우렁차게 부르짖어서 상대를 위협하여 상대의 공격과 특수공격을 떨어뜨린다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 6,
+    "realased": "",
+    "flags": [
+      "sound_based"
+    ],
+    "pokemonIds": [
+      "wailord",
+      "reshiram",
+      "zekrom",
+      "kyurem",
+      "kyurem_black",
+      "kyurem_white",
+      "litleo",
+      "pyroar",
+      "jangmo_o",
+      "hakamo_o",
+      "kommo_o",
+      "solgaleo",
+      "rillaboom",
+      "toxtricity",
+      "toxtricity_lowkey",
+      "zacian",
+      "dondozo",
+      "scream_tail",
+      "walking_wake",
+      "gouging_fire"
+    ]
+  }
+]

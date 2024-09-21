@@ -1,0 +1,169 @@
+[
+  {
+    "_id": "stakataka",
+    "gender": "",
+    "pokedexNumber": "805",
+    "name": "stakataka",
+    "koName": "차곡차곡",
+    "speciesName": "stakataka",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "285",
+    "friendship": "0",
+    "types": [
+      "rock",
+      "steel"
+    ],
+    "normalAbilityIds": [
+      "beast_boost"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "solid_rock",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 570,
+    "hp": 61,
+    "attack": 131,
+    "defense": 211,
+    "specialAttack": 53,
+    "specialDefense": 101,
+    "speed": 13,
+    "height": 5.5,
+    "weight": 820,
+    "eggMoveIds": [
+      "heavy_slam",
+      "shore_up",
+      "curse",
+      "salt_cure"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "harden"
+      },
+      {
+        "level": 5,
+        "moveId": "rock_throw"
+      },
+      {
+        "level": 10,
+        "moveId": "protect"
+      },
+      {
+        "level": 15,
+        "moveId": "stomp"
+      },
+      {
+        "level": 20,
+        "moveId": "block"
+      },
+      {
+        "level": 25,
+        "moveId": "rock_slide"
+      },
+      {
+        "level": 30,
+        "moveId": "wide_guard"
+      },
+      {
+        "level": 35,
+        "moveId": "autotomize"
+      },
+      {
+        "level": 40,
+        "moveId": "rock_blast"
+      },
+      {
+        "level": 45,
+        "moveId": "magnet_rise"
+      },
+      {
+        "level": 50,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 55,
+        "moveId": "iron_head"
+      },
+      {
+        "level": 60,
+        "moveId": "take_down"
+      },
+      {
+        "level": 65,
+        "moveId": "stealth_rock"
+      },
+      {
+        "level": 70,
+        "moveId": "double_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "earthquake",
+      "toxic",
+      "light_screen",
+      "reflect",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "sandstorm",
+      "endure",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "facade",
+      "superpower",
+      "recycle",
+      "skill_swap",
+      "rock_tomb",
+      "iron_defense",
+      "rock_blast",
+      "gravity",
+      "gyro_ball",
+      "rock_polish",
+      "giga_impact",
+      "zen_headbutt",
+      "flash_cannon",
+      "trick_room",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "wonder_room",
+      "magic_room",
+      "smack_down",
+      "heavy_slam",
+      "round",
+      "ally_switch",
+      "bulldoze",
+      "heat_crash",
+      "infestation",
+      "high_horsepower",
+      "brutal_swing",
+      "stomping_tantrum",
+      "body_press",
+      "steel_beam",
+      "steel_roller",
+      "meteor_beam",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "construction_site"
+    ]
+  }
+]

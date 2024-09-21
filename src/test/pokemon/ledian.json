@@ -1,0 +1,173 @@
+[
+  {
+    "_id": "ledian",
+    "gender": "",
+    "pokedexNumber": "166",
+    "name": "ledian",
+    "koName": "레디안",
+    "speciesName": "ledian",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "137",
+    "friendship": "70",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "swarm",
+      "early_bird"
+    ],
+    "hiddenAbilityId": "iron_fist",
+    "passiveAbilityId": "prankster",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 390,
+    "hp": 55,
+    "attack": 35,
+    "defense": 50,
+    "specialAttack": 55,
+    "specialDefense": 110,
+    "speed": 85,
+    "height": 1.4,
+    "weight": 35.6,
+    "eggMoveIds": [
+      "pollen_puff",
+      "thief",
+      "parting_shot",
+      "spore"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "supersonic"
+      },
+      {
+        "level": 1,
+        "moveId": "swift"
+      },
+      {
+        "level": 5,
+        "moveId": "supersonic"
+      },
+      {
+        "level": 12,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 12,
+        "moveId": "reflect"
+      },
+      {
+        "level": 12,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 15,
+        "moveId": "mach_punch"
+      },
+      {
+        "level": 20,
+        "moveId": "roost"
+      },
+      {
+        "level": 24,
+        "moveId": "struggle_bug"
+      },
+      {
+        "level": 29,
+        "moveId": "baton_pass"
+      },
+      {
+        "level": 33,
+        "moveId": "agility"
+      },
+      {
+        "level": 38,
+        "moveId": "bug_buzz"
+      },
+      {
+        "level": 42,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 47,
+        "moveId": "double_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "ice_punch",
+      "thunder_punch",
+      "swords_dance",
+      "hyper_beam",
+      "counter",
+      "strength",
+      "solar_beam",
+      "dig",
+      "toxic",
+      "agility",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "swift",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "baton_pass",
+      "encore",
+      "hidden_power",
+      "sunny_day",
+      "rock_smash",
+      "uproar",
+      "facade",
+      "focus_punch",
+      "brick_break",
+      "knock_off",
+      "air_cutter",
+      "aerial_ace",
+      "roost",
+      "tailwind",
+      "u_turn",
+      "fling",
+      "air_slash",
+      "bug_buzz",
+      "drain_punch",
+      "focus_blast",
+      "giga_impact",
+      "defog",
+      "bug_bite",
+      "round",
+      "acrobatics",
+      "struggle_bug",
+      "confide",
+      "infestation",
+      "power_up_punch",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "meadow"
+    ]
+  }
+]

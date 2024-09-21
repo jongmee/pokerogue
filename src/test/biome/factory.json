@@ -1,0 +1,113 @@
+[
+  {
+    "_id": "factory",
+    "name": "Factory",
+    "koName": "공장",
+    "types": [
+      "steel"
+    ],
+    "nextBiomes": [
+      {
+        "name": "plains",
+        "percentage": 66.66666666666666
+      },
+      {
+        "name": "laboratory",
+        "percentage": 33.33333333333333
+      }
+    ],
+    "nativePokemons": [
+      {
+        "tier": "보통",
+        "pokemonIds": [
+          "machop",
+          "machoke",
+          "magnemite",
+          "magneton",
+          "voltorb",
+          "electrode",
+          "timburr",
+          "gurdurr",
+          "klink",
+          "klang",
+          "klinklang"
+        ]
+      },
+      {
+        "tier": "드묾",
+        "pokemonIds": [
+          "bronzor",
+          "bronzong",
+          "klefki"
+        ]
+      },
+      {
+        "tier": "레어",
+        "pokemonIds": [
+          "porygon",
+          "porygon2"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어",
+        "pokemonIds": [
+          "beldum",
+          "metang",
+          "metagross"
+        ]
+      },
+      {
+        "tier": "울트라 레어",
+        "pokemonIds": [
+          "genesect",
+          "magearna"
+        ]
+      },
+      {
+        "tier": "보스",
+        "pokemonIds": [
+          "klinklang",
+          "klefki"
+        ]
+      },
+      {
+        "tier": "레어 보스",
+        "pokemonIds": []
+      },
+      {
+        "tier": "슈퍼 레어 보스",
+        "pokemonIds": [
+          "genesect",
+          "magearna"
+        ]
+      },
+      {
+        "tier": "슈퍼 울트라 레어 보스",
+        "pokemonIds": []
+      }
+    ],
+    "trainers": [
+      {
+        "name": "규리",
+        "types": [
+          "steel"
+        ],
+        "pokemonIds": [
+          "magnemite",
+          "steelix"
+        ]
+      },
+      {
+        "name": "동관",
+        "types": [
+          "steel"
+        ],
+        "pokemonIds": [
+          "shieldon",
+          "bronzor",
+          "aggron"
+        ]
+      }
+    ]
+  }
+]

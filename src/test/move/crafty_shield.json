@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "crafty_shield",
+    "name": "Crafty Shield",
+    "koName": "트릭가드",
+    "type": "fairy",
+    "moveCategory": "status",
+    "moveTarget": "user_side",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 10,
+    "effect": "이상한 힘을 사용하여 같은 편을 공격하는 변화 기술을 막는다. 데미지 기술은 받는다.",
+    "effectChance": -1,
+    "prioirty": 3,
+    "generation": 6,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "yamask",
+      "cofagrigus",
+      "magearna",
+      "runerigus",
+      "galar_yamask"
+    ]
+  }
+]

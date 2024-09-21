@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "chilling_neigh",
+    "name": "Chilling Neigh",
+    "koName": "백의울음",
+    "realased": "",
+    "description": "상대를 쓰러뜨리면 차가운 울음소리를 내면서 공격이 올라간다.",
+    "generation": 8,
+    "pokemonIds": [
+      "glastrier"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

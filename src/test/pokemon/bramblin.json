@@ -1,0 +1,150 @@
+[
+  {
+    "_id": "bramblin",
+    "gender": "",
+    "pokedexNumber": "946",
+    "name": "bramblin",
+    "koName": "그푸리",
+    "speciesName": "bramblin",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "55",
+    "friendship": "50",
+    "types": [
+      "grass",
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "wind_rider"
+    ],
+    "hiddenAbilityId": "infiltrator",
+    "passiveAbilityId": "shadow_shield",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 275,
+    "hp": 40,
+    "attack": 65,
+    "defense": 30,
+    "specialAttack": 45,
+    "specialDefense": 35,
+    "speed": 60,
+    "height": 0.6,
+    "weight": 0.6,
+    "eggMoveIds": [
+      "tailwind",
+      "strength_sap",
+      "flower_trick",
+      "last_respects"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": 1,
+        "moveId": "rollout"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 5,
+        "moveId": "absorb"
+      },
+      {
+        "level": 9,
+        "moveId": "rapid_spin"
+      },
+      {
+        "level": 13,
+        "moveId": "bullet_seed"
+      },
+      {
+        "level": 17,
+        "moveId": "infestation"
+      },
+      {
+        "level": 21,
+        "moveId": "hex"
+      },
+      {
+        "level": 25,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 29,
+        "moveId": "disable"
+      },
+      {
+        "level": 35,
+        "moveId": "phantom_force"
+      },
+      {
+        "level": 40,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 45,
+        "moveId": "curse"
+      },
+      {
+        "level": 50,
+        "moveId": "pain_split"
+      },
+      {
+        "level": 55,
+        "moveId": "power_whip"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "solar_beam",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "rest",
+      "substitute",
+      "thief",
+      "curse",
+      "spite",
+      "protect",
+      "scary_face",
+      "spikes",
+      "giga_drain",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "hidden_power",
+      "shadow_ball",
+      "beat_up",
+      "facade",
+      "bullet_seed",
+      "seed_bomb",
+      "energy_ball",
+      "leaf_storm",
+      "power_whip",
+      "grass_knot",
+      "hex",
+      "phantom_force",
+      "grassy_terrain",
+      "infestation",
+      "grassy_glide",
+      "poltergeist",
+      "tera_blast",
+      "pounce",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "desert"
+    ]
+  }
+]

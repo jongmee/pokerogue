@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "psyblade",
+    "name": "Psyblade",
+    "koName": "사이코블레이드",
+    "type": "psychic",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 80,
+    "accuracy": 100,
+    "powerPoint": 15,
+    "effect": "실체가 없는 칼날로 상대를 베어 가른다. 일렉트릭필드 위에 있을 때 기술의 위력이 1.5배가 된다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 9,
+    "realased": "",
+    "flags": [
+      "makes_contact",
+      "slicing_move"
+    ],
+    "pokemonIds": [
+      "ralts",
+      "kirlia",
+      "gardevoir",
+      "gardevoir_mega",
+      "absol",
+      "absol_mega",
+      "gallade",
+      "gallade_mega",
+      "virizion",
+      "kartana",
+      "veluza",
+      "iron_leaves",
+      "iron_boulder"
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "wicked_torque",
+    "name": "Wicked Torque",
+    "koName": "다크액셀",
+    "type": "dark",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 80,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "악의적으로 상대를 향해 부릉거린다. 잠듦 상태로 만들 때가 있다.",
+    "effectChance": 10,
+    "prioirty": 0,
+    "generation": 9,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": []
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "beak_blast",
+    "name": "Beak Blast",
+    "koName": "부리캐논",
+    "type": "flying",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 100,
+    "accuracy": 100,
+    "powerPoint": 15,
+    "effect": "먼저 부리를 가열시킨 다음 공격을 날린다. 가열 중에 만지면 화상을 입는다.",
+    "effectChance": -1,
+    "prioirty": -3,
+    "generation": 7,
+    "realased": "",
+    "flags": [
+      "ballbomb_move"
+    ],
+    "pokemonIds": [
+      "skarmory",
+      "toucannon"
+    ]
+  }
+]

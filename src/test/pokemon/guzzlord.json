@@ -1,0 +1,181 @@
+[
+  {
+    "_id": "guzzlord",
+    "gender": "",
+    "pokedexNumber": "799",
+    "name": "guzzlord",
+    "koName": "악식킹",
+    "speciesName": "guzzlord",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "285",
+    "friendship": "0",
+    "types": [
+      "dark",
+      "dragon"
+    ],
+    "normalAbilityIds": [
+      "beast_boost"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "poison_heal",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 570,
+    "hp": 223,
+    "attack": 101,
+    "defense": 53,
+    "specialAttack": 97,
+    "specialDefense": 53,
+    "speed": 43,
+    "height": 5.5,
+    "weight": 888,
+    "eggMoveIds": [
+      "sucker_punch",
+      "comeuppance",
+      "slack_off",
+      "shed_tail"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "bite"
+      },
+      {
+        "level": 1,
+        "moveId": "dragon_tail"
+      },
+      {
+        "level": 5,
+        "moveId": "stockpile"
+      },
+      {
+        "level": 5,
+        "moveId": "swallow"
+      },
+      {
+        "level": 10,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 15,
+        "moveId": "stomp"
+      },
+      {
+        "level": 20,
+        "moveId": "stomping_tantrum"
+      },
+      {
+        "level": 25,
+        "moveId": "wide_guard"
+      },
+      {
+        "level": 30,
+        "moveId": "crunch"
+      },
+      {
+        "level": 35,
+        "moveId": "body_slam"
+      },
+      {
+        "level": 40,
+        "moveId": "gastro_acid"
+      },
+      {
+        "level": 45,
+        "moveId": "hammer_arm"
+      },
+      {
+        "level": 50,
+        "moveId": "heavy_slam"
+      },
+      {
+        "level": 55,
+        "moveId": "dragon_rush"
+      },
+      {
+        "level": 60,
+        "moveId": "belch"
+      },
+      {
+        "level": 65,
+        "moveId": "thrash"
+      },
+      {
+        "level": 70,
+        "moveId": "giga_impact"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "mega_kick",
+      "body_slam",
+      "flamethrower",
+      "hyper_beam",
+      "earthquake",
+      "toxic",
+      "double_team",
+      "fire_blast",
+      "amnesia",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "sludge_bomb",
+      "outrage",
+      "endure",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "crunch",
+      "heat_wave",
+      "facade",
+      "brick_break",
+      "knock_off",
+      "rock_tomb",
+      "iron_defense",
+      "dragon_claw",
+      "gyro_ball",
+      "payback",
+      "fling",
+      "gastro_acid",
+      "poison_jab",
+      "dark_pulse",
+      "dragon_pulse",
+      "drain_punch",
+      "giga_impact",
+      "shadow_claw",
+      "draco_meteor",
+      "iron_head",
+      "stone_edge",
+      "smack_down",
+      "sludge_wave",
+      "heavy_slam",
+      "round",
+      "bulldoze",
+      "dragon_tail",
+      "heat_crash",
+      "snarl",
+      "high_horsepower",
+      "brutal_swing",
+      "stomping_tantrum",
+      "body_press",
+      "steel_roller",
+      "lash_out",
+      "corrosive_gas",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "slum"
+    ]
+  }
+]

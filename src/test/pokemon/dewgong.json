@@ -1,0 +1,192 @@
+[
+  {
+    "_id": "dewgong",
+    "gender": "",
+    "pokedexNumber": "87",
+    "name": "dewgong",
+    "koName": "쥬레곤",
+    "speciesName": "dewgong",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "166",
+    "friendship": "70",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "normalAbilityIds": [
+      "thick_fat",
+      "hydration"
+    ],
+    "hiddenAbilityId": "ice_body",
+    "passiveAbilityId": "water_bubble",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 475,
+    "hp": 90,
+    "attack": 70,
+    "defense": 80,
+    "specialAttack": 70,
+    "specialDefense": 95,
+    "speed": 70,
+    "height": 1.7,
+    "weight": 120,
+    "eggMoveIds": [
+      "freeze_dry",
+      "bouncy_bubble",
+      "slack_off",
+      "steam_eruption"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "sheer_cold"
+      },
+      {
+        "level": 1,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "icy_wind"
+      },
+      {
+        "level": 1,
+        "moveId": "charm"
+      },
+      {
+        "level": 1,
+        "moveId": "signal_beam"
+      },
+      {
+        "level": 13,
+        "moveId": "encore"
+      },
+      {
+        "level": 17,
+        "moveId": "ice_shard"
+      },
+      {
+        "level": 21,
+        "moveId": "rest"
+      },
+      {
+        "level": 23,
+        "moveId": "aqua_ring"
+      },
+      {
+        "level": 27,
+        "moveId": "aurora_beam"
+      },
+      {
+        "level": 31,
+        "moveId": "aqua_jet"
+      },
+      {
+        "level": 33,
+        "moveId": "brine"
+      },
+      {
+        "level": 39,
+        "moveId": "take_down"
+      },
+      {
+        "level": 45,
+        "moveId": "dive"
+      },
+      {
+        "level": 49,
+        "moveId": "aqua_tail"
+      },
+      {
+        "level": 55,
+        "moveId": "ice_beam"
+      },
+      {
+        "level": 61,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 65,
+        "moveId": "snowscape"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "pay_day",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "strength",
+      "toxic",
+      "double_team",
+      "haze",
+      "waterfall",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "megahorn",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "whirlpool",
+      "hail",
+      "facade",
+      "helping_hand",
+      "endeavor",
+      "dive",
+      "weather_ball",
+      "signal_beam",
+      "muddy_water",
+      "icicle_spear",
+      "water_pulse",
+      "brine",
+      "fling",
+      "aqua_tail",
+      "giga_impact",
+      "avalanche",
+      "round",
+      "echoed_voice",
+      "frost_breath",
+      "drill_run",
+      "play_rough",
+      "confide",
+      "smart_strike",
+      "liquidation",
+      "flip_turn",
+      "triple_axel",
+      "tera_blast",
+      "ice_spinner",
+      "snowscape",
+      "chilling_water",
+      "alluring_voice"
+    ],
+    "biomeIds": [
+      "ice_cave"
+    ]
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "_id": "camerupt_mega",
+    "gender": "",
+    "pokedexNumber": "323",
+    "name": "camerupt_mega",
+    "koName": "폭타_mega",
+    "speciesName": "camerupt",
+    "canChangeForm": true,
+    "formName": "mega",
+    "baseExp": "161",
+    "friendship": "70",
+    "types": [
+      "fire",
+      "ground"
+    ],
+    "normalAbilityIds": [
+      "sheer_force"
+    ],
+    "hiddenAbilityId": "sheer_force",
+    "passiveAbilityId": "fur_coat",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 560,
+    "hp": 70,
+    "attack": 120,
+    "defense": 100,
+    "specialAttack": 145,
+    "specialDefense": 105,
+    "speed": 20,
+    "height": 2.5,
+    "weight": 320.5,
+    "eggMoveIds": [
+      "trick_room",
+      "energy_ball",
+      "morning_sun",
+      "blue_flare"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "rock_slide"
+      },
+      {
+        "level": 1,
+        "moveId": "fissure"
+      },
+      {
+        "level": 1,
+        "moveId": "eruption"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 1,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 12,
+        "moveId": "bulldoze"
+      },
+      {
+        "level": 15,
+        "moveId": "incinerate"
+      },
+      {
+        "level": 19,
+        "moveId": "amnesia"
+      },
+      {
+        "level": 22,
+        "moveId": "lava_plume"
+      },
+      {
+        "level": 26,
+        "moveId": "earth_power"
+      },
+      {
+        "level": 29,
+        "moveId": "curse"
+      },
+      {
+        "level": 31,
+        "moveId": "take_down"
+      },
+      {
+        "level": 39,
+        "moveId": "yawn"
+      },
+      {
+        "level": 46,
+        "moveId": "earthquake"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "badlands",
+      "volcano"
+    ]
+  }
+]

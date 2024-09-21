@@ -1,0 +1,111 @@
+[
+  {
+    "_id": "giratina_altered",
+    "gender": "",
+    "pokedexNumber": "487",
+    "name": "giratina_altered",
+    "koName": "기라티나_altered",
+    "speciesName": "giratina",
+    "canChangeForm": true,
+    "formName": "altered_forme",
+    "baseExp": "340",
+    "friendship": "0",
+    "types": [
+      "ghost",
+      "dragon"
+    ],
+    "normalAbilityIds": [
+      "pressure"
+    ],
+    "hiddenAbilityId": "telepathy",
+    "passiveAbilityId": "shadow_shield",
+    "generation": 4,
+    "legendary": true,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 680,
+    "hp": 150,
+    "attack": 100,
+    "defense": 120,
+    "specialAttack": 100,
+    "specialDefense": 120,
+    "speed": 90,
+    "height": 4.5,
+    "weight": 750,
+    "eggMoveIds": [
+      "dragon_dance",
+      "glaive_rush",
+      "recover",
+      "spectral_thief"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "shadow_sneak"
+      },
+      {
+        "level": 1,
+        "moveId": "defog"
+      },
+      {
+        "level": 1,
+        "moveId": "dragon_breath"
+      },
+      {
+        "level": 7,
+        "moveId": "ominous_wind"
+      },
+      {
+        "level": 14,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 21,
+        "moveId": "hex"
+      },
+      {
+        "level": 28,
+        "moveId": "slash"
+      },
+      {
+        "level": 35,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 42,
+        "moveId": "shadow_claw"
+      },
+      {
+        "level": 49,
+        "moveId": "pain_split"
+      },
+      {
+        "level": 56,
+        "moveId": "aura_sphere"
+      },
+      {
+        "level": 63,
+        "moveId": "dragon_claw"
+      },
+      {
+        "level": 70,
+        "moveId": "earth_power"
+      },
+      {
+        "level": 77,
+        "moveId": "shadow_force"
+      },
+      {
+        "level": 84,
+        "moveId": "destiny_bond"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "graveyard"
+    ]
+  }
+]

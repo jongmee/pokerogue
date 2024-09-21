@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "raging_bull",
+    "name": "Raging Bull",
+    "koName": "레이징불",
+    "type": "normal",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 90,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "분노해 날뛰는 성난소의 맹렬한 태클. 폼에 따라 기술의 타입이 달라지고 빛의장막이나 리플렉터 등도 파괴할 수 있다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 9,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "tauros",
+      "teddiursa",
+      "ursaring",
+      "ursaluna",
+      "paldea_tauros"
+    ]
+  }
+]

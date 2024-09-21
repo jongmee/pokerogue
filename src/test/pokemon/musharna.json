@@ -1,0 +1,181 @@
+[
+  {
+    "_id": "musharna",
+    "gender": "",
+    "pokedexNumber": "518",
+    "name": "musharna",
+    "koName": "몽얌나",
+    "speciesName": "musharna",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "170",
+    "friendship": "50",
+    "types": [
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "forewarn",
+      "synchronize"
+    ],
+    "hiddenAbilityId": "telepathy",
+    "passiveAbilityId": "neutralizing_gas",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 487,
+    "hp": 116,
+    "attack": 55,
+    "defense": 85,
+    "specialAttack": 107,
+    "specialDefense": 95,
+    "speed": 29,
+    "height": 1.1,
+    "weight": 60.5,
+    "eggMoveIds": [
+      "cosmic_power",
+      "aura_sphere",
+      "earth_power",
+      "mystical_power"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 1,
+        "moveId": "psychic"
+      },
+      {
+        "level": 1,
+        "moveId": "hypnosis"
+      },
+      {
+        "level": 1,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": 1,
+        "moveId": "lucky_chant"
+      },
+      {
+        "level": 1,
+        "moveId": "dream_eater"
+      },
+      {
+        "level": 1,
+        "moveId": "moonlight"
+      },
+      {
+        "level": 1,
+        "moveId": "future_sight"
+      },
+      {
+        "level": 1,
+        "moveId": "magic_coat"
+      },
+      {
+        "level": 1,
+        "moveId": "yawn"
+      },
+      {
+        "level": 1,
+        "moveId": "imprison"
+      },
+      {
+        "level": 1,
+        "moveId": "calm_mind"
+      },
+      {
+        "level": 1,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 1,
+        "moveId": "wonder_room"
+      },
+      {
+        "level": 1,
+        "moveId": "stored_power"
+      },
+      {
+        "level": 1,
+        "moveId": "moonblast"
+      },
+      {
+        "level": 1,
+        "moveId": "psychic_terrain"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "psybeam",
+      "hyper_beam",
+      "thunder_wave",
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "swift",
+      "amnesia",
+      "dream_eater",
+      "flash",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "safeguard",
+      "pain_split",
+      "hidden_power",
+      "rain_dance",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "torment",
+      "facade",
+      "helping_hand",
+      "trick",
+      "skill_swap",
+      "imprison",
+      "rock_tomb",
+      "signal_beam",
+      "calm_mind",
+      "gravity",
+      "gyro_ball",
+      "power_swap",
+      "guard_swap",
+      "worry_seed",
+      "energy_ball",
+      "giga_impact",
+      "zen_headbutt",
+      "trick_room",
+      "charge_beam",
+      "wonder_room",
+      "psyshock",
+      "round",
+      "stored_power",
+      "ally_switch",
+      "confide",
+      "dazzling_gleam",
+      "psychic_terrain",
+      "expanding_force",
+      "misty_explosion",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "space"
+    ]
+  }
+]

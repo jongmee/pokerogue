@@ -1,0 +1,19 @@
+[
+  {
+    "_id": "cheek_pouch",
+    "name": "Cheek Pouch",
+    "koName": "볼주머니",
+    "realased": " (P)",
+    "description": "어떤 나무열매라도 먹으면 HP도 회복한다.",
+    "generation": 6,
+    "pokemonIds": [
+      "bunnelby",
+      "diggersby",
+      "dedenne",
+      "skwovet",
+      "greedent"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

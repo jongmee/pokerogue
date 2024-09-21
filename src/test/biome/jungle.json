@@ -1,0 +1,175 @@
+[
+  {
+    "_id": "jungle",
+    "name": "Jungle",
+    "koName": "정글",
+    "types": [
+      "grass",
+      "bug"
+    ],
+    "nextBiomes": [
+      {
+        "name": "temple",
+        "percentage": 100
+      }
+    ],
+    "nativePokemons": [
+      {
+        "tier": "보통",
+        "pokemonIds": [
+          "vespiquen",
+          "cherubi",
+          "cherrim",
+          "sewaddle",
+          "swadloon",
+          "leavanny",
+          "shroomish",
+          "purrloin",
+          "liepard",
+          "foongus",
+          "amoonguss",
+          "spinarak",
+          "ariados",
+          "aipom",
+          "blitzle",
+          "zebstrika",
+          "pikipek",
+          "trumbeak",
+          "toucannon"
+        ]
+      },
+      {
+        "tier": "드묾",
+        "pokemonIds": [
+          "exeggcute",
+          "tropius",
+          "combee",
+          "komala",
+          "tangela",
+          "spinarak",
+          "ariados",
+          "pancham",
+          "pangoro",
+          "pansage",
+          "simisage",
+          "pansear",
+          "simisear",
+          "panpour",
+          "simipour",
+          "joltik",
+          "galvantula",
+          "litleo",
+          "pyroar",
+          "fomantis",
+          "lurantis",
+          "falinks"
+        ]
+      },
+      {
+        "tier": "레어",
+        "pokemonIds": [
+          "foongus",
+          "amoonguss",
+          "passimian",
+          "galar_ponyta",
+          "galar_rapidash",
+          "oranguru",
+          "scyther",
+          "yanma",
+          "slakoth",
+          "vigoroth",
+          "slaking",
+          "seviper",
+          "carnivine",
+          "snivy",
+          "servine",
+          "serperior",
+          "grookey",
+          "thwackey",
+          "rillaboom"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어",
+        "pokemonIds": [
+          "kangaskhan",
+          "chatot",
+          "kleavor"
+        ]
+      },
+      {
+        "tier": "울트라 레어",
+        "pokemonIds": [
+          "tapu_lele",
+          "buzzwole",
+          "zarude",
+          "munkidori"
+        ]
+      },
+      {
+        "tier": "보스",
+        "pokemonIds": [
+          "exeggutor",
+          "tropius",
+          "cherrim",
+          "leavanny",
+          "komala",
+          "breloom",
+          "tangrowth",
+          "amoonguss",
+          "pangoro",
+          "seviper",
+          "ambipom",
+          "carnivine",
+          "yanmega",
+          "galvantula",
+          "pyroar",
+          "toucannon",
+          "lurantis",
+          "falinks"
+        ]
+      },
+      {
+        "tier": "레어 보스",
+        "pokemonIds": [
+          "amoonguss",
+          "galar_rapidash",
+          "kangaskhan",
+          "scizor",
+          "slaking",
+          "leafeon",
+          "serperior",
+          "rillaboom"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어 보스",
+        "pokemonIds": [
+          "tapu_lele",
+          "buzzwole",
+          "zarude",
+          "munkidori"
+        ]
+      },
+      {
+        "tier": "슈퍼 울트라 레어 보스",
+        "pokemonIds": [
+          "kleavor"
+        ]
+      }
+    ],
+    "trainers": [
+      {
+        "name": "후쿠지",
+        "types": [
+          "bug"
+        ],
+        "pokemonIds": [
+          "skiddo",
+          "hoppip",
+          "bellsprout"
+        ]
+      }
+    ]
+  }
+]

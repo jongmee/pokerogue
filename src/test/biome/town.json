@@ -1,0 +1,126 @@
+[
+  {
+    "_id": "town",
+    "name": "Town",
+    "koName": "마을",
+    "types": [
+      "normal",
+      "grass"
+    ],
+    "nextBiomes": [
+      {
+        "name": "plains",
+        "percentage": 100
+      }
+    ],
+    "nativePokemons": [
+      {
+        "tier": "보통",
+        "pokemonIds": [
+          "caterpie",
+          "metapod",
+          "sentret",
+          "ledyba",
+          "hoppip",
+          "sunkern",
+          "starly",
+          "pidove",
+          "cottonee",
+          "scatterbug",
+          "spewpa",
+          "yungoos",
+          "skwovet",
+          "silcoon",
+          "weedle",
+          "kakuna",
+          "poochyena",
+          "patrat",
+          "purrloin",
+          "blipbug",
+          "hoothoot",
+          "spinarak",
+          "cascoon",
+          "pidgey",
+          "rattata",
+          "spearow",
+          "zigzagoon",
+          "wurmple",
+          "taillow",
+          "bidoof",
+          "lillipup",
+          "fletchling",
+          "wooloo",
+          "lechonk"
+        ]
+      },
+      {
+        "tier": "드묾",
+        "pokemonIds": [
+          "bellsprout",
+          "poochyena",
+          "lotad",
+          "skitty",
+          "combee",
+          "cherubi",
+          "patrat",
+          "minccino",
+          "pawmi",
+          "nidoran_f",
+          "nidoran_m",
+          "ekans",
+          "oddish",
+          "meowth",
+          "spinarak",
+          "seedot",
+          "shroomish",
+          "kricketot",
+          "venipede",
+          "paras",
+          "venonat",
+          "nincada",
+          "whismur",
+          "fidough"
+        ]
+      },
+      {
+        "tier": "레어",
+        "pokemonIds": [
+          "tandemaus",
+          "abra",
+          "surskit",
+          "rookidee"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어",
+        "pokemonIds": [
+          "eevee",
+          "ralts"
+        ]
+      },
+      {
+        "tier": "울트라 레어",
+        "pokemonIds": [
+          "ditto"
+        ]
+      },
+      {
+        "tier": "보스",
+        "pokemonIds": []
+      },
+      {
+        "tier": "레어 보스",
+        "pokemonIds": []
+      },
+      {
+        "tier": "슈퍼 레어 보스",
+        "pokemonIds": []
+      },
+      {
+        "tier": "슈퍼 울트라 레어 보스",
+        "pokemonIds": []
+      }
+    ],
+    "trainers": []
+  }
+]

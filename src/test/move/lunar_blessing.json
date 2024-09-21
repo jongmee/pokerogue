@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "lunar_blessing",
+    "name": "Lunar Blessing",
+    "koName": "초승달의기도",
+    "type": "psychic",
+    "moveCategory": "status",
+    "moveTarget": "user_and_allies",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 5,
+    "effect": "초승달에 기도를 하여 자신과 같은 편의 HP와 상태 이상을 모두 회복한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [
+      "triage_move"
+    ],
+    "pokemonIds": [
+      "cresselia",
+      "audino",
+      "audino_mega"
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "aqua_cutter",
+    "name": "Aqua Cutter",
+    "koName": "아쿠아커터",
+    "type": "water",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 70,
+    "accuracy": 100,
+    "powerPoint": 20,
+    "effect": "압력을 가한 물을 칼날처럼 분사해서 상대를 베어 가른다. 급소에 맞기 쉽다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 9,
+    "realased": "",
+    "flags": [
+      "slicing_move"
+    ],
+    "pokemonIds": [
+      "gallade",
+      "perrserker",
+      "quaxly",
+      "quaxwell",
+      "quaquaval",
+      "veluza",
+      "alola_sandshrew",
+      "alola_sandslash",
+      "galar_meowth"
+    ]
+  }
+]

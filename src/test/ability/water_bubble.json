@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "water_bubble",
+    "name": "Water Bubble",
+    "koName": "수포",
+    "realased": "",
+    "description": "자신을 향하는 불꽃타입 기술의 위력을 떨어뜨린다. 화상을 입지 않는다.",
+    "generation": 7,
+    "pokemonIds": [
+      "seel",
+      "dewgong",
+      "chinchou",
+      "lanturn",
+      "surskit",
+      "masquerain",
+      "finneon",
+      "lumineon",
+      "crabrawler",
+      "crabominable",
+      "dewpider",
+      "araquanid",
+      "dhelmise",
+      "clobbopus",
+      "grapploct"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

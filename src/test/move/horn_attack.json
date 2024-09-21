@@ -1,0 +1,39 @@
+[
+  {
+    "_id": "horn_attack",
+    "name": "Horn Attack",
+    "koName": "뿔찌르기",
+    "type": "normal",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 65,
+    "accuracy": 100,
+    "powerPoint": 25,
+    "effect": "날카롭고 뾰족한 뿔로 상대를 공격한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 1,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "nidoran_m",
+      "nidorino",
+      "nidoking",
+      "rhyhorn",
+      "rhydon",
+      "goldeen",
+      "seaking",
+      "tauros",
+      "heracross",
+      "donphan",
+      "rhyperior",
+      "bouffalant",
+      "tapu_bulu",
+      "great_tusk",
+      "iron_treads",
+      "iron_boulder"
+    ]
+  }
+]

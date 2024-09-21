@@ -1,0 +1,169 @@
+[
+  {
+    "_id": "celesteela",
+    "gender": "",
+    "pokedexNumber": "797",
+    "name": "celesteela",
+    "koName": "철화구야",
+    "speciesName": "celesteela",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "285",
+    "friendship": "0",
+    "types": [
+      "steel",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "beast_boost"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "heatproof",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 570,
+    "hp": 97,
+    "attack": 101,
+    "defense": 103,
+    "specialAttack": 107,
+    "specialDefense": 101,
+    "speed": 61,
+    "height": 9.2,
+    "weight": 999.9,
+    "eggMoveIds": [
+      "recover",
+      "buzzy_buzz",
+      "sandsear_storm",
+      "oblivion_wing"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 5,
+        "moveId": "harden"
+      },
+      {
+        "level": 10,
+        "moveId": "wide_guard"
+      },
+      {
+        "level": 15,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 20,
+        "moveId": "smack_down"
+      },
+      {
+        "level": 25,
+        "moveId": "ingrain"
+      },
+      {
+        "level": 30,
+        "moveId": "autotomize"
+      },
+      {
+        "level": 35,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 40,
+        "moveId": "flash_cannon"
+      },
+      {
+        "level": 45,
+        "moveId": "metal_sound"
+      },
+      {
+        "level": 50,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 55,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 60,
+        "moveId": "heavy_slam"
+      },
+      {
+        "level": 65,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 70,
+        "moveId": "skull_bash"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fly",
+      "body_slam",
+      "flamethrower",
+      "hyper_beam",
+      "solar_beam",
+      "earthquake",
+      "toxic",
+      "double_team",
+      "self_destruct",
+      "fire_blast",
+      "explosion",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "megahorn",
+      "hidden_power",
+      "facade",
+      "superpower",
+      "metal_sound",
+      "iron_defense",
+      "gravity",
+      "gyro_ball",
+      "seed_bomb",
+      "air_slash",
+      "energy_ball",
+      "giga_impact",
+      "zen_headbutt",
+      "flash_cannon",
+      "iron_head",
+      "stone_edge",
+      "grass_knot",
+      "smack_down",
+      "heavy_slam",
+      "flame_charge",
+      "round",
+      "acrobatics",
+      "bulldoze",
+      "confide",
+      "smart_strike",
+      "brutal_swing",
+      "stomping_tantrum",
+      "steel_beam",
+      "steel_roller",
+      "meteor_beam",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "space"
+    ]
+  }
+]

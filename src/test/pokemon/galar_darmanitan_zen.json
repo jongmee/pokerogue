@@ -1,0 +1,111 @@
+[
+  {
+    "_id": "galar_darmanitan_zen",
+    "gender": "",
+    "pokedexNumber": "4555",
+    "name": "galar_darmanitan_zen",
+    "koName": "불비달마_zen",
+    "speciesName": "galar_darmanitan",
+    "canChangeForm": true,
+    "formName": "zen_mode",
+    "baseExp": "189",
+    "friendship": "50",
+    "types": [
+      "ice",
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "gorilla_tactics"
+    ],
+    "hiddenAbilityId": "zen_mode",
+    "passiveAbilityId": "flash_fire",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 540,
+    "hp": 105,
+    "attack": 160,
+    "defense": 55,
+    "specialAttack": 30,
+    "specialDefense": 55,
+    "speed": 135,
+    "height": 1.7,
+    "weight": 120,
+    "eggMoveIds": [
+      "ice_spinner",
+      "endure",
+      "drain_punch",
+      "v_create"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "icicle_crash"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "bite"
+      },
+      {
+        "level": 1,
+        "moveId": "powder_snow"
+      },
+      {
+        "level": 1,
+        "moveId": "taunt"
+      },
+      {
+        "level": 12,
+        "moveId": "avalanche"
+      },
+      {
+        "level": 16,
+        "moveId": "work_up"
+      },
+      {
+        "level": 20,
+        "moveId": "ice_fang"
+      },
+      {
+        "level": 24,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 28,
+        "moveId": "ice_punch"
+      },
+      {
+        "level": 32,
+        "moveId": "uproar"
+      },
+      {
+        "level": 38,
+        "moveId": "belly_drum"
+      },
+      {
+        "level": 44,
+        "moveId": "blizzard"
+      },
+      {
+        "level": 50,
+        "moveId": "thrash"
+      },
+      {
+        "level": 56,
+        "moveId": "superpower"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "snowy_forest"
+    ]
+  }
+]

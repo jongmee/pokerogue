@@ -1,0 +1,192 @@
+[
+  {
+    "_id": "lunatone",
+    "gender": "",
+    "pokedexNumber": "337",
+    "name": "lunatone",
+    "koName": "루나톤",
+    "speciesName": "lunatone",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "161",
+    "friendship": "50",
+    "types": [
+      "rock",
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "levitate"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "shadow_shield",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 460,
+    "hp": 90,
+    "attack": 55,
+    "defense": 65,
+    "specialAttack": 95,
+    "specialDefense": 85,
+    "speed": 70,
+    "height": 1,
+    "weight": 168,
+    "eggMoveIds": [
+      "power_gem",
+      "night_daze",
+      "shell_smash",
+      "lumina_crash"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "moonblast"
+      },
+      {
+        "level": 1,
+        "moveId": "moonlight"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "harden"
+      },
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 1,
+        "moveId": "rock_throw"
+      },
+      {
+        "level": 5,
+        "moveId": "hypnosis"
+      },
+      {
+        "level": 10,
+        "moveId": "rock_polish"
+      },
+      {
+        "level": 15,
+        "moveId": "rock_slide"
+      },
+      {
+        "level": 20,
+        "moveId": "psyshock"
+      },
+      {
+        "level": 25,
+        "moveId": "cosmic_power"
+      },
+      {
+        "level": 30,
+        "moveId": "psychic"
+      },
+      {
+        "level": 35,
+        "moveId": "stone_edge"
+      },
+      {
+        "level": 40,
+        "moveId": "future_sight"
+      },
+      {
+        "level": 45,
+        "moveId": "magic_room"
+      },
+      {
+        "level": 50,
+        "moveId": "explosion"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "earthquake",
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "self_destruct",
+      "swift",
+      "dream_eater",
+      "flash",
+      "explosion",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "icy_wind",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "pain_split",
+      "baton_pass",
+      "hidden_power",
+      "rain_dance",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "hail",
+      "facade",
+      "helping_hand",
+      "recycle",
+      "skill_swap",
+      "weather_ball",
+      "rock_tomb",
+      "cosmic_power",
+      "signal_beam",
+      "sand_tomb",
+      "calm_mind",
+      "rock_blast",
+      "gravity",
+      "gyro_ball",
+      "embargo",
+      "power_swap",
+      "rock_polish",
+      "power_gem",
+      "earth_power",
+      "giga_impact",
+      "nasty_plot",
+      "zen_headbutt",
+      "trick_room",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "grass_knot",
+      "charge_beam",
+      "psyshock",
+      "magic_room",
+      "smack_down",
+      "round",
+      "stored_power",
+      "ally_switch",
+      "acrobatics",
+      "bulldoze",
+      "confide",
+      "psychic_terrain",
+      "stomping_tantrum",
+      "meteor_beam",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "space"
+    ]
+  }
+]

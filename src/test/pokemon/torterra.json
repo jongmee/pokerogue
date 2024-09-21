@@ -1,0 +1,197 @@
+[
+  {
+    "_id": "torterra",
+    "gender": "",
+    "pokedexNumber": "389",
+    "name": "torterra",
+    "koName": "토대부기",
+    "speciesName": "torterra",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "236",
+    "friendship": "70",
+    "types": [
+      "grass",
+      "ground"
+    ],
+    "normalAbilityIds": [
+      "overgrow"
+    ],
+    "hiddenAbilityId": "shell_armor",
+    "passiveAbilityId": "thick_fat",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 525,
+    "hp": 95,
+    "attack": 109,
+    "defense": 105,
+    "specialAttack": 75,
+    "specialDefense": 85,
+    "speed": 56,
+    "height": 2.2,
+    "weight": 310,
+    "eggMoveIds": [
+      "shell_smash",
+      "mighty_cleave",
+      "ice_spinner",
+      "sappy_seed"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "earthquake"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 1,
+        "moveId": "leafage"
+      },
+      {
+        "level": 1,
+        "moveId": "razor_leaf"
+      },
+      {
+        "level": 1,
+        "moveId": "withdraw"
+      },
+      {
+        "level": 1,
+        "moveId": "wood_hammer"
+      },
+      {
+        "level": 17,
+        "moveId": "curse"
+      },
+      {
+        "level": 22,
+        "moveId": "bite"
+      },
+      {
+        "level": 27,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 33,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 39,
+        "moveId": "synthesis"
+      },
+      {
+        "level": 45,
+        "moveId": "crunch"
+      },
+      {
+        "level": 51,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 57,
+        "moveId": "leaf_storm"
+      },
+      {
+        "level": 63,
+        "moveId": "headlong_rush"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "hyper_beam",
+      "strength",
+      "solar_beam",
+      "earthquake",
+      "toxic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "amnesia",
+      "flash",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "outrage",
+      "sandstorm",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "iron_tail",
+      "synthesis",
+      "hidden_power",
+      "sunny_day",
+      "crunch",
+      "rock_smash",
+      "facade",
+      "nature_power",
+      "superpower",
+      "hyper_voice",
+      "rock_tomb",
+      "sand_tomb",
+      "bullet_seed",
+      "iron_defense",
+      "frenzy_plant",
+      "mud_shot",
+      "magical_leaf",
+      "rock_blast",
+      "worry_seed",
+      "rock_polish",
+      "seed_bomb",
+      "energy_ball",
+      "earth_power",
+      "giga_impact",
+      "zen_headbutt",
+      "rock_climb",
+      "leaf_storm",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "grass_knot",
+      "smack_down",
+      "heavy_slam",
+      "round",
+      "grass_pledge",
+      "bulldoze",
+      "work_up",
+      "grassy_terrain",
+      "confide",
+      "high_horsepower",
+      "stomping_tantrum",
+      "body_press",
+      "grassy_glide",
+      "scorching_sands",
+      "tera_blast",
+      "trailblaze",
+      "hard_press"
+    ],
+    "biomeIds": [
+      "grass"
+    ]
+  }
+]

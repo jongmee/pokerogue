@@ -1,0 +1,169 @@
+[
+  {
+    "_id": "voltorb",
+    "gender": "",
+    "pokedexNumber": "100",
+    "name": "voltorb",
+    "koName": "찌리리공",
+    "speciesName": "voltorb",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "66",
+    "friendship": "70",
+    "types": [
+      "electric"
+    ],
+    "normalAbilityIds": [
+      "soundproof",
+      "static"
+    ],
+    "hiddenAbilityId": "aftermath",
+    "passiveAbilityId": "transistor",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 330,
+    "hp": 40,
+    "attack": 30,
+    "defense": 50,
+    "specialAttack": 55,
+    "specialDefense": 55,
+    "speed": 100,
+    "height": 0.5,
+    "weight": 10.4,
+    "eggMoveIds": [
+      "nasty_plot",
+      "overheat",
+      "frost_breath",
+      "electro_drift"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "charge"
+      },
+      {
+        "level": 4,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 6,
+        "moveId": "eerie_impulse"
+      },
+      {
+        "level": 9,
+        "moveId": "spark"
+      },
+      {
+        "level": 11,
+        "moveId": "rollout"
+      },
+      {
+        "level": 13,
+        "moveId": "screech"
+      },
+      {
+        "level": 16,
+        "moveId": "charge_beam"
+      },
+      {
+        "level": 20,
+        "moveId": "swift"
+      },
+      {
+        "level": 22,
+        "moveId": "electro_ball"
+      },
+      {
+        "level": 26,
+        "moveId": "self_destruct"
+      },
+      {
+        "level": 29,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 34,
+        "moveId": "magnet_rise"
+      },
+      {
+        "level": 37,
+        "moveId": "discharge"
+      },
+      {
+        "level": 41,
+        "moveId": "explosion"
+      },
+      {
+        "level": 46,
+        "moveId": "gyro_ball"
+      },
+      {
+        "level": 50,
+        "moveId": "mirror_coat"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "double_edge",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "agility",
+      "screech",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "self_destruct",
+      "swift",
+      "flash",
+      "explosion",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "torment",
+      "facade",
+      "charge",
+      "taunt",
+      "helping_hand",
+      "recycle",
+      "metal_sound",
+      "signal_beam",
+      "gyro_ball",
+      "charge_beam",
+      "electro_ball",
+      "foul_play",
+      "round",
+      "volt_switch",
+      "wild_charge",
+      "confide",
+      "eerie_impulse",
+      "electric_terrain",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "power_plant",
+      "factory",
+      "laboratory"
+    ]
+  }
+]

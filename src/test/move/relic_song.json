@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "relic_song",
+    "name": "Relic Song",
+    "koName": "옛노래",
+    "type": "normal",
+    "moveCategory": "special",
+    "moveTarget": "all_near_enemies",
+    "power": 75,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "옛 노래를 상대에게 들려주고 마음에 호소하여 공격한다. 잠듦 상태로 만들 때가 있다.",
+    "effectChance": 10,
+    "prioirty": 0,
+    "generation": 5,
+    "realased": "",
+    "flags": [
+      "sound_based"
+    ],
+    "pokemonIds": [
+      "togepi",
+      "togetic",
+      "togekiss"
+    ]
+  }
+]

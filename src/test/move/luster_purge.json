@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "luster_purge",
+    "name": "Luster Purge",
+    "koName": "러스터퍼지",
+    "type": "psychic",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 95,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "눈부신 빛을 발산하여 공격한다. 상대의 특수방어를 떨어뜨릴 때가 있다.",
+    "effectChance": 50,
+    "prioirty": 0,
+    "generation": 3,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "qwilfish",
+      "latios",
+      "victini",
+      "elgyem",
+      "beheeyem",
+      "mareanie",
+      "toxapex",
+      "alola_grimer",
+      "alola_muk"
+    ]
+  }
+]

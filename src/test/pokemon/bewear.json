@@ -1,0 +1,173 @@
+[
+  {
+    "_id": "bewear",
+    "gender": "",
+    "pokedexNumber": "760",
+    "name": "bewear",
+    "koName": "이븐곰",
+    "speciesName": "bewear",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "175",
+    "friendship": "50",
+    "types": [
+      "normal",
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "fluffy",
+      "klutz"
+    ],
+    "hiddenAbilityId": "unnerve",
+    "passiveAbilityId": "scrappy",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 500,
+    "hp": 120,
+    "attack": 125,
+    "defense": 80,
+    "specialAttack": 55,
+    "specialDefense": 60,
+    "speed": 60,
+    "height": 2.1,
+    "weight": 135,
+    "eggMoveIds": [
+      "drain_punch",
+      "meteor_mash",
+      "triple_axel",
+      "rage_fist"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "bind"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "payback"
+      },
+      {
+        "level": 1,
+        "moveId": "baby_doll_eyes"
+      },
+      {
+        "level": 12,
+        "moveId": "brutal_swing"
+      },
+      {
+        "level": 16,
+        "moveId": "endure"
+      },
+      {
+        "level": 20,
+        "moveId": "strength"
+      },
+      {
+        "level": 24,
+        "moveId": "take_down"
+      },
+      {
+        "level": 30,
+        "moveId": "flail"
+      },
+      {
+        "level": 36,
+        "moveId": "hammer_arm"
+      },
+      {
+        "level": 42,
+        "moveId": "thrash"
+      },
+      {
+        "level": 48,
+        "moveId": "pain_split"
+      },
+      {
+        "level": 54,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 60,
+        "moveId": "superpower"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "ice_punch",
+      "thunder_punch",
+      "swords_dance",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "roar",
+      "hyper_beam",
+      "low_kick",
+      "strength",
+      "earthquake",
+      "toxic",
+      "double_team",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "reversal",
+      "protect",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "hidden_power",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "superpower",
+      "revenge",
+      "brick_break",
+      "rock_tomb",
+      "aerial_ace",
+      "dragon_claw",
+      "bulk_up",
+      "close_combat",
+      "payback",
+      "fling",
+      "drain_punch",
+      "focus_blast",
+      "giga_impact",
+      "shadow_claw",
+      "zen_headbutt",
+      "iron_head",
+      "low_sweep",
+      "round",
+      "bulldoze",
+      "work_up",
+      "confide",
+      "darkest_lariat",
+      "high_horsepower",
+      "brutal_swing",
+      "stomping_tantrum",
+      "body_press",
+      "coaching",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "dojo"
+    ]
+  }
+]

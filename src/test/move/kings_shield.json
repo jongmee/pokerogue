@@ -1,0 +1,41 @@
+[
+  {
+    "_id": "kings_shield",
+    "name": "King's Shield",
+    "koName": "킹실드",
+    "type": "steel",
+    "moveCategory": "status",
+    "moveTarget": "user",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 10,
+    "effect": "상대의 공격을 막음과 동시에 방어 태세를 갖춘다. 접촉한 상대의 공격을 떨어뜨린다.",
+    "effectChance": -1,
+    "prioirty": 4,
+    "generation": 6,
+    "realased": "",
+    "flags": [
+      "ignore_protect"
+    ],
+    "pokemonIds": [
+      "nidoran_m",
+      "nidorino",
+      "nidoking",
+      "piplup",
+      "prinplup",
+      "empoleon",
+      "shieldon",
+      "bastiodon",
+      "combee",
+      "vespiquen",
+      "aegislash",
+      "rookidee",
+      "corvisquire",
+      "corviknight",
+      "corviknight_gigantamax",
+      "sirfetchd",
+      "pecharunt",
+      "galar_farfetchd"
+    ]
+  }
+]

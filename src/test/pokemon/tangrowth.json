@@ -1,0 +1,193 @@
+[
+  {
+    "_id": "tangrowth",
+    "gender": "",
+    "pokedexNumber": "465",
+    "name": "tangrowth",
+    "koName": "덩쿠림보",
+    "speciesName": "tangrowth",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "187",
+    "friendship": "50",
+    "types": [
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "chlorophyll",
+      "leaf_guard"
+    ],
+    "hiddenAbilityId": "regenerator",
+    "passiveAbilityId": "seed_sower",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 535,
+    "hp": 100,
+    "attack": 100,
+    "defense": 125,
+    "specialAttack": 110,
+    "specialDefense": 50,
+    "speed": 50,
+    "height": 2,
+    "weight": 128.6,
+    "eggMoveIds": [
+      "strength_sap",
+      "snap_trap",
+      "parting_shot",
+      "sappy_seed"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "bind"
+      },
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 1,
+        "moveId": "growth"
+      },
+      {
+        "level": 1,
+        "moveId": "stun_spore"
+      },
+      {
+        "level": 1,
+        "moveId": "block"
+      },
+      {
+        "level": 1,
+        "moveId": "constrict"
+      },
+      {
+        "level": 12,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 16,
+        "moveId": "vine_whip"
+      },
+      {
+        "level": 20,
+        "moveId": "poison_powder"
+      },
+      {
+        "level": 24,
+        "moveId": "double_hit"
+      },
+      {
+        "level": 28,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 32,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 34,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 36,
+        "moveId": "sleep_powder"
+      },
+      {
+        "level": 40,
+        "moveId": "slam"
+      },
+      {
+        "level": 44,
+        "moveId": "tickle"
+      },
+      {
+        "level": 48,
+        "moveId": "power_whip"
+      },
+      {
+        "level": 52,
+        "moveId": "ingrain"
+      },
+      {
+        "level": 56,
+        "moveId": "grassy_terrain"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "body_slam",
+      "double_edge",
+      "hyper_beam",
+      "strength",
+      "solar_beam",
+      "earthquake",
+      "toxic",
+      "double_team",
+      "reflect",
+      "amnesia",
+      "flash",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "sludge_bomb",
+      "mud_slap",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "synthesis",
+      "hidden_power",
+      "sunny_day",
+      "psych_up",
+      "rock_smash",
+      "facade",
+      "nature_power",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "rock_tomb",
+      "bullet_seed",
+      "aerial_ace",
+      "payback",
+      "fling",
+      "power_swap",
+      "worry_seed",
+      "poison_jab",
+      "seed_bomb",
+      "focus_blast",
+      "energy_ball",
+      "giga_impact",
+      "leaf_storm",
+      "power_whip",
+      "grass_knot",
+      "round",
+      "bulldoze",
+      "grassy_terrain",
+      "confide",
+      "infestation",
+      "solar_blade",
+      "brutal_swing",
+      "stomping_tantrum",
+      "grassy_glide",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "jungle"
+    ]
+  }
+]

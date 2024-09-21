@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "eerie_spell",
+    "name": "Eerie Spell",
+    "koName": "섬뜩한주문",
+    "type": "psychic",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 80,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "강력한 사이코 파워로 공격한다. 상대가 마지막으로 사용한 기술의 PP를 3만큼 줄인다.",
+    "effectChance": 100,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [
+      "sound_based"
+    ],
+    "pokemonIds": [
+      "chimecho",
+      "chingling",
+      "galar_slowking"
+    ]
+  }
+]

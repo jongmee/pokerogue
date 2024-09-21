@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "strange_steam",
+    "name": "Strange Steam",
+    "koName": "원더스팀",
+    "type": "fairy",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 90,
+    "accuracy": 95,
+    "powerPoint": 10,
+    "effect": "연기를 분출해서 상대를 공격한다. 혼란시킬 때가 있다.",
+    "effectChance": 20,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "galar_weezing"
+    ]
+  }
+]

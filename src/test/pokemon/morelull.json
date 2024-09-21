@@ -1,0 +1,146 @@
+[
+  {
+    "_id": "morelull",
+    "gender": "",
+    "pokedexNumber": "755",
+    "name": "morelull",
+    "koName": "자마슈",
+    "speciesName": "morelull",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "57",
+    "friendship": "50",
+    "types": [
+      "grass",
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "illuminate",
+      "effect_spore"
+    ],
+    "hiddenAbilityId": "rain_dish",
+    "passiveAbilityId": "triage",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 285,
+    "hp": 40,
+    "attack": 35,
+    "defense": 55,
+    "specialAttack": 65,
+    "specialDefense": 75,
+    "speed": 15,
+    "height": 0.2,
+    "weight": 1.5,
+    "eggMoveIds": [
+      "calm_mind",
+      "sappy_seed",
+      "draining_kiss",
+      "matcha_gotcha"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 4,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 8,
+        "moveId": "ingrain"
+      },
+      {
+        "level": 12,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 16,
+        "moveId": "sleep_powder"
+      },
+      {
+        "level": 20,
+        "moveId": "moonlight"
+      },
+      {
+        "level": 25,
+        "moveId": "strength_sap"
+      },
+      {
+        "level": 28,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 32,
+        "moveId": "dazzling_gleam"
+      },
+      {
+        "level": 36,
+        "moveId": "spore"
+      },
+      {
+        "level": 40,
+        "moveId": "moonblast"
+      },
+      {
+        "level": 44,
+        "moveId": "dream_eater"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "solar_beam",
+      "thunder_wave",
+      "toxic",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "amnesia",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "sludge_bomb",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "synthesis",
+      "hidden_power",
+      "sunny_day",
+      "facade",
+      "nature_power",
+      "recycle",
+      "signal_beam",
+      "worry_seed",
+      "seed_bomb",
+      "energy_ball",
+      "grass_knot",
+      "wonder_room",
+      "magic_room",
+      "round",
+      "draining_kiss",
+      "confide",
+      "dazzling_gleam",
+      "pollen_puff",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "fairy_cave"
+    ]
+  }
+]

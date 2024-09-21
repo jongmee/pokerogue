@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "zero_to_hero",
+    "name": "Zero to Hero",
+    "koName": "마이티체인지",
+    "realased": "",
+    "description": "지닌 포켓몬으로 돌아오면 마이티폼으로 변한다.",
+    "generation": 9,
+    "pokemonIds": [
+      "palafin_zero",
+      "palafin_hero"
+    ],
+    "isBypassFaint": true,
+    "isIgnorable": false
+  }
+]

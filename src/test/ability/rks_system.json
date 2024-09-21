@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "rks_system",
+    "name": "RKS System",
+    "koName": "AR시스템",
+    "realased": "",
+    "description": "지니고 있는 메모리로 자신의 타입이 변한다.",
+    "generation": 7,
+    "pokemonIds": [
+      "silvally"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "cosmog",
+    "gender": "",
+    "pokedexNumber": "789",
+    "name": "cosmog",
+    "koName": "코스모그",
+    "speciesName": "cosmog",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "40",
+    "friendship": "0",
+    "types": [
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "unaware"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "beast_boost",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 200,
+    "hp": 43,
+    "attack": 29,
+    "defense": 31,
+    "specialAttack": 29,
+    "specialDefense": 31,
+    "speed": 37,
+    "height": 0.2,
+    "weight": 0.1,
+    "eggMoveIds": [
+      "photon_geyser",
+      "precipice_blades",
+      "sacred_fire",
+      "astral_barrage"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "teleport"
+      },
+      {
+        "level": 1,
+        "moveId": "splash"
+      },
+      {
+        "level": 1,
+        "moveId": "stored_power"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "space"
+    ]
+  }
+]

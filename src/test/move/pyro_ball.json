@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "pyro_ball",
+    "name": "Pyro Ball",
+    "koName": "화염볼",
+    "type": "fire",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 120,
+    "accuracy": 90,
+    "powerPoint": 5,
+    "effect": "작은 돌을 태운 불꽃의 공으로 상대를 공격한다. 화상 상태로 만들 때가 있다.",
+    "effectChance": 10,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [
+      "ballbomb_move"
+    ],
+    "pokemonIds": [
+      "darumaka",
+      "darmanitan",
+      "darmanitan_zen",
+      "passimian",
+      "zeraora",
+      "cinderace",
+      "tinkatink",
+      "tinkatuff",
+      "tinkaton"
+    ]
+  }
+]

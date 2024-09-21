@@ -1,0 +1,208 @@
+[
+  {
+    "_id": "claydol",
+    "gender": "",
+    "pokedexNumber": "344",
+    "name": "claydol",
+    "koName": "점토도리",
+    "speciesName": "claydol",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "175",
+    "friendship": "50",
+    "types": [
+      "ground",
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "levitate"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "well_baked_body",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 500,
+    "hp": 60,
+    "attack": 70,
+    "defense": 105,
+    "specialAttack": 70,
+    "specialDefense": 120,
+    "speed": 75,
+    "height": 1.5,
+    "weight": 108,
+    "eggMoveIds": [
+      "recover",
+      "stored_power",
+      "body_press",
+      "mystical_power"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "hyper_beam"
+      },
+      {
+        "level": 1,
+        "moveId": "teleport"
+      },
+      {
+        "level": 1,
+        "moveId": "harden"
+      },
+      {
+        "level": 1,
+        "moveId": "mud_slap"
+      },
+      {
+        "level": 1,
+        "moveId": "rapid_spin"
+      },
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 9,
+        "moveId": "rock_tomb"
+      },
+      {
+        "level": 12,
+        "moveId": "power_trick"
+      },
+      {
+        "level": 15,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 18,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 21,
+        "moveId": "imprison"
+      },
+      {
+        "level": 24,
+        "moveId": "cosmic_power"
+      },
+      {
+        "level": 27,
+        "moveId": "extrasensory"
+      },
+      {
+        "level": 30,
+        "moveId": "earth_power"
+      },
+      {
+        "level": 33,
+        "moveId": "self_destruct"
+      },
+      {
+        "level": 38,
+        "moveId": "guard_split"
+      },
+      {
+        "level": 38,
+        "moveId": "power_split"
+      },
+      {
+        "level": 43,
+        "moveId": "sandstorm"
+      },
+      {
+        "level": 48,
+        "moveId": "explosion"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "ice_beam",
+      "psybeam",
+      "hyper_beam",
+      "strength",
+      "solar_beam",
+      "earthquake",
+      "dig",
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "self_destruct",
+      "dream_eater",
+      "flash",
+      "explosion",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "mud_slap",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "rock_smash",
+      "facade",
+      "trick",
+      "recycle",
+      "skill_swap",
+      "imprison",
+      "rock_tomb",
+      "cosmic_power",
+      "signal_beam",
+      "sand_tomb",
+      "iron_defense",
+      "calm_mind",
+      "gravity",
+      "gyro_ball",
+      "power_swap",
+      "guard_swap",
+      "rock_polish",
+      "earth_power",
+      "giga_impact",
+      "nasty_plot",
+      "zen_headbutt",
+      "trick_room",
+      "stone_edge",
+      "stealth_rock",
+      "grass_knot",
+      "charge_beam",
+      "wonder_room",
+      "psyshock",
+      "smack_down",
+      "round",
+      "stored_power",
+      "ally_switch",
+      "hex",
+      "bulldoze",
+      "drill_run",
+      "confide",
+      "eerie_impulse",
+      "dazzling_gleam",
+      "psychic_terrain",
+      "body_press",
+      "expanding_force",
+      "scorching_sands",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "ruins",
+      "space",
+      "temple"
+    ]
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "_id": "scizor",
+    "gender": "",
+    "pokedexNumber": "212",
+    "name": "scizor",
+    "koName": "핫삼",
+    "speciesName": "scizor",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "175",
+    "friendship": "50",
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "normalAbilityIds": [
+      "swarm",
+      "technician"
+    ],
+    "hiddenAbilityId": "light_metal",
+    "passiveAbilityId": "tinted_lens",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 500,
+    "hp": 70,
+    "attack": 130,
+    "defense": 100,
+    "specialAttack": 55,
+    "specialDefense": 80,
+    "speed": 65,
+    "height": 1.8,
+    "weight": 118,
+    "eggMoveIds": [
+      "mighty_cleave",
+      "bug_bite",
+      "storm_throw",
+      "double_iron_bash"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "bullet_punch"
+      },
+      {
+        "level": 1,
+        "moveId": "wing_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "agility"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "false_swipe"
+      },
+      {
+        "level": 1,
+        "moveId": "fury_cutter"
+      },
+      {
+        "level": 1,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 12,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 16,
+        "moveId": "double_team"
+      },
+      {
+        "level": 20,
+        "moveId": "double_hit"
+      },
+      {
+        "level": 24,
+        "moveId": "slash"
+      },
+      {
+        "level": 28,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 32,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 36,
+        "moveId": "iron_head"
+      },
+      {
+        "level": 40,
+        "moveId": "x_scissor"
+      },
+      {
+        "level": 44,
+        "moveId": "swords_dance"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "strength",
+      "toxic",
+      "agility",
+      "double_team",
+      "light_screen",
+      "focus_energy",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "reversal",
+      "protect",
+      "scary_face",
+      "sandstorm",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "baton_pass",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "rock_smash",
+      "facade",
+      "helping_hand",
+      "superpower",
+      "brick_break",
+      "knock_off",
+      "air_cutter",
+      "sand_tomb",
+      "aerial_ace",
+      "iron_defense",
+      "roost",
+      "tailwind",
+      "u_turn",
+      "close_combat",
+      "assurance",
+      "fling",
+      "air_slash",
+      "x_scissor",
+      "bug_buzz",
+      "vacuum_wave",
+      "giga_impact",
+      "psycho_cut",
+      "flash_cannon",
+      "defog",
+      "cross_poison",
+      "iron_head",
+      "bug_bite",
+      "venoshock",
+      "round",
+      "acrobatics",
+      "struggle_bug",
+      "confide",
+      "lunge",
+      "brutal_swing",
+      "steel_beam",
+      "skitter_smack",
+      "dual_wingbeat",
+      "tera_blast",
+      "pounce",
+      "trailblaze",
+      "hard_press"
+    ],
+    "biomeIds": [
+      "jungle"
+    ]
+  }
+]

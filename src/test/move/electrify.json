@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "electrify",
+    "name": "Electrify",
+    "koName": "송전",
+    "type": "electric",
+    "moveCategory": "status",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 20,
+    "effect": "상대가 기술을 쓰기 전에 송전하면 그 턴에 상대가 사용하는 기술은 전기타입이 된다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 6,
+    "realased": " (N)",
+    "flags": [],
+    "pokemonIds": [
+      "helioptile",
+      "heliolisk",
+      "boltund"
+    ]
+  }
+]

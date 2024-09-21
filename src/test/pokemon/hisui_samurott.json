@@ -1,0 +1,192 @@
+[
+  {
+    "_id": "hisui_samurott",
+    "gender": "",
+    "pokedexNumber": "6503",
+    "name": "hisui_samurott",
+    "koName": "대검귀",
+    "speciesName": "hisui_samurott",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "238",
+    "friendship": "80",
+    "types": [
+      "water",
+      "dark"
+    ],
+    "normalAbilityIds": [
+      "torrent"
+    ],
+    "hiddenAbilityId": "sharpness",
+    "passiveAbilityId": "intrepid_sword",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 528,
+    "hp": 90,
+    "attack": 108,
+    "defense": 80,
+    "specialAttack": 100,
+    "specialDefense": 65,
+    "speed": 85,
+    "height": 1.5,
+    "weight": 58.2,
+    "eggMoveIds": [
+      "triple_axel",
+      "shell_side_arm",
+      "sacred_sword",
+      "shell_smash"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "ceaseless_edge"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "slash"
+      },
+      {
+        "level": 1,
+        "moveId": "megahorn"
+      },
+      {
+        "level": 1,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 13,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 18,
+        "moveId": "razor_shell"
+      },
+      {
+        "level": 21,
+        "moveId": "fury_cutter"
+      },
+      {
+        "level": 25,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 29,
+        "moveId": "aerial_ace"
+      },
+      {
+        "level": 34,
+        "moveId": "aqua_jet"
+      },
+      {
+        "level": 39,
+        "moveId": "encore"
+      },
+      {
+        "level": 46,
+        "moveId": "aqua_tail"
+      },
+      {
+        "level": 51,
+        "moveId": "retaliate"
+      },
+      {
+        "level": 58,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 63,
+        "moveId": "hydro_pump"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "body_slam",
+      "take_down",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "strength",
+      "dig",
+      "double_team",
+      "focus_energy",
+      "waterfall",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "protect",
+      "scary_face",
+      "icy_wind",
+      "endure",
+      "false_swipe",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "megahorn",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "rock_smash",
+      "whirlpool",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "revenge",
+      "brick_break",
+      "knock_off",
+      "hydro_cannon",
+      "aerial_ace",
+      "covet",
+      "water_pulse",
+      "fling",
+      "dark_pulse",
+      "aqua_tail",
+      "air_slash",
+      "x_scissor",
+      "vacuum_wave",
+      "giga_impact",
+      "avalanche",
+      "psycho_cut",
+      "grass_knot",
+      "retaliate",
+      "water_pledge",
+      "bulldoze",
+      "drill_run",
+      "sacred_sword",
+      "razor_shell",
+      "snarl",
+      "smart_strike",
+      "liquidation",
+      "lash_out",
+      "flip_turn",
+      "tera_blast",
+      "snowscape",
+      "chilling_water",
+      "upper_hand"
+    ],
+    "biomeIds": [
+      "abyss"
+    ]
+  }
+]

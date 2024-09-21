@@ -1,0 +1,13 @@
+[
+  {
+    "_id": "hospitality",
+    "name": "Hospitality",
+    "koName": "대접",
+    "realased": " (P)",
+    "description": "등장했을 때 같은 편을 대접해서 HP를 조금 회복시킨다.",
+    "generation": 9,
+    "pokemonIds": [],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

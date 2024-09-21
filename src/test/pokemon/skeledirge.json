@@ -1,0 +1,191 @@
+[
+  {
+    "_id": "skeledirge",
+    "gender": "",
+    "pokedexNumber": "911",
+    "name": "skeledirge",
+    "koName": "라우드본",
+    "speciesName": "skeledirge",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "265",
+    "friendship": "50",
+    "types": [
+      "fire",
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "blaze"
+    ],
+    "hiddenAbilityId": "unaware",
+    "passiveAbilityId": "punk_rock",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 530,
+    "hp": 104,
+    "attack": 75,
+    "defense": 100,
+    "specialAttack": 110,
+    "specialDefense": 75,
+    "speed": 66,
+    "height": 1.6,
+    "weight": 326.5,
+    "eggMoveIds": [
+      "alluring_voice",
+      "slack_off",
+      "overdrive",
+      "moongeist_beam"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "torch_song"
+      },
+      {
+        "level": -1,
+        "moveId": "sing"
+      },
+      {
+        "level": -1,
+        "moveId": "yawn"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 7,
+        "moveId": "lick"
+      },
+      {
+        "level": 10,
+        "moveId": "round"
+      },
+      {
+        "level": 12,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 15,
+        "moveId": "bite"
+      },
+      {
+        "level": 17,
+        "moveId": "incinerate"
+      },
+      {
+        "level": 24,
+        "moveId": "snarl"
+      },
+      {
+        "level": 28,
+        "moveId": "roar"
+      },
+      {
+        "level": 32,
+        "moveId": "flamethrower"
+      },
+      {
+        "level": 38,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 42,
+        "moveId": "hyper_voice"
+      },
+      {
+        "level": 47,
+        "moveId": "will_o_wisp"
+      },
+      {
+        "level": 47,
+        "moveId": "hex"
+      },
+      {
+        "level": 58,
+        "moveId": "fire_blast"
+      },
+      {
+        "level": 64,
+        "moveId": "overheat"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "roar",
+      "flamethrower",
+      "hyper_beam",
+      "solar_beam",
+      "fire_spin",
+      "earthquake",
+      "dig",
+      "night_shade",
+      "double_team",
+      "fire_blast",
+      "rest",
+      "substitute",
+      "curse",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "outrage",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "hidden_power",
+      "sunny_day",
+      "crunch",
+      "shadow_ball",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "helping_hand",
+      "imprison",
+      "hyper_voice",
+      "blast_burn",
+      "overheat",
+      "flare_blitz",
+      "seed_bomb",
+      "earth_power",
+      "giga_impact",
+      "shadow_claw",
+      "thunder_fang",
+      "fire_fang",
+      "zen_headbutt",
+      "flame_charge",
+      "round",
+      "hex",
+      "incinerate",
+      "fire_pledge",
+      "heat_crash",
+      "snarl",
+      "disarming_voice",
+      "stomping_tantrum",
+      "poltergeist",
+      "scorching_sands",
+      "tera_blast",
+      "alluring_voice",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "graveyard"
+    ]
+  }
+]

@@ -1,0 +1,181 @@
+[
+  {
+    "_id": "druddigon",
+    "gender": "",
+    "pokedexNumber": "621",
+    "name": "druddigon",
+    "koName": "크리만",
+    "speciesName": "druddigon",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "170",
+    "friendship": "50",
+    "types": [
+      "dragon"
+    ],
+    "normalAbilityIds": [
+      "rough_skin",
+      "sheer_force"
+    ],
+    "hiddenAbilityId": "mold_breaker",
+    "passiveAbilityId": "intimidate",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 485,
+    "hp": 77,
+    "attack": 120,
+    "defense": 90,
+    "specialAttack": 60,
+    "specialDefense": 90,
+    "speed": 48,
+    "height": 1.6,
+    "weight": 139,
+    "eggMoveIds": [
+      "fire_lash",
+      "roost",
+      "dragon_darts",
+      "clangorous_soul"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 5,
+        "moveId": "bite"
+      },
+      {
+        "level": 10,
+        "moveId": "dragon_tail"
+      },
+      {
+        "level": 15,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 20,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 25,
+        "moveId": "slash"
+      },
+      {
+        "level": 30,
+        "moveId": "dragon_claw"
+      },
+      {
+        "level": 35,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 40,
+        "moveId": "crunch"
+      },
+      {
+        "level": 45,
+        "moveId": "iron_head"
+      },
+      {
+        "level": 50,
+        "moveId": "outrage"
+      },
+      {
+        "level": 55,
+        "moveId": "superpower"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "thunder_punch",
+      "cut",
+      "body_slam",
+      "roar",
+      "flamethrower",
+      "surf",
+      "hyper_beam",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "double_team",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "outrage",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "rock_smash",
+      "heat_wave",
+      "torment",
+      "facade",
+      "taunt",
+      "superpower",
+      "revenge",
+      "rock_tomb",
+      "aerial_ace",
+      "dragon_claw",
+      "poison_tail",
+      "payback",
+      "fling",
+      "dark_pulse",
+      "aqua_tail",
+      "dragon_pulse",
+      "focus_blast",
+      "giga_impact",
+      "shadow_claw",
+      "thunder_fang",
+      "fire_fang",
+      "flash_cannon",
+      "rock_climb",
+      "draco_meteor",
+      "gunk_shot",
+      "iron_head",
+      "stealth_rock",
+      "charge_beam",
+      "hone_claws",
+      "smack_down",
+      "round",
+      "incinerate",
+      "retaliate",
+      "bulldoze",
+      "dragon_tail",
+      "snarl",
+      "confide",
+      "power_up_punch",
+      "stomping_tantrum",
+      "scale_shot",
+      "lash_out",
+      "dual_wingbeat",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "wasteland"
+    ]
+  }
+]

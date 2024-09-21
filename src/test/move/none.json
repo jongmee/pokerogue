@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "none",
+    "name": "",
+    "koName": "",
+    "type": "normal",
+    "moveCategory": "status",
+    "moveTarget": "user",
+    "power": -1,
+    "accuracy": 2,
+    "powerPoint": -1,
+    "effect": "",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 1,
+    "realased": "",
+    "flags": [
+      "ignore_protect"
+    ],
+    "pokemonIds": []
+  }
+]

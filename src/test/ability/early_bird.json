@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "early_bird",
+    "name": "Early Bird",
+    "koName": "일찍기상",
+    "realased": "",
+    "description": "잠듦 상태가 되어도 2배 스피드로 깨어날 수 있다.",
+    "generation": 3,
+    "pokemonIds": [
+      "doduo",
+      "dodrio",
+      "kangaskhan",
+      "ledyba",
+      "ledian",
+      "natu",
+      "xatu",
+      "sunkern",
+      "sunflora",
+      "girafarig",
+      "houndour",
+      "houndoom",
+      "seedot",
+      "nuzleaf",
+      "smoliv",
+      "dolliv"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

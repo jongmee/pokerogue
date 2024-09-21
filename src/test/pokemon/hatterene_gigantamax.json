@@ -1,0 +1,107 @@
+[
+  {
+    "_id": "hatterene_gigantamax",
+    "gender": "",
+    "pokedexNumber": "858",
+    "name": "hatterene_gigantamax",
+    "koName": "브리무음_gigantamax",
+    "speciesName": "hatterene",
+    "canChangeForm": true,
+    "formName": "g_max",
+    "baseExp": "255",
+    "friendship": "50",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "magic_bounce"
+    ],
+    "hiddenAbilityId": "magic_bounce",
+    "passiveAbilityId": "fairy_aura",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 610,
+    "hp": 97,
+    "attack": 90,
+    "defense": 105,
+    "specialAttack": 146,
+    "specialDefense": 122,
+    "speed": 50,
+    "height": 26,
+    "weight": 5.1,
+    "eggMoveIds": [
+      "recover",
+      "moonblast",
+      "buzzy_buzz",
+      "searing_shot"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "psycho_cut"
+      },
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 1,
+        "moveId": "disarming_voice"
+      },
+      {
+        "level": 1,
+        "moveId": "play_nice"
+      },
+      {
+        "level": 1,
+        "moveId": "brutal_swing"
+      },
+      {
+        "level": 1,
+        "moveId": "life_dew"
+      },
+      {
+        "level": 15,
+        "moveId": "aromatic_mist"
+      },
+      {
+        "level": 20,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 25,
+        "moveId": "heal_pulse"
+      },
+      {
+        "level": 30,
+        "moveId": "dazzling_gleam"
+      },
+      {
+        "level": 37,
+        "moveId": "calm_mind"
+      },
+      {
+        "level": 46,
+        "moveId": "psychic"
+      },
+      {
+        "level": 55,
+        "moveId": "healing_wish"
+      },
+      {
+        "level": 64,
+        "moveId": "magic_powder"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "fairy_cave"
+    ]
+  }
+]

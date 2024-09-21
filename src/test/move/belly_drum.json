@@ -1,0 +1,51 @@
+[
+  {
+    "_id": "belly_drum",
+    "name": "Belly Drum",
+    "koName": "배북",
+    "type": "normal",
+    "moveCategory": "status",
+    "moveTarget": "user",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 10,
+    "effect": "자신의 HP를 최대 HP의 절반만큼 감소시켜 자신의 공격을 최대로 올린다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 2,
+    "realased": "",
+    "flags": [
+      "ignore_protect"
+    ],
+    "pokemonIds": [
+      "poliwag",
+      "poliwhirl",
+      "poliwrath",
+      "lickitung",
+      "snorlax",
+      "politoed",
+      "zigzagoon",
+      "linoone",
+      "makuhita",
+      "hariyama",
+      "zangoose",
+      "munchlax",
+      "lickilicky",
+      "darumaka",
+      "darmanitan",
+      "swirlix",
+      "slurpuff",
+      "kommo_o",
+      "tapu_fini",
+      "hatenna",
+      "hattrem",
+      "hatterene",
+      "hatterene_gigantamax",
+      "enamorus_incarnate",
+      "enamorus_therian",
+      "iron_hands",
+      "galar_darumaka",
+      "galar_darmanitan"
+    ]
+  }
+]

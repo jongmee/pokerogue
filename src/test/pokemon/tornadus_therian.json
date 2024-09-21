@@ -1,0 +1,120 @@
+[
+  {
+    "_id": "tornadus_therian",
+    "gender": "",
+    "pokedexNumber": "641",
+    "name": "tornadus_therian",
+    "koName": "토네로스_therian",
+    "speciesName": "tornadus",
+    "canChangeForm": true,
+    "formName": "therian_forme",
+    "baseExp": "290",
+    "friendship": "90",
+    "types": [
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "regenerator"
+    ],
+    "hiddenAbilityId": "regenerator",
+    "passiveAbilityId": "drizzle",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 580,
+    "hp": 79,
+    "attack": 100,
+    "defense": 80,
+    "specialAttack": 110,
+    "specialDefense": 90,
+    "speed": 121,
+    "height": 1.4,
+    "weight": 63,
+    "eggMoveIds": [
+      "earth_power",
+      "parting_shot",
+      "ice_beam",
+      "oblivion_wing"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "gust"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 5,
+        "moveId": "leer"
+      },
+      {
+        "level": 10,
+        "moveId": "swagger"
+      },
+      {
+        "level": 15,
+        "moveId": "bite"
+      },
+      {
+        "level": 20,
+        "moveId": "air_cutter"
+      },
+      {
+        "level": 25,
+        "moveId": "agility"
+      },
+      {
+        "level": 30,
+        "moveId": "tailwind"
+      },
+      {
+        "level": 35,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 40,
+        "moveId": "crunch"
+      },
+      {
+        "level": 45,
+        "moveId": "extrasensory"
+      },
+      {
+        "level": 50,
+        "moveId": "uproar"
+      },
+      {
+        "level": 55,
+        "moveId": "hammer_arm"
+      },
+      {
+        "level": 60,
+        "moveId": "rain_dance"
+      },
+      {
+        "level": 65,
+        "moveId": "hurricane"
+      },
+      {
+        "level": 70,
+        "moveId": "thrash"
+      },
+      {
+        "level": 77,
+        "moveId": "bleakwind_storm"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "snowscape"
+    ],
+    "biomeIds": [
+      "mountain"
+    ]
+  }
+]

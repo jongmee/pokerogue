@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "pure_power",
+    "name": "Pure Power",
+    "koName": "순수한힘",
+    "realased": "",
+    "description": "요가의 힘으로 물리공격의 위력이 2배가 된다.",
+    "generation": 3,
+    "pokemonIds": [
+      "meditite",
+      "medicham",
+      "medicham_mega"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

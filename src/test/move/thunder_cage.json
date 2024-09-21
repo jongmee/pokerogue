@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "thunder_cage",
+    "name": "Thunder Cage",
+    "koName": "썬더프리즌",
+    "type": "electric",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 80,
+    "accuracy": 90,
+    "powerPoint": 15,
+    "effect": "전기가 흐르는 우리 안에 4-5턴 동안 상대를 가두어 공격한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "chinchou",
+      "lanturn",
+      "regieleki"
+    ]
+  }
+]

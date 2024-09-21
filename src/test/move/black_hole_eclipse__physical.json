@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "black_hole_eclipse__physical",
+    "name": "Black Hole Eclipse",
+    "koName": "블랙홀이클립스",
+    "type": "dark",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 1,
+    "effect": "Z파워로 어둠의 에너지를 모아 전력으로 상대를 끌어당긴다. 원래 기술에 따라 위력이 변한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": " (N)",
+    "flags": [
+      "makes_contact",
+      "ignore_virtual"
+    ],
+    "pokemonIds": []
+  }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "_id": "sealeo",
+    "gender": "",
+    "pokedexNumber": "364",
+    "name": "sealeo",
+    "koName": "씨레오",
+    "speciesName": "sealeo",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "144",
+    "friendship": "50",
+    "types": [
+      "ice",
+      "water"
+    ],
+    "normalAbilityIds": [
+      "thick_fat",
+      "ice_body"
+    ],
+    "hiddenAbilityId": "oblivious",
+    "passiveAbilityId": "unaware",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 410,
+    "hp": 90,
+    "attack": 60,
+    "defense": 70,
+    "specialAttack": 75,
+    "specialDefense": 70,
+    "speed": 45,
+    "height": 1.1,
+    "weight": 87.6,
+    "eggMoveIds": [
+      "flip_turn",
+      "freeze_dry",
+      "slack_off",
+      "steam_eruption"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "swagger"
+      },
+      {
+        "level": 1,
+        "moveId": "rollout"
+      },
+      {
+        "level": 1,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 12,
+        "moveId": "powder_snow"
+      },
+      {
+        "level": 16,
+        "moveId": "rest"
+      },
+      {
+        "level": 20,
+        "moveId": "snore"
+      },
+      {
+        "level": 24,
+        "moveId": "brine"
+      },
+      {
+        "level": 28,
+        "moveId": "aurora_beam"
+      },
+      {
+        "level": 35,
+        "moveId": "encore"
+      },
+      {
+        "level": 40,
+        "moveId": "body_slam"
+      },
+      {
+        "level": 46,
+        "moveId": "surf"
+      },
+      {
+        "level": 52,
+        "moveId": "blizzard"
+      },
+      {
+        "level": 58,
+        "moveId": "hail"
+      },
+      {
+        "level": 64,
+        "moveId": "sheer_cold"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "roar",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "strength",
+      "earthquake",
+      "toxic",
+      "double_team",
+      "waterfall",
+      "rest",
+      "rock_slide",
+      "super_fang",
+      "substitute",
+      "snore",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "rock_smash",
+      "whirlpool",
+      "hail",
+      "facade",
+      "dive",
+      "rock_tomb",
+      "signal_beam",
+      "icicle_spear",
+      "water_pulse",
+      "brine",
+      "aqua_tail",
+      "round",
+      "echoed_voice",
+      "bulldoze",
+      "frost_breath",
+      "confide",
+      "steel_roller",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "ice_cave"
+    ]
+  }
+]

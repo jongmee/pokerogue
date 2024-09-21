@@ -1,0 +1,178 @@
+[
+  {
+    "_id": "sentret",
+    "gender": "",
+    "pokedexNumber": "161",
+    "name": "sentret",
+    "koName": "꼬리선",
+    "speciesName": "sentret",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "43",
+    "friendship": "70",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "run_away",
+      "keen_eye"
+    ],
+    "hiddenAbilityId": "frisk",
+    "passiveAbilityId": "pickup",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 215,
+    "hp": 35,
+    "attack": 46,
+    "defense": 34,
+    "specialAttack": 35,
+    "specialDefense": 45,
+    "speed": 20,
+    "height": 0.8,
+    "weight": 6,
+    "eggMoveIds": [
+      "tidy_up",
+      "thief",
+      "nuzzle",
+      "extreme_speed"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 4,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": 7,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 13,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 16,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 19,
+        "moveId": "follow_me"
+      },
+      {
+        "level": 25,
+        "moveId": "slam"
+      },
+      {
+        "level": 28,
+        "moveId": "rest"
+      },
+      {
+        "level": 31,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 36,
+        "moveId": "amnesia"
+      },
+      {
+        "level": 39,
+        "moveId": "baton_pass"
+      },
+      {
+        "level": 42,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 47,
+        "moveId": "hyper_voice"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "cut",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "flamethrower",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "solar_beam",
+      "thunderbolt",
+      "thunder",
+      "dig",
+      "toxic",
+      "double_team",
+      "focus_energy",
+      "swift",
+      "amnesia",
+      "rest",
+      "super_fang",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "reversal",
+      "protect",
+      "mud_slap",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "shadow_ball",
+      "whirlpool",
+      "uproar",
+      "facade",
+      "focus_punch",
+      "helping_hand",
+      "trick",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "hyper_voice",
+      "covet",
+      "water_pulse",
+      "u_turn",
+      "fling",
+      "aqua_tail",
+      "seed_bomb",
+      "shadow_claw",
+      "grass_knot",
+      "charge_beam",
+      "hone_claws",
+      "round",
+      "echoed_voice",
+      "retaliate",
+      "work_up",
+      "play_rough",
+      "confide",
+      "power_up_punch",
+      "brutal_swing",
+      "tera_blast",
+      "trailblaze",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "town",
+      "plains"
+    ]
+  }
+]

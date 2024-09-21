@@ -1,0 +1,114 @@
+[
+  {
+    "_id": "deoxys_speed",
+    "gender": "",
+    "pokedexNumber": "386",
+    "name": "deoxys_speed",
+    "koName": "테오키스_speed",
+    "speciesName": "deoxys",
+    "canChangeForm": true,
+    "formName": "speed_forme",
+    "baseExp": "270",
+    "friendship": "0",
+    "types": [
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "pressure"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "protean",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": true,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 600,
+    "hp": 50,
+    "attack": 95,
+    "defense": 90,
+    "specialAttack": 95,
+    "specialDefense": 90,
+    "speed": 180,
+    "height": 1.7,
+    "weight": 60.8,
+    "eggMoveIds": [
+      "collision_course",
+      "earth_power",
+      "parting_shot",
+      "lumina_crash"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 1,
+        "moveId": "wrap"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 7,
+        "moveId": "night_shade"
+      },
+      {
+        "level": 13,
+        "moveId": "double_team"
+      },
+      {
+        "level": 19,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 25,
+        "moveId": "pursuit"
+      },
+      {
+        "level": 31,
+        "moveId": "psychic"
+      },
+      {
+        "level": 37,
+        "moveId": "swift"
+      },
+      {
+        "level": 43,
+        "moveId": "psycho_shift"
+      },
+      {
+        "level": 49,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 55,
+        "moveId": "agility"
+      },
+      {
+        "level": 61,
+        "moveId": "recover"
+      },
+      {
+        "level": 67,
+        "moveId": "psycho_boost"
+      },
+      {
+        "level": 73,
+        "moveId": "extreme_speed"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "mega_kick",
+      "agility",
+      "swift",
+      "icy_wind"
+    ],
+    "biomeIds": []
+  }
+]

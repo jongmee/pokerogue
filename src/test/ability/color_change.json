@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "color_change",
+    "name": "Color Change",
+    "koName": "변색",
+    "realased": "",
+    "description": "상대에게 받은 기술의 타입으로 자신의 타입이 변화한다.",
+    "generation": 3,
+    "pokemonIds": [
+      "kecleon"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "_id": "fairy_cave",
+    "name": "Fairy Cave",
+    "koName": "페어리 동굴",
+    "types": [
+      "fairy"
+    ],
+    "nextBiomes": [
+      {
+        "name": "ice_cave",
+        "percentage": 66.66666666666666
+      },
+      {
+        "name": "space",
+        "percentage": 33.33333333333333
+      }
+    ],
+    "nativePokemons": [
+      {
+        "tier": "보통",
+        "pokemonIds": [
+          "jigglypuff",
+          "wigglytuff",
+          "marill",
+          "azumarill",
+          "mawile",
+          "spritzee",
+          "aromatisse",
+          "swirlix",
+          "slurpuff",
+          "cutiefly",
+          "ribombee",
+          "morelull",
+          "shiinotic",
+          "milcery",
+          "alcremie"
+        ]
+      },
+      {
+        "tier": "드묾",
+        "pokemonIds": [
+          "clefairy",
+          "togetic",
+          "ralts",
+          "kirlia",
+          "gardevoir",
+          "carbink",
+          "comfey",
+          "hatenna",
+          "hattrem",
+          "hatterene"
+        ]
+      },
+      {
+        "tier": "레어",
+        "pokemonIds": [
+          "audino",
+          "eternal_floette"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어",
+        "pokemonIds": []
+      },
+      {
+        "tier": "울트라 레어",
+        "pokemonIds": [
+          "diancie",
+          "enamorus"
+        ]
+      },
+      {
+        "tier": "보스",
+        "pokemonIds": [
+          "wigglytuff",
+          "mawile",
+          "togekiss",
+          "audino",
+          "aromatisse",
+          "slurpuff",
+          "carbink",
+          "ribombee",
+          "shiinotic",
+          "comfey",
+          "hatterene",
+          "alcremie"
+        ]
+      },
+      {
+        "tier": "레어 보스",
+        "pokemonIds": [
+          "eternal_floette"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어 보스",
+        "pokemonIds": [
+          "diancie",
+          "enamorus"
+        ]
+      },
+      {
+        "tier": "슈퍼 울트라 레어 보스",
+        "pokemonIds": [
+          "xerneas"
+        ]
+      }
+    ],
+    "trainers": [
+      {
+        "name": "마슈",
+        "types": [
+          "fairy"
+        ],
+        "pokemonIds": [
+          "sylveon",
+          "mawile",
+          "mr_mime"
+        ]
+      },
+      {
+        "name": "포플러",
+        "types": [
+          "fairy"
+        ],
+        "pokemonIds": [
+          "milcery",
+          "togetic",
+          "galar_weezing"
+        ]
+      },
+      {
+        "name": "비트",
+        "types": [
+          "psychic"
+        ],
+        "pokemonIds": [
+          "hatenna",
+          "galar_ponyta",
+          "gardevoir"
+        ]
+      }
+    ]
+  }
+]

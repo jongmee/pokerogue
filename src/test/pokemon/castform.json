@@ -1,0 +1,156 @@
+[
+  {
+    "_id": "castform",
+    "gender": "",
+    "pokedexNumber": "351",
+    "name": "castform",
+    "koName": "캐스퐁",
+    "speciesName": "castform",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "147",
+    "friendship": "70",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "forecast"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "adaptability",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 420,
+    "hp": 70,
+    "attack": 70,
+    "defense": 70,
+    "specialAttack": 70,
+    "specialDefense": 70,
+    "speed": 70,
+    "height": 0.3,
+    "weight": 0.8,
+    "eggMoveIds": [
+      "boomburst",
+      "hydro_steam",
+      "eruption",
+      "quiver_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 10,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 10,
+        "moveId": "ember"
+      },
+      {
+        "level": 10,
+        "moveId": "powder_snow"
+      },
+      {
+        "level": 15,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 20,
+        "moveId": "rain_dance"
+      },
+      {
+        "level": 20,
+        "moveId": "sunny_day"
+      },
+      {
+        "level": 20,
+        "moveId": "hail"
+      },
+      {
+        "level": 25,
+        "moveId": "weather_ball"
+      },
+      {
+        "level": 35,
+        "moveId": "hydro_pump"
+      },
+      {
+        "level": 35,
+        "moveId": "fire_blast"
+      },
+      {
+        "level": 35,
+        "moveId": "blizzard"
+      },
+      {
+        "level": 45,
+        "moveId": "hurricane"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "flamethrower",
+      "hydro_pump",
+      "ice_beam",
+      "blizzard",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "double_team",
+      "fire_blast",
+      "swift",
+      "amnesia",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "icy_wind",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "hail",
+      "facade",
+      "weather_ball",
+      "cosmic_power",
+      "water_pulse",
+      "tailwind",
+      "guard_swap",
+      "energy_ball",
+      "avalanche",
+      "defog",
+      "round",
+      "scald",
+      "hex",
+      "incinerate",
+      "retaliate",
+      "work_up",
+      "hurricane",
+      "confide",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "metropolis"
+    ]
+  }
+]

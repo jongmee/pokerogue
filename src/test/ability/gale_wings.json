@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "gale_wings",
+    "name": "Gale Wings",
+    "koName": "질풍날개",
+    "realased": "",
+    "description": "HP가 꽉 찼을 때 비행타입의 기술을 먼저 쓸 수 있다.",
+    "generation": 6,
+    "pokemonIds": [
+      "fletchling",
+      "fletchinder",
+      "talonflame"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

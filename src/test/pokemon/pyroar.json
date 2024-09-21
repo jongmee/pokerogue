@@ -1,0 +1,180 @@
+[
+  {
+    "_id": "pyroar",
+    "gender": "",
+    "pokedexNumber": "668",
+    "name": "pyroar",
+    "koName": "화염레오",
+    "speciesName": "pyroar",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "177",
+    "friendship": "70",
+    "types": [
+      "fire",
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "rivalry",
+      "unnerve"
+    ],
+    "hiddenAbilityId": "moxie",
+    "passiveAbilityId": "beast_boost",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 507,
+    "hp": 86,
+    "attack": 68,
+    "defense": 72,
+    "specialAttack": 109,
+    "specialDefense": 66,
+    "speed": 106,
+    "height": 1.5,
+    "weight": 81.5,
+    "eggMoveIds": [
+      "earth_power",
+      "nasty_plot",
+      "yawn",
+      "torch_song"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 1,
+        "moveId": "hyper_beam"
+      },
+      {
+        "level": 1,
+        "moveId": "work_up"
+      },
+      {
+        "level": 11,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 15,
+        "moveId": "noble_roar"
+      },
+      {
+        "level": 20,
+        "moveId": "take_down"
+      },
+      {
+        "level": 23,
+        "moveId": "fire_fang"
+      },
+      {
+        "level": 28,
+        "moveId": "endeavor"
+      },
+      {
+        "level": 33,
+        "moveId": "echoed_voice"
+      },
+      {
+        "level": 38,
+        "moveId": "flamethrower"
+      },
+      {
+        "level": 42,
+        "moveId": "crunch"
+      },
+      {
+        "level": 48,
+        "moveId": "hyper_voice"
+      },
+      {
+        "level": 51,
+        "moveId": "incinerate"
+      },
+      {
+        "level": 57,
+        "moveId": "overheat"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "hyper_beam",
+      "strength",
+      "solar_beam",
+      "fire_spin",
+      "dig",
+      "toxic",
+      "double_team",
+      "fire_blast",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "mud_slap",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "rock_smash",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "endeavor",
+      "hyper_voice",
+      "overheat",
+      "bounce",
+      "payback",
+      "flare_blitz",
+      "dark_pulse",
+      "giga_impact",
+      "thunder_fang",
+      "fire_fang",
+      "flame_charge",
+      "round",
+      "echoed_voice",
+      "incinerate",
+      "acrobatics",
+      "retaliate",
+      "bulldoze",
+      "work_up",
+      "wild_charge",
+      "snarl",
+      "confide",
+      "psychic_fangs",
+      "burning_jealousy",
+      "tera_blast",
+      "trailblaze",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "jungle"
+    ]
+  }
+]

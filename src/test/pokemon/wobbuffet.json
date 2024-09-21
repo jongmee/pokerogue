@@ -1,0 +1,104 @@
+[
+  {
+    "_id": "wobbuffet",
+    "gender": "",
+    "pokedexNumber": "202",
+    "name": "wobbuffet",
+    "koName": "마자용",
+    "speciesName": "wobbuffet",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "142",
+    "friendship": "50",
+    "types": [
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "shadow_tag"
+    ],
+    "hiddenAbilityId": "telepathy",
+    "passiveAbilityId": "sturdy",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 405,
+    "hp": 190,
+    "attack": 33,
+    "defense": 58,
+    "specialAttack": 33,
+    "specialDefense": 58,
+    "speed": 33,
+    "height": 1.3,
+    "weight": 28.5,
+    "eggMoveIds": [
+      "recover",
+      "shed_tail",
+      "taunt",
+      "comeuppance"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "counter"
+      },
+      {
+        "level": 0,
+        "moveId": "destiny_bond"
+      },
+      {
+        "level": 0,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 0,
+        "moveId": "mirror_coat"
+      },
+      {
+        "level": 1,
+        "moveId": "counter"
+      },
+      {
+        "level": 1,
+        "moveId": "destiny_bond"
+      },
+      {
+        "level": 1,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 1,
+        "moveId": "mirror_coat"
+      },
+      {
+        "level": 1,
+        "moveId": "amnesia"
+      },
+      {
+        "level": 1,
+        "moveId": "splash"
+      },
+      {
+        "level": 1,
+        "moveId": "charm"
+      },
+      {
+        "level": 1,
+        "moveId": "encore"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "counter",
+      "amnesia",
+      "charm",
+      "safeguard",
+      "encore"
+    ],
+    "biomeIds": [
+      "ruins"
+    ]
+  }
+]

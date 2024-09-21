@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "ten_million_volt_thunderbolt",
+    "name": "10,000,000 Volt Thunderbolt",
+    "koName": "1000만볼트",
+    "type": "electric",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 195,
+    "accuracy": -1,
+    "powerPoint": 1,
+    "effect": "모자를 쓴 피카츄가 Z파워로 파워업한 전격을 쏜다. 급소에 맞기 쉽다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": " (P)",
+    "flags": [
+      "ignore_virtual"
+    ],
+    "pokemonIds": []
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "_id": "pinsir",
+    "gender": "",
+    "pokedexNumber": "127",
+    "name": "pinsir",
+    "koName": "쁘사이저",
+    "speciesName": "pinsir",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "175",
+    "friendship": "50",
+    "types": [
+      "bug"
+    ],
+    "normalAbilityIds": [
+      "hyper_cutter",
+      "mold_breaker"
+    ],
+    "hiddenAbilityId": "moxie",
+    "passiveAbilityId": "tinted_lens",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 500,
+    "hp": 65,
+    "attack": 125,
+    "defense": 100,
+    "specialAttack": 55,
+    "specialDefense": 70,
+    "speed": 85,
+    "height": 1.5,
+    "weight": 55,
+    "eggMoveIds": [
+      "earthquake",
+      "leech_life",
+      "close_combat",
+      "extreme_speed"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "vise_grip"
+      },
+      {
+        "level": 1,
+        "moveId": "harden"
+      },
+      {
+        "level": 4,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 8,
+        "moveId": "bind"
+      },
+      {
+        "level": 12,
+        "moveId": "seismic_toss"
+      },
+      {
+        "level": 16,
+        "moveId": "bug_bite"
+      },
+      {
+        "level": 20,
+        "moveId": "storm_throw"
+      },
+      {
+        "level": 24,
+        "moveId": "double_hit"
+      },
+      {
+        "level": 28,
+        "moveId": "vital_throw"
+      },
+      {
+        "level": 32,
+        "moveId": "x_scissor"
+      },
+      {
+        "level": 36,
+        "moveId": "strength"
+      },
+      {
+        "level": 40,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 44,
+        "moveId": "submission"
+      },
+      {
+        "level": 48,
+        "moveId": "guillotine"
+      },
+      {
+        "level": 52,
+        "moveId": "superpower"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "double_team",
+      "focus_energy",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "reversal",
+      "protect",
+      "outrage",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "rock_smash",
+      "facade",
+      "focus_punch",
+      "helping_hand",
+      "superpower",
+      "revenge",
+      "brick_break",
+      "knock_off",
+      "rock_tomb",
+      "iron_defense",
+      "bulk_up",
+      "close_combat",
+      "fling",
+      "x_scissor",
+      "focus_blast",
+      "giga_impact",
+      "rock_climb",
+      "stone_edge",
+      "stealth_rock",
+      "bug_bite",
+      "smack_down",
+      "round",
+      "struggle_bug",
+      "bulldoze",
+      "confide",
+      "high_horsepower",
+      "throat_chop",
+      "brutal_swing",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "tall_grass"
+    ]
+  }
+]

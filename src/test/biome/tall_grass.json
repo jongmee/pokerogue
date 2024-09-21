@@ -1,0 +1,151 @@
+[
+  {
+    "_id": "tall_grass",
+    "name": "Tall Grass",
+    "koName": "높은 풀숲",
+    "types": [
+      "grass",
+      "bug"
+    ],
+    "nextBiomes": [
+      {
+        "name": "forest",
+        "percentage": 50
+      },
+      {
+        "name": "cave",
+        "percentage": 50
+      }
+    ],
+    "nativePokemons": [
+      {
+        "tier": "보통",
+        "pokemonIds": [
+          "bounsweet",
+          "steenee",
+          "tsareena",
+          "nidoran_f",
+          "nidorina",
+          "nidoran_m",
+          "nidorino",
+          "oddish",
+          "gloom",
+          "kricketot",
+          "kricketune",
+          "nincada",
+          "ninjask",
+          "fomantis",
+          "lurantis",
+          "nymble",
+          "lokix"
+        ]
+      },
+      {
+        "tier": "드묾",
+        "pokemonIds": [
+          "paras",
+          "parasect",
+          "venonat",
+          "venomoth",
+          "spinarak",
+          "ariados",
+          "vulpix"
+        ]
+      },
+      {
+        "tier": "레어",
+        "pokemonIds": [
+          "pinsir",
+          "chikorita",
+          "bayleef",
+          "meganium",
+          "girafarig",
+          "farigiraf",
+          "zangoose",
+          "kecleon",
+          "tropius"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어",
+        "pokemonIds": [
+          "scyther",
+          "shedinja",
+          "rotom"
+        ]
+      },
+      {
+        "tier": "울트라 레어",
+        "pokemonIds": []
+      },
+      {
+        "tier": "보스",
+        "pokemonIds": [
+          "tsareena",
+          "nidoqueen",
+          "nidoking",
+          "vileplume",
+          "kricketune",
+          "ninjask",
+          "zangoose",
+          "kecleon",
+          "lurantis",
+          "lokix"
+        ]
+      },
+      {
+        "tier": "레어 보스",
+        "pokemonIds": [
+          "bellossom",
+          "pinsir",
+          "meganium",
+          "farigiraf"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어 보스",
+        "pokemonIds": [
+          "rotom"
+        ]
+      },
+      {
+        "tier": "슈퍼 울트라 레어 보스",
+        "pokemonIds": []
+      }
+    ],
+    "trainers": [
+      {
+        "name": "유채",
+        "types": [
+          "grass"
+        ],
+        "pokemonIds": [
+          "roselia",
+          "tangela",
+          "turtwig"
+        ]
+      },
+      {
+        "name": "비올라",
+        "types": [
+          "bug"
+        ],
+        "pokemonIds": [
+          "surskit",
+          "scatterbug"
+        ]
+      },
+      {
+        "name": "콜사",
+        "types": [
+          "grass"
+        ],
+        "pokemonIds": [
+          "smoliv",
+          "shroomish",
+          "oddish"
+        ]
+      }
+    ]
+  }
+]

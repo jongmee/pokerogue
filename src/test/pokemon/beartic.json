@@ -1,0 +1,224 @@
+[
+  {
+    "_id": "beartic",
+    "gender": "",
+    "pokedexNumber": "614",
+    "name": "beartic",
+    "koName": "툰베어",
+    "speciesName": "beartic",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "177",
+    "friendship": "50",
+    "types": [
+      "ice"
+    ],
+    "normalAbilityIds": [
+      "snow_cloak",
+      "slush_rush"
+    ],
+    "hiddenAbilityId": "swift_swim",
+    "passiveAbilityId": "tough_claws",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 505,
+    "hp": 95,
+    "attack": 130,
+    "defense": 80,
+    "specialAttack": 70,
+    "specialDefense": 80,
+    "speed": 50,
+    "height": 2.6,
+    "weight": 260,
+    "eggMoveIds": [
+      "triple_axel",
+      "liquidation",
+      "swords_dance",
+      "collision_course"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "icicle_crash"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 1,
+        "moveId": "powder_snow"
+      },
+      {
+        "level": 1,
+        "moveId": "endure"
+      },
+      {
+        "level": 1,
+        "moveId": "charm"
+      },
+      {
+        "level": 1,
+        "moveId": "aqua_jet"
+      },
+      {
+        "level": 1,
+        "moveId": "bide"
+      },
+      {
+        "level": 9,
+        "moveId": "icy_wind"
+      },
+      {
+        "level": 12,
+        "moveId": "play_nice"
+      },
+      {
+        "level": 15,
+        "moveId": "brine"
+      },
+      {
+        "level": 18,
+        "moveId": "frost_breath"
+      },
+      {
+        "level": 21,
+        "moveId": "slash"
+      },
+      {
+        "level": 24,
+        "moveId": "flail"
+      },
+      {
+        "level": 27,
+        "moveId": "swagger"
+      },
+      {
+        "level": 30,
+        "moveId": "snowscape"
+      },
+      {
+        "level": 33,
+        "moveId": "thrash"
+      },
+      {
+        "level": 36,
+        "moveId": "rest"
+      },
+      {
+        "level": 41,
+        "moveId": "blizzard"
+      },
+      {
+        "level": 46,
+        "moveId": "sheer_cold"
+      },
+      {
+        "level": 51,
+        "moveId": "superpower"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "ice_punch",
+      "swords_dance",
+      "cut",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "low_kick",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "double_team",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "reversal",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "crunch",
+      "rock_smash",
+      "hail",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "superpower",
+      "brick_break",
+      "endeavor",
+      "dive",
+      "rock_tomb",
+      "aerial_ace",
+      "icicle_spear",
+      "bulk_up",
+      "mud_shot",
+      "covet",
+      "water_pulse",
+      "brine",
+      "close_combat",
+      "assurance",
+      "fling",
+      "x_scissor",
+      "focus_blast",
+      "giga_impact",
+      "avalanche",
+      "shadow_claw",
+      "ice_fang",
+      "stone_edge",
+      "grass_knot",
+      "hone_claws",
+      "heavy_slam",
+      "round",
+      "echoed_voice",
+      "bulldoze",
+      "frost_breath",
+      "snarl",
+      "play_rough",
+      "confide",
+      "power_up_punch",
+      "throat_chop",
+      "liquidation",
+      "body_press",
+      "tera_blast",
+      "snowscape",
+      "trailblaze",
+      "chilling_water",
+      "hard_press"
+    ],
+    "biomeIds": [
+      "ice_cave"
+    ]
+  }
+]

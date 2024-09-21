@@ -1,0 +1,206 @@
+[
+  {
+    "_id": "vespiquen",
+    "gender": "",
+    "pokedexNumber": "416",
+    "name": "vespiquen",
+    "koName": "비퀸",
+    "speciesName": "vespiquen",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "166",
+    "friendship": "50",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "pressure"
+    ],
+    "hiddenAbilityId": "unnerve",
+    "passiveAbilityId": "intimidate",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 474,
+    "hp": 70,
+    "attack": 80,
+    "defense": 102,
+    "specialAttack": 80,
+    "specialDefense": 102,
+    "speed": 40,
+    "height": 1.2,
+    "weight": 38.5,
+    "eggMoveIds": [
+      "spore",
+      "floaty_fall",
+      "kings_shield",
+      "victory_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "slash"
+      },
+      {
+        "level": 1,
+        "moveId": "gust"
+      },
+      {
+        "level": 1,
+        "moveId": "poison_sting"
+      },
+      {
+        "level": 1,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 1,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 1,
+        "moveId": "bug_bite"
+      },
+      {
+        "level": 1,
+        "moveId": "struggle_bug"
+      },
+      {
+        "level": 4,
+        "moveId": "fury_cutter"
+      },
+      {
+        "level": 8,
+        "moveId": "aromatic_mist"
+      },
+      {
+        "level": 12,
+        "moveId": "fell_stinger"
+      },
+      {
+        "level": 16,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 20,
+        "moveId": "swagger"
+      },
+      {
+        "level": 24,
+        "moveId": "roost"
+      },
+      {
+        "level": 28,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 32,
+        "moveId": "power_gem"
+      },
+      {
+        "level": 36,
+        "moveId": "toxic"
+      },
+      {
+        "level": 40,
+        "moveId": "attack_order"
+      },
+      {
+        "level": 40,
+        "moveId": "defend_order"
+      },
+      {
+        "level": 40,
+        "moveId": "heal_order"
+      },
+      {
+        "level": 44,
+        "moveId": "destiny_bond"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "cut",
+      "take_down",
+      "pin_missile",
+      "hyper_beam",
+      "toxic",
+      "agility",
+      "screech",
+      "double_team",
+      "confuse_ray",
+      "swift",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "reversal",
+      "spite",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "mud_slap",
+      "spikes",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "beat_up",
+      "uproar",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "revenge",
+      "endeavor",
+      "air_cutter",
+      "signal_beam",
+      "aerial_ace",
+      "roost",
+      "tailwind",
+      "u_turn",
+      "assurance",
+      "fling",
+      "toxic_spikes",
+      "air_slash",
+      "x_scissor",
+      "bug_buzz",
+      "power_gem",
+      "giga_impact",
+      "defog",
+      "cross_poison",
+      "bug_bite",
+      "hone_claws",
+      "venoshock",
+      "round",
+      "hex",
+      "quash",
+      "acrobatics",
+      "struggle_bug",
+      "hurricane",
+      "confide",
+      "infestation",
+      "pollen_puff",
+      "lunge",
+      "skitter_smack",
+      "dual_wingbeat",
+      "tera_blast",
+      "pounce",
+      "psychic_noise"
+    ],
+    "biomeIds": [
+      "grass",
+      "forest",
+      "jungle"
+    ]
+  }
+]

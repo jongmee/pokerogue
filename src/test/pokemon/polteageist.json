@@ -1,0 +1,158 @@
+[
+  {
+    "_id": "polteageist",
+    "gender": "",
+    "pokedexNumber": "855",
+    "name": "polteageist",
+    "koName": "포트데스",
+    "speciesName": "polteageist",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "178",
+    "friendship": "50",
+    "types": [
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "weak_armor"
+    ],
+    "hiddenAbilityId": "cursed_body",
+    "passiveAbilityId": "shadow_shield",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 508,
+    "hp": 60,
+    "attack": 65,
+    "defense": 65,
+    "specialAttack": 134,
+    "specialDefense": 114,
+    "speed": 70,
+    "height": 0.2,
+    "weight": 0.4,
+    "eggMoveIds": [
+      "scald",
+      "take_heart",
+      "sparkly_swirl",
+      "matcha_gotcha"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "teatime"
+      },
+      {
+        "level": 1,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 1,
+        "moveId": "withdraw"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 1,
+        "moveId": "aromatic_mist"
+      },
+      {
+        "level": 1,
+        "moveId": "strength_sap"
+      },
+      {
+        "level": 18,
+        "moveId": "protect"
+      },
+      {
+        "level": 24,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 30,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 36,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 42,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 48,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 54,
+        "moveId": "memento"
+      },
+      {
+        "level": 60,
+        "moveId": "shell_smash"
+      },
+      {
+        "level": 66,
+        "moveId": "curse"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "psybeam",
+      "hyper_beam",
+      "psychic",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "metronome",
+      "self_destruct",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "giga_drain",
+      "endure",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "baton_pass",
+      "hidden_power",
+      "shadow_ball",
+      "will_o_wisp",
+      "facade",
+      "trick",
+      "skill_swap",
+      "imprison",
+      "magical_leaf",
+      "calm_mind",
+      "payback",
+      "dark_pulse",
+      "giga_impact",
+      "nasty_plot",
+      "trick_room",
+      "wonder_room",
+      "psyshock",
+      "foul_play",
+      "round",
+      "stored_power",
+      "ally_switch",
+      "hex",
+      "phantom_force",
+      "poltergeist",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "graveyard"
+    ]
+  }
+]

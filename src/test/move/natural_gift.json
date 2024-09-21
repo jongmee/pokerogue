@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "natural_gift",
+    "name": "Natural Gift",
+    "koName": "자연의은혜",
+    "type": "normal",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": 100,
+    "powerPoint": 15,
+    "effect": "나무열매에서 힘을 얻어 공격한다. 지니게 한 나무열매에 따라 기술의 타입과 위력이 바뀐다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 4,
+    "realased": " (N)",
+    "flags": [],
+    "pokemonIds": [
+      "shaymin_sky",
+      "pansage",
+      "pansear",
+      "panpour"
+    ]
+  }
+]

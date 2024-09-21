@@ -1,0 +1,206 @@
+[
+  {
+    "_id": "hawlucha",
+    "gender": "",
+    "pokedexNumber": "701",
+    "name": "hawlucha",
+    "koName": "루차불",
+    "speciesName": "hawlucha",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "175",
+    "friendship": "50",
+    "types": [
+      "fighting",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "limber",
+      "unburden"
+    ],
+    "hiddenAbilityId": "mold_breaker",
+    "passiveAbilityId": "moxie",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 500,
+    "hp": 78,
+    "attack": 92,
+    "defense": 75,
+    "specialAttack": 74,
+    "specialDefense": 63,
+    "speed": 118,
+    "height": 0.8,
+    "weight": 21.5,
+    "eggMoveIds": [
+      "triple_axel",
+      "high_horsepower",
+      "floaty_fall",
+      "wicked_blow"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 4,
+        "moveId": "wing_attack"
+      },
+      {
+        "level": 8,
+        "moveId": "detect"
+      },
+      {
+        "level": 12,
+        "moveId": "aerial_ace"
+      },
+      {
+        "level": 16,
+        "moveId": "encore"
+      },
+      {
+        "level": 20,
+        "moveId": "feather_dance"
+      },
+      {
+        "level": 24,
+        "moveId": "brick_break"
+      },
+      {
+        "level": 28,
+        "moveId": "bounce"
+      },
+      {
+        "level": 32,
+        "moveId": "taunt"
+      },
+      {
+        "level": 36,
+        "moveId": "roost"
+      },
+      {
+        "level": 40,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 44,
+        "moveId": "flying_press"
+      },
+      {
+        "level": 48,
+        "moveId": "high_jump_kick"
+      },
+      {
+        "level": 52,
+        "moveId": "endeavor"
+      },
+      {
+        "level": 56,
+        "moveId": "sky_attack"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "thunder_punch",
+      "swords_dance",
+      "cut",
+      "fly",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "hyper_beam",
+      "low_kick",
+      "strength",
+      "dig",
+      "toxic",
+      "agility",
+      "double_team",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "reversal",
+      "protect",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "rock_smash",
+      "uproar",
+      "torment",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "superpower",
+      "revenge",
+      "brick_break",
+      "endeavor",
+      "feather_dance",
+      "rock_tomb",
+      "aerial_ace",
+      "bulk_up",
+      "bounce",
+      "roost",
+      "tailwind",
+      "u_turn",
+      "close_combat",
+      "payback",
+      "assurance",
+      "fling",
+      "poison_jab",
+      "x_scissor",
+      "drain_punch",
+      "focus_blast",
+      "brave_bird",
+      "giga_impact",
+      "zen_headbutt",
+      "defog",
+      "iron_head",
+      "stone_edge",
+      "grass_knot",
+      "hone_claws",
+      "low_sweep",
+      "round",
+      "ally_switch",
+      "sky_drop",
+      "acrobatics",
+      "retaliate",
+      "work_up",
+      "confide",
+      "power_up_punch",
+      "throat_chop",
+      "lunge",
+      "body_press",
+      "coaching",
+      "dual_wingbeat",
+      "tera_blast",
+      "trailblaze",
+      "upper_hand"
+    ],
+    "biomeIds": [
+      "mountain"
+    ]
+  }
+]

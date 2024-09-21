@@ -1,0 +1,19 @@
+[
+  {
+    "_id": "wonder_skin",
+    "name": "Wonder Skin",
+    "koName": "미라클스킨",
+    "realased": "",
+    "description": "변화 기술을 받기 어려운 몸으로 되어 있다.",
+    "generation": 5,
+    "pokemonIds": [
+      "venomoth",
+      "skitty",
+      "delcatty",
+      "sigilyph",
+      "bruxish"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

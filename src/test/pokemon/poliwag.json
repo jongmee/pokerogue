@@ -1,0 +1,153 @@
+[
+  {
+    "_id": "poliwag",
+    "gender": "",
+    "pokedexNumber": "60",
+    "name": "poliwag",
+    "koName": "발챙이",
+    "speciesName": "poliwag",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "60",
+    "friendship": "50",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "water_absorb",
+      "damp"
+    ],
+    "hiddenAbilityId": "swift_swim",
+    "passiveAbilityId": "no_guard",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 300,
+    "hp": 40,
+    "attack": 50,
+    "defense": 40,
+    "specialAttack": 40,
+    "specialDefense": 40,
+    "speed": 90,
+    "height": 0.6,
+    "weight": 12.4,
+    "eggMoveIds": [
+      "slack_off",
+      "wildbolt_storm",
+      "drain_punch",
+      "surging_strikes"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "hypnosis"
+      },
+      {
+        "level": 1,
+        "moveId": "water_sport"
+      },
+      {
+        "level": 6,
+        "moveId": "pound"
+      },
+      {
+        "level": 12,
+        "moveId": "mud_shot"
+      },
+      {
+        "level": 18,
+        "moveId": "bubble_beam"
+      },
+      {
+        "level": 24,
+        "moveId": "rain_dance"
+      },
+      {
+        "level": 30,
+        "moveId": "body_slam"
+      },
+      {
+        "level": 36,
+        "moveId": "earth_power"
+      },
+      {
+        "level": 42,
+        "moveId": "hydro_pump"
+      },
+      {
+        "level": 48,
+        "moveId": "belly_drum"
+      },
+      {
+        "level": 54,
+        "moveId": "double_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "low_kick",
+      "dig",
+      "toxic",
+      "psychic",
+      "double_team",
+      "haze",
+      "waterfall",
+      "swift",
+      "amnesia",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "whirlpool",
+      "hail",
+      "facade",
+      "focus_punch",
+      "helping_hand",
+      "endeavor",
+      "dive",
+      "weather_ball",
+      "muddy_water",
+      "mud_shot",
+      "water_pulse",
+      "earth_power",
+      "round",
+      "scald",
+      "bulldoze",
+      "confide",
+      "liquidation",
+      "tera_blast",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "sea",
+      "swamp"
+    ]
+  }
+]

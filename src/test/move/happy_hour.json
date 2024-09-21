@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "happy_hour",
+    "name": "Happy Hour",
+    "koName": "해피타임",
+    "type": "normal",
+    "moveCategory": "status",
+    "moveTarget": "user_side",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 30,
+    "effect": "해피타임 기술을 쓰면 배틀 후에 받을 수 있는 돈이 배가 된다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 6,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "gimmighoul",
+      "gholdengo"
+    ]
+  }
+]

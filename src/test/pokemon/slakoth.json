@@ -1,0 +1,167 @@
+[
+  {
+    "_id": "slakoth",
+    "gender": "",
+    "pokedexNumber": "287",
+    "name": "slakoth",
+    "koName": "게을로",
+    "speciesName": "slakoth",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "56",
+    "friendship": "70",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "truant"
+    ],
+    "hiddenAbilityId": "stall",
+    "passiveAbilityId": "guts",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 280,
+    "hp": 60,
+    "attack": 60,
+    "defense": 60,
+    "specialAttack": 35,
+    "specialDefense": 35,
+    "speed": 30,
+    "height": 0.8,
+    "weight": 24,
+    "eggMoveIds": [
+      "facade",
+      "drain_punch",
+      "knock_off",
+      "skill_swap"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "yawn"
+      },
+      {
+        "level": 6,
+        "moveId": "encore"
+      },
+      {
+        "level": 9,
+        "moveId": "slack_off"
+      },
+      {
+        "level": 14,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 17,
+        "moveId": "amnesia"
+      },
+      {
+        "level": 22,
+        "moveId": "covet"
+      },
+      {
+        "level": 25,
+        "moveId": "throat_chop"
+      },
+      {
+        "level": 30,
+        "moveId": "counter"
+      },
+      {
+        "level": 33,
+        "moveId": "flail"
+      },
+      {
+        "level": 38,
+        "moveId": "play_rough"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "cut",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "flamethrower",
+      "ice_beam",
+      "blizzard",
+      "counter",
+      "strength",
+      "solar_beam",
+      "thunderbolt",
+      "thunder",
+      "toxic",
+      "double_team",
+      "metronome",
+      "fire_blast",
+      "amnesia",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "shadow_ball",
+      "rock_smash",
+      "facade",
+      "focus_punch",
+      "helping_hand",
+      "brick_break",
+      "rock_tomb",
+      "aerial_ace",
+      "bulk_up",
+      "mud_shot",
+      "covet",
+      "water_pulse",
+      "fling",
+      "poison_jab",
+      "seed_bomb",
+      "x_scissor",
+      "shadow_claw",
+      "zen_headbutt",
+      "gunk_shot",
+      "hone_claws",
+      "round",
+      "incinerate",
+      "retaliate",
+      "work_up",
+      "play_rough",
+      "confide",
+      "power_up_punch",
+      "throat_chop",
+      "tera_blast",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "jungle"
+    ]
+  }
+]

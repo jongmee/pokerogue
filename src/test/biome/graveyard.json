@@ -1,0 +1,145 @@
+[
+  {
+    "_id": "graveyard",
+    "name": "Graveyard",
+    "koName": "묘지",
+    "types": [
+      "ghost"
+    ],
+    "nextBiomes": [
+      {
+        "name": "abyss",
+        "percentage": 100
+      }
+    ],
+    "nativePokemons": [
+      {
+        "tier": "보통",
+        "pokemonIds": [
+          "gastly",
+          "haunter",
+          "shuppet",
+          "banette",
+          "duskull",
+          "dusclops",
+          "drifloon",
+          "drifblim",
+          "litwick",
+          "lampent",
+          "phantump",
+          "pumpkaboo",
+          "greavard",
+          "houndstone"
+        ]
+      },
+      {
+        "tier": "드묾",
+        "pokemonIds": [
+          "cubone",
+          "marowak",
+          "yamask",
+          "cofagrigus",
+          "sinistea",
+          "polteageist"
+        ]
+      },
+      {
+        "tier": "레어",
+        "pokemonIds": [
+          "misdreavus",
+          "mimikyu",
+          "fuecoco",
+          "crocalor",
+          "skeledirge",
+          "ceruledge"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어",
+        "pokemonIds": [
+          "spiritomb"
+        ]
+      },
+      {
+        "tier": "울트라 레어",
+        "pokemonIds": [
+          "marshadow",
+          "spectrier"
+        ]
+      },
+      {
+        "tier": "보스",
+        "pokemonIds": [
+          "marowak",
+          "gengar",
+          "banette",
+          "drifblim",
+          "mismagius",
+          "dusknoir",
+          "chandelure",
+          "trevenant",
+          "gourgeist",
+          "mimikyu",
+          "polteageist",
+          "houndstone"
+        ]
+      },
+      {
+        "tier": "레어 보스",
+        "pokemonIds": [
+          "skeledirge",
+          "ceruledge",
+          "hisui_typhlosion"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어 보스",
+        "pokemonIds": [
+          "marshadow",
+          "spectrier"
+        ]
+      },
+      {
+        "tier": "슈퍼 울트라 레어 보스",
+        "pokemonIds": [
+          "giratina"
+        ]
+      }
+    ],
+    "trainers": [
+      {
+        "name": "유빈",
+        "types": [
+          "ghost"
+        ],
+        "pokemonIds": [
+          "gastly",
+          "misdreavus",
+          "sableye"
+        ]
+      },
+      {
+        "name": "어니언",
+        "types": [
+          "ghost"
+        ],
+        "pokemonIds": [
+          "galar_yamask",
+          "galar_corsola",
+          "gastly"
+        ]
+      },
+      {
+        "name": "라임",
+        "types": [
+          "ghost"
+        ],
+        "pokemonIds": [
+          "greavard",
+          "shuppet",
+          "mimikyu"
+        ]
+      }
+    ]
+  }
+]

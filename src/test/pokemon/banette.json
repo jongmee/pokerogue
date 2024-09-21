@@ -1,0 +1,180 @@
+[
+  {
+    "_id": "banette",
+    "gender": "",
+    "pokedexNumber": "354",
+    "name": "banette",
+    "koName": "다크펫",
+    "speciesName": "banette",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "159",
+    "friendship": "35",
+    "types": [
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "insomnia",
+      "frisk"
+    ],
+    "hiddenAbilityId": "cursed_body",
+    "passiveAbilityId": "shadow_shield",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 455,
+    "hp": 64,
+    "attack": 115,
+    "defense": 65,
+    "specialAttack": 83,
+    "specialDefense": 63,
+    "speed": 65,
+    "height": 1.1,
+    "weight": 12.5,
+    "eggMoveIds": [
+      "storm_throw",
+      "tidy_up",
+      "parting_shot",
+      "spectral_thief"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 1,
+        "moveId": "screech"
+      },
+      {
+        "level": 1,
+        "moveId": "night_shade"
+      },
+      {
+        "level": 1,
+        "moveId": "spite"
+      },
+      {
+        "level": 16,
+        "moveId": "will_o_wisp"
+      },
+      {
+        "level": 19,
+        "moveId": "shadow_sneak"
+      },
+      {
+        "level": 22,
+        "moveId": "hex"
+      },
+      {
+        "level": 26,
+        "moveId": "curse"
+      },
+      {
+        "level": 30,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 34,
+        "moveId": "role_play"
+      },
+      {
+        "level": 40,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 46,
+        "moveId": "trick"
+      },
+      {
+        "level": 53,
+        "moveId": "phantom_force"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "body_slam",
+      "psybeam",
+      "hyper_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "psychic",
+      "night_shade",
+      "screech",
+      "double_team",
+      "confuse_ray",
+      "metronome",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "torment",
+      "will_o_wisp",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "trick",
+      "knock_off",
+      "skill_swap",
+      "imprison",
+      "calm_mind",
+      "payback",
+      "embargo",
+      "fling",
+      "dark_pulse",
+      "giga_impact",
+      "nasty_plot",
+      "shadow_claw",
+      "trick_room",
+      "gunk_shot",
+      "charge_beam",
+      "magic_room",
+      "foul_play",
+      "round",
+      "ally_switch",
+      "hex",
+      "phantom_force",
+      "confide",
+      "dazzling_gleam",
+      "infestation",
+      "throat_chop",
+      "skitter_smack",
+      "burning_jealousy",
+      "lash_out",
+      "poltergeist",
+      "tera_blast",
+      "pounce",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "graveyard"
+    ]
+  }
+]

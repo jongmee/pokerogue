@@ -1,0 +1,167 @@
+[
+  {
+    "_id": "zamazenta",
+    "gender": "",
+    "pokedexNumber": "889",
+    "name": "zamazenta",
+    "koName": "자마젠타",
+    "speciesName": "zamazenta",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "335",
+    "friendship": "0",
+    "types": [
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "dauntless_shield"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "stamina",
+    "generation": 8,
+    "legendary": true,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 660,
+    "hp": 92,
+    "attack": 120,
+    "defense": 115,
+    "specialAttack": 80,
+    "specialDefense": 115,
+    "speed": 138,
+    "height": 2.9,
+    "weight": 210,
+    "eggMoveIds": [
+      "psyshield_bash",
+      "body_press",
+      "slack_off",
+      "victory_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "bite"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 1,
+        "moveId": "howl"
+      },
+      {
+        "level": 1,
+        "moveId": "wide_guard"
+      },
+      {
+        "level": 11,
+        "moveId": "slash"
+      },
+      {
+        "level": 22,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 33,
+        "moveId": "iron_head"
+      },
+      {
+        "level": 44,
+        "moveId": "metal_burst"
+      },
+      {
+        "level": 55,
+        "moveId": "crunch"
+      },
+      {
+        "level": 66,
+        "moveId": "moonblast"
+      },
+      {
+        "level": 77,
+        "moveId": "close_combat"
+      },
+      {
+        "level": 88,
+        "moveId": "giga_impact"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "roar",
+      "hyper_beam",
+      "solar_beam",
+      "dig",
+      "agility",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "focus_energy",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "reversal",
+      "protect",
+      "scary_face",
+      "sandstorm",
+      "endure",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "iron_tail",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "facade",
+      "helping_hand",
+      "revenge",
+      "brick_break",
+      "imprison",
+      "hyper_voice",
+      "iron_defense",
+      "close_combat",
+      "payback",
+      "power_swap",
+      "guard_swap",
+      "focus_blast",
+      "giga_impact",
+      "thunder_fang",
+      "ice_fang",
+      "fire_fang",
+      "flash_cannon",
+      "iron_head",
+      "stone_edge",
+      "heavy_slam",
+      "round",
+      "retaliate",
+      "work_up",
+      "wild_charge",
+      "tail_slap",
+      "snarl",
+      "play_rough",
+      "dazzling_gleam",
+      "psychic_fangs",
+      "body_press",
+      "steel_beam",
+      "coaching",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "dojo"
+    ]
+  }
+]

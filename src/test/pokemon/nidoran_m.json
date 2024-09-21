@@ -1,0 +1,159 @@
+[
+  {
+    "_id": "nidoran_m",
+    "gender": "",
+    "pokedexNumber": "32",
+    "name": "nidoran_m",
+    "koName": "니드런♂",
+    "speciesName": "nidoran_m",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "55",
+    "friendship": "50",
+    "types": [
+      "poison"
+    ],
+    "normalAbilityIds": [
+      "poison_point",
+      "rivalry"
+    ],
+    "hiddenAbilityId": "hustle",
+    "passiveAbilityId": "guts",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 273,
+    "hp": 46,
+    "attack": 57,
+    "defense": 40,
+    "specialAttack": 40,
+    "specialDefense": 40,
+    "speed": 50,
+    "height": 0.5,
+    "weight": 9,
+    "eggMoveIds": [
+      "noxious_torque",
+      "kings_shield",
+      "no_retreat",
+      "precipice_blades"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "poison_sting"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 5,
+        "moveId": "peck"
+      },
+      {
+        "level": 10,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 15,
+        "moveId": "fury_attack"
+      },
+      {
+        "level": 20,
+        "moveId": "toxic_spikes"
+      },
+      {
+        "level": 25,
+        "moveId": "double_kick"
+      },
+      {
+        "level": 30,
+        "moveId": "horn_attack"
+      },
+      {
+        "level": 35,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 40,
+        "moveId": "toxic"
+      },
+      {
+        "level": 45,
+        "moveId": "flatter"
+      },
+      {
+        "level": 50,
+        "moveId": "poison_jab"
+      },
+      {
+        "level": 55,
+        "moveId": "earth_power"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "cut",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "ice_beam",
+      "blizzard",
+      "counter",
+      "strength",
+      "thunderbolt",
+      "thunder",
+      "dig",
+      "toxic",
+      "double_team",
+      "reflect",
+      "focus_energy",
+      "amnesia",
+      "rest",
+      "super_fang",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "sludge_bomb",
+      "mud_slap",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "rock_smash",
+      "beat_up",
+      "facade",
+      "helping_hand",
+      "poison_tail",
+      "water_pulse",
+      "toxic_spikes",
+      "poison_jab",
+      "earth_power",
+      "shadow_claw",
+      "hone_claws",
+      "venoshock",
+      "round",
+      "echoed_voice",
+      "drill_run",
+      "confide",
+      "venom_drench",
+      "smart_strike",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "town",
+      "tall_grass"
+    ]
+  }
+]

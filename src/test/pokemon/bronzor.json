@@ -1,0 +1,185 @@
+[
+  {
+    "_id": "bronzor",
+    "gender": "",
+    "pokedexNumber": "436",
+    "name": "bronzor",
+    "koName": "동미러",
+    "speciesName": "bronzor",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "60",
+    "friendship": "50",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "levitate",
+      "heatproof"
+    ],
+    "hiddenAbilityId": "heavy_metal",
+    "passiveAbilityId": "bulletproof",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 300,
+    "hp": 57,
+    "attack": 24,
+    "defense": 86,
+    "specialAttack": 24,
+    "specialDefense": 86,
+    "speed": 23,
+    "height": 0.5,
+    "weight": 60.5,
+    "eggMoveIds": [
+      "recover",
+      "tachyon_cutter",
+      "glare",
+      "lumina_crash"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 4,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 8,
+        "moveId": "payback"
+      },
+      {
+        "level": 12,
+        "moveId": "imprison"
+      },
+      {
+        "level": 16,
+        "moveId": "gyro_ball"
+      },
+      {
+        "level": 20,
+        "moveId": "hypnosis"
+      },
+      {
+        "level": 24,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 28,
+        "moveId": "extrasensory"
+      },
+      {
+        "level": 32,
+        "moveId": "heavy_slam"
+      },
+      {
+        "level": 36,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 40,
+        "moveId": "metal_sound"
+      },
+      {
+        "level": 44,
+        "moveId": "future_sight"
+      },
+      {
+        "level": 45,
+        "moveId": "heal_block"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "solar_beam",
+      "earthquake",
+      "toxic",
+      "psychic",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "dream_eater",
+      "flash",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "facade",
+      "helping_hand",
+      "trick",
+      "recycle",
+      "skill_swap",
+      "imprison",
+      "rock_tomb",
+      "metal_sound",
+      "signal_beam",
+      "iron_defense",
+      "calm_mind",
+      "rock_blast",
+      "gravity",
+      "gyro_ball",
+      "payback",
+      "power_swap",
+      "guard_swap",
+      "rock_polish",
+      "power_gem",
+      "zen_headbutt",
+      "flash_cannon",
+      "trick_room",
+      "iron_head",
+      "stealth_rock",
+      "grass_knot",
+      "charge_beam",
+      "wonder_room",
+      "psyshock",
+      "heavy_slam",
+      "round",
+      "stored_power",
+      "ally_switch",
+      "hex",
+      "bulldoze",
+      "confide",
+      "psychic_terrain",
+      "speed_swap",
+      "stomping_tantrum",
+      "steel_beam",
+      "expanding_force",
+      "steel_roller",
+      "tera_blast",
+      "ice_spinner",
+      "psychic_noise"
+    ],
+    "biomeIds": [
+      "factory",
+      "space",
+      "laboratory"
+    ]
+  }
+]

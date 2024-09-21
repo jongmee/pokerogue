@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "mud_sport",
+    "name": "Mud Sport",
+    "koName": "흙놀이",
+    "type": "ground",
+    "moveCategory": "status",
+    "moveTarget": "both_sides",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 15,
+    "effect": "주위를 진흙투성이로 만든다. 5턴 동안 전기타입의 기술을 약하게 한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 3,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "onix",
+      "krabby",
+      "kingler",
+      "steelix",
+      "drilbur",
+      "excadrill",
+      "stunfisk",
+      "pyukumuku"
+    ]
+  }
+]

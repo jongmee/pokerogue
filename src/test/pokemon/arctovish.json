@@ -1,0 +1,147 @@
+[
+  {
+    "_id": "arctovish",
+    "gender": "",
+    "pokedexNumber": "883",
+    "name": "arctovish",
+    "koName": "어치르돈",
+    "speciesName": "arctovish",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "177",
+    "friendship": "50",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "normalAbilityIds": [
+      "water_absorb",
+      "ice_body"
+    ],
+    "hiddenAbilityId": "slush_rush",
+    "passiveAbilityId": "strong_jaw",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 505,
+    "hp": 90,
+    "attack": 90,
+    "defense": 100,
+    "specialAttack": 80,
+    "specialDefense": 90,
+    "speed": 55,
+    "height": 2,
+    "weight": 175,
+    "eggMoveIds": [
+      "ice_fang",
+      "thunder_fang",
+      "high_horsepower",
+      "shift_gear"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "powder_snow"
+      },
+      {
+        "level": 7,
+        "moveId": "protect"
+      },
+      {
+        "level": 14,
+        "moveId": "icy_wind"
+      },
+      {
+        "level": 21,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 28,
+        "moveId": "bite"
+      },
+      {
+        "level": 35,
+        "moveId": "aurora_veil"
+      },
+      {
+        "level": 42,
+        "moveId": "freeze_dry"
+      },
+      {
+        "level": 49,
+        "moveId": "super_fang"
+      },
+      {
+        "level": 56,
+        "moveId": "crunch"
+      },
+      {
+        "level": 63,
+        "moveId": "fishious_rend"
+      },
+      {
+        "level": 70,
+        "moveId": "icicle_crash"
+      },
+      {
+        "level": 77,
+        "moveId": "blizzard"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "double_team",
+      "waterfall",
+      "rest",
+      "rock_slide",
+      "super_fang",
+      "substitute",
+      "snore",
+      "protect",
+      "icy_wind",
+      "endure",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "crunch",
+      "whirlpool",
+      "hail",
+      "facade",
+      "dive",
+      "rock_tomb",
+      "icicle_spear",
+      "iron_defense",
+      "rock_blast",
+      "brine",
+      "giga_impact",
+      "avalanche",
+      "ice_fang",
+      "zen_headbutt",
+      "iron_head",
+      "stone_edge",
+      "round",
+      "aurora_veil",
+      "psychic_fangs",
+      "liquidation",
+      "meteor_beam"
+    ],
+    "biomeIds": [
+      "seabed"
+    ]
+  }
+]

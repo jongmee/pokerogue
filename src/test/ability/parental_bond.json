@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "parental_bond",
+    "name": "Parental Bond",
+    "koName": "부자유친",
+    "realased": "",
+    "description": "부모와 자식 2마리로 2번 공격할 수 있다.",
+    "generation": 6,
+    "pokemonIds": [
+      "doduo",
+      "dodrio",
+      "cubone",
+      "marowak",
+      "koffing",
+      "weezing",
+      "kangaskhan_mega",
+      "girafarig",
+      "deino",
+      "zweilous",
+      "hydreigon",
+      "falinks",
+      "dreepy",
+      "drakloak",
+      "dragapult",
+      "capsakid",
+      "scovillain",
+      "dondozo",
+      "farigiraf",
+      "alola_marowak",
+      "galar_weezing"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

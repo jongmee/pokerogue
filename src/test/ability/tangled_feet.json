@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "tangled_feet",
+    "name": "Tangled Feet",
+    "koName": "갈지자걸음",
+    "realased": "",
+    "description": "혼란 상태일 때는 회피율이 올라간다.",
+    "generation": 4,
+    "pokemonIds": [
+      "pidgey",
+      "pidgeotto",
+      "pidgeot",
+      "doduo",
+      "dodrio",
+      "spinda",
+      "chatot",
+      "mr_rime",
+      "flamigo"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

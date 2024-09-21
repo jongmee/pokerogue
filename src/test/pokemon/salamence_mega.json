@@ -1,0 +1,119 @@
+[
+  {
+    "_id": "salamence_mega",
+    "gender": "",
+    "pokedexNumber": "373",
+    "name": "salamence_mega",
+    "koName": "보만다_mega",
+    "speciesName": "salamence",
+    "canChangeForm": true,
+    "formName": "mega",
+    "baseExp": "300",
+    "friendship": "35",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "aerilate"
+    ],
+    "hiddenAbilityId": "aerilate",
+    "passiveAbilityId": "dragons_maw",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 700,
+    "hp": 95,
+    "attack": 145,
+    "defense": 130,
+    "specialAttack": 120,
+    "specialDefense": 90,
+    "speed": 120,
+    "height": 1.8,
+    "weight": 112.6,
+    "eggMoveIds": [
+      "floaty_fall",
+      "fire_lash",
+      "dragon_dance",
+      "glaive_rush"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "fly"
+      },
+      {
+        "level": 1,
+        "moveId": "protect"
+      },
+      {
+        "level": 1,
+        "moveId": "dragon_tail"
+      },
+      {
+        "level": 1,
+        "moveId": "dual_wingbeat"
+      },
+      {
+        "level": 1,
+        "moveId": "roost"
+      },
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "bite"
+      },
+      {
+        "level": 1,
+        "moveId": "dragon_breath"
+      },
+      {
+        "level": 15,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 20,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 25,
+        "moveId": "crunch"
+      },
+      {
+        "level": 33,
+        "moveId": "dragon_claw"
+      },
+      {
+        "level": 39,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 46,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 55,
+        "moveId": "flamethrower"
+      },
+      {
+        "level": 73,
+        "moveId": "double_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "wasteland"
+    ]
+  }
+]

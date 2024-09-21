@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "forests_curse",
+    "name": "Forest's Curse",
+    "koName": "숲의저주",
+    "type": "grass",
+    "moveCategory": "status",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": 100,
+    "powerPoint": 20,
+    "effect": "상대에게 숲의 저주를 건다. 저주에 걸린 상대는 타입에 풀타입이 추가된다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 6,
+    "realased": " (P)",
+    "flags": [],
+    "pokemonIds": [
+      "phantump",
+      "trevenant"
+    ]
+  }
+]

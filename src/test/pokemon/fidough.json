@@ -1,0 +1,152 @@
+[
+  {
+    "_id": "fidough",
+    "gender": "",
+    "pokedexNumber": "926",
+    "name": "fidough",
+    "koName": "쫀도기",
+    "speciesName": "fidough",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "62",
+    "friendship": "50",
+    "types": [
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "own_tempo"
+    ],
+    "hiddenAbilityId": "klutz",
+    "passiveAbilityId": "water_absorb",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 312,
+    "hp": 37,
+    "attack": 55,
+    "defense": 70,
+    "specialAttack": 30,
+    "specialDefense": 55,
+    "speed": 65,
+    "height": 0.3,
+    "weight": 10.9,
+    "eggMoveIds": [
+      "wish",
+      "body_press",
+      "sizzly_slide",
+      "tidy_up"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 3,
+        "moveId": "lick"
+      },
+      {
+        "level": 6,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 8,
+        "moveId": "covet"
+      },
+      {
+        "level": 11,
+        "moveId": "bite"
+      },
+      {
+        "level": 15,
+        "moveId": "baby_doll_eyes"
+      },
+      {
+        "level": 18,
+        "moveId": "play_rough"
+      },
+      {
+        "level": 22,
+        "moveId": "work_up"
+      },
+      {
+        "level": 26,
+        "moveId": "baton_pass"
+      },
+      {
+        "level": 30,
+        "moveId": "roar"
+      },
+      {
+        "level": 33,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 36,
+        "moveId": "charm"
+      },
+      {
+        "level": 40,
+        "moveId": "crunch"
+      },
+      {
+        "level": 45,
+        "moveId": "last_resort"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "dig",
+      "agility",
+      "double_team",
+      "rest",
+      "substitute",
+      "protect",
+      "mud_slap",
+      "endure",
+      "charm",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "facade",
+      "helping_hand",
+      "endeavor",
+      "mud_shot",
+      "covet",
+      "thunder_fang",
+      "ice_fang",
+      "fire_fang",
+      "work_up",
+      "snarl",
+      "misty_terrain",
+      "play_rough",
+      "dazzling_gleam",
+      "psychic_fangs",
+      "stomping_tantrum",
+      "tera_blast",
+      "trailblaze",
+      "alluring_voice"
+    ],
+    "biomeIds": [
+      "town",
+      "metropolis"
+    ]
+  }
+]

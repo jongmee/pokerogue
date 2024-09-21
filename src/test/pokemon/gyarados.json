@@ -1,0 +1,208 @@
+[
+  {
+    "_id": "gyarados",
+    "gender": "",
+    "pokedexNumber": "130",
+    "name": "gyarados",
+    "koName": "갸라도스",
+    "speciesName": "gyarados",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "189",
+    "friendship": "50",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "intimidate"
+    ],
+    "hiddenAbilityId": "moxie",
+    "passiveAbilityId": "multiscale",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 540,
+    "hp": 95,
+    "attack": 125,
+    "defense": 79,
+    "specialAttack": 60,
+    "specialDefense": 100,
+    "speed": 81,
+    "height": 6.5,
+    "weight": 235,
+    "eggMoveIds": [
+      "flip_turn",
+      "ice_spinner",
+      "dragon_ascent",
+      "surging_strikes"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "bite"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "splash"
+      },
+      {
+        "level": 1,
+        "moveId": "flail"
+      },
+      {
+        "level": 1,
+        "moveId": "twister"
+      },
+      {
+        "level": 4,
+        "moveId": "whirlpool"
+      },
+      {
+        "level": 8,
+        "moveId": "ice_fang"
+      },
+      {
+        "level": 12,
+        "moveId": "brine"
+      },
+      {
+        "level": 16,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 21,
+        "moveId": "waterfall"
+      },
+      {
+        "level": 24,
+        "moveId": "crunch"
+      },
+      {
+        "level": 28,
+        "moveId": "rain_dance"
+      },
+      {
+        "level": 32,
+        "moveId": "aqua_tail"
+      },
+      {
+        "level": 36,
+        "moveId": "dragon_dance"
+      },
+      {
+        "level": 40,
+        "moveId": "hydro_pump"
+      },
+      {
+        "level": 44,
+        "moveId": "hurricane"
+      },
+      {
+        "level": 48,
+        "moveId": "thrash"
+      },
+      {
+        "level": 52,
+        "moveId": "hyper_beam"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "strength",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "earthquake",
+      "toxic",
+      "double_team",
+      "reflect",
+      "fire_blast",
+      "waterfall",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "scary_face",
+      "icy_wind",
+      "outrage",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "rock_smash",
+      "whirlpool",
+      "uproar",
+      "hail",
+      "torment",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "endeavor",
+      "dive",
+      "muddy_water",
+      "bounce",
+      "dragon_dance",
+      "water_pulse",
+      "brine",
+      "payback",
+      "dark_pulse",
+      "dragon_pulse",
+      "giga_impact",
+      "avalanche",
+      "ice_fang",
+      "power_whip",
+      "iron_head",
+      "stone_edge",
+      "round",
+      "scald",
+      "incinerate",
+      "bulldoze",
+      "dragon_tail",
+      "hurricane",
+      "confide",
+      "brutal_swing",
+      "scale_shot",
+      "lash_out",
+      "tera_blast",
+      "chilling_water",
+      "dragon_cheer",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "sea",
+      "lake"
+    ]
+  }
+]

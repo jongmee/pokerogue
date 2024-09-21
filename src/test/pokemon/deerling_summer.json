@@ -1,0 +1,104 @@
+[
+  {
+    "_id": "deerling_summer",
+    "gender": "",
+    "pokedexNumber": "585",
+    "name": "deerling_summer",
+    "koName": "사철록_summer",
+    "speciesName": "deerling",
+    "canChangeForm": true,
+    "formName": "summer_form",
+    "baseExp": "67",
+    "friendship": "70",
+    "types": [
+      "normal",
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "chlorophyll",
+      "sap_sipper"
+    ],
+    "hiddenAbilityId": "serene_grace",
+    "passiveAbilityId": "fur_coat",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 335,
+    "hp": 60,
+    "attack": 60,
+    "defense": 50,
+    "specialAttack": 40,
+    "specialDefense": 50,
+    "speed": 75,
+    "height": 0.6,
+    "weight": 19.5,
+    "eggMoveIds": [
+      "tidy_up",
+      "flower_trick",
+      "body_slam",
+      "combat_torque"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "camouflage"
+      },
+      {
+        "level": 4,
+        "moveId": "growl"
+      },
+      {
+        "level": 7,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 10,
+        "moveId": "double_kick"
+      },
+      {
+        "level": 13,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 16,
+        "moveId": "bullet_seed"
+      },
+      {
+        "level": 20,
+        "moveId": "take_down"
+      },
+      {
+        "level": 24,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 28,
+        "moveId": "energy_ball"
+      },
+      {
+        "level": 32,
+        "moveId": "charm"
+      },
+      {
+        "level": 37,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 42,
+        "moveId": "solar_beam"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "forest"
+    ]
+  }
+]

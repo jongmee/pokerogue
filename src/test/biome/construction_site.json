@@ -1,0 +1,133 @@
+[
+  {
+    "_id": "construction_site",
+    "name": "Construction Site",
+    "koName": "공사장",
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "nextBiomes": [
+      {
+        "name": "power_plant",
+        "percentage": 66.66666666666666
+      },
+      {
+        "name": "dojo",
+        "percentage": 33.33333333333333
+      }
+    ],
+    "nativePokemons": [
+      {
+        "tier": "보통",
+        "pokemonIds": [
+          "machop",
+          "machoke",
+          "magnemite",
+          "magneton",
+          "drilbur",
+          "excadrill",
+          "timburr",
+          "gurdurr"
+        ]
+      },
+      {
+        "tier": "드묾",
+        "pokemonIds": [
+          "grimer",
+          "muk",
+          "koffing",
+          "weezing",
+          "rhyhorn",
+          "rhydon",
+          "scraggy",
+          "scrafty"
+        ]
+      },
+      {
+        "tier": "레어",
+        "pokemonIds": [
+          "galar_meowth",
+          "perrserker",
+          "onix",
+          "hitmonlee",
+          "hitmonchan",
+          "duraludon"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어",
+        "pokemonIds": [
+          "ditto",
+          "hitmontop"
+        ]
+      },
+      {
+        "tier": "울트라 레어",
+        "pokemonIds": [
+          "cobalion",
+          "stakataka"
+        ]
+      },
+      {
+        "tier": "보스",
+        "pokemonIds": [
+          "machamp",
+          "conkeldurr"
+        ]
+      },
+      {
+        "tier": "레어 보스",
+        "pokemonIds": [
+          "perrserker",
+          "archaludon"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어 보스",
+        "pokemonIds": [
+          "cobalion",
+          "stakataka"
+        ]
+      },
+      {
+        "tier": "슈퍼 울트라 레어 보스",
+        "pokemonIds": []
+      }
+    ],
+    "trainers": [
+      {
+        "name": "마티스",
+        "types": [
+          "electric"
+        ],
+        "pokemonIds": [
+          "voltorb",
+          "pikachu",
+          "electabuzz"
+        ]
+      },
+      {
+        "name": "사도",
+        "types": [
+          "fighting"
+        ],
+        "pokemonIds": [
+          "poliwrath",
+          "mankey"
+        ]
+      },
+      {
+        "name": "암페어",
+        "types": [
+          "electric"
+        ],
+        "pokemonIds": [
+          "magnemite",
+          "voltorb",
+          "electrike"
+        ]
+      }
+    ]
+  }
+]

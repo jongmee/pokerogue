@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "thermal_exchange",
+    "name": "Thermal Exchange",
+    "koName": "열교환",
+    "realased": "",
+    "description": "불꽃타입 기술로 공격받으면 공격이 올라간다. 화상 상태가 되지 않는다.",
+    "generation": 9,
+    "pokemonIds": [
+      "frigibax",
+      "arctibax",
+      "baxcalibur"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

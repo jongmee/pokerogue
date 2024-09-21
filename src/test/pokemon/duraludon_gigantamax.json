@@ -1,0 +1,103 @@
+[
+  {
+    "_id": "duraludon_gigantamax",
+    "gender": "",
+    "pokedexNumber": "884",
+    "name": "duraludon_gigantamax",
+    "koName": "두랄루돈_gigantamax",
+    "speciesName": "duraludon",
+    "canChangeForm": true,
+    "formName": "g_max",
+    "baseExp": "187",
+    "friendship": "50",
+    "types": [
+      "steel",
+      "dragon"
+    ],
+    "normalAbilityIds": [
+      "lightning_rod"
+    ],
+    "hiddenAbilityId": "lightning_rod",
+    "passiveAbilityId": "steelworker",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 635,
+    "hp": 100,
+    "attack": 105,
+    "defense": 119,
+    "specialAttack": 166,
+    "specialDefense": 57,
+    "speed": 88,
+    "height": 43,
+    "weight": 40,
+    "eggMoveIds": [
+      "core_enforcer",
+      "body_press",
+      "recover",
+      "tachyon_cutter"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 6,
+        "moveId": "rock_smash"
+      },
+      {
+        "level": 12,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 18,
+        "moveId": "metal_sound"
+      },
+      {
+        "level": 24,
+        "moveId": "breaking_swipe"
+      },
+      {
+        "level": 30,
+        "moveId": "dragon_tail"
+      },
+      {
+        "level": 36,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 42,
+        "moveId": "laser_focus"
+      },
+      {
+        "level": 48,
+        "moveId": "dragon_claw"
+      },
+      {
+        "level": 54,
+        "moveId": "flash_cannon"
+      },
+      {
+        "level": 60,
+        "moveId": "metal_burst"
+      },
+      {
+        "level": 66,
+        "moveId": "hyper_beam"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "construction_site"
+    ]
+  }
+]

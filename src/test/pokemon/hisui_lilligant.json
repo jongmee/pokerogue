@@ -1,0 +1,207 @@
+[
+  {
+    "_id": "hisui_lilligant",
+    "gender": "",
+    "pokedexNumber": "6549",
+    "name": "hisui_lilligant",
+    "koName": "드레디어",
+    "speciesName": "hisui_lilligant",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "168",
+    "friendship": "50",
+    "types": [
+      "grass",
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "chlorophyll",
+      "hustle"
+    ],
+    "hiddenAbilityId": "leaf_guard",
+    "passiveAbilityId": "simple",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 480,
+    "hp": 70,
+    "attack": 105,
+    "defense": 75,
+    "specialAttack": 50,
+    "specialDefense": 75,
+    "speed": 105,
+    "height": 1.2,
+    "weight": 19.2,
+    "eggMoveIds": [
+      "thunderous_kick",
+      "sparkling_aria",
+      "fiery_dance",
+      "flower_trick"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "victory_dance"
+      },
+      {
+        "level": 1,
+        "moveId": "mega_kick"
+      },
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 1,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 1,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 1,
+        "moveId": "growth"
+      },
+      {
+        "level": 1,
+        "moveId": "stun_spore"
+      },
+      {
+        "level": 1,
+        "moveId": "sleep_powder"
+      },
+      {
+        "level": 1,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 1,
+        "moveId": "synthesis"
+      },
+      {
+        "level": 1,
+        "moveId": "sunny_day"
+      },
+      {
+        "level": 1,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 1,
+        "moveId": "teeter_dance"
+      },
+      {
+        "level": 1,
+        "moveId": "magical_leaf"
+      },
+      {
+        "level": 1,
+        "moveId": "leaf_blade"
+      },
+      {
+        "level": 1,
+        "moveId": "energy_ball"
+      },
+      {
+        "level": 1,
+        "moveId": "defog"
+      },
+      {
+        "level": 1,
+        "moveId": "leaf_storm"
+      },
+      {
+        "level": 1,
+        "moveId": "entrainment"
+      },
+      {
+        "level": 1,
+        "moveId": "after_you"
+      },
+      {
+        "level": 1,
+        "moveId": "petal_blizzard"
+      },
+      {
+        "level": 1,
+        "moveId": "solar_blade"
+      },
+      {
+        "level": 5,
+        "moveId": "axe_kick"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "mega_kick",
+      "take_down",
+      "hyper_beam",
+      "low_kick",
+      "solar_beam",
+      "double_team",
+      "metronome",
+      "flash",
+      "rest",
+      "substitute",
+      "protect",
+      "giga_drain",
+      "endure",
+      "charm",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "encore",
+      "synthesis",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "rock_smash",
+      "facade",
+      "nature_power",
+      "helping_hand",
+      "brick_break",
+      "weather_ball",
+      "bullet_seed",
+      "aerial_ace",
+      "covet",
+      "magical_leaf",
+      "leaf_blade",
+      "close_combat",
+      "worry_seed",
+      "poison_jab",
+      "seed_bomb",
+      "air_slash",
+      "vacuum_wave",
+      "energy_ball",
+      "giga_impact",
+      "defog",
+      "leaf_storm",
+      "grass_knot",
+      "low_sweep",
+      "acrobatics",
+      "hurricane",
+      "petal_blizzard",
+      "grassy_terrain",
+      "solar_blade",
+      "pollen_puff",
+      "grassy_glide",
+      "coaching",
+      "triple_axel",
+      "tera_blast",
+      "ice_spinner",
+      "trailblaze",
+      "upper_hand"
+    ],
+    "biomeIds": [
+      "meadow"
+    ]
+  }
+]

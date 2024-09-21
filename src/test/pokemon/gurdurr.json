@@ -1,0 +1,176 @@
+[
+  {
+    "_id": "gurdurr",
+    "gender": "",
+    "pokedexNumber": "533",
+    "name": "gurdurr",
+    "koName": "토쇠골",
+    "speciesName": "gurdurr",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "142",
+    "friendship": "50",
+    "types": [
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "guts",
+      "sheer_force"
+    ],
+    "hiddenAbilityId": "iron_fist",
+    "passiveAbilityId": "rocky_payload",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 405,
+    "hp": 85,
+    "attack": 105,
+    "defense": 85,
+    "specialAttack": 40,
+    "specialDefense": 50,
+    "speed": 40,
+    "height": 1.2,
+    "weight": 40,
+    "eggMoveIds": [
+      "mach_punch",
+      "drain_punch",
+      "ice_hammer",
+      "double_iron_bash"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "low_kick"
+      },
+      {
+        "level": 1,
+        "moveId": "rock_throw"
+      },
+      {
+        "level": 1,
+        "moveId": "bide"
+      },
+      {
+        "level": 12,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 16,
+        "moveId": "bulk_up"
+      },
+      {
+        "level": 20,
+        "moveId": "rock_slide"
+      },
+      {
+        "level": 24,
+        "moveId": "slam"
+      },
+      {
+        "level": 30,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 36,
+        "moveId": "dynamic_punch"
+      },
+      {
+        "level": 42,
+        "moveId": "hammer_arm"
+      },
+      {
+        "level": 48,
+        "moveId": "stone_edge"
+      },
+      {
+        "level": 54,
+        "moveId": "superpower"
+      },
+      {
+        "level": 60,
+        "moveId": "focus_punch"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "mega_kick",
+      "take_down",
+      "double_edge",
+      "low_kick",
+      "counter",
+      "strength",
+      "dig",
+      "toxic",
+      "double_team",
+      "focus_energy",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "reversal",
+      "protect",
+      "scary_face",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "rock_smash",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "superpower",
+      "revenge",
+      "brick_break",
+      "knock_off",
+      "rock_tomb",
+      "bulk_up",
+      "close_combat",
+      "payback",
+      "fling",
+      "poison_jab",
+      "drain_punch",
+      "focus_blast",
+      "defog",
+      "stone_edge",
+      "grass_knot",
+      "smack_down",
+      "low_sweep",
+      "round",
+      "retaliate",
+      "work_up",
+      "confide",
+      "power_up_punch",
+      "high_horsepower",
+      "brutal_swing",
+      "coaching",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "factory",
+      "construction_site"
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "_id": "photon_geyser",
+    "name": "Photon Geyser",
+    "koName": "포톤가이저",
+    "type": "psychic",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 100,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "빛의 기둥으로 공격한다. 공격과 특수공격을 비교해서 높은 쪽으로 데미지를 준다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": " (P)",
+    "flags": [
+      "ignore_abilities"
+    ],
+    "pokemonIds": [
+      "mewtwo",
+      "mewtwo_mega_x",
+      "mewtwo_mega_y",
+      "mew",
+      "stantler",
+      "celebi",
+      "meditite",
+      "medicham",
+      "medicham_mega",
+      "hoopa",
+      "cosmog",
+      "cosmoem",
+      "solgaleo",
+      "lunala",
+      "necrozma",
+      "calyrex",
+      "calyrex_ice",
+      "calyrex_shadow",
+      "wyrdeer",
+      "charcadet",
+      "armarouge",
+      "ceruledge",
+      "eternal_floette",
+      "galar_ponyta",
+      "galar_rapidash"
+    ]
+  }
+]

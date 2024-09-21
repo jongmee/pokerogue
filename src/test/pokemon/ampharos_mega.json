@@ -1,0 +1,136 @@
+[
+  {
+    "_id": "ampharos_mega",
+    "gender": "",
+    "pokedexNumber": "181",
+    "name": "ampharos_mega",
+    "koName": "전룡_mega",
+    "speciesName": "ampharos",
+    "canChangeForm": true,
+    "formName": "mega",
+    "baseExp": "230",
+    "friendship": "70",
+    "types": [
+      "electric",
+      "dragon"
+    ],
+    "normalAbilityIds": [
+      "mold_breaker"
+    ],
+    "hiddenAbilityId": "mold_breaker",
+    "passiveAbilityId": "electromorphosis",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 610,
+    "hp": 90,
+    "attack": 95,
+    "defense": 105,
+    "specialAttack": 165,
+    "specialDefense": 110,
+    "speed": 45,
+    "height": 1.4,
+    "weight": 61.5,
+    "eggMoveIds": [
+      "ice_beam",
+      "parabolic_charge",
+      "core_enforcer",
+      "tail_glow"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "thunder_punch"
+      },
+      {
+        "level": 1,
+        "moveId": "fire_punch"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_wave"
+      },
+      {
+        "level": 1,
+        "moveId": "zap_cannon"
+      },
+      {
+        "level": 1,
+        "moveId": "dragon_pulse"
+      },
+      {
+        "level": 1,
+        "moveId": "magnetic_flux"
+      },
+      {
+        "level": 1,
+        "moveId": "ion_deluge"
+      },
+      {
+        "level": 11,
+        "moveId": "cotton_spore"
+      },
+      {
+        "level": 16,
+        "moveId": "charge"
+      },
+      {
+        "level": 20,
+        "moveId": "take_down"
+      },
+      {
+        "level": 25,
+        "moveId": "electro_ball"
+      },
+      {
+        "level": 29,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 35,
+        "moveId": "power_gem"
+      },
+      {
+        "level": 40,
+        "moveId": "discharge"
+      },
+      {
+        "level": 46,
+        "moveId": "cotton_guard"
+      },
+      {
+        "level": 51,
+        "moveId": "dazzling_gleam"
+      },
+      {
+        "level": 57,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 62,
+        "moveId": "thunder"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "meadow",
+      "power_plant"
+    ]
+  }
+]

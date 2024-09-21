@@ -1,0 +1,101 @@
+[
+  {
+    "_id": "palkia_origin",
+    "gender": "",
+    "pokedexNumber": "484",
+    "name": "palkia_origin",
+    "koName": "펄기아_origin",
+    "speciesName": "palkia",
+    "canChangeForm": true,
+    "formName": "origin_forme",
+    "baseExp": "340",
+    "friendship": "0",
+    "types": [
+      "water",
+      "dragon"
+    ],
+    "normalAbilityIds": [
+      "pressure"
+    ],
+    "hiddenAbilityId": "telepathy",
+    "passiveAbilityId": "speed_boost",
+    "generation": 4,
+    "legendary": true,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 680,
+    "hp": 90,
+    "attack": 100,
+    "defense": 100,
+    "specialAttack": 150,
+    "specialDefense": 120,
+    "speed": 120,
+    "height": 6.3,
+    "weight": 659,
+    "eggMoveIds": [
+      "recover",
+      "take_heart",
+      "freeze_dry",
+      "origin_pulse"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 1,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 8,
+        "moveId": "dragon_breath"
+      },
+      {
+        "level": 16,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 24,
+        "moveId": "slash"
+      },
+      {
+        "level": 32,
+        "moveId": "aqua_ring"
+      },
+      {
+        "level": 48,
+        "moveId": "aura_sphere"
+      },
+      {
+        "level": 56,
+        "moveId": "power_gem"
+      },
+      {
+        "level": 64,
+        "moveId": "aqua_tail"
+      },
+      {
+        "level": 72,
+        "moveId": "earth_power"
+      },
+      {
+        "level": 80,
+        "moveId": "spacial_rend"
+      },
+      {
+        "level": 88,
+        "moveId": "hydro_pump"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "abyss"
+    ]
+  }
+]

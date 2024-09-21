@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "liquid_voice",
+    "name": "Liquid Voice",
+    "koName": "촉촉보이스",
+    "realased": "",
+    "description": "모든 소리 기술이 물타입이 된다.",
+    "generation": 7,
+    "pokemonIds": [
+      "popplio",
+      "brionne",
+      "primarina"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

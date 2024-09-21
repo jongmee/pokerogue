@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "flying_press",
+    "name": "Flying Press",
+    "koName": "플라잉프레스",
+    "type": "fighting",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 100,
+    "accuracy": 95,
+    "powerPoint": 10,
+    "effect": "공중에서 상대에게 다이브한다. 이 기술은 격투타입임과 동시에 비행타입이기도 하다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 6,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "pikachu_tough_cosplay",
+      "hawlucha"
+    ]
+  }
+]

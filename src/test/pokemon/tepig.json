@@ -1,0 +1,164 @@
+[
+  {
+    "_id": "tepig",
+    "gender": "",
+    "pokedexNumber": "498",
+    "name": "tepig",
+    "koName": "뚜꾸리",
+    "speciesName": "tepig",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "62",
+    "friendship": "70",
+    "types": [
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "blaze"
+    ],
+    "hiddenAbilityId": "thick_fat",
+    "passiveAbilityId": "rock_head",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 308,
+    "hp": 65,
+    "attack": 63,
+    "defense": 45,
+    "specialAttack": 45,
+    "specialDefense": 45,
+    "speed": 45,
+    "height": 0.5,
+    "weight": 9.9,
+    "eggMoveIds": [
+      "wave_crash",
+      "volt_tackle",
+      "drain_punch",
+      "victory_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 3,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 5,
+        "moveId": "ember"
+      },
+      {
+        "level": 9,
+        "moveId": "endure"
+      },
+      {
+        "level": 13,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": 15,
+        "moveId": "flame_charge"
+      },
+      {
+        "level": 19,
+        "moveId": "smog"
+      },
+      {
+        "level": 21,
+        "moveId": "rollout"
+      },
+      {
+        "level": 25,
+        "moveId": "take_down"
+      },
+      {
+        "level": 27,
+        "moveId": "heat_crash"
+      },
+      {
+        "level": 31,
+        "moveId": "assurance"
+      },
+      {
+        "level": 33,
+        "moveId": "flamethrower"
+      },
+      {
+        "level": 37,
+        "moveId": "head_smash"
+      },
+      {
+        "level": 39,
+        "moveId": "roar"
+      },
+      {
+        "level": 43,
+        "moveId": "flare_blitz"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "strength",
+      "solar_beam",
+      "toxic",
+      "double_team",
+      "fire_blast",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "sunny_day",
+      "rock_smash",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "superpower",
+      "endeavor",
+      "overheat",
+      "rock_tomb",
+      "covet",
+      "gyro_ball",
+      "assurance",
+      "flare_blitz",
+      "zen_headbutt",
+      "grass_knot",
+      "heavy_slam",
+      "flame_charge",
+      "round",
+      "echoed_voice",
+      "incinerate",
+      "fire_pledge",
+      "work_up",
+      "wild_charge",
+      "heat_crash",
+      "confide",
+      "stomping_tantrum",
+      "tera_blast",
+      "trailblaze",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "volcano"
+    ]
+  }
+]

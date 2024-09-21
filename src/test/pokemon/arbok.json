@@ -1,0 +1,211 @@
+[
+  {
+    "_id": "arbok",
+    "gender": "",
+    "pokedexNumber": "24",
+    "name": "arbok",
+    "koName": "아보크",
+    "speciesName": "arbok",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "157",
+    "friendship": "70",
+    "types": [
+      "poison"
+    ],
+    "normalAbilityIds": [
+      "intimidate",
+      "shed_skin"
+    ],
+    "hiddenAbilityId": "unnerve",
+    "passiveAbilityId": "regenerator",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 448,
+    "hp": 60,
+    "attack": 95,
+    "defense": 69,
+    "specialAttack": 65,
+    "specialDefense": 79,
+    "speed": 80,
+    "height": 3.5,
+    "weight": 65,
+    "eggMoveIds": [
+      "noxious_torque",
+      "dragon_dance",
+      "slack_off",
+      "shed_tail"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "crunch"
+      },
+      {
+        "level": 1,
+        "moveId": "wrap"
+      },
+      {
+        "level": 1,
+        "moveId": "poison_sting"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "bite"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_fang"
+      },
+      {
+        "level": 1,
+        "moveId": "ice_fang"
+      },
+      {
+        "level": 1,
+        "moveId": "fire_fang"
+      },
+      {
+        "level": 12,
+        "moveId": "glare"
+      },
+      {
+        "level": 17,
+        "moveId": "screech"
+      },
+      {
+        "level": 20,
+        "moveId": "acid"
+      },
+      {
+        "level": 27,
+        "moveId": "stockpile"
+      },
+      {
+        "level": 27,
+        "moveId": "spit_up"
+      },
+      {
+        "level": 27,
+        "moveId": "swallow"
+      },
+      {
+        "level": 32,
+        "moveId": "acid_spray"
+      },
+      {
+        "level": 39,
+        "moveId": "sludge_bomb"
+      },
+      {
+        "level": 44,
+        "moveId": "gastro_acid"
+      },
+      {
+        "level": 48,
+        "moveId": "belch"
+      },
+      {
+        "level": 51,
+        "moveId": "haze"
+      },
+      {
+        "level": 56,
+        "moveId": "coil"
+      },
+      {
+        "level": 63,
+        "moveId": "gunk_shot"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "screech",
+      "double_team",
+      "haze",
+      "leech_life",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "mud_slap",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "beat_up",
+      "torment",
+      "facade",
+      "knock_off",
+      "rock_tomb",
+      "mud_shot",
+      "poison_tail",
+      "payback",
+      "gastro_acid",
+      "toxic_spikes",
+      "poison_jab",
+      "dark_pulse",
+      "aqua_tail",
+      "seed_bomb",
+      "giga_impact",
+      "thunder_fang",
+      "ice_fang",
+      "fire_fang",
+      "gunk_shot",
+      "venoshock",
+      "sludge_wave",
+      "acid_spray",
+      "round",
+      "bulldoze",
+      "dragon_tail",
+      "snarl",
+      "confide",
+      "infestation",
+      "throat_chop",
+      "brutal_swing",
+      "psychic_fangs",
+      "stomping_tantrum",
+      "breaking_swipe",
+      "scale_shot",
+      "skitter_smack",
+      "lash_out",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "forest",
+      "swamp"
+    ]
+  }
+]

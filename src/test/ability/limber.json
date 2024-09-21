@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "limber",
+    "name": "Limber",
+    "koName": "유연",
+    "realased": "",
+    "description": "유연한 몸으로 인해 마비 상태가 되지 않는다.",
+    "generation": 3,
+    "pokemonIds": [
+      "persian",
+      "hitmonlee",
+      "ditto",
+      "buneary",
+      "lopunny",
+      "glameow",
+      "purrloin",
+      "liepard",
+      "stunfisk",
+      "hawlucha",
+      "mareanie",
+      "toxapex",
+      "clobbopus",
+      "grapploct"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

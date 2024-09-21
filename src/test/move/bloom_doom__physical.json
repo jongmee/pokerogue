@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "bloom_doom__physical",
+    "name": "Bloom Doom",
+    "koName": "블룸샤인엑스트라",
+    "type": "grass",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 1,
+    "effect": "Z파워로 화초들의 에너지를 빌려 전력으로 상대를 공격한다. 원래 기술에 따라 위력이 변한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": " (N)",
+    "flags": [
+      "makes_contact",
+      "ignore_virtual"
+    ],
+    "pokemonIds": []
+  }
+]

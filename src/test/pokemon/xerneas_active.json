@@ -1,0 +1,126 @@
+[
+  {
+    "_id": "xerneas_active",
+    "gender": "",
+    "pokedexNumber": "716",
+    "name": "xerneas_active",
+    "koName": "제르네아스_active",
+    "speciesName": "xerneas",
+    "canChangeForm": true,
+    "formName": "active_mode",
+    "baseExp": "340",
+    "friendship": "0",
+    "types": [
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "fairy_aura"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "harvest",
+    "generation": 6,
+    "legendary": true,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 680,
+    "hp": 126,
+    "attack": 131,
+    "defense": 95,
+    "specialAttack": 131,
+    "specialDefense": 98,
+    "speed": 99,
+    "height": 3,
+    "weight": 215,
+    "eggMoveIds": [
+      "searing_shot",
+      "lumina_crash",
+      "strength_sap",
+      "tail_glow"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "gravity"
+      },
+      {
+        "level": 5,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 10,
+        "moveId": "aurora_beam"
+      },
+      {
+        "level": 15,
+        "moveId": "nature_power"
+      },
+      {
+        "level": 20,
+        "moveId": "night_slash"
+      },
+      {
+        "level": 25,
+        "moveId": "aromatherapy"
+      },
+      {
+        "level": 30,
+        "moveId": "psych_up"
+      },
+      {
+        "level": 35,
+        "moveId": "horn_leech"
+      },
+      {
+        "level": 40,
+        "moveId": "misty_terrain"
+      },
+      {
+        "level": 45,
+        "moveId": "ingrain"
+      },
+      {
+        "level": 50,
+        "moveId": "take_down"
+      },
+      {
+        "level": 55,
+        "moveId": "geomancy"
+      },
+      {
+        "level": 60,
+        "moveId": "moonblast"
+      },
+      {
+        "level": 65,
+        "moveId": "heal_pulse"
+      },
+      {
+        "level": 70,
+        "moveId": "megahorn"
+      },
+      {
+        "level": 75,
+        "moveId": "close_combat"
+      },
+      {
+        "level": 80,
+        "moveId": "outrage"
+      },
+      {
+        "level": 85,
+        "moveId": "giga_impact"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "fairy_cave"
+    ]
+  }
+]

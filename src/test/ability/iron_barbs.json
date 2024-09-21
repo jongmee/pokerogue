@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "iron_barbs",
+    "name": "Iron Barbs",
+    "koName": "철가시",
+    "realased": "",
+    "description": "자신과 접촉한 상대에게 철가시로 데미지를 준다.",
+    "generation": 5,
+    "pokemonIds": [
+      "pineco",
+      "forretress",
+      "ferroseed",
+      "ferrothorn",
+      "togedemaru",
+      "rookidee",
+      "corvisquire",
+      "corviknight",
+      "corviknight_gigantamax"
+    ],
+    "isBypassFaint": true,
+    "isIgnorable": false
+  }
+]

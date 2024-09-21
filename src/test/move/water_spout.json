@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "water_spout",
+    "name": "Water Spout",
+    "koName": "해수스파우팅",
+    "type": "water",
+    "moveCategory": "special",
+    "moveTarget": "all_near_enemies",
+    "power": 150,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "바닷물을 내뿜어 공격한다. 자신의 HP가 적을수록 기술의 위력이 떨어진다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 3,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "wailmer",
+      "wailord",
+      "kyogre",
+      "frillish",
+      "jellicent"
+    ]
+  }
+]

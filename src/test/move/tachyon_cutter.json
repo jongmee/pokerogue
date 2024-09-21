@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "tachyon_cutter",
+    "name": "Tachyon Cutter",
+    "koName": "타키온커터",
+    "type": "steel",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 50,
+    "accuracy": -1,
+    "powerPoint": 10,
+    "effect": "입자로 된 칼날을 연이어 발사해서 2회 연속으로 데미지를 준다. 공격은 반드시 명중한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 9,
+    "realased": "",
+    "flags": [
+      "slicing_move"
+    ],
+    "pokemonIds": [
+      "nosepass",
+      "latios",
+      "latios_mega",
+      "jirachi",
+      "piplup",
+      "prinplup",
+      "empoleon",
+      "bronzor",
+      "bronzong",
+      "riolu",
+      "lucario",
+      "lucario_mega",
+      "probopass",
+      "heatran",
+      "genesect",
+      "genesect_shock",
+      "genesect_burn",
+      "genesect_chill",
+      "genesect_douse",
+      "honedge",
+      "doublade",
+      "aegislash",
+      "aegislash_blade",
+      "duraludon",
+      "duraludon_gigantamax",
+      "archaludon",
+      "iron_crown"
+    ]
+  }
+]

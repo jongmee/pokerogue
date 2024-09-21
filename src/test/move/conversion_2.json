@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "conversion_2",
+    "name": "Conversion 2",
+    "koName": "텍스처2",
+    "type": "normal",
+    "moveCategory": "status",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 30,
+    "effect": "상대가 마지막으로 쓴 기술에 저항할 수 있도록 자신의 타입을 변화시킨다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 2,
+    "realased": " (P)",
+    "flags": [],
+    "pokemonIds": [
+      "porygon",
+      "porygon2",
+      "porygon_z"
+    ]
+  }
+]

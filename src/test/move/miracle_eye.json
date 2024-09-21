@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "miracle_eye",
+    "name": "Miracle Eye",
+    "koName": "미라클아이",
+    "type": "psychic",
+    "moveCategory": "status",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 40,
+    "effect": "악타입에 효과가 없는 기술이나 회피율이 높은 상대라 할지라도 공격이 맞게 된다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 4,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": []
+  }
+]

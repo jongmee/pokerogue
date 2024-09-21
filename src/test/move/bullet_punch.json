@@ -1,0 +1,41 @@
+[
+  {
+    "_id": "bullet_punch",
+    "name": "Bullet Punch",
+    "koName": "불릿펀치",
+    "type": "steel",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 40,
+    "accuracy": 100,
+    "powerPoint": 30,
+    "effect": "탄환처럼 빠르고 단단한 펀치를 상대에게 날린다. 반드시 선제공격을 할 수 있다.",
+    "effectChance": -1,
+    "prioirty": 1,
+    "generation": 4,
+    "realased": "",
+    "flags": [
+      "makes_contact",
+      "punching_move"
+    ],
+    "pokemonIds": [
+      "hitmonchan",
+      "scizor",
+      "mawile",
+      "mawile_mega",
+      "meditite",
+      "medicham",
+      "medicham_mega",
+      "metang",
+      "metagross",
+      "scraggy",
+      "scrafty",
+      "pangoro",
+      "meltan",
+      "melmetal",
+      "melmetal_gigantamax",
+      "perrserker",
+      "galar_meowth"
+    ]
+  }
+]

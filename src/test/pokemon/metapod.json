@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "metapod",
+    "gender": "",
+    "pokedexNumber": "11",
+    "name": "metapod",
+    "koName": "단데기",
+    "speciesName": "metapod",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "72",
+    "friendship": "50",
+    "types": [
+      "bug"
+    ],
+    "normalAbilityIds": [
+      "shed_skin"
+    ],
+    "hiddenAbilityId": "shed_skin",
+    "passiveAbilityId": "magician",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 205,
+    "hp": 50,
+    "attack": 20,
+    "defense": 55,
+    "specialAttack": 25,
+    "specialDefense": 25,
+    "speed": 30,
+    "height": 0.7,
+    "weight": 9.9,
+    "eggMoveIds": [
+      "sandsear_storm",
+      "silk_trap",
+      "twin_beam",
+      "bleakwind_storm"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "harden"
+      },
+      {
+        "level": 1,
+        "moveId": "harden"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "iron_defense",
+      "bug_bite",
+      "electroweb"
+    ],
+    "biomeIds": [
+      "town"
+    ]
+  }
+]

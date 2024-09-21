@@ -1,0 +1,107 @@
+[
+  {
+    "_id": "sinistcha_unremarkable",
+    "gender": "",
+    "pokedexNumber": "1013",
+    "name": "sinistcha_unremarkable",
+    "koName": "그우린차_unremarkable",
+    "speciesName": "sinistcha",
+    "canChangeForm": true,
+    "formName": "unremarkable_form",
+    "baseExp": "178",
+    "friendship": "50",
+    "types": [
+      "grass",
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "hospitality"
+    ],
+    "hiddenAbilityId": "heatproof",
+    "passiveAbilityId": "triage",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 508,
+    "hp": 71,
+    "attack": 60,
+    "defense": 106,
+    "specialAttack": 121,
+    "specialDefense": 80,
+    "speed": 70,
+    "height": 0.2,
+    "weight": 2.2,
+    "eggMoveIds": [
+      "shell_smash",
+      "bouncy_bubble",
+      "leech_seed",
+      "sparkly_swirl"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "matcha_gotcha"
+      },
+      {
+        "level": 1,
+        "moveId": "stun_spore"
+      },
+      {
+        "level": 1,
+        "moveId": "withdraw"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 6,
+        "moveId": "absorb"
+      },
+      {
+        "level": 12,
+        "moveId": "life_dew"
+      },
+      {
+        "level": 18,
+        "moveId": "foul_play"
+      },
+      {
+        "level": 24,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 30,
+        "moveId": "hex"
+      },
+      {
+        "level": 36,
+        "moveId": "rage_powder"
+      },
+      {
+        "level": 42,
+        "moveId": "strength_sap"
+      },
+      {
+        "level": 48,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 54,
+        "moveId": "memento"
+      },
+      {
+        "level": 60,
+        "moveId": "leaf_storm"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "badlands"
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "barrier",
+    "name": "Barrier",
+    "koName": "배리어",
+    "type": "psychic",
+    "moveCategory": "status",
+    "moveTarget": "user",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 20,
+    "effect": "튼튼한 장막을 만들어 자신의 방어를 크게 올린다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 1,
+    "realased": "",
+    "flags": [
+      "ignore_protect"
+    ],
+    "pokemonIds": [
+      "mr_mime",
+      "mime_jr",
+      "magnezone"
+    ]
+  }
+]

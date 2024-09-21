@@ -1,0 +1,176 @@
+[
+  {
+    "_id": "cresselia",
+    "gender": "",
+    "pokedexNumber": "488",
+    "name": "cresselia",
+    "koName": "크레세리아",
+    "speciesName": "cresselia",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "300",
+    "friendship": "100",
+    "types": [
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "levitate"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "shadow_shield",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 580,
+    "hp": 120,
+    "attack": 70,
+    "defense": 110,
+    "specialAttack": 75,
+    "specialDefense": 120,
+    "speed": 85,
+    "height": 1.5,
+    "weight": 85.6,
+    "eggMoveIds": [
+      "cosmic_power",
+      "secret_sword",
+      "sizzly_slide",
+      "lumina_crash"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 1,
+        "moveId": "double_team"
+      },
+      {
+        "level": 6,
+        "moveId": "mist"
+      },
+      {
+        "level": 12,
+        "moveId": "aurora_beam"
+      },
+      {
+        "level": 18,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 24,
+        "moveId": "ally_switch"
+      },
+      {
+        "level": 30,
+        "moveId": "slash"
+      },
+      {
+        "level": 36,
+        "moveId": "psycho_cut"
+      },
+      {
+        "level": 42,
+        "moveId": "moonlight"
+      },
+      {
+        "level": 48,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 54,
+        "moveId": "psychic"
+      },
+      {
+        "level": 60,
+        "moveId": "moonblast"
+      },
+      {
+        "level": 66,
+        "moveId": "future_sight"
+      },
+      {
+        "level": 72,
+        "moveId": "lunar_dance"
+      },
+      {
+        "level": 72,
+        "moveId": "lunar_blessing"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "ice_beam",
+      "psybeam",
+      "hyper_beam",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "psychic",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "swift",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "facade",
+      "helping_hand",
+      "trick",
+      "recycle",
+      "skill_swap",
+      "signal_beam",
+      "calm_mind",
+      "gravity",
+      "power_swap",
+      "guard_swap",
+      "power_gem",
+      "energy_ball",
+      "giga_impact",
+      "psycho_cut",
+      "zen_headbutt",
+      "trick_room",
+      "grass_knot",
+      "charge_beam",
+      "psyshock",
+      "magic_room",
+      "round",
+      "stored_power",
+      "ally_switch",
+      "confide",
+      "dazzling_gleam",
+      "psychic_terrain",
+      "expanding_force",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "beach"
+    ]
+  }
+]

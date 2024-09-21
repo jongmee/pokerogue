@@ -1,0 +1,129 @@
+[
+  {
+    "_id": "nincada",
+    "gender": "",
+    "pokedexNumber": "290",
+    "name": "nincada",
+    "koName": "토중몬",
+    "speciesName": "nincada",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "53",
+    "friendship": "50",
+    "types": [
+      "bug",
+      "ground"
+    ],
+    "normalAbilityIds": [
+      "compound_eyes"
+    ],
+    "hiddenAbilityId": "run_away",
+    "passiveAbilityId": "magic_guard",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 266,
+    "hp": 31,
+    "attack": 45,
+    "defense": 90,
+    "specialAttack": 30,
+    "specialDefense": 30,
+    "speed": 40,
+    "height": 0.5,
+    "weight": 5.5,
+    "eggMoveIds": [
+      "attack_order",
+      "sticky_web",
+      "spirit_shackle",
+      "shell_smash"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 5,
+        "moveId": "harden"
+      },
+      {
+        "level": 10,
+        "moveId": "false_swipe"
+      },
+      {
+        "level": 15,
+        "moveId": "mud_slap"
+      },
+      {
+        "level": 21,
+        "moveId": "absorb"
+      },
+      {
+        "level": 25,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 30,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 35,
+        "moveId": "mind_reader"
+      },
+      {
+        "level": 40,
+        "moveId": "dig"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "cut",
+      "solar_beam",
+      "dig",
+      "toxic",
+      "double_team",
+      "leech_life",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "spite",
+      "protect",
+      "mud_slap",
+      "sandstorm",
+      "giga_drain",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "metal_claw",
+      "hidden_power",
+      "sunny_day",
+      "shadow_ball",
+      "facade",
+      "aerial_ace",
+      "x_scissor",
+      "bug_buzz",
+      "bug_bite",
+      "hone_claws",
+      "round",
+      "struggle_bug",
+      "confide",
+      "skitter_smack",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "town",
+      "tall_grass"
+    ]
+  }
+]

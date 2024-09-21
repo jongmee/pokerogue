@@ -1,0 +1,103 @@
+[
+  {
+    "_id": "coalossal_gigantamax",
+    "gender": "",
+    "pokedexNumber": "839",
+    "name": "coalossal_gigantamax",
+    "koName": "석탄산_gigantamax",
+    "speciesName": "coalossal",
+    "canChangeForm": true,
+    "formName": "g_max",
+    "baseExp": "255",
+    "friendship": "50",
+    "types": [
+      "rock",
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "steam_engine"
+    ],
+    "hiddenAbilityId": "steam_engine",
+    "passiveAbilityId": "solid_rock",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 610,
+    "hp": 140,
+    "attack": 95,
+    "defense": 130,
+    "specialAttack": 95,
+    "specialDefense": 110,
+    "speed": 40,
+    "height": 42,
+    "weight": 310.5,
+    "eggMoveIds": [
+      "bitter_blade",
+      "body_press",
+      "bulk_up",
+      "diamond_storm"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "tar_shot"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "smokescreen"
+      },
+      {
+        "level": 1,
+        "moveId": "rapid_spin"
+      },
+      {
+        "level": 1,
+        "moveId": "smack_down"
+      },
+      {
+        "level": 1,
+        "moveId": "flame_charge"
+      },
+      {
+        "level": 15,
+        "moveId": "rock_polish"
+      },
+      {
+        "level": 20,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 27,
+        "moveId": "incinerate"
+      },
+      {
+        "level": 37,
+        "moveId": "stealth_rock"
+      },
+      {
+        "level": 45,
+        "moveId": "heat_crash"
+      },
+      {
+        "level": 54,
+        "moveId": "rock_blast"
+      },
+      {
+        "level": 63,
+        "moveId": "stone_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "volcano"
+    ]
+  }
+]

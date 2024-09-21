@@ -1,0 +1,196 @@
+[
+  {
+    "_id": "snubbull",
+    "gender": "",
+    "pokedexNumber": "209",
+    "name": "snubbull",
+    "koName": "블루",
+    "speciesName": "snubbull",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "60",
+    "friendship": "70",
+    "types": [
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "intimidate",
+      "run_away"
+    ],
+    "hiddenAbilityId": "rattled",
+    "passiveAbilityId": "pixilate",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 300,
+    "hp": 60,
+    "attack": 80,
+    "defense": 50,
+    "specialAttack": 40,
+    "specialDefense": 40,
+    "speed": 30,
+    "height": 0.6,
+    "weight": 7.8,
+    "eggMoveIds": [
+      "facade",
+      "earthquake",
+      "swords_dance",
+      "extreme_speed"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 1,
+        "moveId": "charm"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_fang"
+      },
+      {
+        "level": 1,
+        "moveId": "ice_fang"
+      },
+      {
+        "level": 1,
+        "moveId": "fire_fang"
+      },
+      {
+        "level": 7,
+        "moveId": "bite"
+      },
+      {
+        "level": 13,
+        "moveId": "lick"
+      },
+      {
+        "level": 19,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 25,
+        "moveId": "roar"
+      },
+      {
+        "level": 31,
+        "moveId": "last_resort"
+      },
+      {
+        "level": 37,
+        "moveId": "play_rough"
+      },
+      {
+        "level": 43,
+        "moveId": "payback"
+      },
+      {
+        "level": 49,
+        "moveId": "crunch"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "low_kick",
+      "counter",
+      "strength",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "earthquake",
+      "dig",
+      "toxic",
+      "double_team",
+      "reflect",
+      "metronome",
+      "fire_blast",
+      "rest",
+      "super_fang",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "reversal",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "mud_slap",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "shadow_ball",
+      "rock_smash",
+      "torment",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "superpower",
+      "brick_break",
+      "endeavor",
+      "hyper_voice",
+      "fake_tears",
+      "overheat",
+      "bulk_up",
+      "covet",
+      "water_pulse",
+      "close_combat",
+      "payback",
+      "fling",
+      "thunder_fang",
+      "ice_fang",
+      "fire_fang",
+      "round",
+      "incinerate",
+      "retaliate",
+      "bulldoze",
+      "work_up",
+      "wild_charge",
+      "snarl",
+      "play_rough",
+      "confide",
+      "dazzling_gleam",
+      "power_up_punch",
+      "psychic_fangs",
+      "tera_blast",
+      "trailblaze",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "meadow"
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "cloud_nine",
+    "name": "Cloud Nine",
+    "koName": "날씨부정",
+    "realased": "",
+    "description": "모든 날씨의 영향이 없어진다.",
+    "generation": 3,
+    "pokemonIds": [
+      "psyduck",
+      "golduck",
+      "lickitung",
+      "swablu",
+      "altaria",
+      "lickilicky",
+      "drampa"
+    ],
+    "isBypassFaint": true,
+    "isIgnorable": false
+  }
+]

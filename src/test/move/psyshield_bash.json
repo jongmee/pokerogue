@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "psyshield_bash",
+    "name": "Psyshield Bash",
+    "koName": "배리어러시",
+    "type": "psychic",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 70,
+    "accuracy": 90,
+    "powerPoint": 10,
+    "effect": "사념의 에너지를 두른 채로 상대에게 부딪친다. 자신의 방어를 올린다.",
+    "effectChance": 100,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "stantler",
+      "solrock",
+      "wooloo",
+      "dubwool",
+      "falinks",
+      "zamazenta",
+      "wyrdeer",
+      "lechonk",
+      "oinkologne"
+    ]
+  }
+]

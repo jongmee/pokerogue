@@ -1,0 +1,36 @@
+[
+  {
+    "_id": "rage_fist",
+    "name": "Rage Fist",
+    "koName": "분노의주먹",
+    "type": "ghost",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 50,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "분노를 에너지로 바꿔서 공격한다. 받은 공격의 횟수가 많을수록 기술의 위력이 올라간다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 9,
+    "realased": "",
+    "flags": [
+      "makes_contact",
+      "punching_move"
+    ],
+    "pokemonIds": [
+      "primeape",
+      "duskull",
+      "dusclops",
+      "dusknoir",
+      "throh",
+      "golett",
+      "golurk",
+      "phantump",
+      "trevenant",
+      "stufful",
+      "bewear",
+      "annihilape"
+    ]
+  }
+]

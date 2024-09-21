@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "wake_up_slap",
+    "name": "Wake-Up Slap",
+    "koName": "잠깨움뺨치기",
+    "type": "fighting",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 70,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "잠듦 상태의 상대에게 큰 데미지를 준다. 대신 상대는 잠에서 깬다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 4,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "solgaleo"
+    ]
+  }
+]

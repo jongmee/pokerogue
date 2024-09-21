@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "acid_downpour__physical",
+    "name": "Acid Downpour",
+    "koName": "애시드포이즌딜리트",
+    "type": "poison",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 1,
+    "effect": "Z파워로 독의 늪을 만들어 전력으로 상대를 가라앉힌다. 원래 기술에 따라 위력이 변한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": " (N)",
+    "flags": [
+      "makes_contact",
+      "ignore_virtual"
+    ],
+    "pokemonIds": []
+  }
+]

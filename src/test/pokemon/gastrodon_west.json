@@ -1,0 +1,103 @@
+[
+  {
+    "_id": "gastrodon_west",
+    "gender": "",
+    "pokedexNumber": "423",
+    "name": "gastrodon_west",
+    "koName": "트리토돈_west",
+    "speciesName": "gastrodon",
+    "canChangeForm": true,
+    "formName": "west_sea",
+    "baseExp": "166",
+    "friendship": "50",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "normalAbilityIds": [
+      "sticky_hold",
+      "storm_drain"
+    ],
+    "hiddenAbilityId": "sand_force",
+    "passiveAbilityId": "regenerator",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 475,
+    "hp": 111,
+    "attack": 83,
+    "defense": 68,
+    "specialAttack": 92,
+    "specialDefense": 82,
+    "speed": 39,
+    "height": 0.9,
+    "weight": 29.9,
+    "eggMoveIds": [
+      "bouncy_bubble",
+      "scorching_sands",
+      "freeze_dry",
+      "steam_eruption"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "recover"
+      },
+      {
+        "level": 1,
+        "moveId": "harden"
+      },
+      {
+        "level": 1,
+        "moveId": "mud_slap"
+      },
+      {
+        "level": 1,
+        "moveId": "mud_sport"
+      },
+      {
+        "level": 15,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 20,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 25,
+        "moveId": "body_slam"
+      },
+      {
+        "level": 33,
+        "moveId": "muddy_water"
+      },
+      {
+        "level": 39,
+        "moveId": "earth_power"
+      },
+      {
+        "level": 46,
+        "moveId": "rain_dance"
+      },
+      {
+        "level": 53,
+        "moveId": "memento"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "snowscape"
+    ],
+    "biomeIds": [
+      "swamp",
+      "seabed"
+    ]
+  }
+]

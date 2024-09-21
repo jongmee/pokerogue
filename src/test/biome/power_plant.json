@@ -1,0 +1,151 @@
+[
+  {
+    "_id": "power_plant",
+    "name": "Power Plant",
+    "koName": "발전소",
+    "types": [
+      "electric"
+    ],
+    "nextBiomes": [
+      {
+        "name": "factory",
+        "percentage": 100
+      }
+    ],
+    "nativePokemons": [
+      {
+        "tier": "보통",
+        "pokemonIds": [
+          "pikachu",
+          "magnemite",
+          "magneton",
+          "voltorb",
+          "electrode",
+          "electrike",
+          "manectric",
+          "shinx",
+          "luxio",
+          "luxray",
+          "dedenne",
+          "grubbin",
+          "charjabug",
+          "pawmi",
+          "pawmo",
+          "pawmot",
+          "tadbulb",
+          "bellibolt"
+        ]
+      },
+      {
+        "tier": "드묾",
+        "pokemonIds": [
+          "electabuzz",
+          "plusle",
+          "minun",
+          "pachirisu",
+          "emolga",
+          "togedemaru"
+        ]
+      },
+      {
+        "tier": "레어",
+        "pokemonIds": [
+          "mareep",
+          "flaaffy"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어",
+        "pokemonIds": [
+          "jolteon",
+          "hisui_voltorb"
+        ]
+      },
+      {
+        "tier": "울트라 레어",
+        "pokemonIds": [
+          "raikou",
+          "thundurus",
+          "xurkitree",
+          "zeraora",
+          "regieleki"
+        ]
+      },
+      {
+        "tier": "보스",
+        "pokemonIds": [
+          "raichu",
+          "manectric",
+          "luxray",
+          "magnezone",
+          "electivire",
+          "dedenne",
+          "vikavolt",
+          "togedemaru",
+          "pawmot",
+          "bellibolt"
+        ]
+      },
+      {
+        "tier": "레어 보스",
+        "pokemonIds": [
+          "jolteon",
+          "ampharos",
+          "hisui_electrode"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어 보스",
+        "pokemonIds": [
+          "zapdos",
+          "raikou",
+          "thundurus",
+          "xurkitree",
+          "zeraora",
+          "regieleki"
+        ]
+      },
+      {
+        "tier": "슈퍼 울트라 레어 보스",
+        "pokemonIds": [
+          "zekrom"
+        ]
+      }
+    ],
+    "trainers": [
+      {
+        "name": "전진",
+        "types": [
+          "electric"
+        ],
+        "pokemonIds": [
+          "shinx",
+          "chinchou",
+          "rotom"
+        ]
+      },
+      {
+        "name": "카밀레",
+        "types": [
+          "electric"
+        ],
+        "pokemonIds": [
+          "emolga",
+          "blitzle",
+          "joltik"
+        ]
+      },
+      {
+        "name": "시트론",
+        "types": [
+          "electric"
+        ],
+        "pokemonIds": [
+          "helioptile",
+          "magnemite",
+          "emolga"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "teatime",
+    "name": "Teatime",
+    "koName": "다과회",
+    "type": "normal",
+    "moveCategory": "status",
+    "moveTarget": "all",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 10,
+    "effect": "다과회를 열어서 배틀에 나와 있는 포켓몬이 각각 지니고 있는 나무열매를 먹는다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "polteageist"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "mirror_shot",
+    "name": "Mirror Shot",
+    "koName": "미러샷",
+    "type": "steel",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 65,
+    "accuracy": 85,
+    "powerPoint": 10,
+    "effect": "갈고닦은 몸에서 섬광의 힘을 상대에게 쏜다. 명중률을 떨어뜨릴 때가 있다.",
+    "effectChance": 30,
+    "prioirty": 0,
+    "generation": 4,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "forretress",
+      "necrozma"
+    ]
+  }
+]

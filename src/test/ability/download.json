@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "download",
+    "name": "Download",
+    "koName": "다운로드",
+    "realased": "",
+    "description": "상대의 방어와 특수방어를 비교해서 낮은 쪽 능력에 맞춰서 자신의 공격이나 특수공격을 올린다.",
+    "generation": 4,
+    "pokemonIds": [
+      "porygon",
+      "porygon2",
+      "porygon_z",
+      "genesect",
+      "genesect_shock",
+      "genesect_burn",
+      "genesect_chill",
+      "genesect_douse"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

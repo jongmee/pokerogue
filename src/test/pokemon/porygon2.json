@@ -1,0 +1,172 @@
+[
+  {
+    "_id": "porygon2",
+    "gender": "",
+    "pokedexNumber": "233",
+    "name": "porygon2",
+    "koName": "폴리곤2",
+    "speciesName": "porygon2",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "180",
+    "friendship": "50",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "trace",
+      "download"
+    ],
+    "hiddenAbilityId": "analytic",
+    "passiveAbilityId": "protean",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 515,
+    "hp": 85,
+    "attack": 80,
+    "defense": 90,
+    "specialAttack": 105,
+    "specialDefense": 95,
+    "speed": 60,
+    "height": 0.6,
+    "weight": 32.5,
+    "eggMoveIds": [
+      "thunderclap",
+      "aura_sphere",
+      "flamethrower",
+      "techno_blast"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": 1,
+        "moveId": "conversion"
+      },
+      {
+        "level": 1,
+        "moveId": "recycle"
+      },
+      {
+        "level": 1,
+        "moveId": "magnet_rise"
+      },
+      {
+        "level": 15,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 20,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 25,
+        "moveId": "conversion_2"
+      },
+      {
+        "level": 30,
+        "moveId": "agility"
+      },
+      {
+        "level": 35,
+        "moveId": "recover"
+      },
+      {
+        "level": 40,
+        "moveId": "discharge"
+      },
+      {
+        "level": 45,
+        "moveId": "tri_attack"
+      },
+      {
+        "level": 50,
+        "moveId": "lock_on"
+      },
+      {
+        "level": 55,
+        "moveId": "zap_cannon"
+      },
+      {
+        "level": 60,
+        "moveId": "hyper_beam"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "double_edge",
+      "ice_beam",
+      "blizzard",
+      "psybeam",
+      "hyper_beam",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "psychic",
+      "agility",
+      "double_team",
+      "swift",
+      "dream_eater",
+      "flash",
+      "rest",
+      "tri_attack",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "facade",
+      "trick",
+      "recycle",
+      "signal_beam",
+      "aerial_ace",
+      "gravity",
+      "power_swap",
+      "guard_swap",
+      "giga_impact",
+      "zen_headbutt",
+      "trick_room",
+      "charge_beam",
+      "wonder_room",
+      "psyshock",
+      "foul_play",
+      "round",
+      "ally_switch",
+      "electroweb",
+      "confide",
+      "eerie_impulse",
+      "speed_swap",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "factory",
+      "space",
+      "laboratory"
+    ]
+  }
+]

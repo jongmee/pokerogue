@@ -1,0 +1,161 @@
+[
+  {
+    "_id": "xurkitree",
+    "gender": "",
+    "pokedexNumber": "796",
+    "name": "xurkitree",
+    "koName": "전수목",
+    "speciesName": "xurkitree",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "285",
+    "friendship": "0",
+    "types": [
+      "electric"
+    ],
+    "normalAbilityIds": [
+      "beast_boost"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "transistor",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 570,
+    "hp": 83,
+    "attack": 89,
+    "defense": 71,
+    "specialAttack": 173,
+    "specialDefense": 71,
+    "speed": 83,
+    "height": 3.8,
+    "weight": 100,
+    "eggMoveIds": [
+      "flamethrower",
+      "giga_drain",
+      "tail_glow",
+      "thunderclap"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "wrap"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 5,
+        "moveId": "charge"
+      },
+      {
+        "level": 10,
+        "moveId": "thunder_wave"
+      },
+      {
+        "level": 15,
+        "moveId": "ingrain"
+      },
+      {
+        "level": 20,
+        "moveId": "spark"
+      },
+      {
+        "level": 25,
+        "moveId": "shock_wave"
+      },
+      {
+        "level": 30,
+        "moveId": "hypnosis"
+      },
+      {
+        "level": 35,
+        "moveId": "eerie_impulse"
+      },
+      {
+        "level": 40,
+        "moveId": "thunder_punch"
+      },
+      {
+        "level": 45,
+        "moveId": "discharge"
+      },
+      {
+        "level": 50,
+        "moveId": "magnet_rise"
+      },
+      {
+        "level": 55,
+        "moveId": "thunderbolt"
+      },
+      {
+        "level": 60,
+        "moveId": "electric_terrain"
+      },
+      {
+        "level": 65,
+        "moveId": "power_whip"
+      },
+      {
+        "level": 70,
+        "moveId": "zap_cannon"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "thunder_punch",
+      "hyper_beam",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "facade",
+      "nature_power",
+      "charge",
+      "signal_beam",
+      "calm_mind",
+      "gravity",
+      "fling",
+      "energy_ball",
+      "giga_impact",
+      "power_whip",
+      "grass_knot",
+      "charge_beam",
+      "electro_ball",
+      "round",
+      "volt_switch",
+      "electroweb",
+      "wild_charge",
+      "confide",
+      "eerie_impulse",
+      "electric_terrain",
+      "dazzling_gleam",
+      "brutal_swing",
+      "rising_voltage",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "power_plant"
+    ]
+  }
+]

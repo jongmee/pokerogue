@@ -1,0 +1,205 @@
+[
+  {
+    "_id": "haxorus",
+    "gender": "",
+    "pokedexNumber": "612",
+    "name": "haxorus",
+    "koName": "액스라이즈",
+    "speciesName": "haxorus",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "270",
+    "friendship": "35",
+    "types": [
+      "dragon"
+    ],
+    "normalAbilityIds": [
+      "rivalry",
+      "mold_breaker"
+    ],
+    "hiddenAbilityId": "unnerve",
+    "passiveAbilityId": "dragons_maw",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 540,
+    "hp": 76,
+    "attack": 147,
+    "defense": 90,
+    "specialAttack": 60,
+    "specialDefense": 70,
+    "speed": 97,
+    "height": 1.8,
+    "weight": 105.5,
+    "eggMoveIds": [
+      "stone_axe",
+      "dire_claw",
+      "bitter_blade",
+      "glaive_rush"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "bite"
+      },
+      {
+        "level": 1,
+        "moveId": "false_swipe"
+      },
+      {
+        "level": 1,
+        "moveId": "dual_chop"
+      },
+      {
+        "level": 9,
+        "moveId": "assurance"
+      },
+      {
+        "level": 12,
+        "moveId": "taunt"
+      },
+      {
+        "level": 15,
+        "moveId": "slash"
+      },
+      {
+        "level": 18,
+        "moveId": "dragon_claw"
+      },
+      {
+        "level": 21,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 24,
+        "moveId": "crunch"
+      },
+      {
+        "level": 27,
+        "moveId": "dragon_dance"
+      },
+      {
+        "level": 30,
+        "moveId": "breaking_swipe"
+      },
+      {
+        "level": 33,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 36,
+        "moveId": "dragon_pulse"
+      },
+      {
+        "level": 41,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 46,
+        "moveId": "outrage"
+      },
+      {
+        "level": 53,
+        "moveId": "guillotine"
+      },
+      {
+        "level": 60,
+        "moveId": "giga_impact"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "surf",
+      "hyper_beam",
+      "low_kick",
+      "counter",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "double_team",
+      "focus_energy",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "reversal",
+      "protect",
+      "scary_face",
+      "outrage",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "rock_smash",
+      "facade",
+      "taunt",
+      "superpower",
+      "brick_break",
+      "endeavor",
+      "rock_tomb",
+      "aerial_ace",
+      "dragon_claw",
+      "dragon_dance",
+      "close_combat",
+      "payback",
+      "assurance",
+      "fling",
+      "poison_jab",
+      "aqua_tail",
+      "x_scissor",
+      "dragon_pulse",
+      "focus_blast",
+      "giga_impact",
+      "shadow_claw",
+      "psycho_cut",
+      "draco_meteor",
+      "iron_head",
+      "grass_knot",
+      "hone_claws",
+      "low_sweep",
+      "round",
+      "incinerate",
+      "bulldoze",
+      "dragon_tail",
+      "snarl",
+      "confide",
+      "brutal_swing",
+      "stomping_tantrum",
+      "breaking_swipe",
+      "scale_shot",
+      "tera_blast",
+      "trailblaze",
+      "dragon_cheer"
+    ],
+    "biomeIds": [
+      "wasteland"
+    ]
+  }
+]

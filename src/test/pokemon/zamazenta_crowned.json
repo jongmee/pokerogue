@@ -1,0 +1,107 @@
+[
+  {
+    "_id": "zamazenta_crowned",
+    "gender": "",
+    "pokedexNumber": "889",
+    "name": "zamazenta_crowned",
+    "koName": "자마젠타_crowned",
+    "speciesName": "zamazenta",
+    "canChangeForm": true,
+    "formName": "crowned",
+    "baseExp": "335",
+    "friendship": "0",
+    "types": [
+      "fighting",
+      "steel"
+    ],
+    "normalAbilityIds": [
+      "dauntless_shield"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "stamina",
+    "generation": 8,
+    "legendary": true,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 700,
+    "hp": 92,
+    "attack": 120,
+    "defense": 140,
+    "specialAttack": 80,
+    "specialDefense": 140,
+    "speed": 128,
+    "height": 2.9,
+    "weight": 785,
+    "eggMoveIds": [
+      "psyshield_bash",
+      "body_press",
+      "slack_off",
+      "victory_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "behemoth_bash"
+      },
+      {
+        "level": 1,
+        "moveId": "bite"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 1,
+        "moveId": "howl"
+      },
+      {
+        "level": 1,
+        "moveId": "wide_guard"
+      },
+      {
+        "level": 11,
+        "moveId": "slash"
+      },
+      {
+        "level": 22,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 33,
+        "moveId": "iron_head"
+      },
+      {
+        "level": 44,
+        "moveId": "metal_burst"
+      },
+      {
+        "level": 55,
+        "moveId": "crunch"
+      },
+      {
+        "level": 66,
+        "moveId": "moonblast"
+      },
+      {
+        "level": 77,
+        "moveId": "close_combat"
+      },
+      {
+        "level": 88,
+        "moveId": "giga_impact"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "dojo"
+    ]
+  }
+]

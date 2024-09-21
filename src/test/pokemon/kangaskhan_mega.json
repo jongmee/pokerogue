@@ -1,0 +1,114 @@
+[
+  {
+    "_id": "kangaskhan_mega",
+    "gender": "",
+    "pokedexNumber": "115",
+    "name": "kangaskhan_mega",
+    "koName": "캥카_mega",
+    "speciesName": "kangaskhan",
+    "canChangeForm": true,
+    "formName": "mega",
+    "baseExp": "172",
+    "friendship": "50",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "parental_bond"
+    ],
+    "hiddenAbilityId": "parental_bond",
+    "passiveAbilityId": "guts",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 590,
+    "hp": 105,
+    "attack": 125,
+    "defense": 100,
+    "specialAttack": 60,
+    "specialDefense": 100,
+    "speed": 100,
+    "height": 2.2,
+    "weight": 100,
+    "eggMoveIds": [
+      "power_up_punch",
+      "trailblaze",
+      "facade",
+      "seismic_toss"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "comet_punch"
+      },
+      {
+        "level": 4,
+        "moveId": "growl"
+      },
+      {
+        "level": 8,
+        "moveId": "fake_out"
+      },
+      {
+        "level": 12,
+        "moveId": "bite"
+      },
+      {
+        "level": 16,
+        "moveId": "stomp"
+      },
+      {
+        "level": 20,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 24,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 28,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 32,
+        "moveId": "double_hit"
+      },
+      {
+        "level": 36,
+        "moveId": "crunch"
+      },
+      {
+        "level": 40,
+        "moveId": "endure"
+      },
+      {
+        "level": 44,
+        "moveId": "reversal"
+      },
+      {
+        "level": 48,
+        "moveId": "outrage"
+      },
+      {
+        "level": 52,
+        "moveId": "last_resort"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "jungle"
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "_id": "hustle",
+    "name": "Hustle",
+    "koName": "의욕",
+    "realased": "",
+    "description": "자신의 공격이 높아지지만 명중률이 떨어진다.",
+    "generation": 3,
+    "pokemonIds": [
+      "rattata",
+      "raticate",
+      "nidoran_f",
+      "nidorina",
+      "nidoran_m",
+      "nidorino",
+      "togepi",
+      "togetic",
+      "corsola",
+      "remoraid",
+      "delibird",
+      "combee",
+      "togekiss",
+      "darumaka",
+      "rufflet",
+      "durant",
+      "deino",
+      "zweilous",
+      "flapple",
+      "flapple_gigantamax",
+      "dracozolt",
+      "alola_rattata",
+      "alola_raticate",
+      "galar_darumaka",
+      "hisui_lilligant"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

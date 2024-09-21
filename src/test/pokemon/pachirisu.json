@@ -1,0 +1,179 @@
+[
+  {
+    "_id": "pachirisu",
+    "gender": "",
+    "pokedexNumber": "417",
+    "name": "pachirisu",
+    "koName": "파치리스",
+    "speciesName": "pachirisu",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "142",
+    "friendship": "100",
+    "types": [
+      "electric"
+    ],
+    "normalAbilityIds": [
+      "run_away",
+      "pickup"
+    ],
+    "hiddenAbilityId": "volt_absorb",
+    "passiveAbilityId": "honey_gather",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 405,
+    "hp": 60,
+    "attack": 45,
+    "defense": 70,
+    "specialAttack": 45,
+    "specialDefense": 90,
+    "speed": 95,
+    "height": 0.4,
+    "weight": 3.9,
+    "eggMoveIds": [
+      "freezy_frost",
+      "sizzly_slide",
+      "slack_off",
+      "zippy_zap"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 1,
+        "moveId": "bide"
+      },
+      {
+        "level": 5,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 9,
+        "moveId": "charm"
+      },
+      {
+        "level": 13,
+        "moveId": "spark"
+      },
+      {
+        "level": 17,
+        "moveId": "endure"
+      },
+      {
+        "level": 19,
+        "moveId": "nuzzle"
+      },
+      {
+        "level": 21,
+        "moveId": "swift"
+      },
+      {
+        "level": 25,
+        "moveId": "electro_ball"
+      },
+      {
+        "level": 29,
+        "moveId": "sweet_kiss"
+      },
+      {
+        "level": 33,
+        "moveId": "thunder_wave"
+      },
+      {
+        "level": 37,
+        "moveId": "super_fang"
+      },
+      {
+        "level": 41,
+        "moveId": "discharge"
+      },
+      {
+        "level": 45,
+        "moveId": "last_resort"
+      },
+      {
+        "level": 49,
+        "moveId": "thunder"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "thunder_punch",
+      "cut",
+      "take_down",
+      "hyper_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "dig",
+      "toxic",
+      "agility",
+      "double_team",
+      "light_screen",
+      "swift",
+      "flash",
+      "rest",
+      "super_fang",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "mud_slap",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "uproar",
+      "facade",
+      "charge",
+      "helping_hand",
+      "endeavor",
+      "fake_tears",
+      "aerial_ace",
+      "mud_shot",
+      "covet",
+      "u_turn",
+      "fling",
+      "seed_bomb",
+      "giga_impact",
+      "thunder_fang",
+      "gunk_shot",
+      "grass_knot",
+      "charge_beam",
+      "electro_ball",
+      "round",
+      "echoed_voice",
+      "volt_switch",
+      "electroweb",
+      "wild_charge",
+      "play_rough",
+      "confide",
+      "eerie_impulse",
+      "electric_terrain",
+      "tera_blast",
+      "trailblaze",
+      "alluring_voice"
+    ],
+    "biomeIds": [
+      "power_plant"
+    ]
+  }
+]

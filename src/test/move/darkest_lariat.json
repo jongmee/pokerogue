@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "darkest_lariat",
+    "name": "Darkest Lariat",
+    "koName": "DD래리어트",
+    "type": "dark",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 85,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "양팔을 돌려 상대에게 부딪친다. 상대의 능력 변화에 상관없이 데미지를 준다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "incineroar",
+      "poliwrath",
+      "machamp",
+      "snorlax",
+      "mew",
+      "swampert",
+      "electivire",
+      "dusknoir",
+      "regigigas",
+      "krookodile",
+      "golurk",
+      "pangoro",
+      "incineroar",
+      "bewear",
+      "tapu_bulu",
+      "buzzwole",
+      "melmetal",
+      "rillaboom",
+      "grimmsnarl",
+      "urshifu",
+      "zarude"
+    ]
+  }
+]

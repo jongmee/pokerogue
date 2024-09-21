@@ -1,0 +1,39 @@
+[
+  {
+    "_id": "sandsear_storm",
+    "name": "Sandsear Storm",
+    "koName": "열사의폭풍",
+    "type": "ground",
+    "moveCategory": "special",
+    "moveTarget": "all_near_enemies",
+    "power": 100,
+    "accuracy": 80,
+    "powerPoint": 10,
+    "effect": "뜨겁게 달궈진 모래와 강렬한 바람으로 상대를 둘러싸서 공격한다. 상대를 화상 상태로 만들 때가 있다.",
+    "effectChance": 20,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [
+      "wind_move"
+    ],
+    "pokemonIds": [
+      "caterpie",
+      "metapod",
+      "butterfree",
+      "butterfree_gigantamax",
+      "pidgey",
+      "pidgeotto",
+      "pidgeot",
+      "pidgeot_mega",
+      "nidoran_f",
+      "nidorina",
+      "nidoqueen",
+      "zapdos",
+      "stunfisk",
+      "celesteela",
+      "wattrel",
+      "kilowattrel"
+    ]
+  }
+]

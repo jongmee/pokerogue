@@ -1,0 +1,174 @@
+[
+  {
+    "_id": "dewott",
+    "gender": "",
+    "pokedexNumber": "502",
+    "name": "dewott",
+    "koName": "쌍검자비",
+    "speciesName": "dewott",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "145",
+    "friendship": "70",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "torrent"
+    ],
+    "hiddenAbilityId": "shell_armor",
+    "passiveAbilityId": "intrepid_sword",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 413,
+    "hp": 75,
+    "attack": 75,
+    "defense": 60,
+    "specialAttack": 83,
+    "specialDefense": 60,
+    "speed": 60,
+    "height": 0.8,
+    "weight": 24.5,
+    "eggMoveIds": [
+      "triple_axel",
+      "shell_side_arm",
+      "sacred_sword",
+      "shell_smash"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "soak"
+      },
+      {
+        "level": 13,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 18,
+        "moveId": "razor_shell"
+      },
+      {
+        "level": 21,
+        "moveId": "fury_cutter"
+      },
+      {
+        "level": 26,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 29,
+        "moveId": "aerial_ace"
+      },
+      {
+        "level": 34,
+        "moveId": "aqua_jet"
+      },
+      {
+        "level": 37,
+        "moveId": "encore"
+      },
+      {
+        "level": 42,
+        "moveId": "aqua_tail"
+      },
+      {
+        "level": 45,
+        "moveId": "retaliate"
+      },
+      {
+        "level": 50,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 53,
+        "moveId": "hydro_pump"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "take_down",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "dig",
+      "toxic",
+      "double_team",
+      "focus_energy",
+      "waterfall",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "icy_wind",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "rock_smash",
+      "whirlpool",
+      "hail",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "revenge",
+      "brick_break",
+      "knock_off",
+      "dive",
+      "aerial_ace",
+      "covet",
+      "water_pulse",
+      "fling",
+      "aqua_tail",
+      "air_slash",
+      "x_scissor",
+      "vacuum_wave",
+      "avalanche",
+      "grass_knot",
+      "round",
+      "scald",
+      "retaliate",
+      "water_pledge",
+      "work_up",
+      "sacred_sword",
+      "razor_shell",
+      "confide",
+      "liquidation",
+      "flip_turn",
+      "tera_blast",
+      "snowscape",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "lake"
+    ]
+  }
+]

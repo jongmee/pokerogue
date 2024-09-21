@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "silver_wind",
+    "name": "Silver Wind",
+    "koName": "은빛바람",
+    "type": "bug",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 60,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "바람에 날개 가루를 날려서 상대를 공격한다. 자신의 모든 능력이 올라갈 때가 있다.",
+    "effectChance": 10,
+    "prioirty": 0,
+    "generation": 3,
+    "realased": "",
+    "flags": [
+      "wind_move"
+    ],
+    "pokemonIds": [
+      "venomoth"
+    ]
+  }
+]

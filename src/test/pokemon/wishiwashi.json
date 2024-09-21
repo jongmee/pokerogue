@@ -1,0 +1,151 @@
+[
+  {
+    "_id": "wishiwashi",
+    "gender": "",
+    "pokedexNumber": "746",
+    "name": "wishiwashi",
+    "koName": "약어리",
+    "speciesName": "wishiwashi",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "61",
+    "friendship": "50",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "schooling"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "regenerator",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 175,
+    "hp": 45,
+    "attack": 20,
+    "defense": 20,
+    "specialAttack": 25,
+    "specialDefense": 25,
+    "speed": 40,
+    "height": 0.2,
+    "weight": 0.3,
+    "eggMoveIds": [
+      "heal_order",
+      "ice_spinner",
+      "dragon_dance",
+      "jet_punch"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 4,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 8,
+        "moveId": "beat_up"
+      },
+      {
+        "level": 12,
+        "moveId": "brine"
+      },
+      {
+        "level": 16,
+        "moveId": "tearful_look"
+      },
+      {
+        "level": 20,
+        "moveId": "dive"
+      },
+      {
+        "level": 24,
+        "moveId": "soak"
+      },
+      {
+        "level": 28,
+        "moveId": "uproar"
+      },
+      {
+        "level": 32,
+        "moveId": "aqua_tail"
+      },
+      {
+        "level": 36,
+        "moveId": "aqua_ring"
+      },
+      {
+        "level": 40,
+        "moveId": "endeavor"
+      },
+      {
+        "level": 44,
+        "moveId": "hydro_pump"
+      },
+      {
+        "level": 48,
+        "moveId": "double_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "earthquake",
+      "toxic",
+      "double_team",
+      "waterfall",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "whirlpool",
+      "beat_up",
+      "uproar",
+      "hail",
+      "facade",
+      "helping_hand",
+      "endeavor",
+      "dive",
+      "muddy_water",
+      "mud_shot",
+      "covet",
+      "water_pulse",
+      "brine",
+      "u_turn",
+      "aqua_tail",
+      "round",
+      "scald",
+      "bulldoze",
+      "confide",
+      "liquidation",
+      "scale_shot",
+      "flip_turn",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "lake"
+    ]
+  }
+]

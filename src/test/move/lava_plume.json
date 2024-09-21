@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "lava_plume",
+    "name": "Lava Plume",
+    "koName": "분연",
+    "type": "fire",
+    "moveCategory": "special",
+    "moveTarget": "all_near_others",
+    "power": 80,
+    "accuracy": 100,
+    "powerPoint": 15,
+    "effect": "새빨간 불꽃으로 자신의 주위에 있는 포켓몬을 공격한다. 화상 상태로 만들 때가 있다.",
+    "effectChance": 30,
+    "prioirty": 0,
+    "generation": 4,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "magmar",
+      "flareon",
+      "cyndaquil",
+      "quilava",
+      "typhlosion",
+      "slugma",
+      "magcargo",
+      "magby",
+      "entei",
+      "numel",
+      "camerupt",
+      "torkoal",
+      "groudon",
+      "magmortar",
+      "heatran",
+      "charcadet",
+      "armarouge",
+      "ceruledge",
+      "chi_yu",
+      "gouging_fire",
+      "hisui_typhlosion"
+    ]
+  }
+]

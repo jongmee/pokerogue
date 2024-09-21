@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "stench",
+    "name": "Stench",
+    "koName": "악취",
+    "realased": "",
+    "description": "악취를 풍겨서 공격했을 때 상대가 풀죽을 때가 있다.",
+    "generation": 3,
+    "pokemonIds": [
+      "gloom",
+      "grimer",
+      "muk",
+      "koffing",
+      "weezing",
+      "stunky",
+      "skuntank",
+      "trubbish",
+      "garbodor"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

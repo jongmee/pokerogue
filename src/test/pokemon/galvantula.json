@@ -1,0 +1,171 @@
+[
+  {
+    "_id": "galvantula",
+    "gender": "",
+    "pokedexNumber": "596",
+    "name": "galvantula",
+    "koName": "전툴라",
+    "speciesName": "galvantula",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "165",
+    "friendship": "50",
+    "types": [
+      "bug",
+      "electric"
+    ],
+    "normalAbilityIds": [
+      "compound_eyes",
+      "unnerve"
+    ],
+    "hiddenAbilityId": "swarm",
+    "passiveAbilityId": "transistor",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 472,
+    "hp": 70,
+    "attack": 77,
+    "defense": 60,
+    "specialAttack": 97,
+    "specialDefense": 60,
+    "speed": 108,
+    "height": 0.8,
+    "weight": 14.3,
+    "eggMoveIds": [
+      "thunder",
+      "parabolic_charge",
+      "earth_power",
+      "quiver_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "sticky_web"
+      },
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 1,
+        "moveId": "fury_cutter"
+      },
+      {
+        "level": 1,
+        "moveId": "bug_bite"
+      },
+      {
+        "level": 1,
+        "moveId": "electroweb"
+      },
+      {
+        "level": 1,
+        "moveId": "spider_web"
+      },
+      {
+        "level": 12,
+        "moveId": "string_shot"
+      },
+      {
+        "level": 16,
+        "moveId": "thunder_wave"
+      },
+      {
+        "level": 20,
+        "moveId": "electro_ball"
+      },
+      {
+        "level": 24,
+        "moveId": "agility"
+      },
+      {
+        "level": 28,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 32,
+        "moveId": "slash"
+      },
+      {
+        "level": 39,
+        "moveId": "discharge"
+      },
+      {
+        "level": 44,
+        "moveId": "screech"
+      },
+      {
+        "level": 50,
+        "moveId": "gastro_acid"
+      },
+      {
+        "level": 56,
+        "moveId": "bug_buzz"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "cut",
+      "pin_missile",
+      "hyper_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "agility",
+      "screech",
+      "double_team",
+      "light_screen",
+      "swift",
+      "leech_life",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "facade",
+      "signal_beam",
+      "bounce",
+      "gastro_acid",
+      "poison_jab",
+      "x_scissor",
+      "bug_buzz",
+      "energy_ball",
+      "giga_impact",
+      "rock_climb",
+      "cross_poison",
+      "bug_bite",
+      "charge_beam",
+      "electro_ball",
+      "round",
+      "volt_switch",
+      "struggle_bug",
+      "electroweb",
+      "wild_charge",
+      "confide",
+      "infestation",
+      "throat_chop",
+      "speed_swap",
+      "rising_voltage",
+      "skitter_smack",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "jungle"
+    ]
+  }
+]

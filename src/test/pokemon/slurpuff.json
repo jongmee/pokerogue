@@ -1,0 +1,163 @@
+[
+  {
+    "_id": "slurpuff",
+    "gender": "",
+    "pokedexNumber": "685",
+    "name": "slurpuff",
+    "koName": "나루림",
+    "speciesName": "slurpuff",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "168",
+    "friendship": "50",
+    "types": [
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "sweet_veil"
+    ],
+    "hiddenAbilityId": "unburden",
+    "passiveAbilityId": "well_baked_body",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 480,
+    "hp": 82,
+    "attack": 80,
+    "defense": 86,
+    "specialAttack": 85,
+    "specialDefense": 75,
+    "speed": 72,
+    "height": 0.8,
+    "weight": 5,
+    "eggMoveIds": [
+      "belly_drum",
+      "headlong_rush",
+      "magical_torque",
+      "revival_blessing"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 1,
+        "moveId": "fairy_wind"
+      },
+      {
+        "level": 1,
+        "moveId": "play_nice"
+      },
+      {
+        "level": 9,
+        "moveId": "aromatherapy"
+      },
+      {
+        "level": 12,
+        "moveId": "draining_kiss"
+      },
+      {
+        "level": 15,
+        "moveId": "fake_tears"
+      },
+      {
+        "level": 18,
+        "moveId": "round"
+      },
+      {
+        "level": 21,
+        "moveId": "string_shot"
+      },
+      {
+        "level": 24,
+        "moveId": "cotton_spore"
+      },
+      {
+        "level": 27,
+        "moveId": "energy_ball"
+      },
+      {
+        "level": 30,
+        "moveId": "wish"
+      },
+      {
+        "level": 33,
+        "moveId": "play_rough"
+      },
+      {
+        "level": 36,
+        "moveId": "cotton_guard"
+      },
+      {
+        "level": 39,
+        "moveId": "endeavor"
+      },
+      {
+        "level": 42,
+        "moveId": "sticky_web"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "flamethrower",
+      "surf",
+      "hyper_beam",
+      "thunderbolt",
+      "thunder",
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "metronome",
+      "amnesia",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "facade",
+      "helping_hand",
+      "endeavor",
+      "fake_tears",
+      "covet",
+      "calm_mind",
+      "gastro_acid",
+      "drain_punch",
+      "energy_ball",
+      "giga_impact",
+      "round",
+      "draining_kiss",
+      "play_rough",
+      "confide",
+      "dazzling_gleam",
+      "misty_explosion",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "fairy_cave"
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "sludge",
+    "name": "Sludge",
+    "koName": "오물공격",
+    "type": "poison",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 65,
+    "accuracy": 100,
+    "powerPoint": 20,
+    "effect": "더러운 오물을 상대에게 내던져서 공격한다. 독 상태로 만들 때가 있다.",
+    "effectChance": 30,
+    "prioirty": 0,
+    "generation": 1,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "grimer",
+      "muk",
+      "koffing",
+      "weezing",
+      "gulpin",
+      "swalot",
+      "trubbish",
+      "garbodor",
+      "varoom",
+      "revavroom",
+      "galar_weezing"
+    ]
+  }
+]

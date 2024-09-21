@@ -1,0 +1,154 @@
+[
+  {
+    "_id": "wingull",
+    "gender": "",
+    "pokedexNumber": "278",
+    "name": "wingull",
+    "koName": "갈모매",
+    "speciesName": "wingull",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "54",
+    "friendship": "50",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "keen_eye",
+      "hydration"
+    ],
+    "hiddenAbilityId": "rain_dish",
+    "passiveAbilityId": "swift_swim",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 270,
+    "hp": 40,
+    "attack": 30,
+    "defense": 30,
+    "specialAttack": 55,
+    "specialDefense": 30,
+    "speed": 85,
+    "height": 0.6,
+    "weight": 9.5,
+    "eggMoveIds": [
+      "thunder",
+      "flip_turn",
+      "calm_mind",
+      "steam_eruption"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 5,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 10,
+        "moveId": "supersonic"
+      },
+      {
+        "level": 15,
+        "moveId": "wing_attack"
+      },
+      {
+        "level": 20,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 26,
+        "moveId": "agility"
+      },
+      {
+        "level": 30,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 35,
+        "moveId": "mist"
+      },
+      {
+        "level": 40,
+        "moveId": "roost"
+      },
+      {
+        "level": 45,
+        "moveId": "hurricane"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fly",
+      "take_down",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "toxic",
+      "agility",
+      "double_team",
+      "waterfall",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "whirlpool",
+      "uproar",
+      "hail",
+      "facade",
+      "helping_hand",
+      "knock_off",
+      "feather_dance",
+      "air_cutter",
+      "muddy_water",
+      "aerial_ace",
+      "water_pulse",
+      "roost",
+      "brine",
+      "pluck",
+      "tailwind",
+      "u_turn",
+      "air_slash",
+      "brave_bird",
+      "defog",
+      "round",
+      "echoed_voice",
+      "scald",
+      "acrobatics",
+      "hurricane",
+      "confide",
+      "liquidation",
+      "dual_wingbeat",
+      "tera_blast",
+      "snowscape",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "sea"
+    ]
+  }
+]

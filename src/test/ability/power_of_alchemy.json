@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "power_of_alchemy",
+    "name": "Power of Alchemy",
+    "koName": "화학의힘",
+    "realased": "",
+    "description": "쓰러진 같은 편의 특성을 이어받아 같은 특성으로 바뀐다.",
+    "generation": 7,
+    "pokemonIds": [
+      "alola_grimer",
+      "alola_muk"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

@@ -1,0 +1,183 @@
+[
+  {
+    "_id": "crobat",
+    "gender": "",
+    "pokedexNumber": "169",
+    "name": "crobat",
+    "koName": "크로뱃",
+    "speciesName": "crobat",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "268",
+    "friendship": "50",
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "inner_focus"
+    ],
+    "hiddenAbilityId": "infiltrator",
+    "passiveAbilityId": "intimidate",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 535,
+    "hp": 85,
+    "attack": 90,
+    "defense": 80,
+    "specialAttack": 70,
+    "specialDefense": 80,
+    "speed": 130,
+    "height": 1.8,
+    "weight": 75,
+    "eggMoveIds": [
+      "floaty_fall",
+      "dire_claw",
+      "swords_dance",
+      "collision_course"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "cross_poison"
+      },
+      {
+        "level": 1,
+        "moveId": "supersonic"
+      },
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 1,
+        "moveId": "toxic"
+      },
+      {
+        "level": 1,
+        "moveId": "screech"
+      },
+      {
+        "level": 1,
+        "moveId": "mean_look"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 1,
+        "moveId": "tailwind"
+      },
+      {
+        "level": 15,
+        "moveId": "poison_fang"
+      },
+      {
+        "level": 20,
+        "moveId": "quick_guard"
+      },
+      {
+        "level": 27,
+        "moveId": "air_cutter"
+      },
+      {
+        "level": 34,
+        "moveId": "bite"
+      },
+      {
+        "level": 41,
+        "moveId": "haze"
+      },
+      {
+        "level": 48,
+        "moveId": "venoshock"
+      },
+      {
+        "level": 55,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 62,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 69,
+        "moveId": "leech_life"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fly",
+      "double_edge",
+      "hyper_beam",
+      "toxic",
+      "agility",
+      "screech",
+      "double_team",
+      "confuse_ray",
+      "haze",
+      "swift",
+      "leech_life",
+      "rest",
+      "super_fang",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "sludge_bomb",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "shadow_ball",
+      "uproar",
+      "heat_wave",
+      "torment",
+      "facade",
+      "taunt",
+      "air_cutter",
+      "aerial_ace",
+      "roost",
+      "pluck",
+      "tailwind",
+      "u_turn",
+      "payback",
+      "assurance",
+      "dark_pulse",
+      "air_slash",
+      "x_scissor",
+      "brave_bird",
+      "giga_impact",
+      "nasty_plot",
+      "zen_headbutt",
+      "defog",
+      "cross_poison",
+      "venoshock",
+      "round",
+      "hex",
+      "acrobatics",
+      "hurricane",
+      "confide",
+      "venom_drench",
+      "dual_wingbeat",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "cave"
+    ]
+  }
+]

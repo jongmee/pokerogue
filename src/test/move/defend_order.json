@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "defend_order",
+    "name": "Defend Order",
+    "koName": "방어지령",
+    "type": "bug",
+    "moveCategory": "status",
+    "moveTarget": "user",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 10,
+    "effect": "부하를 불러내어 자신의 몸을 뒤덮게 한다. 방어와 특수방어를 올릴 수 있다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 4,
+    "realased": "",
+    "flags": [
+      "ignore_protect"
+    ],
+    "pokemonIds": [
+      "burmy_plant",
+      "burmy_sandy",
+      "burmy_trash",
+      "mothim",
+      "vespiquen"
+    ]
+  }
+]

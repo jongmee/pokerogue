@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "sheer_cold",
+    "name": "Sheer Cold",
+    "koName": "절대영도",
+    "type": "ice",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 200,
+    "accuracy": 20,
+    "powerPoint": 5,
+    "effect": "상대를 일격에 기절시킨다. 얼음타입 이외의 포켓몬이 사용하면 잘 맞지 않는다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 3,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "dewgong",
+      "lapras",
+      "articuno",
+      "suicune",
+      "glalie",
+      "spheal",
+      "sealeo",
+      "walrein",
+      "kyogre",
+      "snover",
+      "abomasnow",
+      "vanillite",
+      "vanillish",
+      "vanilluxe",
+      "cubchoo",
+      "beartic",
+      "cryogonal",
+      "kyurem",
+      "kyurem_black",
+      "kyurem_white",
+      "chien_pao"
+    ]
+  }
+]

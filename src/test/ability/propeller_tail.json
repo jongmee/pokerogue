@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "propeller_tail",
+    "name": "Propeller Tail",
+    "koName": "스크루지느러미",
+    "realased": "",
+    "description": "상대의 기술을 끌어모으는 특성이나 기술의 영향을 받지 않는다.",
+    "generation": 8,
+    "pokemonIds": [
+      "arrokuda",
+      "barraskewda"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

@@ -1,0 +1,183 @@
+[
+  {
+    "_id": "amaura",
+    "gender": "",
+    "pokedexNumber": "698",
+    "name": "amaura",
+    "koName": "아마루스",
+    "speciesName": "amaura",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "72",
+    "friendship": "50",
+    "types": [
+      "rock",
+      "ice"
+    ],
+    "normalAbilityIds": [
+      "refrigerate"
+    ],
+    "hiddenAbilityId": "snow_warning",
+    "passiveAbilityId": "ice_scales",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 362,
+    "hp": 77,
+    "attack": 59,
+    "defense": 50,
+    "specialAttack": 67,
+    "specialDefense": 63,
+    "speed": 46,
+    "height": 1.3,
+    "weight": 25.2,
+    "eggMoveIds": [
+      "recover",
+      "aurora_veil",
+      "power_gem",
+      "geomancy"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "powder_snow"
+      },
+      {
+        "level": 4,
+        "moveId": "encore"
+      },
+      {
+        "level": 8,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 12,
+        "moveId": "icy_wind"
+      },
+      {
+        "level": 16,
+        "moveId": "round"
+      },
+      {
+        "level": 20,
+        "moveId": "mist"
+      },
+      {
+        "level": 24,
+        "moveId": "aurora_beam"
+      },
+      {
+        "level": 28,
+        "moveId": "thunder_wave"
+      },
+      {
+        "level": 32,
+        "moveId": "nature_power"
+      },
+      {
+        "level": 36,
+        "moveId": "freeze_dry"
+      },
+      {
+        "level": 40,
+        "moveId": "ice_beam"
+      },
+      {
+        "level": 44,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 48,
+        "moveId": "hail"
+      },
+      {
+        "level": 52,
+        "moveId": "blizzard"
+      },
+      {
+        "level": 56,
+        "moveId": "hyper_beam"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "roar",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "toxic",
+      "double_team",
+      "light_screen",
+      "haze",
+      "reflect",
+      "dream_eater",
+      "flash",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "icy_wind",
+      "outrage",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "psych_up",
+      "rock_smash",
+      "hail",
+      "facade",
+      "nature_power",
+      "hyper_voice",
+      "weather_ball",
+      "rock_tomb",
+      "iron_defense",
+      "mud_shot",
+      "calm_mind",
+      "rock_blast",
+      "water_pulse",
+      "rock_polish",
+      "dark_pulse",
+      "aqua_tail",
+      "earth_power",
+      "avalanche",
+      "zen_headbutt",
+      "flash_cannon",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "charge_beam",
+      "round",
+      "echoed_voice",
+      "bulldoze",
+      "frost_breath",
+      "dragon_tail",
+      "confide",
+      "aurora_veil",
+      "meteor_beam",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "ice_cave"
+    ]
+  }
+]

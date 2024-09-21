@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "wind_power",
+    "name": "Wind Power",
+    "koName": "풍력발전",
+    "realased": "",
+    "description": "바람 기술로 공격받으면 충전 상태가 된다.",
+    "generation": 9,
+    "pokemonIds": [
+      "wattrel",
+      "kilowattrel"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

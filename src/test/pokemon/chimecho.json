@@ -1,0 +1,181 @@
+[
+  {
+    "_id": "chimecho",
+    "gender": "",
+    "pokedexNumber": "358",
+    "name": "chimecho",
+    "koName": "치렁",
+    "speciesName": "chimecho",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "159",
+    "friendship": "70",
+    "types": [
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "levitate"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "punk_rock",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 455,
+    "hp": 75,
+    "attack": 50,
+    "defense": 80,
+    "specialAttack": 95,
+    "specialDefense": 90,
+    "speed": 65,
+    "height": 0.6,
+    "weight": 1,
+    "eggMoveIds": [
+      "buzzy_buzz",
+      "eerie_spell",
+      "torch_song",
+      "boomburst"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "healing_wish"
+      },
+      {
+        "level": 1,
+        "moveId": "wrap"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 1,
+        "moveId": "synchronoise"
+      },
+      {
+        "level": 13,
+        "moveId": "yawn"
+      },
+      {
+        "level": 16,
+        "moveId": "stored_power"
+      },
+      {
+        "level": 19,
+        "moveId": "take_down"
+      },
+      {
+        "level": 22,
+        "moveId": "extrasensory"
+      },
+      {
+        "level": 27,
+        "moveId": "heal_bell"
+      },
+      {
+        "level": 32,
+        "moveId": "uproar"
+      },
+      {
+        "level": 37,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 42,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 47,
+        "moveId": "heal_pulse"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "double_edge",
+      "psybeam",
+      "thunder_wave",
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "swift",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "icy_wind",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "safeguard",
+      "baton_pass",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "uproar",
+      "torment",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "trick",
+      "recycle",
+      "knock_off",
+      "skill_swap",
+      "imprison",
+      "hyper_voice",
+      "fake_tears",
+      "cosmic_power",
+      "signal_beam",
+      "calm_mind",
+      "gravity",
+      "energy_ball",
+      "zen_headbutt",
+      "defog",
+      "trick_room",
+      "grass_knot",
+      "charge_beam",
+      "psyshock",
+      "round",
+      "echoed_voice",
+      "stored_power",
+      "ally_switch",
+      "snarl",
+      "disarming_voice",
+      "draining_kiss",
+      "confide",
+      "dazzling_gleam",
+      "expanding_force",
+      "tera_blast",
+      "psychic_noise"
+    ],
+    "biomeIds": [
+      "temple"
+    ]
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "_id": "azurill",
+    "gender": "",
+    "pokedexNumber": "298",
+    "name": "azurill",
+    "koName": "루리리",
+    "speciesName": "azurill",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "38",
+    "friendship": "50",
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "thick_fat",
+      "huge_power"
+    ],
+    "hiddenAbilityId": "sap_sipper",
+    "passiveAbilityId": "misty_surge",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 190,
+    "hp": 50,
+    "attack": 20,
+    "defense": 40,
+    "specialAttack": 20,
+    "specialDefense": 40,
+    "speed": 20,
+    "height": 0.2,
+    "weight": 2,
+    "eggMoveIds": [
+      "jet_punch",
+      "magical_torque",
+      "swords_dance",
+      "surging_strikes"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "splash"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 3,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 6,
+        "moveId": "bubble_beam"
+      },
+      {
+        "level": 9,
+        "moveId": "charm"
+      },
+      {
+        "level": 12,
+        "moveId": "slam"
+      },
+      {
+        "level": 15,
+        "moveId": "bounce"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "toxic",
+      "double_team",
+      "light_screen",
+      "waterfall",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "whirlpool",
+      "uproar",
+      "hail",
+      "facade",
+      "helping_hand",
+      "knock_off",
+      "hyper_voice",
+      "fake_tears",
+      "muddy_water",
+      "bounce",
+      "mud_shot",
+      "covet",
+      "water_pulse",
+      "round",
+      "scald",
+      "work_up",
+      "draining_kiss",
+      "confide",
+      "brutal_swing",
+      "tera_blast",
+      "alluring_voice"
+    ],
+    "biomeIds": []
+  }
+]

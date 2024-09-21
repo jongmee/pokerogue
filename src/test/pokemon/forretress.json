@@ -1,0 +1,208 @@
+[
+  {
+    "_id": "forretress",
+    "gender": "",
+    "pokedexNumber": "205",
+    "name": "forretress",
+    "koName": "쏘콘",
+    "speciesName": "forretress",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "163",
+    "friendship": "70",
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "normalAbilityIds": [
+      "sturdy"
+    ],
+    "hiddenAbilityId": "overcoat",
+    "passiveAbilityId": "iron_barbs",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 465,
+    "hp": 75,
+    "attack": 90,
+    "defense": 140,
+    "specialAttack": 60,
+    "specialDefense": 60,
+    "speed": 40,
+    "height": 1.2,
+    "weight": 125.8,
+    "eggMoveIds": [
+      "metal_burst",
+      "lunge",
+      "body_press",
+      "shore_up"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "heavy_slam"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "self_destruct"
+      },
+      {
+        "level": 1,
+        "moveId": "protect"
+      },
+      {
+        "level": 1,
+        "moveId": "zap_cannon"
+      },
+      {
+        "level": 1,
+        "moveId": "toxic_spikes"
+      },
+      {
+        "level": 1,
+        "moveId": "magnet_rise"
+      },
+      {
+        "level": 1,
+        "moveId": "bug_bite"
+      },
+      {
+        "level": 1,
+        "moveId": "mirror_shot"
+      },
+      {
+        "level": 12,
+        "moveId": "take_down"
+      },
+      {
+        "level": 17,
+        "moveId": "rapid_spin"
+      },
+      {
+        "level": 20,
+        "moveId": "rollout"
+      },
+      {
+        "level": 23,
+        "moveId": "curse"
+      },
+      {
+        "level": 28,
+        "moveId": "spikes"
+      },
+      {
+        "level": 32,
+        "moveId": "payback"
+      },
+      {
+        "level": 36,
+        "moveId": "explosion"
+      },
+      {
+        "level": 42,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 46,
+        "moveId": "gyro_ball"
+      },
+      {
+        "level": 50,
+        "moveId": "double_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "pin_missile",
+      "hyper_beam",
+      "counter",
+      "strength",
+      "solar_beam",
+      "thunder_wave",
+      "earthquake",
+      "dig",
+      "toxic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "self_destruct",
+      "swift",
+      "explosion",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "curse",
+      "reversal",
+      "protect",
+      "spikes",
+      "sandstorm",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "rock_smash",
+      "facade",
+      "helping_hand",
+      "revenge",
+      "rock_tomb",
+      "metal_sound",
+      "signal_beam",
+      "sand_tomb",
+      "iron_defense",
+      "rock_blast",
+      "gravity",
+      "gyro_ball",
+      "payback",
+      "toxic_spikes",
+      "rock_polish",
+      "poison_jab",
+      "seed_bomb",
+      "bug_buzz",
+      "earth_power",
+      "giga_impact",
+      "flash_cannon",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "bug_bite",
+      "venoshock",
+      "heavy_slam",
+      "round",
+      "ally_switch",
+      "volt_switch",
+      "struggle_bug",
+      "bulldoze",
+      "drill_run",
+      "confide",
+      "lunge",
+      "smart_strike",
+      "body_press",
+      "steel_beam",
+      "tera_blast",
+      "ice_spinner",
+      "pounce",
+      "hard_press"
+    ],
+    "biomeIds": [
+      "forest"
+    ]
+  }
+]

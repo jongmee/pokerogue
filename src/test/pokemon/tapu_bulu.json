@@ -1,0 +1,187 @@
+[
+  {
+    "_id": "tapu_bulu",
+    "gender": "",
+    "pokedexNumber": "787",
+    "name": "tapu_bulu",
+    "koName": "카푸브루루",
+    "speciesName": "tapu_bulu",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "285",
+    "friendship": "50",
+    "types": [
+      "grass",
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "grassy_surge"
+    ],
+    "hiddenAbilityId": "telepathy",
+    "passiveAbilityId": "triage",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 570,
+    "hp": 70,
+    "attack": 130,
+    "defense": 115,
+    "specialAttack": 85,
+    "specialDefense": 95,
+    "speed": 75,
+    "height": 1.9,
+    "weight": 45.5,
+    "eggMoveIds": [
+      "sappy_seed",
+      "drain_punch",
+      "magical_torque",
+      "victory_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "rock_smash"
+      },
+      {
+        "level": 1,
+        "moveId": "leafage"
+      },
+      {
+        "level": 5,
+        "moveId": "withdraw"
+      },
+      {
+        "level": 10,
+        "moveId": "disable"
+      },
+      {
+        "level": 15,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 20,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 25,
+        "moveId": "whirlwind"
+      },
+      {
+        "level": 30,
+        "moveId": "horn_attack"
+      },
+      {
+        "level": 35,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 40,
+        "moveId": "horn_leech"
+      },
+      {
+        "level": 45,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 50,
+        "moveId": "mean_look"
+      },
+      {
+        "level": 55,
+        "moveId": "natures_madness"
+      },
+      {
+        "level": 60,
+        "moveId": "wood_hammer"
+      },
+      {
+        "level": 65,
+        "moveId": "megahorn"
+      },
+      {
+        "level": 70,
+        "moveId": "skull_bash"
+      },
+      {
+        "level": 75,
+        "moveId": "grassy_terrain"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "swords_dance",
+      "roar",
+      "hyper_beam",
+      "solar_beam",
+      "toxic",
+      "light_screen",
+      "reflect",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "scary_face",
+      "giga_drain",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "megahorn",
+      "synthesis",
+      "hidden_power",
+      "sunny_day",
+      "psych_up",
+      "rock_smash",
+      "torment",
+      "facade",
+      "focus_punch",
+      "nature_power",
+      "taunt",
+      "superpower",
+      "revenge",
+      "brick_break",
+      "rock_tomb",
+      "bullet_seed",
+      "iron_defense",
+      "bulk_up",
+      "calm_mind",
+      "close_combat",
+      "payback",
+      "fling",
+      "power_swap",
+      "guard_swap",
+      "worry_seed",
+      "seed_bomb",
+      "focus_blast",
+      "energy_ball",
+      "giga_impact",
+      "zen_headbutt",
+      "stone_edge",
+      "grass_knot",
+      "round",
+      "echoed_voice",
+      "stored_power",
+      "work_up",
+      "snarl",
+      "grassy_terrain",
+      "confide",
+      "dazzling_gleam",
+      "darkest_lariat",
+      "high_horsepower",
+      "smart_strike",
+      "brutal_swing",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "desert"
+    ]
+  }
+]

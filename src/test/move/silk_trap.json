@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "silk_trap",
+    "name": "Silk Trap",
+    "koName": "스레드트랩",
+    "type": "bug",
+    "moveCategory": "status",
+    "moveTarget": "user",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 10,
+    "effect": "실로 함정을 만들어 둘러친다. 상대의 공격을 막음과 동시에 접촉한 상대의 스피드를 떨어뜨린다.",
+    "effectChance": -1,
+    "prioirty": 4,
+    "generation": 9,
+    "realased": "",
+    "flags": [
+      "ignore_protect"
+    ],
+    "pokemonIds": [
+      "caterpie",
+      "metapod",
+      "butterfree",
+      "butterfree_gigantamax",
+      "dewpider",
+      "araquanid",
+      "spidops"
+    ]
+  }
+]

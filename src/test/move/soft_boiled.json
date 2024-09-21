@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "soft_boiled",
+    "name": "Soft-Boiled",
+    "koName": "알낳기",
+    "type": "normal",
+    "moveCategory": "status",
+    "moveTarget": "user",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 5,
+    "effect": "자신의 최대 HP 절반을 회복한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 1,
+    "realased": "",
+    "flags": [
+      "ignore_protect",
+      "triage_move"
+    ],
+    "pokemonIds": [
+      "jigglypuff",
+      "wigglytuff",
+      "chansey",
+      "igglybuff",
+      "blissey",
+      "dondozo"
+    ]
+  }
+]

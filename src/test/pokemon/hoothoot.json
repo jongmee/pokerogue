@@ -1,0 +1,178 @@
+[
+  {
+    "_id": "hoothoot",
+    "gender": "",
+    "pokedexNumber": "163",
+    "name": "hoothoot",
+    "koName": "부우부",
+    "speciesName": "hoothoot",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "52",
+    "friendship": "50",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "insomnia",
+      "keen_eye"
+    ],
+    "hiddenAbilityId": "tinted_lens",
+    "passiveAbilityId": "aerilate",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 262,
+    "hp": 60,
+    "attack": 30,
+    "defense": 30,
+    "specialAttack": 36,
+    "specialDefense": 56,
+    "speed": 50,
+    "height": 0.7,
+    "weight": 21.2,
+    "eggMoveIds": [
+      "calm_mind",
+      "esper_wing",
+      "aeroblast",
+      "boomburst"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "peck"
+      },
+      {
+        "level": 3,
+        "moveId": "tackle"
+      },
+      {
+        "level": 6,
+        "moveId": "echoed_voice"
+      },
+      {
+        "level": 9,
+        "moveId": "confusion"
+      },
+      {
+        "level": 12,
+        "moveId": "reflect"
+      },
+      {
+        "level": 15,
+        "moveId": "defog"
+      },
+      {
+        "level": 18,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 21,
+        "moveId": "extrasensory"
+      },
+      {
+        "level": 24,
+        "moveId": "take_down"
+      },
+      {
+        "level": 27,
+        "moveId": "uproar"
+      },
+      {
+        "level": 30,
+        "moveId": "roost"
+      },
+      {
+        "level": 33,
+        "moveId": "moonblast"
+      },
+      {
+        "level": 36,
+        "moveId": "hypnosis"
+      },
+      {
+        "level": 39,
+        "moveId": "dream_eater"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fly",
+      "take_down",
+      "psybeam",
+      "toxic",
+      "psychic",
+      "agility",
+      "night_shade",
+      "screech",
+      "double_team",
+      "confuse_ray",
+      "haze",
+      "reflect",
+      "swift",
+      "amnesia",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "mud_slap",
+      "endure",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "uproar",
+      "heat_wave",
+      "facade",
+      "recycle",
+      "skill_swap",
+      "imprison",
+      "feather_dance",
+      "hyper_voice",
+      "air_cutter",
+      "aerial_ace",
+      "calm_mind",
+      "roost",
+      "pluck",
+      "tailwind",
+      "air_slash",
+      "brave_bird",
+      "nasty_plot",
+      "zen_headbutt",
+      "defog",
+      "round",
+      "echoed_voice",
+      "stored_power",
+      "acrobatics",
+      "work_up",
+      "hurricane",
+      "confide",
+      "dual_wingbeat",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "town",
+      "forest"
+    ]
+  }
+]

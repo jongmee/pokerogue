@@ -1,0 +1,31 @@
+[
+  {
+    "_id": "sweet_veil",
+    "name": "Sweet Veil",
+    "koName": "스위트베일",
+    "realased": " (P)",
+    "description": "같은 편의 포켓몬이 잠들지 않게 된다.",
+    "generation": 6,
+    "pokemonIds": [
+      "swirlix",
+      "slurpuff",
+      "cutiefly",
+      "ribombee",
+      "bounsweet",
+      "steenee",
+      "tsareena",
+      "milcery",
+      "alcremie",
+      "alcremie_ruby_cream",
+      "alcremie_matcha_cream",
+      "alcremie_mint_cream",
+      "alcremie_lemon_cream",
+      "alcremie_salted_cream",
+      "alcremie_ruby_swirl",
+      "alcremie_caramel_swirl",
+      "alcremie_rainbow_swirl"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

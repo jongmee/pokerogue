@@ -1,0 +1,129 @@
+[
+  {
+    "_id": "nickit",
+    "gender": "",
+    "pokedexNumber": "827",
+    "name": "nickit",
+    "koName": "훔처우",
+    "speciesName": "nickit",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "49",
+    "friendship": "50",
+    "types": [
+      "dark"
+    ],
+    "normalAbilityIds": [
+      "run_away",
+      "unburden"
+    ],
+    "hiddenAbilityId": "stakeout",
+    "passiveAbilityId": "magician",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 245,
+    "hp": 40,
+    "attack": 28,
+    "defense": 28,
+    "specialAttack": 47,
+    "specialDefense": 52,
+    "speed": 50,
+    "height": 0.6,
+    "weight": 8.9,
+    "eggMoveIds": [
+      "baddy_bad",
+      "burning_jealousy",
+      "sparkly_swirl",
+      "fiery_wrath"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 4,
+        "moveId": "beat_up"
+      },
+      {
+        "level": 8,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 12,
+        "moveId": "snarl"
+      },
+      {
+        "level": 16,
+        "moveId": "assurance"
+      },
+      {
+        "level": 20,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 24,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 28,
+        "moveId": "night_slash"
+      },
+      {
+        "level": 32,
+        "moveId": "tail_slap"
+      },
+      {
+        "level": 36,
+        "moveId": "foul_play"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "dig",
+      "agility",
+      "screech",
+      "double_team",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "hidden_power",
+      "beat_up",
+      "torment",
+      "facade",
+      "taunt",
+      "knock_off",
+      "fake_tears",
+      "mud_shot",
+      "assurance",
+      "nasty_plot",
+      "hone_claws",
+      "foul_play",
+      "round",
+      "tail_slap",
+      "snarl",
+      "play_rough",
+      "lash_out"
+    ],
+    "biomeIds": [
+      "abyss"
+    ]
+  }
+]

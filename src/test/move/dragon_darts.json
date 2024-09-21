@@ -1,0 +1,36 @@
+[
+  {
+    "_id": "dragon_darts",
+    "name": "Dragon Darts",
+    "koName": "드래곤애로",
+    "type": "dragon",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 50,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "드라꼰으로 2번 공격한다. 상대가 2마리일 때는 각각 1번씩 공격한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": " (P)",
+    "flags": [],
+    "pokemonIds": [
+      "trapinch",
+      "vibrava",
+      "flygon",
+      "rayquaza",
+      "rayquaza_mega",
+      "druddigon",
+      "kyurem",
+      "kyurem_black",
+      "kyurem_white",
+      "zygarde",
+      "dragapult",
+      "regidrago",
+      "frigibax",
+      "arctibax",
+      "baxcalibur"
+    ]
+  }
+]

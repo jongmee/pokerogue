@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "moonlight",
+    "name": "Moonlight",
+    "koName": "달빛",
+    "type": "fairy",
+    "moveCategory": "status",
+    "moveTarget": "user",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 5,
+    "effect": "자신의 HP를 회복한다. 날씨에 따라 회복량이 변한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 2,
+    "realased": "",
+    "flags": [
+      "ignore_protect",
+      "triage_move"
+    ],
+    "pokemonIds": [
+      "clefairy",
+      "clefable",
+      "oddish",
+      "gloom",
+      "vileplume",
+      "venonat",
+      "venomoth",
+      "bellossom",
+      "umbreon",
+      "dustox",
+      "volbeat",
+      "illumise",
+      "lunatone",
+      "cresselia",
+      "munna",
+      "musharna",
+      "noivern",
+      "morelull",
+      "shiinotic",
+      "passimian",
+      "tapu_lele",
+      "lunala",
+      "necrozma",
+      "scream_tail",
+      "flutter_mane",
+      "bloodmoon_ursaluna"
+    ]
+  }
+]

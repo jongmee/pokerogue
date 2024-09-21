@@ -1,0 +1,53 @@
+[
+  {
+    "_id": "tail_glow",
+    "name": "Tail Glow",
+    "koName": "반딧불",
+    "type": "bug",
+    "moveCategory": "status",
+    "moveTarget": "user",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 20,
+    "effect": "깜빡거리는 빛을 바라보고 자신의 정신을 통일하여 특수공격을 매우 크게 올린다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 3,
+    "realased": "",
+    "flags": [
+      "ignore_protect"
+    ],
+    "pokemonIds": [
+      "vulpix",
+      "ninetales",
+      "chinchou",
+      "lanturn",
+      "mareep",
+      "flaaffy",
+      "ampharos",
+      "ampharos_mega",
+      "plusle",
+      "minun",
+      "volbeat",
+      "spoink",
+      "grumpig",
+      "mesprit",
+      "azelf",
+      "manaphy",
+      "elgyem",
+      "beheeyem",
+      "genesect",
+      "genesect_shock",
+      "genesect_burn",
+      "genesect_chill",
+      "genesect_douse",
+      "xerneas_neutral",
+      "xerneas_active",
+      "xurkitree",
+      "blipbug",
+      "dottler",
+      "orbeetle",
+      "orbeetle_gigantamax"
+    ]
+  }
+]

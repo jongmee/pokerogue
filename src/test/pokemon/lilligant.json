@@ -1,0 +1,183 @@
+[
+  {
+    "_id": "lilligant",
+    "gender": "",
+    "pokedexNumber": "549",
+    "name": "lilligant",
+    "koName": "드레디어",
+    "speciesName": "lilligant",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "168",
+    "friendship": "50",
+    "types": [
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "chlorophyll",
+      "own_tempo"
+    ],
+    "hiddenAbilityId": "leaf_guard",
+    "passiveAbilityId": "simple",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 480,
+    "hp": 70,
+    "attack": 60,
+    "defense": 75,
+    "specialAttack": 110,
+    "specialDefense": 75,
+    "speed": 90,
+    "height": 1.1,
+    "weight": 16.3,
+    "eggMoveIds": [
+      "thunderous_kick",
+      "sparkling_aria",
+      "fiery_dance",
+      "flower_trick"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "petal_dance"
+      },
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 1,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 1,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 1,
+        "moveId": "growth"
+      },
+      {
+        "level": 1,
+        "moveId": "stun_spore"
+      },
+      {
+        "level": 1,
+        "moveId": "sleep_powder"
+      },
+      {
+        "level": 1,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 1,
+        "moveId": "charm"
+      },
+      {
+        "level": 1,
+        "moveId": "synthesis"
+      },
+      {
+        "level": 1,
+        "moveId": "sunny_day"
+      },
+      {
+        "level": 1,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 1,
+        "moveId": "teeter_dance"
+      },
+      {
+        "level": 1,
+        "moveId": "energy_ball"
+      },
+      {
+        "level": 1,
+        "moveId": "leaf_storm"
+      },
+      {
+        "level": 1,
+        "moveId": "quiver_dance"
+      },
+      {
+        "level": 1,
+        "moveId": "entrainment"
+      },
+      {
+        "level": 1,
+        "moveId": "after_you"
+      },
+      {
+        "level": 1,
+        "moveId": "petal_blizzard"
+      },
+      {
+        "level": 5,
+        "moveId": "magical_leaf"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "hyper_beam",
+      "solar_beam",
+      "toxic",
+      "double_team",
+      "light_screen",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "giga_drain",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "safeguard",
+      "encore",
+      "synthesis",
+      "hidden_power",
+      "sunny_day",
+      "facade",
+      "nature_power",
+      "helping_hand",
+      "weather_ball",
+      "bullet_seed",
+      "covet",
+      "magical_leaf",
+      "leaf_blade",
+      "worry_seed",
+      "seed_bomb",
+      "energy_ball",
+      "giga_impact",
+      "leaf_storm",
+      "grass_knot",
+      "round",
+      "petal_blizzard",
+      "grassy_terrain",
+      "confide",
+      "solar_blade",
+      "pollen_puff",
+      "grassy_glide",
+      "tera_blast",
+      "trailblaze",
+      "alluring_voice"
+    ],
+    "biomeIds": [
+      "forest"
+    ]
+  }
+]

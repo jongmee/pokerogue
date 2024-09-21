@@ -1,0 +1,168 @@
+[
+  {
+    "_id": "walking_wake",
+    "gender": "",
+    "pokedexNumber": "1009",
+    "name": "walking_wake",
+    "koName": "굽이치는물결",
+    "speciesName": "walking_wake",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "295",
+    "friendship": "0",
+    "types": [
+      "water",
+      "dragon"
+    ],
+    "normalAbilityIds": [
+      "protosynthesis"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "beast_boost",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 590,
+    "hp": 99,
+    "attack": 83,
+    "defense": 91,
+    "specialAttack": 125,
+    "specialDefense": 83,
+    "speed": 109,
+    "height": 3.5,
+    "weight": 280,
+    "eggMoveIds": [
+      "core_enforcer",
+      "nasty_plot",
+      "earth_power",
+      "bouncy_bubble"
+    ],
+    "levelMoves": [
+      {
+        "level": -1,
+        "moveId": "sunny_day"
+      },
+      {
+        "level": -1,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "roar"
+      },
+      {
+        "level": 1,
+        "moveId": "twister"
+      },
+      {
+        "level": 1,
+        "moveId": "aqua_jet"
+      },
+      {
+        "level": 7,
+        "moveId": "bite"
+      },
+      {
+        "level": 14,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 21,
+        "moveId": "noble_roar"
+      },
+      {
+        "level": 28,
+        "moveId": "dragon_breath"
+      },
+      {
+        "level": 35,
+        "moveId": "breaking_swipe"
+      },
+      {
+        "level": 42,
+        "moveId": "dragon_rush"
+      },
+      {
+        "level": 56,
+        "moveId": "hydro_steam"
+      },
+      {
+        "level": 63,
+        "moveId": "dragon_pulse"
+      },
+      {
+        "level": 70,
+        "moveId": "outrage"
+      },
+      {
+        "level": 77,
+        "moveId": "flamethrower"
+      },
+      {
+        "level": 84,
+        "moveId": "hydro_pump"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "hydro_pump",
+      "surf",
+      "hyper_beam",
+      "low_kick",
+      "agility",
+      "double_team",
+      "waterfall",
+      "swift",
+      "rest",
+      "substitute",
+      "protect",
+      "scary_face",
+      "outrage",
+      "endure",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "whirlpool",
+      "facade",
+      "knock_off",
+      "weather_ball",
+      "dragon_claw",
+      "mud_shot",
+      "dragon_dance",
+      "water_pulse",
+      "dragon_pulse",
+      "giga_impact",
+      "fire_fang",
+      "draco_meteor",
+      "hone_claws",
+      "scald",
+      "hurricane",
+      "snarl",
+      "liquidation",
+      "breaking_swipe",
+      "flip_turn",
+      "tera_blast",
+      "chilling_water",
+      "dragon_cheer"
+    ],
+    "biomeIds": [
+      "end"
+    ]
+  }
+]

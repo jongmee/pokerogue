@@ -1,0 +1,143 @@
+[
+  {
+    "_id": "skwovet",
+    "gender": "",
+    "pokedexNumber": "819",
+    "name": "skwovet",
+    "koName": "탐리스",
+    "speciesName": "skwovet",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "55",
+    "friendship": "50",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "cheek_pouch"
+    ],
+    "hiddenAbilityId": "gluttony",
+    "passiveAbilityId": "harvest",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 275,
+    "hp": 70,
+    "attack": 55,
+    "defense": 55,
+    "specialAttack": 35,
+    "specialDefense": 35,
+    "speed": 25,
+    "height": 0.3,
+    "weight": 2.5,
+    "eggMoveIds": [
+      "knock_off",
+      "slack_off",
+      "body_press",
+      "population_bomb"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 5,
+        "moveId": "bite"
+      },
+      {
+        "level": 10,
+        "moveId": "stuff_cheeks"
+      },
+      {
+        "level": 15,
+        "moveId": "stockpile"
+      },
+      {
+        "level": 15,
+        "moveId": "spit_up"
+      },
+      {
+        "level": 15,
+        "moveId": "swallow"
+      },
+      {
+        "level": 20,
+        "moveId": "body_slam"
+      },
+      {
+        "level": 25,
+        "moveId": "rest"
+      },
+      {
+        "level": 30,
+        "moveId": "counter"
+      },
+      {
+        "level": 35,
+        "moveId": "bullet_seed"
+      },
+      {
+        "level": 40,
+        "moveId": "super_fang"
+      },
+      {
+        "level": 45,
+        "moveId": "belch"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "counter",
+      "dig",
+      "double_team",
+      "amnesia",
+      "rest",
+      "super_fang",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "crunch",
+      "uproar",
+      "facade",
+      "endeavor",
+      "hyper_voice",
+      "bullet_seed",
+      "mud_shot",
+      "gyro_ball",
+      "payback",
+      "assurance",
+      "fling",
+      "seed_bomb",
+      "round",
+      "tail_slap",
+      "brutal_swing",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "town",
+      "plains"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "toxic_thread",
+    "name": "Toxic Thread",
+    "koName": "독실",
+    "type": "poison",
+    "moveCategory": "status",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": 100,
+    "powerPoint": 20,
+    "effect": "독이 섞인 실을 뿜어낸다. 상대를 독 상태로 만들고 스피드를 떨어뜨린다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "spinarak",
+      "ariados"
+    ]
+  }
+]

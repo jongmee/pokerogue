@@ -1,0 +1,162 @@
+[
+  {
+    "_id": "ruins",
+    "name": "Ancient Ruins",
+    "koName": "고대 유적",
+    "types": [
+      "psychic"
+    ],
+    "nextBiomes": [
+      {
+        "name": "mountain",
+        "percentage": 66.66666666666666
+      },
+      {
+        "name": "forest",
+        "percentage": 33.33333333333333
+      }
+    ],
+    "nativePokemons": [
+      {
+        "tier": "보통",
+        "pokemonIds": [
+          "drowzee",
+          "hypno",
+          "natu",
+          "xatu",
+          "unown",
+          "spoink",
+          "grumpig",
+          "baltoy",
+          "claydol",
+          "elgyem",
+          "beheeyem"
+        ]
+      },
+      {
+        "tier": "드묾",
+        "pokemonIds": [
+          "abra",
+          "kadabra",
+          "sigilyph",
+          "tinkatink",
+          "tinkatuff",
+          "tinkaton"
+        ]
+      },
+      {
+        "tier": "레어",
+        "pokemonIds": [
+          "mr_mime",
+          "wobbuffet",
+          "gothita",
+          "gothorita",
+          "gothitelle",
+          "stonjourner"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어",
+        "pokemonIds": [
+          "espeon",
+          "galar_yamask",
+          "runerigus",
+          "archen",
+          "archeops"
+        ]
+      },
+      {
+        "tier": "울트라 레어",
+        "pokemonIds": [
+          "registeel",
+          "fezandipiti"
+        ]
+      },
+      {
+        "tier": "보스",
+        "pokemonIds": [
+          "alakazam",
+          "hypno",
+          "xatu",
+          "grumpig",
+          "claydol",
+          "sigilyph",
+          "gothitelle",
+          "beheeyem",
+          "tinkaton"
+        ]
+      },
+      {
+        "tier": "레어 보스",
+        "pokemonIds": [
+          "espeon",
+          "runerigus",
+          "mr_mime",
+          "wobbuffet",
+          "archeops"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어 보스",
+        "pokemonIds": [
+          "registeel",
+          "fezandipiti"
+        ]
+      },
+      {
+        "tier": "슈퍼 울트라 레어 보스",
+        "pokemonIds": [
+          "koraidon"
+        ]
+      }
+    ],
+    "trainers": [
+      {
+        "name": "초련",
+        "types": [
+          "psychic"
+        ],
+        "pokemonIds": [
+          "abra",
+          "mr_mime",
+          "espeon"
+        ]
+      },
+      {
+        "name": "풍",
+        "types": [
+          "psychic"
+        ],
+        "pokemonIds": [
+          "solrock",
+          "natu",
+          "chimecho",
+          "gallade"
+        ]
+      },
+      {
+        "name": "란",
+        "types": [
+          "psychic"
+        ],
+        "pokemonIds": [
+          "lunatone",
+          "spoink",
+          "baltoy",
+          "gardevoir"
+        ]
+      },
+      {
+        "name": "리파",
+        "types": [
+          "psychic"
+        ],
+        "pokemonIds": [
+          "girafarig",
+          "flittle",
+          "ralts"
+        ]
+      }
+    ]
+  }
+]

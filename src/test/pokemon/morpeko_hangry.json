@@ -1,0 +1,107 @@
+[
+  {
+    "_id": "morpeko_hangry",
+    "gender": "",
+    "pokedexNumber": "877",
+    "name": "morpeko_hangry",
+    "koName": "모르페코_hangry",
+    "speciesName": "morpeko",
+    "canChangeForm": true,
+    "formName": "hangry_mode",
+    "baseExp": "153",
+    "friendship": "50",
+    "types": [
+      "electric",
+      "dark"
+    ],
+    "normalAbilityIds": [
+      "hunger_switch"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "moody",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 436,
+    "hp": 58,
+    "attack": 95,
+    "defense": 58,
+    "specialAttack": 70,
+    "specialDefense": 58,
+    "speed": 97,
+    "height": 0.3,
+    "weight": 3,
+    "eggMoveIds": [
+      "triple_axel",
+      "obstruct",
+      "swords_dance",
+      "collision_course"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 5,
+        "moveId": "leer"
+      },
+      {
+        "level": 10,
+        "moveId": "power_trip"
+      },
+      {
+        "level": 15,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 20,
+        "moveId": "flatter"
+      },
+      {
+        "level": 25,
+        "moveId": "bite"
+      },
+      {
+        "level": 30,
+        "moveId": "spark"
+      },
+      {
+        "level": 35,
+        "moveId": "torment"
+      },
+      {
+        "level": 40,
+        "moveId": "agility"
+      },
+      {
+        "level": 45,
+        "moveId": "bullet_seed"
+      },
+      {
+        "level": 50,
+        "moveId": "crunch"
+      },
+      {
+        "level": 55,
+        "moveId": "aura_wheel"
+      },
+      {
+        "level": 60,
+        "moveId": "thrash"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "metropolis"
+    ]
+  }
+]

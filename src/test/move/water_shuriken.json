@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "water_shuriken",
+    "name": "Water Shuriken",
+    "koName": "물수리검",
+    "type": "water",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 15,
+    "accuracy": 100,
+    "powerPoint": 20,
+    "effect": "점액으로 만든 수리검을 2-5회 동안 연속으로 던진다. 반드시 선제공격할 수 있다.",
+    "effectChance": -1,
+    "prioirty": 1,
+    "generation": 6,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "shellder",
+      "cloyster",
+      "remoraid",
+      "octillery",
+      "accelgor",
+      "greninja",
+      "clauncher",
+      "clawitzer"
+    ]
+  }
+]

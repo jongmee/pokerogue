@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "gear_grind",
+    "name": "Gear Grind",
+    "koName": "기어소서",
+    "type": "steel",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 50,
+    "accuracy": 85,
+    "powerPoint": 15,
+    "effect": "강철의 기어를 상대에게 던져서 공격한다. 2회 연속으로 데미지를 준다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 5,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "klink",
+      "klang",
+      "klinklang"
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "_id": "fiery_wrath",
+    "name": "Fiery Wrath",
+    "koName": "타오르는분노",
+    "type": "dark",
+    "moveCategory": "special",
+    "moveTarget": "all_near_enemies",
+    "power": 90,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "분노를 불꽃 같은 오라로 바꿔서 공격한다. 상대를 풀죽게 만들 때가 있다.",
+    "effectChance": 20,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "houndour",
+      "houndoom",
+      "houndoom_mega",
+      "darkrai",
+      "zorua",
+      "zoroark",
+      "deino",
+      "zweilous",
+      "hydreigon",
+      "froakie",
+      "frogadier",
+      "greninja",
+      "yveltal",
+      "hoopa",
+      "nickit",
+      "thievul",
+      "iron_jugulis",
+      "wo_chien",
+      "chi_yu",
+      "galar_moltres"
+    ]
+  }
+]

@@ -1,0 +1,199 @@
+[
+  {
+    "_id": "grovyle",
+    "gender": "",
+    "pokedexNumber": "253",
+    "name": "grovyle",
+    "koName": "나무돌이",
+    "speciesName": "grovyle",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "142",
+    "friendship": "50",
+    "types": [
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "overgrow"
+    ],
+    "hiddenAbilityId": "unburden",
+    "passiveAbilityId": "tinted_lens",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 405,
+    "hp": 50,
+    "attack": 65,
+    "defense": 45,
+    "specialAttack": 85,
+    "specialDefense": 65,
+    "speed": 95,
+    "height": 0.9,
+    "weight": 21.6,
+    "eggMoveIds": [
+      "nasty_plot",
+      "apple_acid",
+      "secret_sword",
+      "dragon_energy"
+    ],
+    "levelMoves": [
+      {
+        "level": -1,
+        "moveId": "false_swipe"
+      },
+      {
+        "level": -1,
+        "moveId": "fury_cutter"
+      },
+      {
+        "level": -1,
+        "moveId": "x_scissor"
+      },
+      {
+        "level": -1,
+        "moveId": "energy_ball"
+      },
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "leafage"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 9,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 12,
+        "moveId": "detect"
+      },
+      {
+        "level": 15,
+        "moveId": "quick_guard"
+      },
+      {
+        "level": 20,
+        "moveId": "assurance"
+      },
+      {
+        "level": 25,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 30,
+        "moveId": "slam"
+      },
+      {
+        "level": 35,
+        "moveId": "double_team"
+      },
+      {
+        "level": 40,
+        "moveId": "leaf_blade"
+      },
+      {
+        "level": 45,
+        "moveId": "screech"
+      },
+      {
+        "level": 50,
+        "moveId": "endeavor"
+      },
+      {
+        "level": 55,
+        "moveId": "leaf_storm"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "thunder_punch",
+      "swords_dance",
+      "cut",
+      "mega_kick",
+      "body_slam",
+      "low_kick",
+      "counter",
+      "strength",
+      "solar_beam",
+      "dig",
+      "toxic",
+      "agility",
+      "screech",
+      "double_team",
+      "swift",
+      "flash",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "mud_slap",
+      "giga_drain",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "iron_tail",
+      "synthesis",
+      "hidden_power",
+      "sunny_day",
+      "crunch",
+      "rock_smash",
+      "facade",
+      "focus_punch",
+      "nature_power",
+      "brick_break",
+      "endeavor",
+      "rock_tomb",
+      "bullet_seed",
+      "aerial_ace",
+      "magical_leaf",
+      "leaf_blade",
+      "assurance",
+      "fling",
+      "worry_seed",
+      "seed_bomb",
+      "x_scissor",
+      "drain_punch",
+      "vacuum_wave",
+      "energy_ball",
+      "leaf_storm",
+      "grass_knot",
+      "low_sweep",
+      "round",
+      "acrobatics",
+      "grass_pledge",
+      "work_up",
+      "grassy_terrain",
+      "confide",
+      "power_up_punch",
+      "solar_blade",
+      "breaking_swipe",
+      "grassy_glide",
+      "tera_blast",
+      "trailblaze",
+      "upper_hand"
+    ],
+    "biomeIds": [
+      "forest"
+    ]
+  }
+]

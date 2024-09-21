@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "supersonic_skystrike__physical",
+    "name": "Supersonic Skystrike",
+    "koName": "파이널다이브클래시",
+    "type": "flying",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 1,
+    "effect": "Z파워로 기세 좋게 날아올라 상대를 향해 전력으로 낙하한다. 원래 기술에 따라 위력이 변한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": " (N)",
+    "flags": [
+      "makes_contact",
+      "ignore_virtual"
+    ],
+    "pokemonIds": []
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "_id": "aeroblast",
+    "name": "Aeroblast",
+    "koName": "에어로블라스트",
+    "type": "flying",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 100,
+    "accuracy": 95,
+    "powerPoint": 5,
+    "effect": "공기의 소용돌이를 발사하여 공격한다. 급소에 맞기 쉽다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 2,
+    "realased": "",
+    "flags": [
+      "wind_move"
+    ],
+    "pokemonIds": [
+      "articuno",
+      "moltres",
+      "hoothoot",
+      "noctowl",
+      "natu",
+      "xatu",
+      "lugia",
+      "surskit",
+      "masquerain",
+      "shaymin_land",
+      "shaymin_sky",
+      "noibat",
+      "noivern",
+      "sobble",
+      "drizzile",
+      "inteleon",
+      "inteleon_gigantamax"
+    ]
+  }
+]

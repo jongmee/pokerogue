@@ -1,0 +1,204 @@
+[
+  {
+    "_id": "ariados",
+    "gender": "",
+    "pokedexNumber": "168",
+    "name": "ariados",
+    "koName": "아리아도스",
+    "speciesName": "ariados",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "140",
+    "friendship": "70",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "normalAbilityIds": [
+      "swarm",
+      "insomnia"
+    ],
+    "hiddenAbilityId": "sniper",
+    "passiveAbilityId": "prankster",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 400,
+    "hp": 70,
+    "attack": 90,
+    "defense": 70,
+    "specialAttack": 60,
+    "specialDefense": 70,
+    "speed": 40,
+    "height": 1.1,
+    "weight": 33.5,
+    "eggMoveIds": [
+      "parting_shot",
+      "attack_order",
+      "gastro_acid",
+      "strength_sap"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 1,
+        "moveId": "poison_sting"
+      },
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 1,
+        "moveId": "string_shot"
+      },
+      {
+        "level": 1,
+        "moveId": "constrict"
+      },
+      {
+        "level": 1,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 1,
+        "moveId": "bug_bite"
+      },
+      {
+        "level": 1,
+        "moveId": "fell_stinger"
+      },
+      {
+        "level": 8,
+        "moveId": "infestation"
+      },
+      {
+        "level": 12,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 15,
+        "moveId": "night_shade"
+      },
+      {
+        "level": 19,
+        "moveId": "shadow_sneak"
+      },
+      {
+        "level": 23,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 28,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 31,
+        "moveId": "agility"
+      },
+      {
+        "level": 35,
+        "moveId": "pin_missile"
+      },
+      {
+        "level": 41,
+        "moveId": "psychic"
+      },
+      {
+        "level": 46,
+        "moveId": "poison_jab"
+      },
+      {
+        "level": 50,
+        "moveId": "cross_poison"
+      },
+      {
+        "level": 54,
+        "moveId": "sticky_web"
+      },
+      {
+        "level": 59,
+        "moveId": "toxic_thread"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "body_slam",
+      "pin_missile",
+      "hyper_beam",
+      "solar_beam",
+      "dig",
+      "toxic",
+      "psychic",
+      "agility",
+      "night_shade",
+      "screech",
+      "double_team",
+      "focus_energy",
+      "leech_life",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "megahorn",
+      "baton_pass",
+      "hidden_power",
+      "sunny_day",
+      "facade",
+      "knock_off",
+      "signal_beam",
+      "bounce",
+      "toxic_spikes",
+      "poison_jab",
+      "x_scissor",
+      "bug_buzz",
+      "giga_impact",
+      "cross_poison",
+      "bug_bite",
+      "hone_claws",
+      "venoshock",
+      "sludge_wave",
+      "acid_spray",
+      "foul_play",
+      "round",
+      "hex",
+      "struggle_bug",
+      "electroweb",
+      "confide",
+      "infestation",
+      "throat_chop",
+      "lunge",
+      "smart_strike",
+      "stomping_tantrum",
+      "skitter_smack",
+      "tera_blast",
+      "pounce",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "tall_grass",
+      "forest",
+      "jungle"
+    ]
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "_id": "teddiursa",
+    "gender": "",
+    "pokedexNumber": "216",
+    "name": "teddiursa",
+    "koName": "깜지곰",
+    "speciesName": "teddiursa",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "66",
+    "friendship": "70",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "pickup",
+      "quick_feet"
+    ],
+    "hiddenAbilityId": "honey_gather",
+    "passiveAbilityId": "thick_fat",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 330,
+    "hp": 60,
+    "attack": 80,
+    "defense": 50,
+    "specialAttack": 50,
+    "specialDefense": 50,
+    "speed": 40,
+    "height": 0.6,
+    "weight": 8.8,
+    "eggMoveIds": [
+      "mountain_gale",
+      "raging_bull",
+      "slack_off",
+      "precipice_blades"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "lick"
+      },
+      {
+        "level": 1,
+        "moveId": "covet"
+      },
+      {
+        "level": 1,
+        "moveId": "fling"
+      },
+      {
+        "level": 1,
+        "moveId": "baby_doll_eyes"
+      },
+      {
+        "level": 8,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 13,
+        "moveId": "payback"
+      },
+      {
+        "level": 17,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 22,
+        "moveId": "slash"
+      },
+      {
+        "level": 25,
+        "moveId": "play_nice"
+      },
+      {
+        "level": 29,
+        "moveId": "play_rough"
+      },
+      {
+        "level": 33,
+        "moveId": "charm"
+      },
+      {
+        "level": 37,
+        "moveId": "rest"
+      },
+      {
+        "level": 37,
+        "moveId": "snore"
+      },
+      {
+        "level": 41,
+        "moveId": "thrash"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "swords_dance",
+      "cut",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "low_kick",
+      "counter",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "double_team",
+      "focus_energy",
+      "metronome",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "rock_smash",
+      "uproar",
+      "torment",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "superpower",
+      "brick_break",
+      "hyper_voice",
+      "fake_tears",
+      "rock_tomb",
+      "aerial_ace",
+      "bulk_up",
+      "covet",
+      "close_combat",
+      "payback",
+      "fling",
+      "seed_bomb",
+      "avalanche",
+      "shadow_claw",
+      "gunk_shot",
+      "hone_claws",
+      "smack_down",
+      "round",
+      "retaliate",
+      "bulldoze",
+      "work_up",
+      "play_rough",
+      "confide",
+      "power_up_punch",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "forest",
+      "cave",
+      "snowy_forest"
+    ]
+  }
+]

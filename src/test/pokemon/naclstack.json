@@ -1,0 +1,154 @@
+[
+  {
+    "_id": "naclstack",
+    "gender": "",
+    "pokedexNumber": "933",
+    "name": "naclstack",
+    "koName": "스태솔트",
+    "speciesName": "naclstack",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "124",
+    "friendship": "50",
+    "types": [
+      "rock"
+    ],
+    "normalAbilityIds": [
+      "purifying_salt",
+      "sturdy"
+    ],
+    "hiddenAbilityId": "clear_body",
+    "passiveAbilityId": "solid_rock",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 355,
+    "hp": 60,
+    "attack": 60,
+    "defense": 100,
+    "specialAttack": 35,
+    "specialDefense": 65,
+    "speed": 35,
+    "height": 0.6,
+    "weight": 105,
+    "eggMoveIds": [
+      "body_press",
+      "toxic",
+      "curse",
+      "diamond_storm"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "salt_cure"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "harden"
+      },
+      {
+        "level": 5,
+        "moveId": "rock_throw"
+      },
+      {
+        "level": 7,
+        "moveId": "mud_shot"
+      },
+      {
+        "level": 10,
+        "moveId": "smack_down"
+      },
+      {
+        "level": 13,
+        "moveId": "rock_polish"
+      },
+      {
+        "level": 16,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 20,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 30,
+        "moveId": "recover"
+      },
+      {
+        "level": 34,
+        "moveId": "rock_slide"
+      },
+      {
+        "level": 38,
+        "moveId": "stealth_rock"
+      },
+      {
+        "level": 41,
+        "moveId": "heavy_slam"
+      },
+      {
+        "level": 45,
+        "moveId": "earthquake"
+      },
+      {
+        "level": 51,
+        "moveId": "stone_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "earthquake",
+      "dig",
+      "double_team",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "curse",
+      "protect",
+      "sandstorm",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "facade",
+      "helping_hand",
+      "iron_defense",
+      "mud_shot",
+      "rock_polish",
+      "power_gem",
+      "earth_power",
+      "giga_impact",
+      "zen_headbutt",
+      "flash_cannon",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "smack_down",
+      "heavy_slam",
+      "bulldoze",
+      "stomping_tantrum",
+      "body_press",
+      "meteor_beam",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "mountain",
+      "cave"
+    ]
+  }
+]

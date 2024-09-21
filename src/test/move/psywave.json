@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "psywave",
+    "name": "Psywave",
+    "koName": "사이코웨이브",
+    "type": "psychic",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": 100,
+    "powerPoint": 15,
+    "effect": "이상한 염력파를 상대에게 발사하여 공격한다. 사용할 때마다 데미지가 바뀐다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 1,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "misdreavus",
+      "latias",
+      "latios",
+      "mismagius",
+      "chingling",
+      "munna",
+      "solosis",
+      "duosion",
+      "reuniclus"
+    ]
+  }
+]

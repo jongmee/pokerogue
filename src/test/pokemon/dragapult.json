@@ -1,0 +1,189 @@
+[
+  {
+    "_id": "dragapult",
+    "gender": "",
+    "pokedexNumber": "887",
+    "name": "dragapult",
+    "koName": "드래펄트",
+    "speciesName": "dragapult",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "300",
+    "friendship": "50",
+    "types": [
+      "dragon",
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "clear_body",
+      "infiltrator"
+    ],
+    "hiddenAbilityId": "cursed_body",
+    "passiveAbilityId": "parental_bond",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 600,
+    "hp": 88,
+    "attack": 120,
+    "defense": 75,
+    "specialAttack": 100,
+    "specialDefense": 75,
+    "speed": 142,
+    "height": 3,
+    "weight": 50,
+    "eggMoveIds": [
+      "shadow_bone",
+      "power_up_punch",
+      "blazing_torque",
+      "glaive_rush"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "dragon_darts"
+      },
+      {
+        "level": 1,
+        "moveId": "bite"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "dragon_breath"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 1,
+        "moveId": "infestation"
+      },
+      {
+        "level": 6,
+        "moveId": "lock_on"
+      },
+      {
+        "level": 12,
+        "moveId": "assurance"
+      },
+      {
+        "level": 18,
+        "moveId": "hex"
+      },
+      {
+        "level": 24,
+        "moveId": "agility"
+      },
+      {
+        "level": 30,
+        "moveId": "double_hit"
+      },
+      {
+        "level": 36,
+        "moveId": "u_turn"
+      },
+      {
+        "level": 42,
+        "moveId": "dragon_dance"
+      },
+      {
+        "level": 48,
+        "moveId": "phantom_force"
+      },
+      {
+        "level": 54,
+        "moveId": "take_down"
+      },
+      {
+        "level": 63,
+        "moveId": "dragon_rush"
+      },
+      {
+        "level": 70,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 78,
+        "moveId": "last_resort"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fly",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "flamethrower",
+      "hydro_pump",
+      "surf",
+      "hyper_beam",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "agility",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "fire_blast",
+      "swift",
+      "rest",
+      "tri_attack",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "outrage",
+      "endure",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "hidden_power",
+      "sunny_day",
+      "shadow_ball",
+      "beat_up",
+      "will_o_wisp",
+      "facade",
+      "helping_hand",
+      "dive",
+      "dragon_claw",
+      "dragon_dance",
+      "brine",
+      "u_turn",
+      "assurance",
+      "dragon_pulse",
+      "giga_impact",
+      "draco_meteor",
+      "round",
+      "ally_switch",
+      "scald",
+      "hex",
+      "acrobatics",
+      "dragon_tail",
+      "phantom_force",
+      "infestation",
+      "psychic_fangs",
+      "breaking_swipe",
+      "tera_blast",
+      "pounce",
+      "dragon_cheer"
+    ],
+    "biomeIds": [
+      "wasteland"
+    ]
+  }
+]

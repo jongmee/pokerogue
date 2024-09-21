@@ -1,0 +1,177 @@
+[
+  {
+    "_id": "tapu_lele",
+    "gender": "",
+    "pokedexNumber": "786",
+    "name": "tapu_lele",
+    "koName": "카푸나비나",
+    "speciesName": "tapu_lele",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "285",
+    "friendship": "50",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "psychic_surge"
+    ],
+    "hiddenAbilityId": "telepathy",
+    "passiveAbilityId": "sheer_force",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 570,
+    "hp": 70,
+    "attack": 85,
+    "defense": 75,
+    "specialAttack": 130,
+    "specialDefense": 115,
+    "speed": 95,
+    "height": 1.2,
+    "weight": 18.6,
+    "eggMoveIds": [
+      "moonlight",
+      "nasty_plot",
+      "heat_wave",
+      "expanding_force"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 5,
+        "moveId": "withdraw"
+      },
+      {
+        "level": 10,
+        "moveId": "aromatherapy"
+      },
+      {
+        "level": 15,
+        "moveId": "draining_kiss"
+      },
+      {
+        "level": 20,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 25,
+        "moveId": "flatter"
+      },
+      {
+        "level": 30,
+        "moveId": "aromatic_mist"
+      },
+      {
+        "level": 35,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 40,
+        "moveId": "extrasensory"
+      },
+      {
+        "level": 45,
+        "moveId": "psyshock"
+      },
+      {
+        "level": 50,
+        "moveId": "mean_look"
+      },
+      {
+        "level": 55,
+        "moveId": "natures_madness"
+      },
+      {
+        "level": 60,
+        "moveId": "moonblast"
+      },
+      {
+        "level": 65,
+        "moveId": "tickle"
+      },
+      {
+        "level": 70,
+        "moveId": "skill_swap"
+      },
+      {
+        "level": 75,
+        "moveId": "psychic_terrain"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "psybeam",
+      "hyper_beam",
+      "thunderbolt",
+      "thunder",
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "endure",
+      "charm",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "torment",
+      "facade",
+      "nature_power",
+      "taunt",
+      "skill_swap",
+      "iron_defense",
+      "calm_mind",
+      "gravity",
+      "fling",
+      "power_swap",
+      "guard_swap",
+      "focus_blast",
+      "energy_ball",
+      "giga_impact",
+      "psycho_cut",
+      "grass_knot",
+      "charge_beam",
+      "wonder_room",
+      "psyshock",
+      "magic_room",
+      "round",
+      "echoed_voice",
+      "stored_power",
+      "ally_switch",
+      "draining_kiss",
+      "play_rough",
+      "confide",
+      "dazzling_gleam",
+      "psychic_terrain",
+      "speed_swap",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "jungle"
+    ]
+  }
+]

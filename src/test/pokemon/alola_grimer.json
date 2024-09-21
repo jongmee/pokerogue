@@ -1,0 +1,197 @@
+[
+  {
+    "_id": "alola_grimer",
+    "gender": "",
+    "pokedexNumber": "2088",
+    "name": "alola_grimer",
+    "koName": "질퍽이",
+    "speciesName": "alola_grimer",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "65",
+    "friendship": "70",
+    "types": [
+      "poison",
+      "dark"
+    ],
+    "normalAbilityIds": [
+      "poison_touch",
+      "gluttony"
+    ],
+    "hiddenAbilityId": "power_of_alchemy",
+    "passiveAbilityId": "toxic_debris",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 325,
+    "hp": 80,
+    "attack": 80,
+    "defense": 50,
+    "specialAttack": 40,
+    "specialDefense": 50,
+    "speed": 25,
+    "height": 0.7,
+    "weight": 42,
+    "eggMoveIds": [
+      "sucker_punch",
+      "barb_barrage",
+      "strength_sap",
+      "surging_strikes"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "poison_gas"
+      },
+      {
+        "level": 4,
+        "moveId": "harden"
+      },
+      {
+        "level": 7,
+        "moveId": "bite"
+      },
+      {
+        "level": 12,
+        "moveId": "disable"
+      },
+      {
+        "level": 15,
+        "moveId": "acid_spray"
+      },
+      {
+        "level": 18,
+        "moveId": "poison_fang"
+      },
+      {
+        "level": 21,
+        "moveId": "minimize"
+      },
+      {
+        "level": 26,
+        "moveId": "toxic"
+      },
+      {
+        "level": 29,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 32,
+        "moveId": "crunch"
+      },
+      {
+        "level": 37,
+        "moveId": "screech"
+      },
+      {
+        "level": 40,
+        "moveId": "gunk_shot"
+      },
+      {
+        "level": 43,
+        "moveId": "acid_armor"
+      },
+      {
+        "level": 46,
+        "moveId": "belch"
+      },
+      {
+        "level": 48,
+        "moveId": "memento"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "body_slam",
+      "take_down",
+      "flamethrower",
+      "hyper_beam",
+      "strength",
+      "thunderbolt",
+      "thunder",
+      "dig",
+      "toxic",
+      "screech",
+      "double_team",
+      "metronome",
+      "self_destruct",
+      "fire_blast",
+      "swift",
+      "explosion",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "mud_slap",
+      "sandstorm",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "shadow_ball",
+      "torment",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "recycle",
+      "brick_break",
+      "knock_off",
+      "imprison",
+      "rock_tomb",
+      "mud_shot",
+      "payback",
+      "assurance",
+      "embargo",
+      "fling",
+      "gastro_acid",
+      "rock_polish",
+      "poison_jab",
+      "dark_pulse",
+      "drain_punch",
+      "giga_impact",
+      "zen_headbutt",
+      "gunk_shot",
+      "stone_edge",
+      "venoshock",
+      "sludge_wave",
+      "acid_spray",
+      "round",
+      "hex",
+      "incinerate",
+      "quash",
+      "snarl",
+      "confide",
+      "infestation",
+      "power_up_punch",
+      "brutal_swing",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "island"
+    ]
+  }
+]

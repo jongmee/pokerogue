@@ -1,0 +1,161 @@
+[
+  {
+    "_id": "komala",
+    "gender": "",
+    "pokedexNumber": "775",
+    "name": "komala",
+    "koName": "자말라",
+    "speciesName": "komala",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "168",
+    "friendship": "70",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "comatose"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "guts",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 480,
+    "hp": 65,
+    "attack": 115,
+    "defense": 65,
+    "specialAttack": 75,
+    "specialDefense": 95,
+    "speed": 65,
+    "height": 0.4,
+    "weight": 19.9,
+    "eggMoveIds": [
+      "slack_off",
+      "extreme_speed",
+      "knock_off",
+      "collision_course"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": 1,
+        "moveId": "rollout"
+      },
+      {
+        "level": 6,
+        "moveId": "stockpile"
+      },
+      {
+        "level": 6,
+        "moveId": "spit_up"
+      },
+      {
+        "level": 6,
+        "moveId": "swallow"
+      },
+      {
+        "level": 11,
+        "moveId": "rapid_spin"
+      },
+      {
+        "level": 16,
+        "moveId": "yawn"
+      },
+      {
+        "level": 21,
+        "moveId": "slam"
+      },
+      {
+        "level": 26,
+        "moveId": "flail"
+      },
+      {
+        "level": 31,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 36,
+        "moveId": "psych_up"
+      },
+      {
+        "level": 41,
+        "moveId": "wood_hammer"
+      },
+      {
+        "level": 46,
+        "moveId": "thrash"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "low_kick",
+      "earthquake",
+      "toxic",
+      "double_team",
+      "rock_slide",
+      "super_fang",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "reversal",
+      "protect",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "facade",
+      "superpower",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "rock_tomb",
+      "bulk_up",
+      "calm_mind",
+      "u_turn",
+      "payback",
+      "fling",
+      "seed_bomb",
+      "giga_impact",
+      "shadow_claw",
+      "zen_headbutt",
+      "gunk_shot",
+      "iron_head",
+      "low_sweep",
+      "round",
+      "quash",
+      "acrobatics",
+      "bulldoze",
+      "work_up",
+      "play_rough",
+      "confide",
+      "stomping_tantrum",
+      "tera_blast",
+      "ice_spinner",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "jungle"
+    ]
+  }
+]

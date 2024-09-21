@@ -1,0 +1,174 @@
+[
+  {
+    "_id": "pansage",
+    "gender": "",
+    "pokedexNumber": "511",
+    "name": "pansage",
+    "koName": "야나프",
+    "speciesName": "pansage",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "63",
+    "friendship": "70",
+    "types": [
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "gluttony"
+    ],
+    "hiddenAbilityId": "overgrow",
+    "passiveAbilityId": "well_baked_body",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 316,
+    "hp": 50,
+    "attack": 53,
+    "defense": 48,
+    "specialAttack": 53,
+    "specialDefense": 48,
+    "speed": 64,
+    "height": 0.6,
+    "weight": 10.5,
+    "eggMoveIds": [
+      "swords_dance",
+      "fire_lash",
+      "earthquake",
+      "ivy_cudgel"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "play_nice"
+      },
+      {
+        "level": 4,
+        "moveId": "leer"
+      },
+      {
+        "level": 7,
+        "moveId": "lick"
+      },
+      {
+        "level": 10,
+        "moveId": "vine_whip"
+      },
+      {
+        "level": 13,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 16,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 19,
+        "moveId": "bite"
+      },
+      {
+        "level": 22,
+        "moveId": "seed_bomb"
+      },
+      {
+        "level": 25,
+        "moveId": "torment"
+      },
+      {
+        "level": 28,
+        "moveId": "fling"
+      },
+      {
+        "level": 31,
+        "moveId": "acrobatics"
+      },
+      {
+        "level": 34,
+        "moveId": "grass_knot"
+      },
+      {
+        "level": 37,
+        "moveId": "recycle"
+      },
+      {
+        "level": 40,
+        "moveId": "natural_gift"
+      },
+      {
+        "level": 43,
+        "moveId": "crunch"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "cut",
+      "low_kick",
+      "solar_beam",
+      "dig",
+      "toxic",
+      "double_team",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "giga_drain",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "synthesis",
+      "hidden_power",
+      "sunny_day",
+      "crunch",
+      "rock_smash",
+      "uproar",
+      "torment",
+      "facade",
+      "focus_punch",
+      "nature_power",
+      "taunt",
+      "helping_hand",
+      "recycle",
+      "knock_off",
+      "endeavor",
+      "rock_tomb",
+      "bullet_seed",
+      "covet",
+      "magical_leaf",
+      "payback",
+      "fling",
+      "gastro_acid",
+      "worry_seed",
+      "seed_bomb",
+      "energy_ball",
+      "nasty_plot",
+      "shadow_claw",
+      "leaf_storm",
+      "gunk_shot",
+      "grass_knot",
+      "hone_claws",
+      "low_sweep",
+      "round",
+      "acrobatics",
+      "grass_pledge",
+      "work_up",
+      "disarming_voice",
+      "confide",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "forest",
+      "jungle"
+    ]
+  }
+]

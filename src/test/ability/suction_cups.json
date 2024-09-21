@@ -1,0 +1,19 @@
+[
+  {
+    "_id": "suction_cups",
+    "name": "Suction Cups",
+    "koName": "흡반",
+    "realased": "",
+    "description": "흡반으로 지면에 달라붙어 포켓몬을 교체시키는 기술이나 도구의 효과를 발휘하지 못하게 한다.",
+    "generation": 3,
+    "pokemonIds": [
+      "octillery",
+      "lileep",
+      "cradily",
+      "inkay",
+      "malamar"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

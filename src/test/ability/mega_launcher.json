@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "mega_launcher",
+    "name": "Mega Launcher",
+    "koName": "메가런처",
+    "realased": "",
+    "description": "파동 기술의 위력이 올라간다.",
+    "generation": 6,
+    "pokemonIds": [
+      "blastoise_mega",
+      "clauncher",
+      "clawitzer"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

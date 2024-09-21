@@ -1,0 +1,39 @@
+[
+  {
+    "_id": "telepathy",
+    "name": "Telepathy",
+    "koName": "텔레파시",
+    "realased": "",
+    "description": "같은 편의 공격의 낌새를 읽고 기술을 회피한다.",
+    "generation": 5,
+    "pokemonIds": [
+      "wobbuffet",
+      "ralts",
+      "kirlia",
+      "gardevoir",
+      "meditite",
+      "medicham",
+      "wynaut",
+      "dialga",
+      "palkia",
+      "giratina_altered",
+      "munna",
+      "musharna",
+      "elgyem",
+      "beheeyem",
+      "noibat",
+      "noivern",
+      "oranguru",
+      "tapu_koko",
+      "tapu_lele",
+      "tapu_bulu",
+      "tapu_fini",
+      "blipbug",
+      "dottler",
+      "orbeetle",
+      "rabsca"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

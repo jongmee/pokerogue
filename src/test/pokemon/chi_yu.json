@@ -1,0 +1,167 @@
+[
+  {
+    "_id": "chi_yu",
+    "gender": "",
+    "pokedexNumber": "1004",
+    "name": "chi_yu",
+    "koName": "위유이",
+    "speciesName": "chi_yu",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "285",
+    "friendship": "0",
+    "types": [
+      "dark",
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "beads_of_ruin"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "berserk",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 570,
+    "hp": 55,
+    "attack": 80,
+    "defense": 80,
+    "specialAttack": 135,
+    "specialDefense": 120,
+    "speed": 100,
+    "height": 0.4,
+    "weight": 4.9,
+    "eggMoveIds": [
+      "fiery_wrath",
+      "hydro_steam",
+      "morning_sun",
+      "blue_flare"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 1,
+        "moveId": "spite"
+      },
+      {
+        "level": 1,
+        "moveId": "mean_look"
+      },
+      {
+        "level": 5,
+        "moveId": "flame_wheel"
+      },
+      {
+        "level": 10,
+        "moveId": "payback"
+      },
+      {
+        "level": 15,
+        "moveId": "will_o_wisp"
+      },
+      {
+        "level": 20,
+        "moveId": "flame_charge"
+      },
+      {
+        "level": 25,
+        "moveId": "incinerate"
+      },
+      {
+        "level": 30,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 35,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 40,
+        "moveId": "dark_pulse"
+      },
+      {
+        "level": 45,
+        "moveId": "lava_plume"
+      },
+      {
+        "level": 50,
+        "moveId": "ruination"
+      },
+      {
+        "level": 55,
+        "moveId": "bounce"
+      },
+      {
+        "level": 60,
+        "moveId": "swagger"
+      },
+      {
+        "level": 65,
+        "moveId": "inferno"
+      },
+      {
+        "level": 70,
+        "moveId": "memento"
+      },
+      {
+        "level": 75,
+        "moveId": "overheat"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "flamethrower",
+      "hyper_beam",
+      "fire_spin",
+      "psychic",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "fire_blast",
+      "rest",
+      "substitute",
+      "spite",
+      "protect",
+      "scary_face",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "sunny_day",
+      "crunch",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "taunt",
+      "overheat",
+      "bounce",
+      "payback",
+      "flare_blitz",
+      "dark_pulse",
+      "giga_impact",
+      "nasty_plot",
+      "zen_headbutt",
+      "flame_charge",
+      "hex",
+      "incinerate",
+      "snarl",
+      "burning_jealousy",
+      "lash_out",
+      "tera_blast",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "volcano"
+    ]
+  }
+]

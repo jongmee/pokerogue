@@ -1,0 +1,167 @@
+[
+  {
+    "_id": "chien_pao",
+    "gender": "",
+    "pokedexNumber": "1002",
+    "name": "chien_pao",
+    "koName": "파오젠",
+    "speciesName": "chien_pao",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "285",
+    "friendship": "0",
+    "types": [
+      "dark",
+      "ice"
+    ],
+    "normalAbilityIds": [
+      "sword_of_ruin"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "snow_warning",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 570,
+    "hp": 80,
+    "attack": 120,
+    "defense": 80,
+    "specialAttack": 90,
+    "specialDefense": 65,
+    "speed": 135,
+    "height": 1.9,
+    "weight": 152.2,
+    "eggMoveIds": [
+      "knock_off",
+      "parting_shot",
+      "bitter_blade",
+      "glacial_lance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "spite"
+      },
+      {
+        "level": 1,
+        "moveId": "powder_snow"
+      },
+      {
+        "level": 1,
+        "moveId": "mean_look"
+      },
+      {
+        "level": 5,
+        "moveId": "icy_wind"
+      },
+      {
+        "level": 10,
+        "moveId": "payback"
+      },
+      {
+        "level": 15,
+        "moveId": "mist"
+      },
+      {
+        "level": 15,
+        "moveId": "haze"
+      },
+      {
+        "level": 20,
+        "moveId": "ice_shard"
+      },
+      {
+        "level": 25,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 30,
+        "moveId": "snowscape"
+      },
+      {
+        "level": 35,
+        "moveId": "night_slash"
+      },
+      {
+        "level": 40,
+        "moveId": "dark_pulse"
+      },
+      {
+        "level": 45,
+        "moveId": "icicle_crash"
+      },
+      {
+        "level": 50,
+        "moveId": "ruination"
+      },
+      {
+        "level": 55,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 60,
+        "moveId": "sacred_sword"
+      },
+      {
+        "level": 65,
+        "moveId": "recover"
+      },
+      {
+        "level": 70,
+        "moveId": "throat_chop"
+      },
+      {
+        "level": 75,
+        "moveId": "sheer_cold"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "take_down",
+      "blizzard",
+      "hyper_beam",
+      "double_team",
+      "haze",
+      "rest",
+      "substitute",
+      "spite",
+      "protect",
+      "scary_face",
+      "icy_wind",
+      "endure",
+      "false_swipe",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "crunch",
+      "facade",
+      "taunt",
+      "brick_break",
+      "aerial_ace",
+      "payback",
+      "dark_pulse",
+      "giga_impact",
+      "avalanche",
+      "ice_fang",
+      "hex",
+      "acrobatics",
+      "sacred_sword",
+      "snarl",
+      "throat_chop",
+      "psychic_fangs",
+      "lash_out",
+      "tera_blast",
+      "ice_spinner",
+      "snowscape"
+    ],
+    "biomeIds": [
+      "snowy_forest"
+    ]
+  }
+]

@@ -1,0 +1,214 @@
+[
+  {
+    "_id": "nuzleaf",
+    "gender": "",
+    "pokedexNumber": "274",
+    "name": "nuzleaf",
+    "koName": "잎새코",
+    "speciesName": "nuzleaf",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "119",
+    "friendship": "50",
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "normalAbilityIds": [
+      "chlorophyll",
+      "early_bird"
+    ],
+    "hiddenAbilityId": "pickpocket",
+    "passiveAbilityId": "sharpness",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 340,
+    "hp": 70,
+    "attack": 70,
+    "defense": 40,
+    "specialAttack": 60,
+    "specialDefense": 40,
+    "speed": 60,
+    "height": 1,
+    "weight": 28,
+    "eggMoveIds": [
+      "swords_dance",
+      "sacred_sword",
+      "kowtow_cleave",
+      "bitter_blade"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "razor_leaf"
+      },
+      {
+        "level": 1,
+        "moveId": "air_cutter"
+      },
+      {
+        "level": 1,
+        "moveId": "torment"
+      },
+      {
+        "level": 1,
+        "moveId": "fake_out"
+      },
+      {
+        "level": 1,
+        "moveId": "swagger"
+      },
+      {
+        "level": 1,
+        "moveId": "explosion"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "harden"
+      },
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 9,
+        "moveId": "growth"
+      },
+      {
+        "level": 12,
+        "moveId": "rollout"
+      },
+      {
+        "level": 18,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 24,
+        "moveId": "payback"
+      },
+      {
+        "level": 30,
+        "moveId": "synthesis"
+      },
+      {
+        "level": 36,
+        "moveId": "sunny_day"
+      },
+      {
+        "level": 43,
+        "moveId": "extrasensory"
+      },
+      {
+        "level": 50,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 57,
+        "moveId": "leaf_blade"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "low_kick",
+      "strength",
+      "solar_beam",
+      "dig",
+      "toxic",
+      "double_team",
+      "self_destruct",
+      "swift",
+      "amnesia",
+      "flash",
+      "explosion",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "giga_drain",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "synthesis",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "rock_smash",
+      "beat_up",
+      "uproar",
+      "torment",
+      "facade",
+      "nature_power",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "weather_ball",
+      "air_cutter",
+      "rock_tomb",
+      "bullet_seed",
+      "magical_leaf",
+      "leaf_blade",
+      "payback",
+      "assurance",
+      "embargo",
+      "fling",
+      "power_swap",
+      "worry_seed",
+      "dark_pulse",
+      "seed_bomb",
+      "energy_ball",
+      "nasty_plot",
+      "defog",
+      "leaf_storm",
+      "grass_knot",
+      "low_sweep",
+      "foul_play",
+      "round",
+      "retaliate",
+      "snarl",
+      "grassy_terrain",
+      "confide",
+      "power_up_punch",
+      "solar_blade",
+      "grassy_glide",
+      "lash_out",
+      "tera_blast",
+      "trailblaze",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "grass",
+      "forest"
+    ]
+  }
+]

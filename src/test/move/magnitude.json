@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "magnitude",
+    "name": "Magnitude",
+    "koName": "매그니튜드",
+    "type": "ground",
+    "moveCategory": "physical",
+    "moveTarget": "all_near_others",
+    "power": -1,
+    "accuracy": 100,
+    "powerPoint": 30,
+    "effect": "땅을 흔들어서 자신의 주위에 있는 포켓몬을 공격한다. 기술의 위력이 여러모로 바뀐다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 2,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": []
+  }
+]

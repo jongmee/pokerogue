@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "guard_split",
+    "name": "Guard Split",
+    "koName": "가드셰어",
+    "type": "psychic",
+    "moveCategory": "status",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 10,
+    "effect": "초능력으로 자신과 상대의 방어와 특수방어를 더해서 반으로 나눈다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 5,
+    "realased": " (N)",
+    "flags": [],
+    "pokemonIds": [
+      "shuckle",
+      "baltoy",
+      "claydol",
+      "latias",
+      "yamask",
+      "cofagrigus",
+      "elgyem",
+      "beheeyem",
+      "carbink",
+      "diancie",
+      "hoopa",
+      "nihilego",
+      "wooloo",
+      "dubwool",
+      "runerigus",
+      "galar_yamask"
+    ]
+  }
+]

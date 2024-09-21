@@ -1,0 +1,155 @@
+[
+  {
+    "_id": "spectrier",
+    "gender": "",
+    "pokedexNumber": "897",
+    "name": "spectrier",
+    "koName": "레이스포스",
+    "speciesName": "spectrier",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "290",
+    "friendship": "35",
+    "types": [
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "grim_neigh"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "shadow_shield",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 580,
+    "hp": 100,
+    "attack": 65,
+    "defense": 60,
+    "specialAttack": 145,
+    "specialDefense": 80,
+    "speed": 130,
+    "height": 2,
+    "weight": 44.5,
+    "eggMoveIds": [
+      "earth_power",
+      "parting_shot",
+      "aura_sphere",
+      "astral_barrage"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 6,
+        "moveId": "double_kick"
+      },
+      {
+        "level": 12,
+        "moveId": "hex"
+      },
+      {
+        "level": 18,
+        "moveId": "stomp"
+      },
+      {
+        "level": 24,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 30,
+        "moveId": "haze"
+      },
+      {
+        "level": 36,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 42,
+        "moveId": "take_down"
+      },
+      {
+        "level": 48,
+        "moveId": "agility"
+      },
+      {
+        "level": 54,
+        "moveId": "thrash"
+      },
+      {
+        "level": 60,
+        "moveId": "disable"
+      },
+      {
+        "level": 66,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 72,
+        "moveId": "nasty_plot"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "psychic",
+      "agility",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "haze",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "scary_face",
+      "endure",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "hidden_power",
+      "crunch",
+      "shadow_ball",
+      "uproar",
+      "will_o_wisp",
+      "facade",
+      "taunt",
+      "mud_shot",
+      "calm_mind",
+      "payback",
+      "assurance",
+      "dark_pulse",
+      "giga_impact",
+      "nasty_plot",
+      "psycho_cut",
+      "foul_play",
+      "round",
+      "hex",
+      "bulldoze",
+      "snarl",
+      "phantom_force",
+      "draining_kiss",
+      "stomping_tantrum",
+      "lash_out",
+      "poltergeist",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "graveyard"
+    ]
+  }
+]

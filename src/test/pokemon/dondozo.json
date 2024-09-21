@@ -1,0 +1,159 @@
+[
+  {
+    "_id": "dondozo",
+    "gender": "",
+    "pokedexNumber": "977",
+    "name": "dondozo",
+    "koName": "어써러셔",
+    "speciesName": "dondozo",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "265",
+    "friendship": "50",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "unaware",
+      "oblivious"
+    ],
+    "hiddenAbilityId": "water_veil",
+    "passiveAbilityId": "parental_bond",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 530,
+    "hp": 150,
+    "attack": 100,
+    "defense": 115,
+    "specialAttack": 65,
+    "specialDefense": 65,
+    "speed": 35,
+    "height": 12,
+    "weight": 220,
+    "eggMoveIds": [
+      "soft_boiled",
+      "ice_spinner",
+      "toxic",
+      "salt_cure"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "supersonic"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 5,
+        "moveId": "tickle"
+      },
+      {
+        "level": 10,
+        "moveId": "flail"
+      },
+      {
+        "level": 15,
+        "moveId": "rest"
+      },
+      {
+        "level": 15,
+        "moveId": "sleep_talk"
+      },
+      {
+        "level": 20,
+        "moveId": "dive"
+      },
+      {
+        "level": 25,
+        "moveId": "noble_roar"
+      },
+      {
+        "level": 30,
+        "moveId": "soak"
+      },
+      {
+        "level": 35,
+        "moveId": "body_slam"
+      },
+      {
+        "level": 40,
+        "moveId": "aqua_tail"
+      },
+      {
+        "level": 45,
+        "moveId": "rain_dance"
+      },
+      {
+        "level": 50,
+        "moveId": "order_up"
+      },
+      {
+        "level": 55,
+        "moveId": "heavy_slam"
+      },
+      {
+        "level": 60,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 65,
+        "moveId": "wave_crash"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hydro_pump",
+      "surf",
+      "hyper_beam",
+      "earthquake",
+      "double_team",
+      "waterfall",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "curse",
+      "protect",
+      "scary_face",
+      "outrage",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "crunch",
+      "facade",
+      "dive",
+      "water_pulse",
+      "aqua_tail",
+      "giga_impact",
+      "avalanche",
+      "ice_fang",
+      "zen_headbutt",
+      "heavy_slam",
+      "bulldoze",
+      "stomping_tantrum",
+      "liquidation",
+      "body_press",
+      "tera_blast",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "seabed"
+    ]
+  }
+]

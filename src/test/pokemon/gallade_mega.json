@@ -1,0 +1,183 @@
+[
+  {
+    "_id": "gallade_mega",
+    "gender": "",
+    "pokedexNumber": "475",
+    "name": "gallade_mega",
+    "koName": "엘레이드_mega",
+    "speciesName": "gallade",
+    "canChangeForm": true,
+    "formName": "mega",
+    "baseExp": "259",
+    "friendship": "35",
+    "types": [
+      "psychic",
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "sharpness"
+    ],
+    "hiddenAbilityId": "sharpness",
+    "passiveAbilityId": "psychic_surge",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 618,
+    "hp": 68,
+    "attack": 165,
+    "defense": 95,
+    "specialAttack": 65,
+    "specialDefense": 115,
+    "speed": 110,
+    "height": 1.6,
+    "weight": 56.4,
+    "eggMoveIds": [
+      "psyblade",
+      "bitter_blade",
+      "no_retreat",
+      "boomburst"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "slash"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 1,
+        "moveId": "psychic"
+      },
+      {
+        "level": 1,
+        "moveId": "hypnosis"
+      },
+      {
+        "level": 1,
+        "moveId": "double_team"
+      },
+      {
+        "level": 1,
+        "moveId": "dream_eater"
+      },
+      {
+        "level": 1,
+        "moveId": "charm"
+      },
+      {
+        "level": 1,
+        "moveId": "fury_cutter"
+      },
+      {
+        "level": 1,
+        "moveId": "future_sight"
+      },
+      {
+        "level": 1,
+        "moveId": "imprison"
+      },
+      {
+        "level": 1,
+        "moveId": "calm_mind"
+      },
+      {
+        "level": 1,
+        "moveId": "leaf_blade"
+      },
+      {
+        "level": 1,
+        "moveId": "night_slash"
+      },
+      {
+        "level": 1,
+        "moveId": "sacred_sword"
+      },
+      {
+        "level": 1,
+        "moveId": "disarming_voice"
+      },
+      {
+        "level": 1,
+        "moveId": "draining_kiss"
+      },
+      {
+        "level": 1,
+        "moveId": "life_dew"
+      },
+      {
+        "level": 1,
+        "moveId": "aqua_cutter"
+      },
+      {
+        "level": 9,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 12,
+        "moveId": "feint"
+      },
+      {
+        "level": 15,
+        "moveId": "teleport"
+      },
+      {
+        "level": 18,
+        "moveId": "aerial_ace"
+      },
+      {
+        "level": 23,
+        "moveId": "false_swipe"
+      },
+      {
+        "level": 28,
+        "moveId": "protect"
+      },
+      {
+        "level": 35,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 42,
+        "moveId": "psycho_cut"
+      },
+      {
+        "level": 49,
+        "moveId": "heal_pulse"
+      },
+      {
+        "level": 56,
+        "moveId": "wide_guard"
+      },
+      {
+        "level": 56,
+        "moveId": "quick_guard"
+      },
+      {
+        "level": 63,
+        "moveId": "close_combat"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "dojo"
+    ]
+  }
+]

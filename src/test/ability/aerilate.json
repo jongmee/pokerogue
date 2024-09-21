@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "aerilate",
+    "name": "Aerilate",
+    "koName": "스카이스킨",
+    "realased": "",
+    "description": "노말타입의 기술이 비행타입이 된다. 위력이 조금 올라간다.",
+    "generation": 6,
+    "pokemonIds": [
+      "pinsir_mega",
+      "dratini",
+      "dragonair",
+      "dragonite",
+      "hoothoot",
+      "noctowl",
+      "taillow",
+      "swellow",
+      "salamence_mega"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

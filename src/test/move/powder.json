@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "powder",
+    "name": "Powder",
+    "koName": "분진",
+    "type": "bug",
+    "moveCategory": "status",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": 100,
+    "powerPoint": 20,
+    "effect": "분진을 뒤집어쓴 상대가 불꽃 기술을 쓰면 폭발하여 데미지를 준다.",
+    "effectChance": -1,
+    "prioirty": 1,
+    "generation": 6,
+    "realased": " (N)",
+    "flags": [
+      "powder_move"
+    ],
+    "pokemonIds": [
+      "illumise"
+    ]
+  }
+]

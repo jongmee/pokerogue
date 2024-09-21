@@ -1,0 +1,163 @@
+[
+  {
+    "_id": "rockruff",
+    "gender": "",
+    "pokedexNumber": "744",
+    "name": "rockruff",
+    "koName": "암멍이",
+    "speciesName": "rockruff",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "56",
+    "friendship": "50",
+    "types": [
+      "rock"
+    ],
+    "normalAbilityIds": [
+      "keen_eye",
+      "vital_spirit"
+    ],
+    "hiddenAbilityId": "steadfast",
+    "passiveAbilityId": "rocky_payload",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 280,
+    "hp": 45,
+    "attack": 65,
+    "defense": 40,
+    "specialAttack": 30,
+    "specialDefense": 40,
+    "speed": 60,
+    "height": 0.5,
+    "weight": 9.2,
+    "eggMoveIds": [
+      "high_horsepower",
+      "tidy_up",
+      "ice_spinner",
+      "mighty_cleave"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 4,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 8,
+        "moveId": "double_team"
+      },
+      {
+        "level": 12,
+        "moveId": "rock_throw"
+      },
+      {
+        "level": 16,
+        "moveId": "howl"
+      },
+      {
+        "level": 20,
+        "moveId": "bite"
+      },
+      {
+        "level": 24,
+        "moveId": "rock_tomb"
+      },
+      {
+        "level": 28,
+        "moveId": "roar"
+      },
+      {
+        "level": 32,
+        "moveId": "rock_slide"
+      },
+      {
+        "level": 36,
+        "moveId": "crunch"
+      },
+      {
+        "level": 40,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 44,
+        "moveId": "stealth_rock"
+      },
+      {
+        "level": 48,
+        "moveId": "stone_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "dig",
+      "toxic",
+      "double_team",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "sandstorm",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "crunch",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "endeavor",
+      "hyper_voice",
+      "rock_tomb",
+      "iron_defense",
+      "covet",
+      "rock_polish",
+      "earth_power",
+      "thunder_fang",
+      "fire_fang",
+      "zen_headbutt",
+      "rock_climb",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "round",
+      "echoed_voice",
+      "bulldoze",
+      "snarl",
+      "play_rough",
+      "confide",
+      "psychic_fangs",
+      "stomping_tantrum",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "plains",
+      "forest",
+      "cave"
+    ]
+  }
+]

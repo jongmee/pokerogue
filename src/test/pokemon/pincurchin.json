@@ -1,0 +1,158 @@
+[
+  {
+    "_id": "pincurchin",
+    "gender": "",
+    "pokedexNumber": "871",
+    "name": "pincurchin",
+    "koName": "찌르성게",
+    "speciesName": "pincurchin",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "152",
+    "friendship": "50",
+    "types": [
+      "electric"
+    ],
+    "normalAbilityIds": [
+      "lightning_rod"
+    ],
+    "hiddenAbilityId": "electric_surge",
+    "passiveAbilityId": "electromorphosis",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 435,
+    "hp": 48,
+    "attack": 101,
+    "defense": 95,
+    "specialAttack": 91,
+    "specialDefense": 85,
+    "speed": 15,
+    "height": 0.3,
+    "weight": 1,
+    "eggMoveIds": [
+      "trick_room",
+      "rising_voltage",
+      "strength_sap",
+      "thunderclap"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "peck"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 5,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 10,
+        "moveId": "charge"
+      },
+      {
+        "level": 15,
+        "moveId": "fury_attack"
+      },
+      {
+        "level": 20,
+        "moveId": "spark"
+      },
+      {
+        "level": 25,
+        "moveId": "bubble_beam"
+      },
+      {
+        "level": 30,
+        "moveId": "recover"
+      },
+      {
+        "level": 35,
+        "moveId": "curse"
+      },
+      {
+        "level": 40,
+        "moveId": "electric_terrain"
+      },
+      {
+        "level": 45,
+        "moveId": "poison_jab"
+      },
+      {
+        "level": 50,
+        "moveId": "zing_zap"
+      },
+      {
+        "level": 55,
+        "moveId": "acupressure"
+      },
+      {
+        "level": 60,
+        "moveId": "discharge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "pin_missile",
+      "hydro_pump",
+      "surf",
+      "hyper_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "double_team",
+      "self_destruct",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "reversal",
+      "protect",
+      "spikes",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "hidden_power",
+      "rain_dance",
+      "facade",
+      "charge",
+      "muddy_water",
+      "brine",
+      "payback",
+      "assurance",
+      "toxic_spikes",
+      "poison_jab",
+      "giga_impact",
+      "charge_beam",
+      "venoshock",
+      "electro_ball",
+      "round",
+      "scald",
+      "hex",
+      "wild_charge",
+      "venom_drench",
+      "electric_terrain",
+      "throat_chop",
+      "liquidation",
+      "rising_voltage",
+      "tera_blast",
+      "chilling_water",
+      "supercell_slam"
+    ],
+    "biomeIds": [
+      "seabed"
+    ]
+  }
+]

@@ -1,0 +1,165 @@
+[
+  {
+    "_id": "araquanid",
+    "gender": "",
+    "pokedexNumber": "752",
+    "name": "araquanid",
+    "koName": "깨비물거미",
+    "speciesName": "araquanid",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "159",
+    "friendship": "50",
+    "types": [
+      "water",
+      "bug"
+    ],
+    "normalAbilityIds": [
+      "water_bubble"
+    ],
+    "hiddenAbilityId": "water_absorb",
+    "passiveAbilityId": "tinted_lens",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 454,
+    "hp": 68,
+    "attack": 70,
+    "defense": 92,
+    "specialAttack": 50,
+    "specialDefense": 132,
+    "speed": 42,
+    "height": 1.8,
+    "weight": 82,
+    "eggMoveIds": [
+      "jet_punch",
+      "silk_trap",
+      "swords_dance",
+      "aqua_step"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "bite"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "bug_bite"
+      },
+      {
+        "level": 1,
+        "moveId": "wide_guard"
+      },
+      {
+        "level": 1,
+        "moveId": "infestation"
+      },
+      {
+        "level": 1,
+        "moveId": "spider_web"
+      },
+      {
+        "level": 12,
+        "moveId": "bubble_beam"
+      },
+      {
+        "level": 16,
+        "moveId": "aqua_ring"
+      },
+      {
+        "level": 20,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 26,
+        "moveId": "crunch"
+      },
+      {
+        "level": 32,
+        "moveId": "soak"
+      },
+      {
+        "level": 38,
+        "moveId": "entrainment"
+      },
+      {
+        "level": 44,
+        "moveId": "lunge"
+      },
+      {
+        "level": 50,
+        "moveId": "liquidation"
+      },
+      {
+        "level": 56,
+        "moveId": "leech_life"
+      },
+      {
+        "level": 62,
+        "moveId": "mirror_coat"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "toxic",
+      "double_team",
+      "reflect",
+      "waterfall",
+      "leech_life",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "icy_wind",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "rain_dance",
+      "crunch",
+      "facade",
+      "endeavor",
+      "dive",
+      "signal_beam",
+      "iron_defense",
+      "water_pulse",
+      "poison_jab",
+      "x_scissor",
+      "bug_buzz",
+      "bug_bite",
+      "wonder_room",
+      "magic_room",
+      "round",
+      "scald",
+      "frost_breath",
+      "confide",
+      "infestation",
+      "lunge",
+      "liquidation",
+      "skitter_smack",
+      "tera_blast",
+      "trailblaze",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "lake"
+    ]
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "_id": "sharpedo_mega",
+    "gender": "",
+    "pokedexNumber": "319",
+    "name": "sharpedo_mega",
+    "koName": "샤크니아_mega",
+    "speciesName": "sharpedo",
+    "canChangeForm": true,
+    "formName": "mega",
+    "baseExp": "161",
+    "friendship": "35",
+    "types": [
+      "water",
+      "dark"
+    ],
+    "normalAbilityIds": [
+      "strong_jaw"
+    ],
+    "hiddenAbilityId": "strong_jaw",
+    "passiveAbilityId": "sheer_force",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 560,
+    "hp": 70,
+    "attack": 140,
+    "defense": 70,
+    "specialAttack": 110,
+    "specialDefense": 65,
+    "speed": 105,
+    "height": 2.5,
+    "weight": 130.3,
+    "eggMoveIds": [
+      "thunder_fang",
+      "swords_dance",
+      "obstruct",
+      "surging_strikes"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "slash"
+      },
+      {
+        "level": 1,
+        "moveId": "night_slash"
+      },
+      {
+        "level": 1,
+        "moveId": "aqua_jet"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "poison_fang"
+      },
+      {
+        "level": 1,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 12,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 16,
+        "moveId": "bite"
+      },
+      {
+        "level": 20,
+        "moveId": "ice_fang"
+      },
+      {
+        "level": 24,
+        "moveId": "screech"
+      },
+      {
+        "level": 28,
+        "moveId": "swagger"
+      },
+      {
+        "level": 34,
+        "moveId": "crunch"
+      },
+      {
+        "level": 40,
+        "moveId": "agility"
+      },
+      {
+        "level": 46,
+        "moveId": "liquidation"
+      },
+      {
+        "level": 52,
+        "moveId": "take_down"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "sea"
+    ]
+  }
+]

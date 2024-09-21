@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "liquid_ooze",
+    "name": "Liquid Ooze",
+    "koName": "해감액",
+    "realased": "",
+    "description": "해감액을 흡수한 상대는 강렬한 악취로 데미지를 받아 HP가 줄어든다.",
+    "generation": 3,
+    "pokemonIds": [
+      "tentacool",
+      "tentacruel",
+      "gulpin",
+      "swalot"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

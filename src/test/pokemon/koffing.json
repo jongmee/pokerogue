@@ -1,0 +1,168 @@
+[
+  {
+    "_id": "koffing",
+    "gender": "",
+    "pokedexNumber": "109",
+    "name": "koffing",
+    "koName": "또가스",
+    "speciesName": "koffing",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "68",
+    "friendship": "50",
+    "types": [
+      "poison"
+    ],
+    "normalAbilityIds": [
+      "levitate",
+      "neutralizing_gas"
+    ],
+    "hiddenAbilityId": "stench",
+    "passiveAbilityId": "parental_bond",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 340,
+    "hp": 40,
+    "attack": 65,
+    "defense": 95,
+    "specialAttack": 60,
+    "specialDefense": 45,
+    "speed": 35,
+    "height": 0.6,
+    "weight": 1,
+    "eggMoveIds": [
+      "scald",
+      "recover",
+      "body_press",
+      "malignant_chain"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "poison_gas"
+      },
+      {
+        "level": 4,
+        "moveId": "smog"
+      },
+      {
+        "level": 8,
+        "moveId": "smokescreen"
+      },
+      {
+        "level": 12,
+        "moveId": "clear_smog"
+      },
+      {
+        "level": 16,
+        "moveId": "assurance"
+      },
+      {
+        "level": 20,
+        "moveId": "sludge"
+      },
+      {
+        "level": 24,
+        "moveId": "haze"
+      },
+      {
+        "level": 28,
+        "moveId": "self_destruct"
+      },
+      {
+        "level": 32,
+        "moveId": "sludge_bomb"
+      },
+      {
+        "level": 36,
+        "moveId": "toxic"
+      },
+      {
+        "level": 40,
+        "moveId": "belch"
+      },
+      {
+        "level": 44,
+        "moveId": "explosion"
+      },
+      {
+        "level": 48,
+        "moveId": "memento"
+      },
+      {
+        "level": 52,
+        "moveId": "destiny_bond"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "flamethrower",
+      "psybeam",
+      "thunderbolt",
+      "thunder",
+      "toxic",
+      "screech",
+      "double_team",
+      "haze",
+      "self_destruct",
+      "fire_blast",
+      "flash",
+      "explosion",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "shadow_ball",
+      "uproar",
+      "torment",
+      "will_o_wisp",
+      "facade",
+      "taunt",
+      "gyro_ball",
+      "payback",
+      "assurance",
+      "toxic_spikes",
+      "dark_pulse",
+      "gunk_shot",
+      "venoshock",
+      "sludge_wave",
+      "acid_spray",
+      "round",
+      "incinerate",
+      "confide",
+      "venom_drench",
+      "infestation",
+      "corrosive_gas",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "slum",
+      "construction_site"
+    ]
+  }
+]

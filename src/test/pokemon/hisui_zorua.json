@@ -1,0 +1,160 @@
+[
+  {
+    "_id": "hisui_zorua",
+    "gender": "",
+    "pokedexNumber": "6570",
+    "name": "hisui_zorua",
+    "koName": "조로아",
+    "speciesName": "hisui_zorua",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "66",
+    "friendship": "50",
+    "types": [
+      "normal",
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "illusion"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "adaptability",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 330,
+    "hp": 35,
+    "attack": 60,
+    "defense": 40,
+    "specialAttack": 85,
+    "specialDefense": 40,
+    "speed": 70,
+    "height": 0.7,
+    "weight": 12.5,
+    "eggMoveIds": [
+      "moonblast",
+      "hyper_voice",
+      "parting_shot",
+      "blood_moon"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 4,
+        "moveId": "torment"
+      },
+      {
+        "level": 8,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 12,
+        "moveId": "shadow_sneak"
+      },
+      {
+        "level": 16,
+        "moveId": "curse"
+      },
+      {
+        "level": 20,
+        "moveId": "taunt"
+      },
+      {
+        "level": 24,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 28,
+        "moveId": "spite"
+      },
+      {
+        "level": 32,
+        "moveId": "agility"
+      },
+      {
+        "level": 36,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 40,
+        "moveId": "bitter_malice"
+      },
+      {
+        "level": 44,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 48,
+        "moveId": "foul_play"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "roar",
+      "hyper_beam",
+      "dig",
+      "agility",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "curse",
+      "spite",
+      "protect",
+      "sludge_bomb",
+      "icy_wind",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "hidden_power",
+      "rain_dance",
+      "shadow_ball",
+      "torment",
+      "will_o_wisp",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "trick",
+      "knock_off",
+      "imprison",
+      "fake_tears",
+      "calm_mind",
+      "u_turn",
+      "fling",
+      "dark_pulse",
+      "giga_impact",
+      "nasty_plot",
+      "shadow_claw",
+      "hone_claws",
+      "foul_play",
+      "hex",
+      "snarl",
+      "phantom_force",
+      "skitter_smack",
+      "burning_jealousy",
+      "lash_out",
+      "tera_blast",
+      "snowscape"
+    ],
+    "biomeIds": [
+      "snowy_forest"
+    ]
+  }
+]

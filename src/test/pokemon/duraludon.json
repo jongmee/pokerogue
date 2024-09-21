@@ -1,0 +1,159 @@
+[
+  {
+    "_id": "duraludon",
+    "gender": "",
+    "pokedexNumber": "884",
+    "name": "duraludon",
+    "koName": "두랄루돈",
+    "speciesName": "duraludon",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "187",
+    "friendship": "50",
+    "types": [
+      "steel",
+      "dragon"
+    ],
+    "normalAbilityIds": [
+      "light_metal",
+      "heavy_metal"
+    ],
+    "hiddenAbilityId": "stalwart",
+    "passiveAbilityId": "steelworker",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 535,
+    "hp": 70,
+    "attack": 95,
+    "defense": 115,
+    "specialAttack": 120,
+    "specialDefense": 50,
+    "speed": 85,
+    "height": 1.8,
+    "weight": 40,
+    "eggMoveIds": [
+      "core_enforcer",
+      "body_press",
+      "recover",
+      "tachyon_cutter"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 6,
+        "moveId": "rock_smash"
+      },
+      {
+        "level": 12,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 18,
+        "moveId": "metal_sound"
+      },
+      {
+        "level": 24,
+        "moveId": "breaking_swipe"
+      },
+      {
+        "level": 30,
+        "moveId": "dragon_tail"
+      },
+      {
+        "level": 36,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 42,
+        "moveId": "laser_focus"
+      },
+      {
+        "level": 48,
+        "moveId": "dragon_claw"
+      },
+      {
+        "level": 54,
+        "moveId": "flash_cannon"
+      },
+      {
+        "level": 60,
+        "moveId": "metal_burst"
+      },
+      {
+        "level": 66,
+        "moveId": "hyper_beam"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "body_slam",
+      "double_edge",
+      "hyper_beam",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "screech",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "scary_face",
+      "outrage",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "metal_claw",
+      "hidden_power",
+      "rock_smash",
+      "facade",
+      "brick_break",
+      "rock_tomb",
+      "metal_sound",
+      "iron_defense",
+      "dragon_claw",
+      "gyro_ball",
+      "dark_pulse",
+      "dragon_pulse",
+      "giga_impact",
+      "flash_cannon",
+      "draco_meteor",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "hone_claws",
+      "heavy_slam",
+      "foul_play",
+      "round",
+      "dragon_tail",
+      "snarl",
+      "stomping_tantrum",
+      "body_press",
+      "breaking_swipe",
+      "steel_beam",
+      "steel_roller",
+      "dragon_cheer"
+    ],
+    "biomeIds": [
+      "construction_site"
+    ]
+  }
+]

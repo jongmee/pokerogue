@@ -1,0 +1,172 @@
+[
+  {
+    "_id": "alomomola",
+    "gender": "",
+    "pokedexNumber": "594",
+    "name": "alomomola",
+    "koName": "맘복치",
+    "speciesName": "alomomola",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "165",
+    "friendship": "70",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "healer",
+      "hydration"
+    ],
+    "hiddenAbilityId": "regenerator",
+    "passiveAbilityId": "multiscale",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 470,
+    "hp": 165,
+    "attack": 75,
+    "defense": 80,
+    "specialAttack": 40,
+    "specialDefense": 45,
+    "speed": 65,
+    "height": 1.2,
+    "weight": 31.6,
+    "eggMoveIds": [
+      "flip_turn",
+      "heart_swap",
+      "toxic",
+      "glitzy_glow"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "play_nice"
+      },
+      {
+        "level": 1,
+        "moveId": "water_sport"
+      },
+      {
+        "level": 5,
+        "moveId": "aqua_ring"
+      },
+      {
+        "level": 9,
+        "moveId": "aqua_jet"
+      },
+      {
+        "level": 13,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 13,
+        "moveId": "wide_guard"
+      },
+      {
+        "level": 21,
+        "moveId": "protect"
+      },
+      {
+        "level": 25,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 29,
+        "moveId": "healing_wish"
+      },
+      {
+        "level": 33,
+        "moveId": "soak"
+      },
+      {
+        "level": 37,
+        "moveId": "wish"
+      },
+      {
+        "level": 41,
+        "moveId": "brine"
+      },
+      {
+        "level": 45,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 49,
+        "moveId": "whirlpool"
+      },
+      {
+        "level": 55,
+        "moveId": "hydro_pump"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "waterfall",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "pain_split",
+      "baton_pass",
+      "hidden_power",
+      "rain_dance",
+      "psych_up",
+      "shadow_ball",
+      "whirlpool",
+      "hail",
+      "facade",
+      "helping_hand",
+      "knock_off",
+      "skill_swap",
+      "dive",
+      "bounce",
+      "calm_mind",
+      "water_pulse",
+      "brine",
+      "giga_impact",
+      "zen_headbutt",
+      "round",
+      "scald",
+      "acrobatics",
+      "misty_terrain",
+      "play_rough",
+      "confide",
+      "liquidation",
+      "scale_shot",
+      "flip_turn",
+      "tera_blast",
+      "snowscape",
+      "chilling_water",
+      "alluring_voice"
+    ],
+    "biomeIds": [
+      "seabed"
+    ]
+  }
+]

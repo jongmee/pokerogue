@@ -1,0 +1,139 @@
+[
+  {
+    "_id": "tyranitar_mega",
+    "gender": "",
+    "pokedexNumber": "248",
+    "name": "tyranitar_mega",
+    "koName": "마기라스_mega",
+    "speciesName": "tyranitar",
+    "canChangeForm": true,
+    "formName": "mega",
+    "baseExp": "300",
+    "friendship": "35",
+    "types": [
+      "rock",
+      "dark"
+    ],
+    "normalAbilityIds": [
+      "sand_stream"
+    ],
+    "hiddenAbilityId": "sand_stream",
+    "passiveAbilityId": "sand_rush",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 700,
+    "hp": 100,
+    "attack": 164,
+    "defense": 150,
+    "specialAttack": 95,
+    "specialDefense": 120,
+    "speed": 71,
+    "height": 2.5,
+    "weight": 255,
+    "eggMoveIds": [
+      "dragon_dance",
+      "mountain_gale",
+      "shore_up",
+      "diamond_storm"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "rock_throw"
+      },
+      {
+        "level": 1,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 1,
+        "moveId": "payback"
+      },
+      {
+        "level": 1,
+        "moveId": "dark_pulse"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_fang"
+      },
+      {
+        "level": 1,
+        "moveId": "ice_fang"
+      },
+      {
+        "level": 1,
+        "moveId": "fire_fang"
+      },
+      {
+        "level": 9,
+        "moveId": "bite"
+      },
+      {
+        "level": 12,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 15,
+        "moveId": "rock_slide"
+      },
+      {
+        "level": 18,
+        "moveId": "stomping_tantrum"
+      },
+      {
+        "level": 21,
+        "moveId": "screech"
+      },
+      {
+        "level": 24,
+        "moveId": "smack_down"
+      },
+      {
+        "level": 27,
+        "moveId": "crunch"
+      },
+      {
+        "level": 33,
+        "moveId": "earthquake"
+      },
+      {
+        "level": 37,
+        "moveId": "stone_edge"
+      },
+      {
+        "level": 42,
+        "moveId": "thrash"
+      },
+      {
+        "level": 47,
+        "moveId": "sandstorm"
+      },
+      {
+        "level": 52,
+        "moveId": "hyper_beam"
+      },
+      {
+        "level": 59,
+        "moveId": "giga_impact"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "wasteland"
+    ]
+  }
+]

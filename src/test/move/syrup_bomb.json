@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "syrup_bomb",
+    "name": "Syrup Bomb",
+    "koName": "시럽봄",
+    "type": "grass",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 60,
+    "accuracy": 85,
+    "powerPoint": 10,
+    "effect": "끈적끈적한 물엿을 폭발시킨다. 상대를 물엿범벅 상태로 만들어서 3턴 동안 계속 스피드를 떨어뜨린다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 9,
+    "realased": " (P)",
+    "flags": [
+      "ballbomb_move"
+    ],
+    "pokemonIds": [
+      "dipplin",
+      "hydrapple"
+    ]
+  }
+]

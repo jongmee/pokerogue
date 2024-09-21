@@ -1,0 +1,107 @@
+[
+  {
+    "_id": "drednaw_gigantamax",
+    "gender": "",
+    "pokedexNumber": "834",
+    "name": "drednaw_gigantamax",
+    "koName": "갈가부기_gigantamax",
+    "speciesName": "drednaw",
+    "canChangeForm": true,
+    "formName": "g_max",
+    "baseExp": "170",
+    "friendship": "50",
+    "types": [
+      "water",
+      "rock"
+    ],
+    "normalAbilityIds": [
+      "strong_jaw"
+    ],
+    "hiddenAbilityId": "strong_jaw",
+    "passiveAbilityId": "rocky_payload",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 585,
+    "hp": 115,
+    "attack": 145,
+    "defense": 115,
+    "specialAttack": 43,
+    "specialDefense": 83,
+    "speed": 84,
+    "height": 24,
+    "weight": 115.5,
+    "eggMoveIds": [
+      "ice_fang",
+      "accelerock",
+      "shell_smash",
+      "fishious_rend"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "rock_tomb"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "bite"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "protect"
+      },
+      {
+        "level": 1,
+        "moveId": "crunch"
+      },
+      {
+        "level": 1,
+        "moveId": "rock_polish"
+      },
+      {
+        "level": 1,
+        "moveId": "razor_shell"
+      },
+      {
+        "level": 21,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 30,
+        "moveId": "counter"
+      },
+      {
+        "level": 39,
+        "moveId": "jaw_lock"
+      },
+      {
+        "level": 48,
+        "moveId": "liquidation"
+      },
+      {
+        "level": 57,
+        "moveId": "body_slam"
+      },
+      {
+        "level": 66,
+        "moveId": "head_smash"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "lake"
+    ]
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "_id": "slugma",
+    "gender": "",
+    "pokedexNumber": "218",
+    "name": "slugma",
+    "koName": "마그마그",
+    "speciesName": "slugma",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "50",
+    "friendship": "70",
+    "types": [
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "magma_armor",
+      "flame_body"
+    ],
+    "hiddenAbilityId": "weak_armor",
+    "passiveAbilityId": "desolate_land",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 250,
+    "hp": 40,
+    "attack": 40,
+    "defense": 40,
+    "specialAttack": 70,
+    "specialDefense": 40,
+    "speed": 20,
+    "height": 0.7,
+    "weight": 35,
+    "eggMoveIds": [
+      "burning_bulwark",
+      "power_gem",
+      "solar_beam",
+      "magma_storm"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "smog"
+      },
+      {
+        "level": 1,
+        "moveId": "yawn"
+      },
+      {
+        "level": 5,
+        "moveId": "ember"
+      },
+      {
+        "level": 8,
+        "moveId": "rock_throw"
+      },
+      {
+        "level": 13,
+        "moveId": "harden"
+      },
+      {
+        "level": 20,
+        "moveId": "clear_smog"
+      },
+      {
+        "level": 22,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 27,
+        "moveId": "incinerate"
+      },
+      {
+        "level": 29,
+        "moveId": "rock_slide"
+      },
+      {
+        "level": 34,
+        "moveId": "lava_plume"
+      },
+      {
+        "level": 36,
+        "moveId": "amnesia"
+      },
+      {
+        "level": 41,
+        "moveId": "body_slam"
+      },
+      {
+        "level": 43,
+        "moveId": "recover"
+      },
+      {
+        "level": 48,
+        "moveId": "flamethrower"
+      },
+      {
+        "level": 50,
+        "moveId": "earth_power"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "flamethrower",
+      "fire_spin",
+      "earthquake",
+      "toxic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "self_destruct",
+      "fire_blast",
+      "amnesia",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "hidden_power",
+      "sunny_day",
+      "rock_smash",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "nature_power",
+      "overheat",
+      "rock_tomb",
+      "iron_defense",
+      "mud_shot",
+      "rock_blast",
+      "guard_swap",
+      "power_gem",
+      "earth_power",
+      "stone_edge",
+      "stealth_rock",
+      "smack_down",
+      "flame_charge",
+      "round",
+      "incinerate",
+      "bulldoze",
+      "heat_crash",
+      "confide",
+      "infestation",
+      "high_horsepower",
+      "tera_blast",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "mountain",
+      "volcano"
+    ]
+  }
+]

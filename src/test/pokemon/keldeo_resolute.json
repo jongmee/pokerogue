@@ -1,0 +1,111 @@
+[
+  {
+    "_id": "keldeo_resolute",
+    "gender": "",
+    "pokedexNumber": "647",
+    "name": "keldeo_resolute",
+    "koName": "케르디오_resolute",
+    "speciesName": "keldeo",
+    "canChangeForm": true,
+    "formName": "resolute",
+    "baseExp": "290",
+    "friendship": "35",
+    "types": [
+      "water",
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "justified"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "grim_neigh",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": true,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 580,
+    "hp": 91,
+    "attack": 72,
+    "defense": 90,
+    "specialAttack": 129,
+    "specialDefense": 90,
+    "speed": 108,
+    "height": 1.4,
+    "weight": 48.5,
+    "eggMoveIds": [
+      "bouncy_bubble",
+      "thunderbolt",
+      "freeze_dry",
+      "steam_eruption"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 1,
+        "moveId": "aqua_jet"
+      },
+      {
+        "level": 1,
+        "moveId": "work_up"
+      },
+      {
+        "level": 1,
+        "moveId": "secret_sword"
+      },
+      {
+        "level": 7,
+        "moveId": "bubble_beam"
+      },
+      {
+        "level": 14,
+        "moveId": "quick_guard"
+      },
+      {
+        "level": 21,
+        "moveId": "double_kick"
+      },
+      {
+        "level": 28,
+        "moveId": "retaliate"
+      },
+      {
+        "level": 35,
+        "moveId": "aqua_tail"
+      },
+      {
+        "level": 42,
+        "moveId": "take_down"
+      },
+      {
+        "level": 49,
+        "moveId": "sacred_sword"
+      },
+      {
+        "level": 56,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 63,
+        "moveId": "hydro_pump"
+      },
+      {
+        "level": 70,
+        "moveId": "close_combat"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "beach"
+    ]
+  }
+]

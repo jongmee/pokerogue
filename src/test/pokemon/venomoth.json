@@ -1,0 +1,182 @@
+[
+  {
+    "_id": "venomoth",
+    "gender": "",
+    "pokedexNumber": "49",
+    "name": "venomoth",
+    "koName": "도나리",
+    "speciesName": "venomoth",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "158",
+    "friendship": "70",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "normalAbilityIds": [
+      "shield_dust",
+      "tinted_lens"
+    ],
+    "hiddenAbilityId": "wonder_skin",
+    "passiveAbilityId": "simple",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 450,
+    "hp": 70,
+    "attack": 65,
+    "defense": 60,
+    "specialAttack": 90,
+    "specialDefense": 75,
+    "speed": 90,
+    "height": 1.5,
+    "weight": 12.5,
+    "eggMoveIds": [
+      "sludge_bomb",
+      "moonlight",
+      "earth_power",
+      "mystical_power"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "supersonic"
+      },
+      {
+        "level": 1,
+        "moveId": "disable"
+      },
+      {
+        "level": 1,
+        "moveId": "quiver_dance"
+      },
+      {
+        "level": 1,
+        "moveId": "silver_wind"
+      },
+      {
+        "level": 11,
+        "moveId": "confusion"
+      },
+      {
+        "level": 13,
+        "moveId": "poison_powder"
+      },
+      {
+        "level": 17,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 23,
+        "moveId": "stun_spore"
+      },
+      {
+        "level": 25,
+        "moveId": "bug_buzz"
+      },
+      {
+        "level": 29,
+        "moveId": "sleep_powder"
+      },
+      {
+        "level": 37,
+        "moveId": "leech_life"
+      },
+      {
+        "level": 41,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 47,
+        "moveId": "poison_fang"
+      },
+      {
+        "level": 55,
+        "moveId": "psychic"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "double_edge",
+      "psybeam",
+      "hyper_beam",
+      "solar_beam",
+      "toxic",
+      "psychic",
+      "agility",
+      "night_shade",
+      "screech",
+      "double_team",
+      "confuse_ray",
+      "reflect",
+      "swift",
+      "dream_eater",
+      "leech_life",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "sludge_bomb",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "hidden_power",
+      "sunny_day",
+      "facade",
+      "endeavor",
+      "skill_swap",
+      "air_cutter",
+      "signal_beam",
+      "aerial_ace",
+      "roost",
+      "tailwind",
+      "u_turn",
+      "toxic_spikes",
+      "air_slash",
+      "bug_buzz",
+      "energy_ball",
+      "giga_impact",
+      "zen_headbutt",
+      "defog",
+      "bug_bite",
+      "venoshock",
+      "sludge_wave",
+      "acid_spray",
+      "round",
+      "acrobatics",
+      "struggle_bug",
+      "confide",
+      "infestation",
+      "lunge",
+      "skitter_smack",
+      "tera_blast",
+      "pounce",
+      "psychic_noise"
+    ],
+    "biomeIds": [
+      "tall_grass",
+      "forest"
+    ]
+  }
+]

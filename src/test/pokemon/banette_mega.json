@@ -1,0 +1,102 @@
+[
+  {
+    "_id": "banette_mega",
+    "gender": "",
+    "pokedexNumber": "354",
+    "name": "banette_mega",
+    "koName": "다크펫_mega",
+    "speciesName": "banette",
+    "canChangeForm": true,
+    "formName": "mega",
+    "baseExp": "159",
+    "friendship": "35",
+    "types": [
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "prankster"
+    ],
+    "hiddenAbilityId": "prankster",
+    "passiveAbilityId": "shadow_shield",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 555,
+    "hp": 64,
+    "attack": 165,
+    "defense": 75,
+    "specialAttack": 93,
+    "specialDefense": 83,
+    "speed": 75,
+    "height": 1.2,
+    "weight": 13,
+    "eggMoveIds": [
+      "storm_throw",
+      "tidy_up",
+      "parting_shot",
+      "spectral_thief"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 1,
+        "moveId": "screech"
+      },
+      {
+        "level": 1,
+        "moveId": "night_shade"
+      },
+      {
+        "level": 1,
+        "moveId": "spite"
+      },
+      {
+        "level": 16,
+        "moveId": "will_o_wisp"
+      },
+      {
+        "level": 19,
+        "moveId": "shadow_sneak"
+      },
+      {
+        "level": 22,
+        "moveId": "hex"
+      },
+      {
+        "level": 26,
+        "moveId": "curse"
+      },
+      {
+        "level": 30,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 34,
+        "moveId": "role_play"
+      },
+      {
+        "level": 40,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 46,
+        "moveId": "trick"
+      },
+      {
+        "level": 53,
+        "moveId": "phantom_force"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "graveyard"
+    ]
+  }
+]

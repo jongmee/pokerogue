@@ -1,0 +1,153 @@
+[
+  {
+    "_id": "maschiff",
+    "gender": "",
+    "pokedexNumber": "942",
+    "name": "maschiff",
+    "koName": "오라티프",
+    "speciesName": "maschiff",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "68",
+    "friendship": "50",
+    "types": [
+      "dark"
+    ],
+    "normalAbilityIds": [
+      "intimidate",
+      "run_away"
+    ],
+    "hiddenAbilityId": "stakeout",
+    "passiveAbilityId": "strong_jaw",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 340,
+    "hp": 60,
+    "attack": 78,
+    "defense": 60,
+    "specialAttack": 40,
+    "specialDefense": 51,
+    "speed": 51,
+    "height": 0.5,
+    "weight": 16,
+    "eggMoveIds": [
+      "parting_shot",
+      "close_combat",
+      "psychic_fangs",
+      "no_retreat"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 4,
+        "moveId": "lick"
+      },
+      {
+        "level": 7,
+        "moveId": "snarl"
+      },
+      {
+        "level": 10,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 14,
+        "moveId": "bite"
+      },
+      {
+        "level": 18,
+        "moveId": "roar"
+      },
+      {
+        "level": 22,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 26,
+        "moveId": "payback"
+      },
+      {
+        "level": 31,
+        "moveId": "crunch"
+      },
+      {
+        "level": 35,
+        "moveId": "swagger"
+      },
+      {
+        "level": 39,
+        "moveId": "reversal"
+      },
+      {
+        "level": 43,
+        "moveId": "jaw_lock"
+      },
+      {
+        "level": 49,
+        "moveId": "double_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "dig",
+      "double_team",
+      "rest",
+      "substitute",
+      "thief",
+      "reversal",
+      "protect",
+      "scary_face",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "endeavor",
+      "fake_tears",
+      "payback",
+      "dark_pulse",
+      "thunder_fang",
+      "ice_fang",
+      "fire_fang",
+      "hone_claws",
+      "retaliate",
+      "snarl",
+      "play_rough",
+      "psychic_fangs",
+      "lash_out",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "abyss"
+    ]
+  }
+]

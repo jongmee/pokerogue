@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "malicious_moonsault",
+    "name": "Malicious Moonsault",
+    "koName": "하이퍼다크크러셔",
+    "type": "dark",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 180,
+    "accuracy": -1,
+    "powerPoint": 1,
+    "effect": "Z파워로 강한 육체를 얻은 어흥염이 전력으로 상대에게 부딪쳐 공격한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": " (P)",
+    "flags": [
+      "makes_contact",
+      "ignore_virtual"
+    ],
+    "pokemonIds": []
+  }
+]

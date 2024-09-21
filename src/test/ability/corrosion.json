@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "corrosion",
+    "name": "Corrosion",
+    "koName": "부식",
+    "realased": " (P)",
+    "description": "강철타입이나 독타입도 독 상태로 만들 수 있다.",
+    "generation": 7,
+    "pokemonIds": [
+      "salandit",
+      "salazzle",
+      "shroodle",
+      "grafaiai",
+      "glimmet",
+      "glimmora"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

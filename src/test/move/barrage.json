@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "barrage",
+    "name": "Barrage",
+    "koName": "구슬던지기",
+    "type": "normal",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 15,
+    "accuracy": 85,
+    "powerPoint": 20,
+    "effect": "둥근 것을 상대에게 내던져서 공격한다. 2-5회 동안 연속으로 쓴다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 1,
+    "realased": "",
+    "flags": [
+      "ballbomb_move"
+    ],
+    "pokemonIds": [
+      "exeggcute",
+      "exeggutor",
+      "alola_exeggutor"
+    ]
+  }
+]

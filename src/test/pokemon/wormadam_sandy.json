@@ -1,0 +1,134 @@
+[
+  {
+    "_id": "wormadam_sandy",
+    "gender": "",
+    "pokedexNumber": "413",
+    "name": "wormadam_sandy",
+    "koName": "도롱마담_sandy",
+    "speciesName": "wormadam",
+    "canChangeForm": true,
+    "formName": "sandy_cloak",
+    "baseExp": "148",
+    "friendship": "70",
+    "types": [
+      "bug",
+      "ground"
+    ],
+    "normalAbilityIds": [
+      "anticipation"
+    ],
+    "hiddenAbilityId": "overcoat",
+    "passiveAbilityId": "sturdy",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 424,
+    "hp": 60,
+    "attack": 79,
+    "defense": 105,
+    "specialAttack": 59,
+    "specialDefense": 85,
+    "speed": 36,
+    "height": 0.5,
+    "weight": 6.5,
+    "eggMoveIds": [
+      "fiery_dance",
+      "defend_order",
+      "heal_order",
+      "sappy_seed"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "quiver_dance"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "protect"
+      },
+      {
+        "level": 1,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 1,
+        "moveId": "bug_bite"
+      },
+      {
+        "level": 1,
+        "moveId": "protect"
+      },
+      {
+        "level": 10,
+        "moveId": "tackle"
+      },
+      {
+        "level": 20,
+        "moveId": "string_shot"
+      },
+      {
+        "level": 23,
+        "moveId": "confusion"
+      },
+      {
+        "level": 26,
+        "moveId": "rock_blast"
+      },
+      {
+        "level": 29,
+        "moveId": "harden"
+      },
+      {
+        "level": 32,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 35,
+        "moveId": "infestation"
+      },
+      {
+        "level": 38,
+        "moveId": "flail"
+      },
+      {
+        "level": 41,
+        "moveId": "attract"
+      },
+      {
+        "level": 44,
+        "moveId": "psychic"
+      },
+      {
+        "level": 47,
+        "moveId": "fissure"
+      },
+      {
+        "level": 50,
+        "moveId": "bug_buzz"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "earthquake",
+      "mud_slap",
+      "sandstorm",
+      "rock_tomb",
+      "rock_blast",
+      "earth_power",
+      "stealth_rock",
+      "bulldoze"
+    ],
+    "biomeIds": [
+      "forest",
+      "beach",
+      "slum"
+    ]
+  }
+]

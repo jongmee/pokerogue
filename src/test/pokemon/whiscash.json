@@ -1,0 +1,180 @@
+[
+  {
+    "_id": "whiscash",
+    "gender": "",
+    "pokedexNumber": "340",
+    "name": "whiscash",
+    "koName": "메깅",
+    "speciesName": "whiscash",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "164",
+    "friendship": "50",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "normalAbilityIds": [
+      "oblivious",
+      "anticipation"
+    ],
+    "hiddenAbilityId": "hydration",
+    "passiveAbilityId": "simple",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 468,
+    "hp": 110,
+    "attack": 78,
+    "defense": 73,
+    "specialAttack": 76,
+    "specialDefense": 71,
+    "speed": 60,
+    "height": 0.9,
+    "weight": 23.6,
+    "eggMoveIds": [
+      "dragon_dance",
+      "zing_zap",
+      "ice_spinner",
+      "surging_strikes"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "thrash"
+      },
+      {
+        "level": 1,
+        "moveId": "belch"
+      },
+      {
+        "level": 1,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 1,
+        "moveId": "tickle"
+      },
+      {
+        "level": 1,
+        "moveId": "mud_slap"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "rest"
+      },
+      {
+        "level": 1,
+        "moveId": "snore"
+      },
+      {
+        "level": 12,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 18,
+        "moveId": "amnesia"
+      },
+      {
+        "level": 24,
+        "moveId": "aqua_tail"
+      },
+      {
+        "level": 33,
+        "moveId": "muddy_water"
+      },
+      {
+        "level": 40,
+        "moveId": "earthquake"
+      },
+      {
+        "level": 48,
+        "moveId": "future_sight"
+      },
+      {
+        "level": 56,
+        "moveId": "fissure"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "strength",
+      "earthquake",
+      "toxic",
+      "double_team",
+      "waterfall",
+      "swift",
+      "amnesia",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "spikes",
+      "icy_wind",
+      "outrage",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "future_sight",
+      "rock_smash",
+      "whirlpool",
+      "uproar",
+      "hail",
+      "facade",
+      "helping_hand",
+      "dive",
+      "weather_ball",
+      "rock_tomb",
+      "sand_tomb",
+      "muddy_water",
+      "bounce",
+      "mud_shot",
+      "dragon_dance",
+      "water_pulse",
+      "aqua_tail",
+      "earth_power",
+      "giga_impact",
+      "zen_headbutt",
+      "stone_edge",
+      "stealth_rock",
+      "round",
+      "scald",
+      "bulldoze",
+      "confide",
+      "high_horsepower",
+      "stomping_tantrum",
+      "liquidation",
+      "tera_blast",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "swamp"
+    ]
+  }
+]

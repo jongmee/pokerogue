@@ -1,0 +1,177 @@
+[
+  {
+    "_id": "tsareena",
+    "gender": "",
+    "pokedexNumber": "763",
+    "name": "tsareena",
+    "koName": "달코퀸",
+    "speciesName": "tsareena",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "255",
+    "friendship": "50",
+    "types": [
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "leaf_guard",
+      "queenly_majesty"
+    ],
+    "hiddenAbilityId": "sweet_veil",
+    "passiveAbilityId": "moxie",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 510,
+    "hp": 72,
+    "attack": 120,
+    "defense": 98,
+    "specialAttack": 50,
+    "specialDefense": 98,
+    "speed": 72,
+    "height": 1.2,
+    "weight": 21.4,
+    "eggMoveIds": [
+      "triple_axel",
+      "aqua_step",
+      "thunderous_kick",
+      "sappy_seed"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "trop_kick"
+      },
+      {
+        "level": 1,
+        "moveId": "razor_leaf"
+      },
+      {
+        "level": 1,
+        "moveId": "splash"
+      },
+      {
+        "level": 1,
+        "moveId": "flail"
+      },
+      {
+        "level": 1,
+        "moveId": "swagger"
+      },
+      {
+        "level": 1,
+        "moveId": "rapid_spin"
+      },
+      {
+        "level": 1,
+        "moveId": "power_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "play_nice"
+      },
+      {
+        "level": 1,
+        "moveId": "punishment"
+      },
+      {
+        "level": 16,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 22,
+        "moveId": "magical_leaf"
+      },
+      {
+        "level": 28,
+        "moveId": "stomp"
+      },
+      {
+        "level": 34,
+        "moveId": "teeter_dance"
+      },
+      {
+        "level": 40,
+        "moveId": "aromatic_mist"
+      },
+      {
+        "level": 46,
+        "moveId": "leaf_storm"
+      },
+      {
+        "level": 58,
+        "moveId": "high_jump_kick"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_kick",
+      "take_down",
+      "hyper_beam",
+      "low_kick",
+      "solar_beam",
+      "toxic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "giga_drain",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "synthesis",
+      "hidden_power",
+      "sunny_day",
+      "facade",
+      "nature_power",
+      "taunt",
+      "helping_hand",
+      "knock_off",
+      "endeavor",
+      "bullet_seed",
+      "bounce",
+      "covet",
+      "magical_leaf",
+      "u_turn",
+      "payback",
+      "fling",
+      "worry_seed",
+      "seed_bomb",
+      "energy_ball",
+      "giga_impact",
+      "zen_headbutt",
+      "leaf_storm",
+      "power_whip",
+      "grass_knot",
+      "low_sweep",
+      "round",
+      "acrobatics",
+      "petal_blizzard",
+      "draining_kiss",
+      "grassy_terrain",
+      "play_rough",
+      "confide",
+      "dazzling_gleam",
+      "solar_blade",
+      "grassy_glide",
+      "triple_axel",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "tall_grass"
+    ]
+  }
+]

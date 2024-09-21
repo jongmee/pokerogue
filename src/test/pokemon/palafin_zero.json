@@ -1,0 +1,118 @@
+[
+  {
+    "_id": "palafin_zero",
+    "gender": "",
+    "pokedexNumber": "964",
+    "name": "palafin_zero",
+    "koName": "돌핀맨_zero",
+    "speciesName": "palafin",
+    "canChangeForm": true,
+    "formName": "zero_form",
+    "baseExp": "160",
+    "friendship": "50",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "zero_to_hero"
+    ],
+    "hiddenAbilityId": "zero_to_hero",
+    "passiveAbilityId": "iron_fist",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 457,
+    "hp": 100,
+    "attack": 70,
+    "defense": 72,
+    "specialAttack": 53,
+    "specialDefense": 62,
+    "speed": 100,
+    "height": 1.3,
+    "weight": 60.2,
+    "eggMoveIds": [
+      "triple_axel",
+      "drain_punch",
+      "headlong_rush",
+      "surging_strikes"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "flip_turn"
+      },
+      {
+        "level": 1,
+        "moveId": "supersonic"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "jet_punch"
+      },
+      {
+        "level": 7,
+        "moveId": "astonish"
+      },
+      {
+        "level": 10,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 13,
+        "moveId": "aqua_jet"
+      },
+      {
+        "level": 17,
+        "moveId": "double_hit"
+      },
+      {
+        "level": 21,
+        "moveId": "dive"
+      },
+      {
+        "level": 25,
+        "moveId": "charm"
+      },
+      {
+        "level": 29,
+        "moveId": "acrobatics"
+      },
+      {
+        "level": 34,
+        "moveId": "encore"
+      },
+      {
+        "level": 39,
+        "moveId": "aqua_tail"
+      },
+      {
+        "level": 44,
+        "moveId": "mist"
+      },
+      {
+        "level": 50,
+        "moveId": "hydro_pump"
+      },
+      {
+        "level": 55,
+        "moveId": "focus_punch"
+      },
+      {
+        "level": 61,
+        "moveId": "wave_crash"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "sea"
+    ]
+  }
+]

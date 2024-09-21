@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "power_trip",
+    "name": "Power Trip",
+    "koName": "기어오르기",
+    "type": "dark",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 20,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "자신의 강함을 뻐기고 공격한다. 자신의 능력이 올라가 있는 만큼 위력이 오른다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "cacnea",
+      "cacturne",
+      "zangoose",
+      "bidoof",
+      "bibarel",
+      "venipede",
+      "whirlipede",
+      "scolipede",
+      "sandile",
+      "krokorok",
+      "krookodile",
+      "inkay",
+      "malamar",
+      "yveltal",
+      "rookidee",
+      "corvisquire",
+      "corviknight",
+      "morpeko",
+      "quaxly",
+      "quaxwell",
+      "quaquaval"
+    ]
+  }
+]

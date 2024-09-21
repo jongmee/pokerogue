@@ -1,0 +1,172 @@
+[
+  {
+    "_id": "kingdra",
+    "gender": "",
+    "pokedexNumber": "230",
+    "name": "kingdra",
+    "koName": "킹드라",
+    "speciesName": "kingdra",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "270",
+    "friendship": "50",
+    "types": [
+      "water",
+      "dragon"
+    ],
+    "normalAbilityIds": [
+      "swift_swim",
+      "sniper"
+    ],
+    "hiddenAbilityId": "damp",
+    "passiveAbilityId": "dragons_maw",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 540,
+    "hp": 75,
+    "attack": 95,
+    "defense": 95,
+    "specialAttack": 95,
+    "specialDefense": 95,
+    "speed": 85,
+    "height": 1.8,
+    "weight": 152,
+    "eggMoveIds": [
+      "snipe_shot",
+      "frost_breath",
+      "hurricane",
+      "spacial_rend"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "smokescreen"
+      },
+      {
+        "level": 1,
+        "moveId": "twister"
+      },
+      {
+        "level": 1,
+        "moveId": "whirlpool"
+      },
+      {
+        "level": 1,
+        "moveId": "yawn"
+      },
+      {
+        "level": 15,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 20,
+        "moveId": "dragon_breath"
+      },
+      {
+        "level": 25,
+        "moveId": "bubble_beam"
+      },
+      {
+        "level": 30,
+        "moveId": "agility"
+      },
+      {
+        "level": 37,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 44,
+        "moveId": "dragon_pulse"
+      },
+      {
+        "level": 51,
+        "moveId": "hydro_pump"
+      },
+      {
+        "level": 58,
+        "moveId": "dragon_dance"
+      },
+      {
+        "level": 65,
+        "moveId": "rain_dance"
+      },
+      {
+        "level": 72,
+        "moveId": "wave_crash"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "double_edge",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "toxic",
+      "agility",
+      "double_team",
+      "focus_energy",
+      "waterfall",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "icy_wind",
+      "outrage",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "whirlpool",
+      "hail",
+      "facade",
+      "dive",
+      "weather_ball",
+      "signal_beam",
+      "muddy_water",
+      "bounce",
+      "dragon_dance",
+      "water_pulse",
+      "brine",
+      "dragon_pulse",
+      "giga_impact",
+      "flash_cannon",
+      "draco_meteor",
+      "iron_head",
+      "round",
+      "scald",
+      "quash",
+      "hurricane",
+      "confide",
+      "liquidation",
+      "breaking_swipe",
+      "scale_shot",
+      "flip_turn",
+      "tera_blast",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "sea"
+    ]
+  }
+]

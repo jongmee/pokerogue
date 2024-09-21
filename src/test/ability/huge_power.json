@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "huge_power",
+    "name": "Huge Power",
+    "koName": "천하장사",
+    "realased": "",
+    "description": "물리공격의 위력이 2배가 된다.",
+    "generation": 3,
+    "pokemonIds": [
+      "jigglypuff",
+      "wigglytuff",
+      "igglybuff",
+      "marill",
+      "azumarill",
+      "delibird",
+      "azurill",
+      "mawile_mega",
+      "bunnelby",
+      "diggersby",
+      "zygarde"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "_id": "victreebel",
+    "gender": "",
+    "pokedexNumber": "71",
+    "name": "victreebel",
+    "koName": "우츠보트",
+    "speciesName": "victreebel",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "221",
+    "friendship": "70",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "normalAbilityIds": [
+      "chlorophyll"
+    ],
+    "hiddenAbilityId": "gluttony",
+    "passiveAbilityId": "protosynthesis",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 490,
+    "hp": 80,
+    "attack": 105,
+    "defense": 65,
+    "specialAttack": 100,
+    "specialDefense": 70,
+    "speed": 70,
+    "height": 1.7,
+    "weight": 15.5,
+    "eggMoveIds": [
+      "solar_blade",
+      "strength_sap",
+      "fire_lash",
+      "victory_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "leaf_storm"
+      },
+      {
+        "level": -1,
+        "moveId": "stockpile"
+      },
+      {
+        "level": -1,
+        "moveId": "swallow"
+      },
+      {
+        "level": -1,
+        "moveId": "spit_up"
+      },
+      {
+        "level": -1,
+        "moveId": "gastro_acid"
+      },
+      {
+        "level": -1,
+        "moveId": "power_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "vine_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "sleep_powder"
+      },
+      {
+        "level": 1,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 1,
+        "moveId": "razor_leaf"
+      },
+      {
+        "level": 44,
+        "moveId": "leaf_blade"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "solar_beam",
+      "toxic",
+      "double_team",
+      "reflect",
+      "swift",
+      "leech_life",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "synthesis",
+      "hidden_power",
+      "sunny_day",
+      "facade",
+      "nature_power",
+      "knock_off",
+      "weather_ball",
+      "bullet_seed",
+      "magical_leaf",
+      "leaf_blade",
+      "gastro_acid",
+      "worry_seed",
+      "poison_jab",
+      "seed_bomb",
+      "energy_ball",
+      "giga_impact",
+      "leaf_storm",
+      "power_whip",
+      "grass_knot",
+      "bug_bite",
+      "venoshock",
+      "sludge_wave",
+      "acid_spray",
+      "round",
+      "grassy_terrain",
+      "confide",
+      "infestation",
+      "lunge",
+      "grassy_glide",
+      "tera_blast",
+      "pounce",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "forest"
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "first_impression",
+    "name": "First Impression",
+    "koName": "만나자마자",
+    "type": "bug",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 90,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "위력이 높은 기술이지만 배틀에 나가서 바로 쓰지 않으면 성공할 수 없다.",
+    "effectChance": -1,
+    "prioirty": 2,
+    "generation": 7,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "heracross",
+      "heracross_mega",
+      "anorith",
+      "armaldo",
+      "durant",
+      "rowlet",
+      "dartrix",
+      "decidueye",
+      "golisopod",
+      "buzzwole",
+      "sizzlipede",
+      "centiskorch",
+      "centiskorch_gigantamax",
+      "sirfetchd",
+      "falinks",
+      "nymble",
+      "lokix",
+      "slither_wing",
+      "hisui_decidueye"
+    ]
+  }
+]

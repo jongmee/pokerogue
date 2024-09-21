@@ -1,0 +1,180 @@
+[
+  {
+    "_id": "skiploom",
+    "gender": "",
+    "pokedexNumber": "188",
+    "name": "skiploom",
+    "koName": "두코",
+    "speciesName": "skiploom",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "119",
+    "friendship": "70",
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "chlorophyll",
+      "leaf_guard"
+    ],
+    "hiddenAbilityId": "infiltrator",
+    "passiveAbilityId": "fluffy",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 340,
+    "hp": 55,
+    "attack": 45,
+    "defense": 50,
+    "specialAttack": 45,
+    "specialDefense": 65,
+    "speed": 80,
+    "height": 0.6,
+    "weight": 1,
+    "eggMoveIds": [
+      "floaty_fall",
+      "strength_sap",
+      "sappy_seed",
+      "spore"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 1,
+        "moveId": "splash"
+      },
+      {
+        "level": 1,
+        "moveId": "synthesis"
+      },
+      {
+        "level": 8,
+        "moveId": "tackle"
+      },
+      {
+        "level": 10,
+        "moveId": "fairy_wind"
+      },
+      {
+        "level": 12,
+        "moveId": "poison_powder"
+      },
+      {
+        "level": 12,
+        "moveId": "stun_spore"
+      },
+      {
+        "level": 12,
+        "moveId": "sleep_powder"
+      },
+      {
+        "level": 15,
+        "moveId": "bullet_seed"
+      },
+      {
+        "level": 20,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 24,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 28,
+        "moveId": "acrobatics"
+      },
+      {
+        "level": 31,
+        "moveId": "cotton_spore"
+      },
+      {
+        "level": 34,
+        "moveId": "u_turn"
+      },
+      {
+        "level": 37,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 41,
+        "moveId": "bounce"
+      },
+      {
+        "level": 44,
+        "moveId": "memento"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "pay_day",
+      "swords_dance",
+      "take_down",
+      "double_edge",
+      "solar_beam",
+      "toxic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "giga_drain",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "encore",
+      "synthesis",
+      "hidden_power",
+      "sunny_day",
+      "psych_up",
+      "facade",
+      "helping_hand",
+      "endeavor",
+      "bullet_seed",
+      "aerial_ace",
+      "bounce",
+      "magical_leaf",
+      "tailwind",
+      "u_turn",
+      "fling",
+      "worry_seed",
+      "seed_bomb",
+      "energy_ball",
+      "leaf_storm",
+      "grass_knot",
+      "round",
+      "acrobatics",
+      "grassy_terrain",
+      "confide",
+      "dazzling_gleam",
+      "infestation",
+      "pollen_puff",
+      "lunge",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "grass"
+    ]
+  }
+]

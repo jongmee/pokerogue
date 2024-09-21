@@ -1,0 +1,174 @@
+[
+  {
+    "_id": "parasect",
+    "gender": "",
+    "pokedexNumber": "47",
+    "name": "parasect",
+    "koName": "파라섹트",
+    "speciesName": "parasect",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "142",
+    "friendship": "70",
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "effect_spore",
+      "dry_skin"
+    ],
+    "hiddenAbilityId": "damp",
+    "passiveAbilityId": "triage",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 405,
+    "hp": 60,
+    "attack": 95,
+    "defense": 80,
+    "specialAttack": 60,
+    "specialDefense": 80,
+    "speed": 30,
+    "height": 1,
+    "weight": 29.5,
+    "eggMoveIds": [
+      "leech_life",
+      "horn_leech",
+      "crabhammer",
+      "sappy_seed"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 1,
+        "moveId": "poison_powder"
+      },
+      {
+        "level": 1,
+        "moveId": "stun_spore"
+      },
+      {
+        "level": 1,
+        "moveId": "cross_poison"
+      },
+      {
+        "level": 6,
+        "moveId": "poison_powder"
+      },
+      {
+        "level": 6,
+        "moveId": "stun_spore"
+      },
+      {
+        "level": 11,
+        "moveId": "absorb"
+      },
+      {
+        "level": 17,
+        "moveId": "fury_cutter"
+      },
+      {
+        "level": 22,
+        "moveId": "spore"
+      },
+      {
+        "level": 29,
+        "moveId": "slash"
+      },
+      {
+        "level": 37,
+        "moveId": "growth"
+      },
+      {
+        "level": 44,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 51,
+        "moveId": "aromatherapy"
+      },
+      {
+        "level": 59,
+        "moveId": "rage_powder"
+      },
+      {
+        "level": 66,
+        "moveId": "x_scissor"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "counter",
+      "solar_beam",
+      "dig",
+      "toxic",
+      "screech",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "leech_life",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "sludge_bomb",
+      "giga_drain",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "synthesis",
+      "hidden_power",
+      "sunny_day",
+      "rock_smash",
+      "facade",
+      "nature_power",
+      "brick_break",
+      "knock_off",
+      "bullet_seed",
+      "aerial_ace",
+      "worry_seed",
+      "seed_bomb",
+      "x_scissor",
+      "energy_ball",
+      "giga_impact",
+      "cross_poison",
+      "grass_knot",
+      "bug_bite",
+      "hone_claws",
+      "venoshock",
+      "round",
+      "struggle_bug",
+      "confide",
+      "throat_chop",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "tall_grass",
+      "cave"
+    ]
+  }
+]

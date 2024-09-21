@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "justified",
+    "name": "Justified",
+    "koName": "정의의마음",
+    "realased": "",
+    "description": "악타입 공격을 받으면 정의감으로 공격이 올라간다.",
+    "generation": 5,
+    "pokemonIds": [
+      "growlithe",
+      "arcanine",
+      "absol",
+      "lucario",
+      "gallade",
+      "cobalion",
+      "terrakion",
+      "virizion",
+      "keldeo_ordinary",
+      "keldeo_resolute"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

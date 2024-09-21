@@ -1,0 +1,218 @@
+[
+  {
+    "_id": "infernape",
+    "gender": "",
+    "pokedexNumber": "392",
+    "name": "infernape",
+    "koName": "초염몽",
+    "speciesName": "infernape",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "240",
+    "friendship": "70",
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "blaze"
+    ],
+    "hiddenAbilityId": "iron_fist",
+    "passiveAbilityId": "beast_boost",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 534,
+    "hp": 76,
+    "attack": 104,
+    "defense": 71,
+    "specialAttack": 104,
+    "specialDefense": 71,
+    "speed": 108,
+    "height": 1.2,
+    "weight": 55,
+    "eggMoveIds": [
+      "fiery_dance",
+      "secret_sword",
+      "triple_axel",
+      "sacred_fire"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "close_combat"
+      },
+      {
+        "level": -1,
+        "moveId": "taunt"
+      },
+      {
+        "level": -1,
+        "moveId": "slack_off"
+      },
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 1,
+        "moveId": "mach_punch"
+      },
+      {
+        "level": 16,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 19,
+        "moveId": "flame_wheel"
+      },
+      {
+        "level": 26,
+        "moveId": "feint"
+      },
+      {
+        "level": 29,
+        "moveId": "torment"
+      },
+      {
+        "level": 42,
+        "moveId": "fire_spin"
+      },
+      {
+        "level": 47,
+        "moveId": "flare_blitz"
+      },
+      {
+        "level": 52,
+        "moveId": "acrobatics"
+      },
+      {
+        "level": 58,
+        "moveId": "calm_mind"
+      },
+      {
+        "level": 65,
+        "moveId": "raging_fury"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fire_punch",
+      "thunder_punch",
+      "swords_dance",
+      "cut",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "hyper_beam",
+      "low_kick",
+      "counter",
+      "strength",
+      "solar_beam",
+      "fire_spin",
+      "earthquake",
+      "dig",
+      "toxic",
+      "agility",
+      "double_team",
+      "focus_energy",
+      "metronome",
+      "fire_blast",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "reversal",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "sunny_day",
+      "rock_smash",
+      "uproar",
+      "heat_wave",
+      "torment",
+      "will_o_wisp",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "blaze_kick",
+      "blast_burn",
+      "fake_tears",
+      "overheat",
+      "rock_tomb",
+      "aerial_ace",
+      "bulk_up",
+      "covet",
+      "calm_mind",
+      "u_turn",
+      "close_combat",
+      "fling",
+      "flare_blitz",
+      "aura_sphere",
+      "poison_jab",
+      "drain_punch",
+      "vacuum_wave",
+      "focus_blast",
+      "giga_impact",
+      "nasty_plot",
+      "shadow_claw",
+      "zen_headbutt",
+      "rock_climb",
+      "gunk_shot",
+      "stone_edge",
+      "stealth_rock",
+      "grass_knot",
+      "hone_claws",
+      "smack_down",
+      "flame_charge",
+      "low_sweep",
+      "round",
+      "incinerate",
+      "acrobatics",
+      "retaliate",
+      "fire_pledge",
+      "bulldoze",
+      "work_up",
+      "confide",
+      "power_up_punch",
+      "burning_jealousy",
+      "lash_out",
+      "coaching",
+      "scorching_sands",
+      "tera_blast",
+      "temper_flare",
+      "upper_hand"
+    ],
+    "biomeIds": [
+      "volcano"
+    ]
+  }
+]

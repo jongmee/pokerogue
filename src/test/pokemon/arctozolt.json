@@ -1,0 +1,155 @@
+[
+  {
+    "_id": "arctozolt",
+    "gender": "",
+    "pokedexNumber": "881",
+    "name": "arctozolt",
+    "koName": "파치르돈",
+    "speciesName": "arctozolt",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "177",
+    "friendship": "50",
+    "types": [
+      "electric",
+      "ice"
+    ],
+    "normalAbilityIds": [
+      "volt_absorb",
+      "static"
+    ],
+    "hiddenAbilityId": "slush_rush",
+    "passiveAbilityId": "transistor",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 505,
+    "hp": 90,
+    "attack": 100,
+    "defense": 90,
+    "specialAttack": 90,
+    "specialDefense": 80,
+    "speed": 55,
+    "height": 2.3,
+    "weight": 150,
+    "eggMoveIds": [
+      "mountain_gale",
+      "aqua_step",
+      "high_horsepower",
+      "shift_gear"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 1,
+        "moveId": "powder_snow"
+      },
+      {
+        "level": 7,
+        "moveId": "charge"
+      },
+      {
+        "level": 14,
+        "moveId": "echoed_voice"
+      },
+      {
+        "level": 21,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 28,
+        "moveId": "pluck"
+      },
+      {
+        "level": 35,
+        "moveId": "avalanche"
+      },
+      {
+        "level": 42,
+        "moveId": "freeze_dry"
+      },
+      {
+        "level": 49,
+        "moveId": "slam"
+      },
+      {
+        "level": 56,
+        "moveId": "discharge"
+      },
+      {
+        "level": 63,
+        "moveId": "bolt_beak"
+      },
+      {
+        "level": 70,
+        "moveId": "icicle_crash"
+      },
+      {
+        "level": 77,
+        "moveId": "blizzard"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "thunder_punch",
+      "mega_kick",
+      "body_slam",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "low_kick",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "double_team",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "icy_wind",
+      "endure",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "hail",
+      "facade",
+      "charge",
+      "taunt",
+      "hyper_voice",
+      "rock_tomb",
+      "icicle_spear",
+      "rock_blast",
+      "pluck",
+      "payback",
+      "giga_impact",
+      "avalanche",
+      "thunder_fang",
+      "ice_fang",
+      "stone_edge",
+      "electro_ball",
+      "round",
+      "echoed_voice",
+      "bulldoze",
+      "wild_charge",
+      "stomping_tantrum",
+      "meteor_beam",
+      "rising_voltage"
+    ],
+    "biomeIds": [
+      "snowy_forest"
+    ]
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "_id": "greninja_ash",
+    "gender": "",
+    "pokedexNumber": "658",
+    "name": "greninja_ash",
+    "koName": "개굴닌자_ash",
+    "speciesName": "greninja",
+    "canChangeForm": true,
+    "formName": "ash",
+    "baseExp": "239",
+    "friendship": "70",
+    "types": [
+      "water",
+      "dark"
+    ],
+    "normalAbilityIds": [
+      "battle_bond"
+    ],
+    "hiddenAbilityId": "battle_bond",
+    "passiveAbilityId": "stakeout",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 640,
+    "hp": 72,
+    "attack": 145,
+    "defense": 67,
+    "specialAttack": 153,
+    "specialDefense": 71,
+    "speed": 132,
+    "height": 1.5,
+    "weight": 40,
+    "eggMoveIds": [
+      "moonblast",
+      "shell_side_arm",
+      "fiery_wrath",
+      "steam_eruption"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "water_shuriken"
+      },
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "haze"
+      },
+      {
+        "level": 1,
+        "moveId": "mat_block"
+      },
+      {
+        "level": 1,
+        "moveId": "role_play"
+      },
+      {
+        "level": 1,
+        "moveId": "night_slash"
+      },
+      {
+        "level": 10,
+        "moveId": "lick"
+      },
+      {
+        "level": 14,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 19,
+        "moveId": "smokescreen"
+      },
+      {
+        "level": 23,
+        "moveId": "shadow_sneak"
+      },
+      {
+        "level": 28,
+        "moveId": "spikes"
+      },
+      {
+        "level": 33,
+        "moveId": "aerial_ace"
+      },
+      {
+        "level": 42,
+        "moveId": "substitute"
+      },
+      {
+        "level": 49,
+        "moveId": "extrasensory"
+      },
+      {
+        "level": 56,
+        "moveId": "double_team"
+      },
+      {
+        "level": 68,
+        "moveId": "hydro_pump"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "take_down",
+      "dig",
+      "swift",
+      "mud_slap",
+      "endure",
+      "false_swipe",
+      "helping_hand",
+      "brick_break",
+      "mud_shot",
+      "toxic_spikes",
+      "low_sweep",
+      "liquidation",
+      "tera_blast",
+      "snowscape",
+      "trailblaze",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "lake"
+    ]
+  }
+]

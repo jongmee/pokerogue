@@ -1,0 +1,178 @@
+[
+  {
+    "_id": "raticate",
+    "gender": "",
+    "pokedexNumber": "20",
+    "name": "raticate",
+    "koName": "레트라",
+    "speciesName": "raticate",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "145",
+    "friendship": "70",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "run_away",
+      "guts"
+    ],
+    "hiddenAbilityId": "hustle",
+    "passiveAbilityId": "strong_jaw",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 413,
+    "hp": 55,
+    "attack": 81,
+    "defense": 60,
+    "specialAttack": 50,
+    "specialDefense": 70,
+    "speed": 97,
+    "height": 0.7,
+    "weight": 18.5,
+    "eggMoveIds": [
+      "hyper_fang",
+      "psychic_fangs",
+      "fire_fang",
+      "extreme_speed"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 1,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 10,
+        "moveId": "bite"
+      },
+      {
+        "level": 13,
+        "moveId": "laser_focus"
+      },
+      {
+        "level": 16,
+        "moveId": "take_down"
+      },
+      {
+        "level": 19,
+        "moveId": "assurance"
+      },
+      {
+        "level": 24,
+        "moveId": "crunch"
+      },
+      {
+        "level": 29,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 34,
+        "moveId": "super_fang"
+      },
+      {
+        "level": 39,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 44,
+        "moveId": "endeavor"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "counter",
+      "strength",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "dig",
+      "toxic",
+      "double_team",
+      "focus_energy",
+      "swift",
+      "rest",
+      "super_fang",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "reversal",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "shadow_ball",
+      "rock_smash",
+      "uproar",
+      "facade",
+      "taunt",
+      "revenge",
+      "endeavor",
+      "covet",
+      "pluck",
+      "u_turn",
+      "assurance",
+      "giga_impact",
+      "zen_headbutt",
+      "grass_knot",
+      "charge_beam",
+      "round",
+      "retaliate",
+      "work_up",
+      "wild_charge",
+      "confide",
+      "throat_chop",
+      "stomping_tantrum",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "metropolis",
+      "slum"
+    ]
+  }
+]

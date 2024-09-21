@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "blipbug",
+    "gender": "",
+    "pokedexNumber": "824",
+    "name": "blipbug",
+    "koName": "두루지벌레",
+    "speciesName": "blipbug",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "36",
+    "friendship": "50",
+    "types": [
+      "bug"
+    ],
+    "normalAbilityIds": [
+      "swarm",
+      "compound_eyes"
+    ],
+    "hiddenAbilityId": "telepathy",
+    "passiveAbilityId": "psychic_surge",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 180,
+    "hp": 25,
+    "attack": 20,
+    "defense": 20,
+    "specialAttack": 25,
+    "specialDefense": 45,
+    "speed": 45,
+    "height": 0.4,
+    "weight": 8,
+    "eggMoveIds": [
+      "heal_order",
+      "expanding_force",
+      "spore",
+      "tail_glow"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "struggle_bug"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "struggle_bug",
+      "infestation"
+    ],
+    "biomeIds": [
+      "town"
+    ]
+  }
+]

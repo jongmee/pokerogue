@@ -1,0 +1,140 @@
+[
+  {
+    "_id": "sinistea",
+    "gender": "",
+    "pokedexNumber": "854",
+    "name": "sinistea",
+    "koName": "데인차",
+    "speciesName": "sinistea",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "62",
+    "friendship": "50",
+    "types": [
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "weak_armor"
+    ],
+    "hiddenAbilityId": "cursed_body",
+    "passiveAbilityId": "shadow_shield",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 308,
+    "hp": 40,
+    "attack": 45,
+    "defense": 45,
+    "specialAttack": 74,
+    "specialDefense": 54,
+    "speed": 50,
+    "height": 0.1,
+    "weight": 0.2,
+    "eggMoveIds": [
+      "scald",
+      "take_heart",
+      "sparkly_swirl",
+      "matcha_gotcha"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "withdraw"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 6,
+        "moveId": "aromatic_mist"
+      },
+      {
+        "level": 12,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 24,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 30,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 36,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 42,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 48,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 54,
+        "moveId": "memento"
+      },
+      {
+        "level": 60,
+        "moveId": "shell_smash"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "psybeam",
+      "psychic",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "metronome",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "giga_drain",
+      "endure",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "hidden_power",
+      "shadow_ball",
+      "will_o_wisp",
+      "facade",
+      "trick",
+      "skill_swap",
+      "imprison",
+      "magical_leaf",
+      "calm_mind",
+      "payback",
+      "dark_pulse",
+      "nasty_plot",
+      "trick_room",
+      "wonder_room",
+      "psyshock",
+      "foul_play",
+      "round",
+      "stored_power",
+      "ally_switch",
+      "hex",
+      "phantom_force",
+      "poltergeist",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "graveyard"
+    ]
+  }
+]

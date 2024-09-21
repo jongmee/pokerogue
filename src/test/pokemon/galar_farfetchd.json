@@ -1,0 +1,148 @@
+[
+  {
+    "_id": "galar_farfetchd",
+    "gender": "",
+    "pokedexNumber": "4083",
+    "name": "galar_farfetchd",
+    "koName": "파오리",
+    "speciesName": "galar_farfetchd",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "132",
+    "friendship": "50",
+    "types": [
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "steadfast"
+    ],
+    "hiddenAbilityId": "scrappy",
+    "passiveAbilityId": "intrepid_sword",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 377,
+    "hp": 52,
+    "attack": 95,
+    "defense": 55,
+    "specialAttack": 58,
+    "specialDefense": 62,
+    "speed": 55,
+    "height": 0.8,
+    "weight": 42,
+    "eggMoveIds": [
+      "roost",
+      "sacred_sword",
+      "kings_shield",
+      "behemoth_blade"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "peck"
+      },
+      {
+        "level": 5,
+        "moveId": "leer"
+      },
+      {
+        "level": 10,
+        "moveId": "fury_cutter"
+      },
+      {
+        "level": 15,
+        "moveId": "rock_smash"
+      },
+      {
+        "level": 20,
+        "moveId": "brutal_swing"
+      },
+      {
+        "level": 25,
+        "moveId": "detect"
+      },
+      {
+        "level": 30,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 35,
+        "moveId": "defog"
+      },
+      {
+        "level": 40,
+        "moveId": "brick_break"
+      },
+      {
+        "level": 45,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 50,
+        "moveId": "slam"
+      },
+      {
+        "level": 55,
+        "moveId": "leaf_blade"
+      },
+      {
+        "level": 60,
+        "moveId": "final_gambit"
+      },
+      {
+        "level": 65,
+        "moveId": "brave_bird"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "body_slam",
+      "double_team",
+      "focus_energy",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "endure",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "sunny_day",
+      "rock_smash",
+      "facade",
+      "helping_hand",
+      "superpower",
+      "revenge",
+      "brick_break",
+      "knock_off",
+      "covet",
+      "leaf_blade",
+      "close_combat",
+      "assurance",
+      "poison_jab",
+      "brave_bird",
+      "defog",
+      "round",
+      "retaliate",
+      "work_up",
+      "solar_blade",
+      "throat_chop",
+      "brutal_swing",
+      "dual_wingbeat"
+    ],
+    "biomeIds": [
+      "dojo"
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "_id": "bleakwind_storm",
+    "name": "Bleakwind Storm",
+    "koName": "찬바람폭풍",
+    "type": "flying",
+    "moveCategory": "special",
+    "moveTarget": "all_near_enemies",
+    "power": 100,
+    "accuracy": 80,
+    "powerPoint": 10,
+    "effect": "심신을 모두 떨게 만드는 차갑고도 거친 바람으로 공격한다. 상대의 스피드를 떨어뜨릴 때가 있다.",
+    "effectChance": 30,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [
+      "wind_move"
+    ],
+    "pokemonIds": [
+      "caterpie",
+      "metapod",
+      "butterfree",
+      "butterfree_gigantamax",
+      "yanma",
+      "wurmple",
+      "silcoon",
+      "beautifly",
+      "cascoon",
+      "dustox",
+      "yanmega",
+      "landorus_incarnate",
+      "landorus_therian"
+    ]
+  }
+]

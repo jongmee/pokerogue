@@ -1,0 +1,19 @@
+[
+  {
+    "_id": "libero",
+    "name": "Libero",
+    "koName": "리베로",
+    "realased": "",
+    "description": "자신이 사용한 기술과 같은 타입으로 변화한다.",
+    "generation": 8,
+    "pokemonIds": [
+      "passimian",
+      "scorbunny",
+      "raboot",
+      "cinderace",
+      "cinderace_gigantamax"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

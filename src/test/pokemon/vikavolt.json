@@ -1,0 +1,191 @@
+[
+  {
+    "_id": "vikavolt",
+    "gender": "",
+    "pokedexNumber": "738",
+    "name": "vikavolt",
+    "koName": "투구뿌논",
+    "speciesName": "vikavolt",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "250",
+    "friendship": "50",
+    "types": [
+      "bug",
+      "electric"
+    ],
+    "normalAbilityIds": [
+      "levitate"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "speed_boost",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 500,
+    "hp": 77,
+    "attack": 70,
+    "defense": 90,
+    "specialAttack": 145,
+    "specialDefense": 75,
+    "speed": 43,
+    "height": 1.5,
+    "weight": 45,
+    "eggMoveIds": [
+      "ice_beam",
+      "earth_power",
+      "thunderclap",
+      "quiver_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "thunderbolt"
+      },
+      {
+        "level": -1,
+        "moveId": "vise_grip"
+      },
+      {
+        "level": -1,
+        "moveId": "dig"
+      },
+      {
+        "level": -1,
+        "moveId": "mud_slap"
+      },
+      {
+        "level": -1,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": -1,
+        "moveId": "x_scissor"
+      },
+      {
+        "level": -1,
+        "moveId": "bug_bite"
+      },
+      {
+        "level": 1,
+        "moveId": "charge"
+      },
+      {
+        "level": 1,
+        "moveId": "crunch"
+      },
+      {
+        "level": 1,
+        "moveId": "discharge"
+      },
+      {
+        "level": 1,
+        "moveId": "string_shot"
+      },
+      {
+        "level": 15,
+        "moveId": "bite"
+      },
+      {
+        "level": 23,
+        "moveId": "spark"
+      },
+      {
+        "level": 29,
+        "moveId": "sticky_web"
+      },
+      {
+        "level": 36,
+        "moveId": "bug_buzz"
+      },
+      {
+        "level": 43,
+        "moveId": "guillotine"
+      },
+      {
+        "level": 50,
+        "moveId": "fly"
+      },
+      {
+        "level": 57,
+        "moveId": "agility"
+      },
+      {
+        "level": 64,
+        "moveId": "zap_cannon"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fly",
+      "take_down",
+      "hyper_beam",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "dig",
+      "toxic",
+      "agility",
+      "screech",
+      "double_team",
+      "light_screen",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "mud_slap",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "hidden_power",
+      "rain_dance",
+      "crunch",
+      "facade",
+      "charge",
+      "signal_beam",
+      "iron_defense",
+      "mud_shot",
+      "roost",
+      "poison_jab",
+      "air_slash",
+      "x_scissor",
+      "bug_buzz",
+      "energy_ball",
+      "giga_impact",
+      "flash_cannon",
+      "bug_bite",
+      "charge_beam",
+      "electro_ball",
+      "round",
+      "sky_drop",
+      "acrobatics",
+      "volt_switch",
+      "struggle_bug",
+      "bulldoze",
+      "electroweb",
+      "wild_charge",
+      "confide",
+      "eerie_impulse",
+      "electric_terrain",
+      "lunge",
+      "rising_voltage",
+      "skitter_smack",
+      "dual_wingbeat",
+      "tera_blast",
+      "pounce",
+      "supercell_slam"
+    ],
+    "biomeIds": [
+      "power_plant"
+    ]
+  }
+]

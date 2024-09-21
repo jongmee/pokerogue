@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "filter",
+    "name": "Filter",
+    "koName": "필터",
+    "realased": "",
+    "description": "효과가 굉장한 공격의 위력을 약하게 만든다.",
+    "generation": 4,
+    "pokemonIds": [
+      "rhyhorn",
+      "rhydon",
+      "mr_mime",
+      "aggron_mega",
+      "registeel",
+      "mime_jr",
+      "rhyperior",
+      "volcanion",
+      "glastrier",
+      "revavroom"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

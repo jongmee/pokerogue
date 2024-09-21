@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "power_split",
+    "name": "Power Split",
+    "koName": "파워셰어",
+    "type": "psychic",
+    "moveCategory": "status",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 10,
+    "effect": "초능력으로 자신과 상대의 공격과 특수공격을 더해서 반으로 나눈다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 5,
+    "realased": " (N)",
+    "flags": [],
+    "pokemonIds": [
+      "shuckle",
+      "baltoy",
+      "claydol",
+      "latios",
+      "yamask",
+      "cofagrigus",
+      "elgyem",
+      "beheeyem",
+      "hoopa",
+      "nihilego",
+      "runerigus",
+      "indeedee",
+      "galar_yamask"
+    ]
+  }
+]

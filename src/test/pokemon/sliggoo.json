@@ -1,0 +1,150 @@
+[
+  {
+    "_id": "sliggoo",
+    "gender": "",
+    "pokedexNumber": "705",
+    "name": "sliggoo",
+    "koName": "미끄네일",
+    "speciesName": "sliggoo",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "158",
+    "friendship": "35",
+    "types": [
+      "dragon"
+    ],
+    "normalAbilityIds": [
+      "sap_sipper",
+      "hydration"
+    ],
+    "hiddenAbilityId": "gooey",
+    "passiveAbilityId": "regenerator",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 452,
+    "hp": 68,
+    "attack": 75,
+    "defense": 53,
+    "specialAttack": 83,
+    "specialDefense": 113,
+    "speed": 60,
+    "height": 0.8,
+    "weight": 17.5,
+    "eggMoveIds": [
+      "scald",
+      "recover",
+      "calm_mind",
+      "make_it_rain"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "acid_spray"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 1,
+        "moveId": "acid_armor"
+      },
+      {
+        "level": 1,
+        "moveId": "dragon_breath"
+      },
+      {
+        "level": 15,
+        "moveId": "protect"
+      },
+      {
+        "level": 20,
+        "moveId": "flail"
+      },
+      {
+        "level": 25,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 30,
+        "moveId": "rain_dance"
+      },
+      {
+        "level": 35,
+        "moveId": "dragon_pulse"
+      },
+      {
+        "level": 43,
+        "moveId": "curse"
+      },
+      {
+        "level": 49,
+        "moveId": "body_slam"
+      },
+      {
+        "level": 56,
+        "moveId": "muddy_water"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "ice_beam",
+      "blizzard",
+      "counter",
+      "thunderbolt",
+      "thunder",
+      "toxic",
+      "double_team",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "sludge_bomb",
+      "outrage",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "facade",
+      "muddy_water",
+      "mud_shot",
+      "water_pulse",
+      "dragon_pulse",
+      "draco_meteor",
+      "sludge_wave",
+      "acid_spray",
+      "round",
+      "confide",
+      "infestation",
+      "skitter_smack",
+      "tera_blast",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "wasteland"
+    ]
+  }
+]

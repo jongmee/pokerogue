@@ -1,0 +1,178 @@
+[
+  {
+    "_id": "sneasler",
+    "gender": "",
+    "pokedexNumber": "903",
+    "name": "sneasler",
+    "koName": "포푸니크",
+    "speciesName": "sneasler",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "102",
+    "friendship": "50",
+    "types": [
+      "fighting",
+      "poison"
+    ],
+    "normalAbilityIds": [
+      "pressure",
+      "unburden"
+    ],
+    "hiddenAbilityId": "poison_touch",
+    "passiveAbilityId": "scrappy",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 510,
+    "hp": 80,
+    "attack": 130,
+    "defense": 60,
+    "specialAttack": 40,
+    "specialDefense": 80,
+    "speed": 120,
+    "height": 1.3,
+    "weight": 43,
+    "eggMoveIds": [
+      "thunderous_kick",
+      "knock_off",
+      "triple_axel",
+      "victory_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "dire_claw"
+      },
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "rock_smash"
+      },
+      {
+        "level": 1,
+        "moveId": "fling"
+      },
+      {
+        "level": 6,
+        "moveId": "taunt"
+      },
+      {
+        "level": 12,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 18,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 24,
+        "moveId": "poison_jab"
+      },
+      {
+        "level": 30,
+        "moveId": "brick_break"
+      },
+      {
+        "level": 36,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 42,
+        "moveId": "slash"
+      },
+      {
+        "level": 48,
+        "moveId": "agility"
+      },
+      {
+        "level": 54,
+        "moveId": "screech"
+      },
+      {
+        "level": 60,
+        "moveId": "close_combat"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fire_punch",
+      "swords_dance",
+      "take_down",
+      "hyper_beam",
+      "low_kick",
+      "dig",
+      "toxic",
+      "agility",
+      "screech",
+      "double_team",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "reversal",
+      "spite",
+      "protect",
+      "sludge_bomb",
+      "endure",
+      "false_swipe",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "shadow_ball",
+      "rock_smash",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "brick_break",
+      "rock_tomb",
+      "aerial_ace",
+      "bulk_up",
+      "poison_tail",
+      "calm_mind",
+      "u_turn",
+      "close_combat",
+      "fling",
+      "toxic_spikes",
+      "poison_jab",
+      "x_scissor",
+      "vacuum_wave",
+      "focus_blast",
+      "giga_impact",
+      "nasty_plot",
+      "shadow_claw",
+      "gunk_shot",
+      "grass_knot",
+      "hone_claws",
+      "venoshock",
+      "sludge_wave",
+      "low_sweep",
+      "acid_spray",
+      "acrobatics",
+      "lash_out",
+      "coaching",
+      "tera_blast",
+      "trailblaze",
+      "upper_hand"
+    ],
+    "biomeIds": [
+      "snowy_forest"
+    ]
+  }
+]

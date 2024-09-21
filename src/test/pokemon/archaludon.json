@@ -1,0 +1,167 @@
+[
+  {
+    "_id": "archaludon",
+    "gender": "",
+    "pokedexNumber": "1018",
+    "name": "archaludon",
+    "koName": "브리두라스",
+    "speciesName": "archaludon",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "300",
+    "friendship": "50",
+    "types": [
+      "steel",
+      "dragon"
+    ],
+    "normalAbilityIds": [
+      "stamina",
+      "sturdy"
+    ],
+    "hiddenAbilityId": "stalwart",
+    "passiveAbilityId": "steelworker",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 600,
+    "hp": 90,
+    "attack": 105,
+    "defense": 130,
+    "specialAttack": 125,
+    "specialDefense": 65,
+    "speed": 85,
+    "height": 2,
+    "weight": 60,
+    "eggMoveIds": [
+      "core_enforcer",
+      "body_press",
+      "recover",
+      "tachyon_cutter"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "electro_shot"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 6,
+        "moveId": "rock_smash"
+      },
+      {
+        "level": 12,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 18,
+        "moveId": "metal_sound"
+      },
+      {
+        "level": 24,
+        "moveId": "breaking_swipe"
+      },
+      {
+        "level": 30,
+        "moveId": "dragon_tail"
+      },
+      {
+        "level": 36,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 42,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 48,
+        "moveId": "dragon_claw"
+      },
+      {
+        "level": 54,
+        "moveId": "flash_cannon"
+      },
+      {
+        "level": 60,
+        "moveId": "metal_burst"
+      },
+      {
+        "level": 66,
+        "moveId": "hyper_beam"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "hyper_beam",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "earthquake",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "protect",
+      "scary_face",
+      "outrage",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "metal_claw",
+      "hidden_power",
+      "rock_smash",
+      "facade",
+      "brick_break",
+      "rock_tomb",
+      "metal_sound",
+      "iron_defense",
+      "dragon_claw",
+      "gyro_ball",
+      "aura_sphere",
+      "dark_pulse",
+      "dragon_pulse",
+      "giga_impact",
+      "flash_cannon",
+      "draco_meteor",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "hone_claws",
+      "smack_down",
+      "heavy_slam",
+      "foul_play",
+      "dragon_tail",
+      "snarl",
+      "body_press",
+      "breaking_swipe",
+      "steel_beam",
+      "steel_roller",
+      "meteor_beam",
+      "lash_out",
+      "hard_press",
+      "dragon_cheer"
+    ],
+    "biomeIds": [
+      "construction_site"
+    ]
+  }
+]

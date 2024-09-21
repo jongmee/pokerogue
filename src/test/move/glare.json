@@ -1,0 +1,36 @@
+[
+  {
+    "_id": "glare",
+    "name": "Glare",
+    "koName": "뱀눈초리",
+    "type": "normal",
+    "moveCategory": "status",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": 100,
+    "powerPoint": 30,
+    "effect": "배의 무늬로 겁을 주어 상대를 마비 상태로 만든다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 1,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "ekans",
+      "arbok",
+      "dunsparce",
+      "gligar",
+      "seviper",
+      "bronzor",
+      "bronzong",
+      "gliscor",
+      "espurr",
+      "meowstic",
+      "zygarde",
+      "drampa",
+      "silicobra",
+      "sandaconda",
+      "dudunsparce"
+    ]
+  }
+]

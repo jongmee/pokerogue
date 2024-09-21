@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "armor_cannon",
+    "name": "Armor Cannon",
+    "koName": "아머캐논",
+    "type": "fire",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 120,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "자신의 갑옷을 활활 타오르는 탄환으로 발사해서 공격한다. 자신의 방어와 특수방어가 떨어진다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 9,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "magmar",
+      "magby",
+      "magmortar",
+      "clauncher",
+      "clawitzer",
+      "armarouge"
+    ]
+  }
+]

@@ -1,0 +1,207 @@
+[
+  {
+    "_id": "hariyama",
+    "gender": "",
+    "pokedexNumber": "297",
+    "name": "hariyama",
+    "koName": "하리뭉",
+    "speciesName": "hariyama",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "166",
+    "friendship": "70",
+    "types": [
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "thick_fat",
+      "guts"
+    ],
+    "hiddenAbilityId": "sheer_force",
+    "passiveAbilityId": "stamina",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 474,
+    "hp": 144,
+    "attack": 120,
+    "defense": 60,
+    "specialAttack": 40,
+    "specialDefense": 60,
+    "speed": 50,
+    "height": 2.3,
+    "weight": 253.8,
+    "eggMoveIds": [
+      "combat_torque",
+      "slack_off",
+      "heat_crash",
+      "double_iron_bash"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "brine"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 1,
+        "moveId": "arm_thrust"
+      },
+      {
+        "level": 10,
+        "moveId": "fake_out"
+      },
+      {
+        "level": 13,
+        "moveId": "force_palm"
+      },
+      {
+        "level": 16,
+        "moveId": "whirlwind"
+      },
+      {
+        "level": 19,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 22,
+        "moveId": "bulk_up"
+      },
+      {
+        "level": 26,
+        "moveId": "belly_drum"
+      },
+      {
+        "level": 30,
+        "moveId": "detect"
+      },
+      {
+        "level": 34,
+        "moveId": "seismic_toss"
+      },
+      {
+        "level": 38,
+        "moveId": "focus_punch"
+      },
+      {
+        "level": 42,
+        "moveId": "endure"
+      },
+      {
+        "level": 46,
+        "moveId": "close_combat"
+      },
+      {
+        "level": 50,
+        "moveId": "reversal"
+      },
+      {
+        "level": 54,
+        "moveId": "heavy_slam"
+      },
+      {
+        "level": 60,
+        "moveId": "headlong_rush"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "surf",
+      "hyper_beam",
+      "low_kick",
+      "counter",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "double_team",
+      "focus_energy",
+      "metronome",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "reversal",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "rock_smash",
+      "whirlpool",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "superpower",
+      "revenge",
+      "brick_break",
+      "knock_off",
+      "rock_tomb",
+      "bulk_up",
+      "mud_shot",
+      "brine",
+      "close_combat",
+      "payback",
+      "fling",
+      "poison_jab",
+      "drain_punch",
+      "vacuum_wave",
+      "focus_blast",
+      "giga_impact",
+      "zen_headbutt",
+      "rock_climb",
+      "iron_head",
+      "stone_edge",
+      "smack_down",
+      "heavy_slam",
+      "low_sweep",
+      "round",
+      "retaliate",
+      "bulldoze",
+      "work_up",
+      "confide",
+      "power_up_punch",
+      "throat_chop",
+      "stomping_tantrum",
+      "body_press",
+      "lash_out",
+      "coaching",
+      "tera_blast",
+      "chilling_water",
+      "upper_hand"
+    ],
+    "biomeIds": [
+      "cave",
+      "dojo"
+    ]
+  }
+]

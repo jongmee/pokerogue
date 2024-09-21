@@ -1,0 +1,207 @@
+[
+  {
+    "_id": "vibrava",
+    "gender": "",
+    "pokedexNumber": "329",
+    "name": "vibrava",
+    "koName": "비브라바",
+    "speciesName": "vibrava",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "119",
+    "friendship": "50",
+    "types": [
+      "ground",
+      "dragon"
+    ],
+    "normalAbilityIds": [
+      "levitate"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "adaptability",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 340,
+    "hp": 50,
+    "attack": 70,
+    "defense": 50,
+    "specialAttack": 50,
+    "specialDefense": 50,
+    "speed": 70,
+    "height": 1.1,
+    "weight": 15.3,
+    "eggMoveIds": [
+      "fire_lash",
+      "dragon_darts",
+      "thousand_arrows",
+      "dragon_energy"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "dragon_breath"
+      },
+      {
+        "level": -1,
+        "moveId": "supersonic"
+      },
+      {
+        "level": -1,
+        "moveId": "fissure"
+      },
+      {
+        "level": -1,
+        "moveId": "crunch"
+      },
+      {
+        "level": -1,
+        "moveId": "superpower"
+      },
+      {
+        "level": -1,
+        "moveId": "astonish"
+      },
+      {
+        "level": -1,
+        "moveId": "bulldoze"
+      },
+      {
+        "level": 1,
+        "moveId": "dig"
+      },
+      {
+        "level": 1,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "bite"
+      },
+      {
+        "level": 1,
+        "moveId": "bide"
+      },
+      {
+        "level": 1,
+        "moveId": "feint_attack"
+      },
+      {
+        "level": 12,
+        "moveId": "mud_slap"
+      },
+      {
+        "level": 16,
+        "moveId": "sand_tomb"
+      },
+      {
+        "level": 20,
+        "moveId": "dragon_tail"
+      },
+      {
+        "level": 24,
+        "moveId": "screech"
+      },
+      {
+        "level": 28,
+        "moveId": "bug_buzz"
+      },
+      {
+        "level": 32,
+        "moveId": "sandstorm"
+      },
+      {
+        "level": 38,
+        "moveId": "earth_power"
+      },
+      {
+        "level": 44,
+        "moveId": "earthquake"
+      },
+      {
+        "level": 50,
+        "moveId": "uproar"
+      },
+      {
+        "level": 56,
+        "moveId": "dragon_rush"
+      },
+      {
+        "level": 62,
+        "moveId": "boomburst"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fly",
+      "body_slam",
+      "hyper_beam",
+      "strength",
+      "solar_beam",
+      "earthquake",
+      "dig",
+      "toxic",
+      "screech",
+      "double_team",
+      "focus_energy",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "mud_slap",
+      "outrage",
+      "sandstorm",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "sunny_day",
+      "crunch",
+      "rock_smash",
+      "uproar",
+      "heat_wave",
+      "facade",
+      "superpower",
+      "air_cutter",
+      "rock_tomb",
+      "signal_beam",
+      "sand_tomb",
+      "mud_shot",
+      "roost",
+      "tailwind",
+      "u_turn",
+      "air_slash",
+      "bug_buzz",
+      "dragon_pulse",
+      "earth_power",
+      "defog",
+      "draco_meteor",
+      "stone_edge",
+      "stealth_rock",
+      "bug_bite",
+      "round",
+      "struggle_bug",
+      "bulldoze",
+      "dragon_tail",
+      "confide",
+      "throat_chop",
+      "dual_wingbeat",
+      "scorching_sands",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "desert",
+      "wasteland"
+    ]
+  }
+]

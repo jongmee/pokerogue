@@ -1,0 +1,154 @@
+[
+  {
+    "_id": "pidgey",
+    "gender": "",
+    "pokedexNumber": "16",
+    "name": "pidgey",
+    "koName": "구구",
+    "speciesName": "pidgey",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "50",
+    "friendship": "70",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "keen_eye",
+      "tangled_feet"
+    ],
+    "hiddenAbilityId": "big_pecks",
+    "passiveAbilityId": "flare_boost",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 251,
+    "hp": 40,
+    "attack": 45,
+    "defense": 40,
+    "specialAttack": 35,
+    "specialDefense": 35,
+    "speed": 56,
+    "height": 0.3,
+    "weight": 1.8,
+    "eggMoveIds": [
+      "wildbolt_storm",
+      "sandsear_storm",
+      "calm_mind",
+      "boomburst"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 5,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 9,
+        "moveId": "gust"
+      },
+      {
+        "level": 13,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 17,
+        "moveId": "whirlwind"
+      },
+      {
+        "level": 21,
+        "moveId": "twister"
+      },
+      {
+        "level": 25,
+        "moveId": "feather_dance"
+      },
+      {
+        "level": 29,
+        "moveId": "agility"
+      },
+      {
+        "level": 33,
+        "moveId": "wing_attack"
+      },
+      {
+        "level": 37,
+        "moveId": "roost"
+      },
+      {
+        "level": 41,
+        "moveId": "tailwind"
+      },
+      {
+        "level": 45,
+        "moveId": "aerial_ace"
+      },
+      {
+        "level": 49,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 53,
+        "moveId": "hurricane"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fly",
+      "take_down",
+      "double_edge",
+      "toxic",
+      "agility",
+      "double_team",
+      "reflect",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "endure",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "uproar",
+      "heat_wave",
+      "facade",
+      "feather_dance",
+      "air_cutter",
+      "aerial_ace",
+      "roost",
+      "pluck",
+      "tailwind",
+      "u_turn",
+      "air_slash",
+      "brave_bird",
+      "defog",
+      "round",
+      "work_up",
+      "hurricane",
+      "confide",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "town",
+      "plains",
+      "mountain"
+    ]
+  }
+]

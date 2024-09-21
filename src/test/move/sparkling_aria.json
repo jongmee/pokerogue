@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "sparkling_aria",
+    "name": "Sparkling Aria",
+    "koName": "물거품아리아",
+    "type": "water",
+    "moveCategory": "special",
+    "moveTarget": "all_near_others",
+    "power": 90,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "노래 부르는 것으로 많은 벌룬을 방출한다. 기술에 맞으면 화상이 낫는다.",
+    "effectChance": 100,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": "",
+    "flags": [
+      "sound_based"
+    ],
+    "pokemonIds": [
+      "whismur",
+      "loudred",
+      "exploud",
+      "chatot",
+      "petilil",
+      "lilligant",
+      "primarina",
+      "toxel",
+      "toxtricity",
+      "toxtricity_lowkey",
+      "toxtricity_gigantamax",
+      "hisui_lilligant"
+    ]
+  }
+]

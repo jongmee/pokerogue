@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "blazing_torque",
+    "name": "Blazing Torque",
+    "koName": "번액셀",
+    "type": "fire",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 80,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "타오르는 엔진으로 상대에게 부릉거린다. 화상 상태로 만들 때가 있다.",
+    "effectChance": 30,
+    "prioirty": 0,
+    "generation": 9,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "electabuzz",
+      "tauros",
+      "dunsparce",
+      "elekid",
+      "electivire",
+      "dreepy",
+      "drakloak",
+      "dragapult",
+      "varoom",
+      "revavroom",
+      "cyclizar",
+      "dudunsparce",
+      "paldea_tauros"
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "berserk",
+    "name": "Berserk",
+    "koName": "발끈",
+    "realased": "",
+    "description": "상대의 공격으로 HP가 절반이 되면 특수공격이 올라간다.",
+    "generation": 7,
+    "pokemonIds": [
+      "drampa",
+      "chi_yu",
+      "galar_moltres",
+      "bloodmoon_ursaluna"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "illusion",
+    "name": "Illusion",
+    "koName": "일루전",
+    "realased": " (N)",
+    "description": "지닌 포켓몬 중 제일 뒤에 있는 포켓몬으로 둔갑하여 나와서 상대를 속인다.",
+    "generation": 5,
+    "pokemonIds": [
+      "zorua",
+      "zoroark",
+      "hisui_zorua",
+      "hisui_zoroark"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

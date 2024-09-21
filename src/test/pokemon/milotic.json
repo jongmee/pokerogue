@@ -1,0 +1,198 @@
+[
+  {
+    "_id": "milotic",
+    "gender": "",
+    "pokedexNumber": "350",
+    "name": "milotic",
+    "koName": "밀로틱",
+    "speciesName": "milotic",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "189",
+    "friendship": "50",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "marvel_scale",
+      "competitive"
+    ],
+    "hiddenAbilityId": "cute_charm",
+    "passiveAbilityId": "magic_guard",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 540,
+    "hp": 95,
+    "attack": 60,
+    "defense": 79,
+    "specialAttack": 100,
+    "specialDefense": 125,
+    "speed": 81,
+    "height": 6.2,
+    "weight": 162,
+    "eggMoveIds": [
+      "calm_mind",
+      "freeze_dry",
+      "moonblast",
+      "steam_eruption"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 1,
+        "moveId": "flail"
+      },
+      {
+        "level": 1,
+        "moveId": "splash"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "wrap"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "water_sport"
+      },
+      {
+        "level": 4,
+        "moveId": "disarming_voice"
+      },
+      {
+        "level": 8,
+        "moveId": "twister"
+      },
+      {
+        "level": 12,
+        "moveId": "aqua_ring"
+      },
+      {
+        "level": 16,
+        "moveId": "attract"
+      },
+      {
+        "level": 20,
+        "moveId": "life_dew"
+      },
+      {
+        "level": 24,
+        "moveId": "dragon_tail"
+      },
+      {
+        "level": 28,
+        "moveId": "recover"
+      },
+      {
+        "level": 32,
+        "moveId": "aqua_tail"
+      },
+      {
+        "level": 36,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 40,
+        "moveId": "surf"
+      },
+      {
+        "level": 44,
+        "moveId": "rain_dance"
+      },
+      {
+        "level": 48,
+        "moveId": "coil"
+      },
+      {
+        "level": 52,
+        "moveId": "hydro_pump"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "toxic",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "haze",
+      "waterfall",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "psych_up",
+      "whirlpool",
+      "hail",
+      "facade",
+      "helping_hand",
+      "imprison",
+      "dive",
+      "weather_ball",
+      "muddy_water",
+      "mud_shot",
+      "dragon_dance",
+      "water_pulse",
+      "brine",
+      "aqua_tail",
+      "dragon_pulse",
+      "giga_impact",
+      "avalanche",
+      "iron_head",
+      "round",
+      "scald",
+      "bulldoze",
+      "dragon_tail",
+      "disarming_voice",
+      "draining_kiss",
+      "confide",
+      "brutal_swing",
+      "breaking_swipe",
+      "scale_shot",
+      "skitter_smack",
+      "flip_turn",
+      "triple_axel",
+      "tera_blast",
+      "chilling_water",
+      "dragon_cheer",
+      "alluring_voice"
+    ],
+    "biomeIds": [
+      "seabed"
+    ]
+  }
+]

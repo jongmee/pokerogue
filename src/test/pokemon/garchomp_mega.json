@@ -1,0 +1,108 @@
+[
+  {
+    "_id": "garchomp_mega",
+    "gender": "",
+    "pokedexNumber": "445",
+    "name": "garchomp_mega",
+    "koName": "한카리아스_mega",
+    "speciesName": "garchomp",
+    "canChangeForm": true,
+    "formName": "mega",
+    "baseExp": "300",
+    "friendship": "50",
+    "types": [
+      "dragon",
+      "ground"
+    ],
+    "normalAbilityIds": [
+      "sand_force"
+    ],
+    "hiddenAbilityId": "sand_force",
+    "passiveAbilityId": "sand_stream",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 700,
+    "hp": 108,
+    "attack": 170,
+    "defense": 115,
+    "specialAttack": 120,
+    "specialDefense": 95,
+    "speed": 92,
+    "height": 1.9,
+    "weight": 95,
+    "eggMoveIds": [
+      "dragon_dance",
+      "bitter_blade",
+      "shore_up",
+      "thousand_arrows"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "crunch"
+      },
+      {
+        "level": 1,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "dragon_breath"
+      },
+      {
+        "level": 1,
+        "moveId": "sand_tomb"
+      },
+      {
+        "level": 1,
+        "moveId": "dual_chop"
+      },
+      {
+        "level": 18,
+        "moveId": "bulldoze"
+      },
+      {
+        "level": 27,
+        "moveId": "bite"
+      },
+      {
+        "level": 34,
+        "moveId": "slash"
+      },
+      {
+        "level": 42,
+        "moveId": "dragon_claw"
+      },
+      {
+        "level": 52,
+        "moveId": "dig"
+      },
+      {
+        "level": 62,
+        "moveId": "sandstorm"
+      },
+      {
+        "level": 72,
+        "moveId": "take_down"
+      },
+      {
+        "level": 82,
+        "moveId": "dragon_rush"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "mountain",
+      "wasteland"
+    ]
+  }
+]

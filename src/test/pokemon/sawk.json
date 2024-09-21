@@ -1,0 +1,168 @@
+[
+  {
+    "_id": "sawk",
+    "gender": "",
+    "pokedexNumber": "539",
+    "name": "sawk",
+    "koName": "타격귀",
+    "speciesName": "sawk",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "163",
+    "friendship": "50",
+    "types": [
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "sturdy",
+      "inner_focus"
+    ],
+    "hiddenAbilityId": "mold_breaker",
+    "passiveAbilityId": "scrappy",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 465,
+    "hp": 75,
+    "attack": 125,
+    "defense": 75,
+    "specialAttack": 30,
+    "specialDefense": 75,
+    "speed": 85,
+    "height": 1.4,
+    "weight": 51,
+    "eggMoveIds": [
+      "drain_punch",
+      "sucker_punch",
+      "meteor_mash",
+      "victory_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "rock_smash"
+      },
+      {
+        "level": 1,
+        "moveId": "bide"
+      },
+      {
+        "level": 5,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 10,
+        "moveId": "double_kick"
+      },
+      {
+        "level": 15,
+        "moveId": "quick_guard"
+      },
+      {
+        "level": 20,
+        "moveId": "low_sweep"
+      },
+      {
+        "level": 25,
+        "moveId": "bulk_up"
+      },
+      {
+        "level": 30,
+        "moveId": "retaliate"
+      },
+      {
+        "level": 35,
+        "moveId": "brick_break"
+      },
+      {
+        "level": 40,
+        "moveId": "counter"
+      },
+      {
+        "level": 45,
+        "moveId": "endure"
+      },
+      {
+        "level": 50,
+        "moveId": "reversal"
+      },
+      {
+        "level": 55,
+        "moveId": "close_combat"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "mega_kick",
+      "low_kick",
+      "counter",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "double_team",
+      "focus_energy",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "reversal",
+      "protect",
+      "scary_face",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "rock_smash",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "superpower",
+      "revenge",
+      "brick_break",
+      "knock_off",
+      "rock_tomb",
+      "bulk_up",
+      "close_combat",
+      "payback",
+      "fling",
+      "poison_jab",
+      "focus_blast",
+      "giga_impact",
+      "zen_headbutt",
+      "stone_edge",
+      "grass_knot",
+      "low_sweep",
+      "round",
+      "retaliate",
+      "bulldoze",
+      "work_up",
+      "confide",
+      "power_up_punch",
+      "throat_chop",
+      "coaching",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "dojo"
+    ]
+  }
+]

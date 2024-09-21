@@ -1,0 +1,204 @@
+[
+  {
+    "_id": "girafarig",
+    "gender": "",
+    "pokedexNumber": "203",
+    "name": "girafarig",
+    "koName": "키링키",
+    "speciesName": "girafarig",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "159",
+    "friendship": "70",
+    "types": [
+      "normal",
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "inner_focus",
+      "early_bird"
+    ],
+    "hiddenAbilityId": "sap_sipper",
+    "passiveAbilityId": "parental_bond",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 455,
+    "hp": 70,
+    "attack": 80,
+    "defense": 65,
+    "specialAttack": 90,
+    "specialDefense": 65,
+    "speed": 85,
+    "height": 1.5,
+    "weight": 41.5,
+    "eggMoveIds": [
+      "mystical_power",
+      "night_daze",
+      "recover",
+      "boomburst"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 1,
+        "moveId": "power_swap"
+      },
+      {
+        "level": 1,
+        "moveId": "guard_swap"
+      },
+      {
+        "level": 5,
+        "moveId": "confusion"
+      },
+      {
+        "level": 10,
+        "moveId": "assurance"
+      },
+      {
+        "level": 14,
+        "moveId": "stomp"
+      },
+      {
+        "level": 19,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 23,
+        "moveId": "agility"
+      },
+      {
+        "level": 28,
+        "moveId": "double_hit"
+      },
+      {
+        "level": 32,
+        "moveId": "twin_beam"
+      },
+      {
+        "level": 37,
+        "moveId": "crunch"
+      },
+      {
+        "level": 41,
+        "moveId": "baton_pass"
+      },
+      {
+        "level": 46,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 50,
+        "moveId": "psychic"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "psybeam",
+      "hyper_beam",
+      "low_kick",
+      "strength",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "earthquake",
+      "toxic",
+      "psychic",
+      "agility",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "swift",
+      "amnesia",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "rock_smash",
+      "beat_up",
+      "uproar",
+      "facade",
+      "helping_hand",
+      "trick",
+      "recycle",
+      "endeavor",
+      "skill_swap",
+      "imprison",
+      "hyper_voice",
+      "signal_beam",
+      "calm_mind",
+      "gravity",
+      "assurance",
+      "power_swap",
+      "guard_swap",
+      "energy_ball",
+      "giga_impact",
+      "nasty_plot",
+      "zen_headbutt",
+      "trick_room",
+      "grass_knot",
+      "charge_beam",
+      "psyshock",
+      "foul_play",
+      "round",
+      "echoed_voice",
+      "stored_power",
+      "ally_switch",
+      "retaliate",
+      "bulldoze",
+      "work_up",
+      "confide",
+      "dazzling_gleam",
+      "high_horsepower",
+      "psychic_terrain",
+      "psychic_fangs",
+      "stomping_tantrum",
+      "expanding_force",
+      "tera_blast",
+      "trailblaze",
+      "psychic_noise"
+    ],
+    "biomeIds": [
+      "tall_grass"
+    ]
+  }
+]

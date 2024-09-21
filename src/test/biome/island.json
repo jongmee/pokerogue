@@ -1,0 +1,107 @@
+[
+  {
+    "_id": "island",
+    "name": "Island",
+    "koName": "섬",
+    "types": [
+      "water",
+      "grass"
+    ],
+    "nextBiomes": [
+      {
+        "name": "sea",
+        "percentage": 100
+      }
+    ],
+    "nativePokemons": [
+      {
+        "tier": "보통",
+        "pokemonIds": [
+          "alola_rattata",
+          "alola_raticate",
+          "alola_meowth",
+          "alola_persian",
+          "oricorio",
+          "alola_sandshrew",
+          "alola_sandslash",
+          "alola_vulpix",
+          "alola_ninetales",
+          "alola_diglett",
+          "alola_dugtrio",
+          "alola_geodude",
+          "alola_graveler",
+          "alola_golem",
+          "alola_grimer",
+          "alola_muk"
+        ]
+      },
+      {
+        "tier": "드묾",
+        "pokemonIds": [
+          "alola_raichu",
+          "alola_exeggutor",
+          "alola_marowak",
+          "bruxish"
+        ]
+      },
+      {
+        "tier": "레어",
+        "pokemonIds": []
+      },
+      {
+        "tier": "슈퍼 레어",
+        "pokemonIds": []
+      },
+      {
+        "tier": "울트라 레어",
+        "pokemonIds": [
+          "blacephalon"
+        ]
+      },
+      {
+        "tier": "보스",
+        "pokemonIds": [
+          "alola_raichu",
+          "alola_exeggutor",
+          "alola_raticate",
+          "alola_persian",
+          "alola_marowak",
+          "oricorio",
+          "bruxish",
+          "alola_sandslash",
+          "alola_ninetales",
+          "alola_dugtrio",
+          "alola_golem",
+          "alola_muk"
+        ]
+      },
+      {
+        "tier": "레어 보스",
+        "pokemonIds": []
+      },
+      {
+        "tier": "슈퍼 레어 보스",
+        "pokemonIds": [
+          "blacephalon"
+        ]
+      },
+      {
+        "tier": "슈퍼 울트라 레어 보스",
+        "pokemonIds": []
+      }
+    ],
+    "trainers": [
+      {
+        "name": "야청",
+        "types": [
+          "water"
+        ],
+        "pokemonIds": [
+          "chewtle",
+          "arrokuda",
+          "wimpod"
+        ]
+      }
+    ]
+  }
+]

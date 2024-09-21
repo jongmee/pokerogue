@@ -1,0 +1,196 @@
+[
+  {
+    "_id": "whimsicott",
+    "gender": "",
+    "pokedexNumber": "547",
+    "name": "whimsicott",
+    "koName": "엘풍",
+    "speciesName": "whimsicott",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "168",
+    "friendship": "50",
+    "types": [
+      "grass",
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "prankster",
+      "infiltrator"
+    ],
+    "hiddenAbilityId": "chlorophyll",
+    "passiveAbilityId": "fluffy",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 480,
+    "hp": 60,
+    "attack": 67,
+    "defense": 85,
+    "specialAttack": 77,
+    "specialDefense": 75,
+    "speed": 116,
+    "height": 0.7,
+    "weight": 6.6,
+    "eggMoveIds": [
+      "pollen_puff",
+      "parting_shot",
+      "sleep_powder",
+      "seed_flare"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "gust"
+      },
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 1,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 1,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 1,
+        "moveId": "growth"
+      },
+      {
+        "level": 1,
+        "moveId": "razor_leaf"
+      },
+      {
+        "level": 1,
+        "moveId": "solar_beam"
+      },
+      {
+        "level": 1,
+        "moveId": "poison_powder"
+      },
+      {
+        "level": 1,
+        "moveId": "stun_spore"
+      },
+      {
+        "level": 1,
+        "moveId": "cotton_spore"
+      },
+      {
+        "level": 1,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 1,
+        "moveId": "charm"
+      },
+      {
+        "level": 1,
+        "moveId": "sunny_day"
+      },
+      {
+        "level": 1,
+        "moveId": "memento"
+      },
+      {
+        "level": 1,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 1,
+        "moveId": "endeavor"
+      },
+      {
+        "level": 1,
+        "moveId": "tailwind"
+      },
+      {
+        "level": 1,
+        "moveId": "energy_ball"
+      },
+      {
+        "level": 1,
+        "moveId": "cotton_guard"
+      },
+      {
+        "level": 1,
+        "moveId": "hurricane"
+      },
+      {
+        "level": 1,
+        "moveId": "fairy_wind"
+      },
+      {
+        "level": 1,
+        "moveId": "moonblast"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "hyper_beam",
+      "solar_beam",
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "swift",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "giga_drain",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "encore",
+      "hidden_power",
+      "sunny_day",
+      "shadow_ball",
+      "beat_up",
+      "facade",
+      "nature_power",
+      "taunt",
+      "helping_hand",
+      "knock_off",
+      "endeavor",
+      "fake_tears",
+      "covet",
+      "tailwind",
+      "u_turn",
+      "fling",
+      "worry_seed",
+      "seed_bomb",
+      "energy_ball",
+      "giga_impact",
+      "defog",
+      "trick_room",
+      "grass_knot",
+      "round",
+      "hurricane",
+      "grassy_terrain",
+      "misty_terrain",
+      "play_rough",
+      "confide",
+      "dazzling_gleam",
+      "grassy_glide",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "grass"
+    ]
+  }
+]

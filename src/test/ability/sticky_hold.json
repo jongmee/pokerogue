@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "sticky_hold",
+    "name": "Sticky Hold",
+    "koName": "점착",
+    "realased": "",
+    "description": "점착질의 몸에 도구가 달라붙어 있어 상대에게 도구를 뺏기지 않는다.",
+    "generation": 3,
+    "pokemonIds": [
+      "grimer",
+      "muk",
+      "gulpin",
+      "swalot",
+      "trubbish",
+      "accelgor",
+      "dipplin",
+      "hydrapple"
+    ],
+    "isBypassFaint": true,
+    "isIgnorable": true
+  }
+]

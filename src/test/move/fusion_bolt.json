@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "fusion_bolt",
+    "name": "Fusion Bolt",
+    "koName": "크로스썬더",
+    "type": "electric",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 100,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "거대한 천둥을 내리친다. 거대한 불꽃의 영향을 받아 기술의 위력이 올라간다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 5,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "klink",
+      "klang",
+      "klinklang",
+      "zekrom",
+      "kyurem_black",
+      "iron_treads"
+    ]
+  }
+]

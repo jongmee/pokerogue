@@ -1,0 +1,221 @@
+[
+  {
+    "_id": "jolteon",
+    "gender": "",
+    "pokedexNumber": "135",
+    "name": "jolteon",
+    "koName": "쥬피썬더",
+    "speciesName": "jolteon",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "184",
+    "friendship": "50",
+    "types": [
+      "electric"
+    ],
+    "normalAbilityIds": [
+      "volt_absorb"
+    ],
+    "hiddenAbilityId": "quick_feet",
+    "passiveAbilityId": "pickup",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 525,
+    "hp": 65,
+    "attack": 65,
+    "defense": 60,
+    "specialAttack": 110,
+    "specialDefense": 95,
+    "speed": 130,
+    "height": 0.8,
+    "weight": 24.5,
+    "eggMoveIds": [
+      "wish",
+      "no_retreat",
+      "zippy_zap",
+      "boomburst"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "buzzy_buzz"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "take_down"
+      },
+      {
+        "level": 1,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "bite"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "swift"
+      },
+      {
+        "level": 1,
+        "moveId": "charm"
+      },
+      {
+        "level": 1,
+        "moveId": "baton_pass"
+      },
+      {
+        "level": 1,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 1,
+        "moveId": "covet"
+      },
+      {
+        "level": 1,
+        "moveId": "copycat"
+      },
+      {
+        "level": 5,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 10,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 15,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 20,
+        "moveId": "baby_doll_eyes"
+      },
+      {
+        "level": 25,
+        "moveId": "thunder_wave"
+      },
+      {
+        "level": 30,
+        "moveId": "double_kick"
+      },
+      {
+        "level": 35,
+        "moveId": "thunder_fang"
+      },
+      {
+        "level": 40,
+        "moveId": "pin_missile"
+      },
+      {
+        "level": 45,
+        "moveId": "discharge"
+      },
+      {
+        "level": 50,
+        "moveId": "agility"
+      },
+      {
+        "level": 55,
+        "moveId": "thunder"
+      },
+      {
+        "level": 60,
+        "moveId": "last_resort"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "pay_day",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "pin_missile",
+      "roar",
+      "hyper_beam",
+      "strength",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "dig",
+      "toxic",
+      "agility",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "focus_energy",
+      "swift",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "endure",
+      "charm",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "baton_pass",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "shadow_ball",
+      "rock_smash",
+      "facade",
+      "charge",
+      "helping_hand",
+      "hyper_voice",
+      "weather_ball",
+      "fake_tears",
+      "metal_sound",
+      "signal_beam",
+      "covet",
+      "calm_mind",
+      "giga_impact",
+      "thunder_fang",
+      "charge_beam",
+      "electro_ball",
+      "round",
+      "echoed_voice",
+      "stored_power",
+      "retaliate",
+      "volt_switch",
+      "work_up",
+      "wild_charge",
+      "confide",
+      "eerie_impulse",
+      "electric_terrain",
+      "rising_voltage",
+      "tera_blast",
+      "trailblaze",
+      "alluring_voice"
+    ],
+    "biomeIds": [
+      "power_plant"
+    ]
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "_id": "mismagius",
+    "gender": "",
+    "pokedexNumber": "429",
+    "name": "mismagius",
+    "koName": "무우마직",
+    "speciesName": "mismagius",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "173",
+    "friendship": "35",
+    "types": [
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "levitate"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "beads_of_ruin",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 495,
+    "hp": 60,
+    "attack": 60,
+    "defense": 60,
+    "specialAttack": 105,
+    "specialDefense": 105,
+    "speed": 105,
+    "height": 0.9,
+    "weight": 4.4,
+    "eggMoveIds": [
+      "take_heart",
+      "moonblast",
+      "aura_sphere",
+      "astral_barrage"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "spite"
+      },
+      {
+        "level": 1,
+        "moveId": "psywave"
+      },
+      {
+        "level": 1,
+        "moveId": "lucky_chant"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 1,
+        "moveId": "magical_leaf"
+      },
+      {
+        "level": 1,
+        "moveId": "power_gem"
+      },
+      {
+        "level": 1,
+        "moveId": "phantom_force"
+      },
+      {
+        "level": 1,
+        "moveId": "mystical_fire"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "psybeam",
+      "hyper_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "psychic",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "swift",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "scary_face",
+      "icy_wind",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "pain_split",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "uproar",
+      "torment",
+      "will_o_wisp",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "trick",
+      "skill_swap",
+      "imprison",
+      "hyper_voice",
+      "fake_tears",
+      "aerial_ace",
+      "magical_leaf",
+      "calm_mind",
+      "payback",
+      "embargo",
+      "dark_pulse",
+      "power_gem",
+      "energy_ball",
+      "giga_impact",
+      "nasty_plot",
+      "trick_room",
+      "grass_knot",
+      "charge_beam",
+      "wonder_room",
+      "psyshock",
+      "magic_room",
+      "foul_play",
+      "round",
+      "echoed_voice",
+      "stored_power",
+      "ally_switch",
+      "hex",
+      "phantom_force",
+      "draining_kiss",
+      "confide",
+      "mystical_fire",
+      "dazzling_gleam",
+      "burning_jealousy",
+      "lash_out",
+      "poltergeist",
+      "tera_blast",
+      "snowscape",
+      "psychic_noise"
+    ],
+    "biomeIds": [
+      "graveyard"
+    ]
+  }
+]

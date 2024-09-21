@@ -1,0 +1,169 @@
+[
+  {
+    "_id": "vullaby",
+    "gender": "",
+    "pokedexNumber": "629",
+    "name": "vullaby",
+    "koName": "벌차이",
+    "speciesName": "vullaby",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "74",
+    "friendship": "35",
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "big_pecks",
+      "overcoat"
+    ],
+    "hiddenAbilityId": "weak_armor",
+    "passiveAbilityId": "thick_fat",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 370,
+    "hp": 70,
+    "attack": 55,
+    "defense": 75,
+    "specialAttack": 45,
+    "specialDefense": 65,
+    "speed": 60,
+    "height": 0.5,
+    "weight": 9,
+    "eggMoveIds": [
+      "foul_play",
+      "body_press",
+      "roost",
+      "ruination"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "gust"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 6,
+        "moveId": "flatter"
+      },
+      {
+        "level": 12,
+        "moveId": "pluck"
+      },
+      {
+        "level": 18,
+        "moveId": "tailwind"
+      },
+      {
+        "level": 24,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 30,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 36,
+        "moveId": "whirlwind"
+      },
+      {
+        "level": 42,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 48,
+        "moveId": "dark_pulse"
+      },
+      {
+        "level": 54,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 60,
+        "moveId": "defog"
+      },
+      {
+        "level": 66,
+        "moveId": "attract"
+      },
+      {
+        "level": 72,
+        "moveId": "brave_bird"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "cut",
+      "fly",
+      "take_down",
+      "double_edge",
+      "toxic",
+      "double_team",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "spite",
+      "protect",
+      "scary_face",
+      "endure",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "rock_smash",
+      "uproar",
+      "heat_wave",
+      "torment",
+      "facade",
+      "taunt",
+      "knock_off",
+      "feather_dance",
+      "fake_tears",
+      "air_cutter",
+      "rock_tomb",
+      "aerial_ace",
+      "iron_defense",
+      "roost",
+      "pluck",
+      "tailwind",
+      "u_turn",
+      "payback",
+      "assurance",
+      "embargo",
+      "dark_pulse",
+      "air_slash",
+      "brave_bird",
+      "nasty_plot",
+      "defog",
+      "foul_play",
+      "round",
+      "incinerate",
+      "retaliate",
+      "snarl",
+      "confide",
+      "lash_out",
+      "dual_wingbeat",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "mountain"
+    ]
+  }
+]

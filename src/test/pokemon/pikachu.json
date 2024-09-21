@@ -1,0 +1,215 @@
+[
+  {
+    "_id": "pikachu",
+    "gender": "",
+    "pokedexNumber": "25",
+    "name": "pikachu",
+    "koName": "피카츄",
+    "speciesName": "pikachu",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "112",
+    "friendship": "50",
+    "types": [
+      "electric"
+    ],
+    "normalAbilityIds": [
+      "static"
+    ],
+    "hiddenAbilityId": "lightning_rod",
+    "passiveAbilityId": "electric_surge",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 320,
+    "hp": 35,
+    "attack": 55,
+    "defense": 40,
+    "specialAttack": 50,
+    "specialDefense": 50,
+    "speed": 90,
+    "height": 0.4,
+    "weight": 6,
+    "eggMoveIds": [
+      "rising_voltage",
+      "splishy_splash",
+      "floaty_fall",
+      "thunderclap"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "sweet_kiss"
+      },
+      {
+        "level": 1,
+        "moveId": "charm"
+      },
+      {
+        "level": 1,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 1,
+        "moveId": "play_nice"
+      },
+      {
+        "level": 1,
+        "moveId": "nuzzle"
+      },
+      {
+        "level": 4,
+        "moveId": "thunder_wave"
+      },
+      {
+        "level": 8,
+        "moveId": "double_team"
+      },
+      {
+        "level": 12,
+        "moveId": "electro_ball"
+      },
+      {
+        "level": 16,
+        "moveId": "feint"
+      },
+      {
+        "level": 20,
+        "moveId": "spark"
+      },
+      {
+        "level": 24,
+        "moveId": "agility"
+      },
+      {
+        "level": 28,
+        "moveId": "iron_tail"
+      },
+      {
+        "level": 32,
+        "moveId": "discharge"
+      },
+      {
+        "level": 36,
+        "moveId": "thunderbolt"
+      },
+      {
+        "level": 40,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 44,
+        "moveId": "thunder"
+      },
+      {
+        "level": 48,
+        "moveId": "pika_papow"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "pay_day",
+      "thunder_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "surf",
+      "counter",
+      "strength",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "dig",
+      "toxic",
+      "agility",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "focus_energy",
+      "swift",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "reversal",
+      "protect",
+      "mud_slap",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "rock_smash",
+      "beat_up",
+      "uproar",
+      "facade",
+      "focus_punch",
+      "charge",
+      "helping_hand",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "fake_tears",
+      "signal_beam",
+      "mud_shot",
+      "poison_tail",
+      "covet",
+      "calm_mind",
+      "fling",
+      "nasty_plot",
+      "grass_knot",
+      "charge_beam",
+      "electro_ball",
+      "round",
+      "echoed_voice",
+      "volt_switch",
+      "electroweb",
+      "wild_charge",
+      "disarming_voice",
+      "draining_kiss",
+      "play_rough",
+      "confide",
+      "eerie_impulse",
+      "electric_terrain",
+      "rising_voltage",
+      "tera_blast",
+      "trailblaze",
+      "alluring_voice",
+      "upper_hand"
+    ],
+    "biomeIds": [
+      "plains",
+      "metropolis",
+      "power_plant"
+    ]
+  }
+]

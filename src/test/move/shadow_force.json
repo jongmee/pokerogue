@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "shadow_force",
+    "name": "Shadow Force",
+    "koName": "섀도다이브",
+    "type": "ghost",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 120,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "1턴째에 모습을 감춰 2턴째에 상대를 공격한다. 방어하고 있어도 공격은 맞는다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 4,
+    "realased": "",
+    "flags": [
+      "makes_contact",
+      "ignore_protect",
+      "ignore_virtual"
+    ],
+    "pokemonIds": []
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "_id": "zeraora",
+    "gender": "",
+    "pokedexNumber": "807",
+    "name": "zeraora",
+    "koName": "제라오라",
+    "speciesName": "zeraora",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "300",
+    "friendship": "0",
+    "types": [
+      "electric"
+    ],
+    "normalAbilityIds": [
+      "volt_absorb"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "tough_claws",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": true,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 600,
+    "hp": 88,
+    "attack": 112,
+    "defense": 75,
+    "specialAttack": 102,
+    "specialDefense": 80,
+    "speed": 143,
+    "height": 1.5,
+    "weight": 44.5,
+    "eggMoveIds": [
+      "swords_dance",
+      "triple_axel",
+      "bolt_strike",
+      "pyro_ball"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "spark"
+      },
+      {
+        "level": 1,
+        "moveId": "fake_out"
+      },
+      {
+        "level": 1,
+        "moveId": "snarl"
+      },
+      {
+        "level": 1,
+        "moveId": "power_up_punch"
+      },
+      {
+        "level": 8,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 16,
+        "moveId": "quick_guard"
+      },
+      {
+        "level": 24,
+        "moveId": "slash"
+      },
+      {
+        "level": 32,
+        "moveId": "volt_switch"
+      },
+      {
+        "level": 40,
+        "moveId": "charge"
+      },
+      {
+        "level": 48,
+        "moveId": "thunder_punch"
+      },
+      {
+        "level": 56,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 64,
+        "moveId": "discharge"
+      },
+      {
+        "level": 72,
+        "moveId": "wild_charge"
+      },
+      {
+        "level": 80,
+        "moveId": "agility"
+      },
+      {
+        "level": 88,
+        "moveId": "plasma_fists"
+      },
+      {
+        "level": 96,
+        "moveId": "close_combat"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "pay_day",
+      "fire_punch",
+      "thunder_punch",
+      "mega_kick",
+      "hyper_beam",
+      "low_kick",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "agility",
+      "double_team",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "reversal",
+      "protect",
+      "scary_face",
+      "outrage",
+      "endure",
+      "false_swipe",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "facade",
+      "focus_punch",
+      "charge",
+      "taunt",
+      "helping_hand",
+      "superpower",
+      "revenge",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "blaze_kick",
+      "aerial_ace",
+      "bulk_up",
+      "bounce",
+      "calm_mind",
+      "close_combat",
+      "assurance",
+      "fling",
+      "aura_sphere",
+      "drain_punch",
+      "focus_blast",
+      "giga_impact",
+      "grass_knot",
+      "hone_claws",
+      "electro_ball",
+      "low_sweep",
+      "round",
+      "echoed_voice",
+      "acrobatics",
+      "volt_switch",
+      "work_up",
+      "electroweb",
+      "wild_charge",
+      "snarl",
+      "play_rough",
+      "confide",
+      "electric_terrain",
+      "power_up_punch",
+      "throat_chop",
+      "brutal_swing",
+      "rising_voltage",
+      "coaching",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "power_plant"
+    ]
+  }
+]

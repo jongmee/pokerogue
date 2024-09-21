@@ -1,0 +1,150 @@
+[
+  {
+    "_id": "quaxwell",
+    "gender": "",
+    "pokedexNumber": "913",
+    "name": "quaxwell",
+    "koName": "아꾸왁",
+    "speciesName": "quaxwell",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "144",
+    "friendship": "50",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "torrent"
+    ],
+    "hiddenAbilityId": "moxie",
+    "passiveAbilityId": "opportunist",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 410,
+    "hp": 70,
+    "attack": 85,
+    "defense": 65,
+    "specialAttack": 65,
+    "specialDefense": 60,
+    "speed": 65,
+    "height": 1.2,
+    "weight": 21.5,
+    "eggMoveIds": [
+      "dragon_dance",
+      "triple_axel",
+      "power_trip",
+      "thunderous_kick"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "double_hit"
+      },
+      {
+        "level": 7,
+        "moveId": "work_up"
+      },
+      {
+        "level": 10,
+        "moveId": "wing_attack"
+      },
+      {
+        "level": 13,
+        "moveId": "aqua_jet"
+      },
+      {
+        "level": 17,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 19,
+        "moveId": "low_sweep"
+      },
+      {
+        "level": 23,
+        "moveId": "aqua_cutter"
+      },
+      {
+        "level": 27,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 32,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 38,
+        "moveId": "acrobatics"
+      },
+      {
+        "level": 43,
+        "moveId": "liquidation"
+      },
+      {
+        "level": 48,
+        "moveId": "feather_dance"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "hydro_pump",
+      "surf",
+      "low_kick",
+      "double_team",
+      "focus_energy",
+      "swift",
+      "rest",
+      "protect",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "whirlpool",
+      "facade",
+      "helping_hand",
+      "feather_dance",
+      "air_cutter",
+      "aerial_ace",
+      "water_pulse",
+      "roost",
+      "air_slash",
+      "brave_bird",
+      "low_sweep",
+      "acrobatics",
+      "water_pledge",
+      "work_up",
+      "disarming_voice",
+      "misty_terrain",
+      "liquidation",
+      "flip_turn",
+      "triple_axel",
+      "tera_blast",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "beach"
+    ]
+  }
+]

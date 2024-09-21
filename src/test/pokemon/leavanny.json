@@ -1,0 +1,184 @@
+[
+  {
+    "_id": "leavanny",
+    "gender": "",
+    "pokedexNumber": "542",
+    "name": "leavanny",
+    "koName": "모아머",
+    "speciesName": "leavanny",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "225",
+    "friendship": "70",
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "swarm",
+      "chlorophyll"
+    ],
+    "hiddenAbilityId": "overcoat",
+    "passiveAbilityId": "sharpness",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 500,
+    "hp": 75,
+    "attack": 103,
+    "defense": 80,
+    "specialAttack": 70,
+    "specialDefense": 80,
+    "speed": 92,
+    "height": 1.2,
+    "weight": 20.5,
+    "eggMoveIds": [
+      "stone_axe",
+      "psycho_cut",
+      "bitter_blade",
+      "victory_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "slash"
+      },
+      {
+        "level": -1,
+        "moveId": "bug_bite"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "razor_leaf"
+      },
+      {
+        "level": 1,
+        "moveId": "string_shot"
+      },
+      {
+        "level": 1,
+        "moveId": "false_swipe"
+      },
+      {
+        "level": 22,
+        "moveId": "struggle_bug"
+      },
+      {
+        "level": 29,
+        "moveId": "fell_stinger"
+      },
+      {
+        "level": 32,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 36,
+        "moveId": "leaf_blade"
+      },
+      {
+        "level": 39,
+        "moveId": "x_scissor"
+      },
+      {
+        "level": 43,
+        "moveId": "entrainment"
+      },
+      {
+        "level": 46,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 50,
+        "moveId": "leaf_storm"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "take_down",
+      "hyper_beam",
+      "low_kick",
+      "solar_beam",
+      "toxic",
+      "agility",
+      "screech",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "giga_drain",
+      "endure",
+      "charm",
+      "false_swipe",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "baton_pass",
+      "synthesis",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "facade",
+      "nature_power",
+      "helping_hand",
+      "knock_off",
+      "signal_beam",
+      "bullet_seed",
+      "aerial_ace",
+      "iron_defense",
+      "magical_leaf",
+      "calm_mind",
+      "leaf_blade",
+      "payback",
+      "worry_seed",
+      "poison_jab",
+      "seed_bomb",
+      "air_slash",
+      "x_scissor",
+      "bug_buzz",
+      "energy_ball",
+      "giga_impact",
+      "shadow_claw",
+      "leaf_storm",
+      "grass_knot",
+      "bug_bite",
+      "hone_claws",
+      "round",
+      "retaliate",
+      "struggle_bug",
+      "electroweb",
+      "grassy_terrain",
+      "confide",
+      "throat_chop",
+      "pollen_puff",
+      "lunge",
+      "grassy_glide",
+      "skitter_smack",
+      "triple_axel",
+      "tera_blast",
+      "pounce",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "forest",
+      "jungle"
+    ]
+  }
+]

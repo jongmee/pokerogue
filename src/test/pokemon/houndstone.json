@@ -1,0 +1,163 @@
+[
+  {
+    "_id": "houndstone",
+    "gender": "",
+    "pokedexNumber": "972",
+    "name": "houndstone",
+    "koName": "묘두기",
+    "speciesName": "houndstone",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "171",
+    "friendship": "50",
+    "types": [
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "sand_rush"
+    ],
+    "hiddenAbilityId": "fluffy",
+    "passiveAbilityId": "fur_coat",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 488,
+    "hp": 72,
+    "attack": 101,
+    "defense": 100,
+    "specialAttack": 50,
+    "specialDefense": 97,
+    "speed": 68,
+    "height": 2,
+    "weight": 15,
+    "eggMoveIds": [
+      "shadow_bone",
+      "yawn",
+      "shore_up",
+      "collision_course"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "last_respects"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 3,
+        "moveId": "lick"
+      },
+      {
+        "level": 6,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 6,
+        "moveId": "bite"
+      },
+      {
+        "level": 9,
+        "moveId": "roar"
+      },
+      {
+        "level": 12,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 16,
+        "moveId": "dig"
+      },
+      {
+        "level": 24,
+        "moveId": "rest"
+      },
+      {
+        "level": 28,
+        "moveId": "crunch"
+      },
+      {
+        "level": 36,
+        "moveId": "play_rough"
+      },
+      {
+        "level": 41,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 46,
+        "moveId": "phantom_force"
+      },
+      {
+        "level": 51,
+        "moveId": "charm"
+      },
+      {
+        "level": 58,
+        "moveId": "double_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "double_edge",
+      "roar",
+      "hyper_beam",
+      "dig",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "rest",
+      "substitute",
+      "thief",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "sandstorm",
+      "endure",
+      "charm",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "shadow_ball",
+      "uproar",
+      "will_o_wisp",
+      "facade",
+      "helping_hand",
+      "trick",
+      "endeavor",
+      "mud_shot",
+      "giga_impact",
+      "thunder_fang",
+      "ice_fang",
+      "fire_fang",
+      "hex",
+      "bulldoze",
+      "snarl",
+      "phantom_force",
+      "play_rough",
+      "psychic_fangs",
+      "stomping_tantrum",
+      "body_press",
+      "poltergeist",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "graveyard"
+    ]
+  }
+]

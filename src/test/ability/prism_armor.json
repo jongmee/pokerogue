@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "prism_armor",
+    "name": "Prism Armor",
+    "koName": "프리즘아머",
+    "realased": "",
+    "description": "효과가 굉장한 공격의 위력을 약하게 만든다.",
+    "generation": 7,
+    "pokemonIds": [
+      "latias",
+      "latias_mega",
+      "elgyem",
+      "beheeyem",
+      "necrozma",
+      "charcadet",
+      "armarouge",
+      "ceruledge"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

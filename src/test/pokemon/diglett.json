@@ -1,0 +1,163 @@
+[
+  {
+    "_id": "diglett",
+    "gender": "",
+    "pokedexNumber": "50",
+    "name": "diglett",
+    "koName": "디그다",
+    "speciesName": "diglett",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "53",
+    "friendship": "50",
+    "types": [
+      "ground"
+    ],
+    "normalAbilityIds": [
+      "sand_veil",
+      "arena_trap"
+    ],
+    "hiddenAbilityId": "sand_force",
+    "passiveAbilityId": "sturdy",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 265,
+    "hp": 10,
+    "attack": 55,
+    "defense": 25,
+    "specialAttack": 35,
+    "specialDefense": 45,
+    "speed": 95,
+    "height": 0.2,
+    "weight": 0.8,
+    "eggMoveIds": [
+      "triple_dive",
+      "swords_dance",
+      "triple_axel",
+      "headlong_rush"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 4,
+        "moveId": "growl"
+      },
+      {
+        "level": 8,
+        "moveId": "astonish"
+      },
+      {
+        "level": 12,
+        "moveId": "mud_slap"
+      },
+      {
+        "level": 16,
+        "moveId": "bulldoze"
+      },
+      {
+        "level": 20,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 24,
+        "moveId": "slash"
+      },
+      {
+        "level": 28,
+        "moveId": "sandstorm"
+      },
+      {
+        "level": 32,
+        "moveId": "dig"
+      },
+      {
+        "level": 36,
+        "moveId": "earth_power"
+      },
+      {
+        "level": 40,
+        "moveId": "earthquake"
+      },
+      {
+        "level": 44,
+        "moveId": "fissure"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "earthquake",
+      "dig",
+      "toxic",
+      "agility",
+      "screech",
+      "double_team",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "reversal",
+      "protect",
+      "sludge_bomb",
+      "mud_slap",
+      "sandstorm",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "sunny_day",
+      "rock_smash",
+      "beat_up",
+      "uproar",
+      "facade",
+      "helping_hand",
+      "endeavor",
+      "rock_tomb",
+      "sand_tomb",
+      "aerial_ace",
+      "mud_shot",
+      "rock_blast",
+      "assurance",
+      "earth_power",
+      "shadow_claw",
+      "stone_edge",
+      "stealth_rock",
+      "hone_claws",
+      "smack_down",
+      "foul_play",
+      "round",
+      "echoed_voice",
+      "ally_switch",
+      "bulldoze",
+      "work_up",
+      "confide",
+      "stomping_tantrum",
+      "scorching_sands",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "badlands"
+    ]
+  }
+]

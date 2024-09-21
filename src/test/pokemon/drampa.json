@@ -1,0 +1,181 @@
+[
+  {
+    "_id": "drampa",
+    "gender": "",
+    "pokedexNumber": "780",
+    "name": "drampa",
+    "koName": "할비롱",
+    "speciesName": "drampa",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "170",
+    "friendship": "50",
+    "types": [
+      "normal",
+      "dragon"
+    ],
+    "normalAbilityIds": [
+      "berserk",
+      "sap_sipper"
+    ],
+    "hiddenAbilityId": "cloud_nine",
+    "passiveAbilityId": "thick_fat",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 485,
+    "hp": 78,
+    "attack": 60,
+    "defense": 85,
+    "specialAttack": 135,
+    "specialDefense": 91,
+    "speed": 36,
+    "height": 3,
+    "weight": 185,
+    "eggMoveIds": [
+      "slack_off",
+      "trick_room",
+      "core_enforcer",
+      "boomburst"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "echoed_voice"
+      },
+      {
+        "level": 1,
+        "moveId": "play_nice"
+      },
+      {
+        "level": 5,
+        "moveId": "twister"
+      },
+      {
+        "level": 10,
+        "moveId": "protect"
+      },
+      {
+        "level": 15,
+        "moveId": "glare"
+      },
+      {
+        "level": 20,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 25,
+        "moveId": "dragon_breath"
+      },
+      {
+        "level": 30,
+        "moveId": "extrasensory"
+      },
+      {
+        "level": 35,
+        "moveId": "dragon_pulse"
+      },
+      {
+        "level": 40,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 45,
+        "moveId": "fly"
+      },
+      {
+        "level": 50,
+        "moveId": "hyper_voice"
+      },
+      {
+        "level": 55,
+        "moveId": "outrage"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fly",
+      "roar",
+      "flamethrower",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "earthquake",
+      "toxic",
+      "double_team",
+      "light_screen",
+      "fire_blast",
+      "swift",
+      "amnesia",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "icy_wind",
+      "outrage",
+      "endure",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "uproar",
+      "heat_wave",
+      "facade",
+      "nature_power",
+      "helping_hand",
+      "superpower",
+      "endeavor",
+      "hyper_voice",
+      "signal_beam",
+      "dragon_claw",
+      "calm_mind",
+      "dragon_dance",
+      "water_pulse",
+      "roost",
+      "tailwind",
+      "fling",
+      "dragon_pulse",
+      "focus_blast",
+      "energy_ball",
+      "giga_impact",
+      "shadow_claw",
+      "defog",
+      "draco_meteor",
+      "grass_knot",
+      "round",
+      "echoed_voice",
+      "bulldoze",
+      "dragon_tail",
+      "work_up",
+      "hurricane",
+      "snarl",
+      "play_rough",
+      "confide",
+      "stomping_tantrum",
+      "breaking_swipe",
+      "scale_shot",
+      "lash_out",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "wasteland"
+    ]
+  }
+]

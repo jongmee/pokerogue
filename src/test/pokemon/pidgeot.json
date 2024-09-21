@@ -1,0 +1,167 @@
+[
+  {
+    "_id": "pidgeot",
+    "gender": "",
+    "pokedexNumber": "18",
+    "name": "pidgeot",
+    "koName": "피죤투",
+    "speciesName": "pidgeot",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "216",
+    "friendship": "70",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "keen_eye",
+      "tangled_feet"
+    ],
+    "hiddenAbilityId": "big_pecks",
+    "passiveAbilityId": "flare_boost",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 479,
+    "hp": 83,
+    "attack": 80,
+    "defense": 75,
+    "specialAttack": 70,
+    "specialDefense": 70,
+    "speed": 101,
+    "height": 1.5,
+    "weight": 39.5,
+    "eggMoveIds": [
+      "wildbolt_storm",
+      "sandsear_storm",
+      "calm_mind",
+      "boomburst"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "gust"
+      },
+      {
+        "level": 1,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "hurricane"
+      },
+      {
+        "level": 5,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 9,
+        "moveId": "gust"
+      },
+      {
+        "level": 17,
+        "moveId": "whirlwind"
+      },
+      {
+        "level": 22,
+        "moveId": "twister"
+      },
+      {
+        "level": 27,
+        "moveId": "feather_dance"
+      },
+      {
+        "level": 32,
+        "moveId": "agility"
+      },
+      {
+        "level": 38,
+        "moveId": "wing_attack"
+      },
+      {
+        "level": 44,
+        "moveId": "roost"
+      },
+      {
+        "level": 50,
+        "moveId": "tailwind"
+      },
+      {
+        "level": 56,
+        "moveId": "aerial_ace"
+      },
+      {
+        "level": 62,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 68,
+        "moveId": "hurricane"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fly",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "toxic",
+      "agility",
+      "double_team",
+      "reflect",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "endure",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "uproar",
+      "heat_wave",
+      "facade",
+      "feather_dance",
+      "air_cutter",
+      "aerial_ace",
+      "roost",
+      "pluck",
+      "tailwind",
+      "u_turn",
+      "air_slash",
+      "brave_bird",
+      "giga_impact",
+      "defog",
+      "round",
+      "work_up",
+      "hurricane",
+      "confide",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "plains",
+      "mountain"
+    ]
+  }
+]

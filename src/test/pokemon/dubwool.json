@@ -1,0 +1,137 @@
+[
+  {
+    "_id": "dubwool",
+    "gender": "",
+    "pokedexNumber": "832",
+    "name": "dubwool",
+    "koName": "배우르",
+    "speciesName": "dubwool",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "172",
+    "friendship": "50",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "fluffy",
+      "steadfast"
+    ],
+    "hiddenAbilityId": "bulletproof",
+    "passiveAbilityId": "simple",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 490,
+    "hp": 72,
+    "attack": 80,
+    "defense": 100,
+    "specialAttack": 60,
+    "specialDefense": 90,
+    "speed": 88,
+    "height": 1.3,
+    "weight": 43,
+    "eggMoveIds": [
+      "psyshield_bash",
+      "milk_drink",
+      "body_press",
+      "multi_attack"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": 1,
+        "moveId": "copycat"
+      },
+      {
+        "level": 12,
+        "moveId": "guard_split"
+      },
+      {
+        "level": 16,
+        "moveId": "double_kick"
+      },
+      {
+        "level": 21,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 27,
+        "moveId": "take_down"
+      },
+      {
+        "level": 32,
+        "moveId": "guard_swap"
+      },
+      {
+        "level": 38,
+        "moveId": "reversal"
+      },
+      {
+        "level": 44,
+        "moveId": "cotton_guard"
+      },
+      {
+        "level": 50,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 56,
+        "moveId": "last_resort"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "hyper_beam",
+      "counter",
+      "thunder_wave",
+      "agility",
+      "double_team",
+      "rest",
+      "substitute",
+      "snore",
+      "reversal",
+      "protect",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "hidden_power",
+      "facade",
+      "bounce",
+      "payback",
+      "guard_swap",
+      "giga_impact",
+      "zen_headbutt",
+      "electro_ball",
+      "round",
+      "retaliate",
+      "wild_charge",
+      "body_press",
+      "grassy_glide"
+    ],
+    "biomeIds": [
+      "meadow"
+    ]
+  }
+]

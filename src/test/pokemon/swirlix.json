@@ -1,0 +1,154 @@
+[
+  {
+    "_id": "swirlix",
+    "gender": "",
+    "pokedexNumber": "684",
+    "name": "swirlix",
+    "koName": "나룸퍼프",
+    "speciesName": "swirlix",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "68",
+    "friendship": "50",
+    "types": [
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "sweet_veil"
+    ],
+    "hiddenAbilityId": "unburden",
+    "passiveAbilityId": "well_baked_body",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 341,
+    "hp": 62,
+    "attack": 48,
+    "defense": 66,
+    "specialAttack": 59,
+    "specialDefense": 57,
+    "speed": 49,
+    "height": 0.4,
+    "weight": 3.5,
+    "eggMoveIds": [
+      "belly_drum",
+      "headlong_rush",
+      "magical_torque",
+      "revival_blessing"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 3,
+        "moveId": "play_nice"
+      },
+      {
+        "level": 6,
+        "moveId": "fairy_wind"
+      },
+      {
+        "level": 9,
+        "moveId": "aromatherapy"
+      },
+      {
+        "level": 12,
+        "moveId": "draining_kiss"
+      },
+      {
+        "level": 15,
+        "moveId": "fake_tears"
+      },
+      {
+        "level": 18,
+        "moveId": "round"
+      },
+      {
+        "level": 21,
+        "moveId": "string_shot"
+      },
+      {
+        "level": 24,
+        "moveId": "cotton_spore"
+      },
+      {
+        "level": 27,
+        "moveId": "energy_ball"
+      },
+      {
+        "level": 30,
+        "moveId": "wish"
+      },
+      {
+        "level": 33,
+        "moveId": "play_rough"
+      },
+      {
+        "level": 36,
+        "moveId": "cotton_guard"
+      },
+      {
+        "level": 39,
+        "moveId": "endeavor"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "flamethrower",
+      "surf",
+      "thunderbolt",
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "amnesia",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "facade",
+      "helping_hand",
+      "endeavor",
+      "fake_tears",
+      "covet",
+      "calm_mind",
+      "gastro_acid",
+      "energy_ball",
+      "round",
+      "draining_kiss",
+      "play_rough",
+      "confide",
+      "dazzling_gleam",
+      "misty_explosion",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "fairy_cave"
+    ]
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "_id": "chandelure",
+    "gender": "",
+    "pokedexNumber": "609",
+    "name": "chandelure",
+    "koName": "샹델라",
+    "speciesName": "chandelure",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "260",
+    "friendship": "50",
+    "types": [
+      "ghost",
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "flash_fire",
+      "flame_body"
+    ],
+    "hiddenAbilityId": "infiltrator",
+    "passiveAbilityId": "soul_heart",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 520,
+    "hp": 60,
+    "attack": 55,
+    "defense": 90,
+    "specialAttack": 145,
+    "specialDefense": 90,
+    "speed": 80,
+    "height": 1,
+    "weight": 34.3,
+    "eggMoveIds": [
+      "fiery_dance",
+      "earth_power",
+      "moonblast",
+      "astral_barrage"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 1,
+        "moveId": "fire_spin"
+      },
+      {
+        "level": 1,
+        "moveId": "night_shade"
+      },
+      {
+        "level": 1,
+        "moveId": "minimize"
+      },
+      {
+        "level": 1,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 1,
+        "moveId": "smog"
+      },
+      {
+        "level": 1,
+        "moveId": "curse"
+      },
+      {
+        "level": 1,
+        "moveId": "pain_split"
+      },
+      {
+        "level": 1,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 1,
+        "moveId": "will_o_wisp"
+      },
+      {
+        "level": 1,
+        "moveId": "memento"
+      },
+      {
+        "level": 1,
+        "moveId": "imprison"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 1,
+        "moveId": "overheat"
+      },
+      {
+        "level": 1,
+        "moveId": "hex"
+      },
+      {
+        "level": 1,
+        "moveId": "inferno"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "flamethrower",
+      "hyper_beam",
+      "solar_beam",
+      "fire_spin",
+      "toxic",
+      "psychic",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "haze",
+      "fire_blast",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "pain_split",
+      "hidden_power",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "taunt",
+      "trick",
+      "imprison",
+      "overheat",
+      "calm_mind",
+      "payback",
+      "embargo",
+      "flare_blitz",
+      "dark_pulse",
+      "energy_ball",
+      "giga_impact",
+      "trick_room",
+      "flame_charge",
+      "round",
+      "ally_switch",
+      "hex",
+      "incinerate",
+      "confide",
+      "mystical_fire",
+      "skitter_smack",
+      "burning_jealousy",
+      "lash_out",
+      "poltergeist",
+      "tera_blast",
+      "trailblaze",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "graveyard"
+    ]
+  }
+]

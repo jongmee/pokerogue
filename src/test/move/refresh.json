@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "refresh",
+    "name": "Refresh",
+    "koName": "리프레시",
+    "type": "normal",
+    "moveCategory": "status",
+    "moveTarget": "user",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 20,
+    "effect": "몸을 쉬게 하여 자신이 입은 독, 마비, 화상의 상태 이상을 치료한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 3,
+    "realased": "",
+    "flags": [
+      "ignore_protect"
+    ],
+    "pokemonIds": [
+      "misdreavus",
+      "mismagius"
+    ]
+  }
+]

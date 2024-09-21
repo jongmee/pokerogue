@@ -1,0 +1,52 @@
+[
+  {
+    "_id": "heal_pulse",
+    "name": "Heal Pulse",
+    "koName": "치유파동",
+    "type": "psychic",
+    "moveCategory": "status",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 10,
+    "effect": "치유파동을 날려서 최대 HP의 절반만큼 상대의 HP를 회복한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 5,
+    "realased": "",
+    "flags": [
+      "pulse_move",
+      "triage_move"
+    ],
+    "pokemonIds": [
+      "slowpoke",
+      "slowbro",
+      "chansey",
+      "slowking",
+      "blissey",
+      "ralts",
+      "kirlia",
+      "gardevoir",
+      "chimecho",
+      "latias",
+      "latios",
+      "lucario",
+      "gallade",
+      "audino",
+      "aromatisse",
+      "clawitzer",
+      "tapu_fini",
+      "hatenna",
+      "hattrem",
+      "hatterene",
+      "calyrex",
+      "calyrex_ice",
+      "calyrex_shadow",
+      "galar_ponyta",
+      "galar_rapidash",
+      "galar_slowpoke",
+      "galar_slowbro",
+      "galar_slowking"
+    ]
+  }
+]

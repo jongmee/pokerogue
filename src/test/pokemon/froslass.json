@@ -1,0 +1,216 @@
+[
+  {
+    "_id": "froslass",
+    "gender": "",
+    "pokedexNumber": "478",
+    "name": "froslass",
+    "koName": "눈여아",
+    "speciesName": "froslass",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "168",
+    "friendship": "50",
+    "types": [
+      "ice",
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "snow_cloak"
+    ],
+    "hiddenAbilityId": "cursed_body",
+    "passiveAbilityId": "snow_warning",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 480,
+    "hp": 70,
+    "attack": 80,
+    "defense": 70,
+    "specialAttack": 80,
+    "specialDefense": 70,
+    "speed": 110,
+    "height": 1.3,
+    "weight": 26.6,
+    "eggMoveIds": [
+      "freezy_frost",
+      "extreme_speed",
+      "earth_power",
+      "no_retreat"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "hex"
+      },
+      {
+        "level": 1,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "bite"
+      },
+      {
+        "level": 1,
+        "moveId": "double_team"
+      },
+      {
+        "level": 1,
+        "moveId": "powder_snow"
+      },
+      {
+        "level": 1,
+        "moveId": "protect"
+      },
+      {
+        "level": 1,
+        "moveId": "destiny_bond"
+      },
+      {
+        "level": 1,
+        "moveId": "crunch"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 1,
+        "moveId": "ice_fang"
+      },
+      {
+        "level": 1,
+        "moveId": "ominous_wind"
+      },
+      {
+        "level": 15,
+        "moveId": "ice_shard"
+      },
+      {
+        "level": 20,
+        "moveId": "draining_kiss"
+      },
+      {
+        "level": 25,
+        "moveId": "icy_wind"
+      },
+      {
+        "level": 30,
+        "moveId": "frost_breath"
+      },
+      {
+        "level": 35,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 40,
+        "moveId": "snowscape"
+      },
+      {
+        "level": 47,
+        "moveId": "will_o_wisp"
+      },
+      {
+        "level": 54,
+        "moveId": "aurora_veil"
+      },
+      {
+        "level": 61,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 68,
+        "moveId": "blizzard"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "ice_punch",
+      "body_slam",
+      "take_down",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "psychic",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "haze",
+      "reflect",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "spikes",
+      "icy_wind",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "pain_split",
+      "hidden_power",
+      "rain_dance",
+      "crunch",
+      "psych_up",
+      "shadow_ball",
+      "hail",
+      "torment",
+      "will_o_wisp",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "trick",
+      "imprison",
+      "weather_ball",
+      "fake_tears",
+      "signal_beam",
+      "icicle_spear",
+      "water_pulse",
+      "payback",
+      "embargo",
+      "fling",
+      "giga_impact",
+      "avalanche",
+      "ice_fang",
+      "round",
+      "ally_switch",
+      "hex",
+      "frost_breath",
+      "draining_kiss",
+      "confide",
+      "aurora_veil",
+      "poltergeist",
+      "triple_axel",
+      "tera_blast",
+      "ice_spinner",
+      "snowscape",
+      "trailblaze",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "ice_cave"
+    ]
+  }
+]

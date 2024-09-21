@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "galvanize",
+    "name": "Galvanize",
+    "koName": "일렉트릭스킨",
+    "realased": "",
+    "description": "노말타입 기술이 전기타입이 된다. 위력이 조금 올라간다.",
+    "generation": 7,
+    "pokemonIds": [
+      "alola_geodude",
+      "alola_graveler",
+      "alola_golem"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

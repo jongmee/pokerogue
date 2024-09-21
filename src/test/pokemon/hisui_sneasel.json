@@ -1,0 +1,162 @@
+[
+  {
+    "_id": "hisui_sneasel",
+    "gender": "",
+    "pokedexNumber": "6215",
+    "name": "hisui_sneasel",
+    "koName": "포푸니",
+    "speciesName": "hisui_sneasel",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "86",
+    "friendship": "35",
+    "types": [
+      "fighting",
+      "poison"
+    ],
+    "normalAbilityIds": [
+      "inner_focus",
+      "keen_eye"
+    ],
+    "hiddenAbilityId": "pickpocket",
+    "passiveAbilityId": "scrappy",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 430,
+    "hp": 55,
+    "attack": 95,
+    "defense": 55,
+    "specialAttack": 35,
+    "specialDefense": 75,
+    "speed": 115,
+    "height": 0.9,
+    "weight": 27,
+    "eggMoveIds": [
+      "thunderous_kick",
+      "knock_off",
+      "triple_axel",
+      "victory_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "rock_smash"
+      },
+      {
+        "level": 6,
+        "moveId": "taunt"
+      },
+      {
+        "level": 12,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 18,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 24,
+        "moveId": "poison_jab"
+      },
+      {
+        "level": 30,
+        "moveId": "brick_break"
+      },
+      {
+        "level": 36,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 42,
+        "moveId": "slash"
+      },
+      {
+        "level": 48,
+        "moveId": "agility"
+      },
+      {
+        "level": 54,
+        "moveId": "screech"
+      },
+      {
+        "level": 60,
+        "moveId": "close_combat"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "take_down",
+      "low_kick",
+      "dig",
+      "toxic",
+      "agility",
+      "screech",
+      "double_team",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "reversal",
+      "spite",
+      "protect",
+      "sludge_bomb",
+      "endure",
+      "false_swipe",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "shadow_ball",
+      "rock_smash",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "brick_break",
+      "aerial_ace",
+      "bulk_up",
+      "poison_tail",
+      "calm_mind",
+      "close_combat",
+      "fling",
+      "toxic_spikes",
+      "poison_jab",
+      "x_scissor",
+      "vacuum_wave",
+      "focus_blast",
+      "giga_impact",
+      "nasty_plot",
+      "shadow_claw",
+      "gunk_shot",
+      "grass_knot",
+      "hone_claws",
+      "venoshock",
+      "sludge_wave",
+      "low_sweep",
+      "acid_spray",
+      "lash_out",
+      "coaching",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "snowy_forest"
+    ]
+  }
+]

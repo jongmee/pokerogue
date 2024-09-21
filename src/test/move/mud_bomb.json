@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "mud_bomb",
+    "name": "Mud Bomb",
+    "koName": "진흙폭탄",
+    "type": "ground",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 65,
+    "accuracy": 85,
+    "powerPoint": 10,
+    "effect": "단단한 진흙구슬을 상대에게 발사하여 공격한다. 명중률을 떨어뜨릴 때가 있다.",
+    "effectChance": 30,
+    "prioirty": 0,
+    "generation": 4,
+    "realased": "",
+    "flags": [
+      "ballbomb_move"
+    ],
+    "pokemonIds": []
+  }
+]

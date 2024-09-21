@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "flame_body",
+    "name": "Flame Body",
+    "koName": "불꽃몸",
+    "realased": "",
+    "description": "자신과 접촉한 상대를 화상 상태로 만들 때가 있다.",
+    "generation": 3,
+    "pokemonIds": [
+      "ponyta",
+      "rapidash",
+      "magmar",
+      "moltres",
+      "slugma",
+      "magcargo",
+      "magby",
+      "magmortar",
+      "heatran",
+      "litwick",
+      "lampent",
+      "chandelure",
+      "larvesta",
+      "volcarona",
+      "fletchinder",
+      "talonflame",
+      "carkol",
+      "coalossal",
+      "sizzlipede",
+      "centiskorch",
+      "charcadet"
+    ],
+    "isBypassFaint": true,
+    "isIgnorable": false
+  }
+]

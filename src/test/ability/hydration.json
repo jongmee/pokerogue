@@ -1,0 +1,36 @@
+[
+  {
+    "_id": "hydration",
+    "name": "Hydration",
+    "koName": "촉촉바디",
+    "realased": "",
+    "description": "비가 오는 날씨일 때 상태 이상이 회복된다.",
+    "generation": 4,
+    "pokemonIds": [
+      "seel",
+      "dewgong",
+      "lapras",
+      "vaporeon",
+      "smoochum",
+      "wingull",
+      "barboach",
+      "whiscash",
+      "gorebyss",
+      "luvdisc",
+      "phione",
+      "manaphy",
+      "tympole",
+      "palpitoad",
+      "ducklett",
+      "swanna",
+      "alomomola",
+      "shelmet",
+      "accelgor",
+      "goomy",
+      "sliggoo",
+      "goodra"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

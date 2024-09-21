@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "triple_dive",
+    "name": "Triple Dive",
+    "koName": "트리플다이브",
+    "type": "water",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 30,
+    "accuracy": 95,
+    "powerPoint": 10,
+    "effect": "호흡이 척척 맞게 다이빙해서 상대에게 물보라를 끼얹는다. 3회 연속으로 데미지를 준다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 9,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "diglett",
+      "dugtrio",
+      "kabuto",
+      "kabutops",
+      "wugtrio",
+      "alola_diglett",
+      "alola_dugtrio"
+    ]
+  }
+]

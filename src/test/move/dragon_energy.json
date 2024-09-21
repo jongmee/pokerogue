@@ -1,0 +1,31 @@
+[
+  {
+    "_id": "dragon_energy",
+    "name": "Dragon Energy",
+    "koName": "드래곤에너지",
+    "type": "dragon",
+    "moveCategory": "special",
+    "moveTarget": "all_near_enemies",
+    "power": 150,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "생명력을 파워로 바꿔서 상대를 공격한다. 자신의 HP가 적을수록 기술의 위력이 떨어진다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "treecko",
+      "grovyle",
+      "sceptile",
+      "sceptile_mega",
+      "trapinch",
+      "vibrava",
+      "flygon",
+      "eternatus",
+      "eternatus_eternamax",
+      "regidrago"
+    ]
+  }
+]

@@ -1,0 +1,174 @@
+[
+  {
+    "_id": "basculegion",
+    "gender": "",
+    "pokedexNumber": "902",
+    "name": "basculegion",
+    "koName": "대쓰여너",
+    "speciesName": "basculegion",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "265",
+    "friendship": "50",
+    "types": [
+      "water",
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "swift_swim",
+      "adaptability"
+    ],
+    "hiddenAbilityId": "mold_breaker",
+    "passiveAbilityId": "supreme_overlord",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 530,
+    "hp": 120,
+    "attack": 112,
+    "defense": 65,
+    "specialAttack": 80,
+    "specialDefense": 75,
+    "speed": 78,
+    "height": 3,
+    "weight": 110,
+    "eggMoveIds": [
+      "last_respects",
+      "close_combat",
+      "splishy_splash",
+      "no_retreat"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 1,
+        "moveId": "phantom_force"
+      },
+      {
+        "level": 4,
+        "moveId": "tackle"
+      },
+      {
+        "level": 8,
+        "moveId": "flail"
+      },
+      {
+        "level": 12,
+        "moveId": "aqua_jet"
+      },
+      {
+        "level": 16,
+        "moveId": "bite"
+      },
+      {
+        "level": 20,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 24,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 28,
+        "moveId": "soak"
+      },
+      {
+        "level": 32,
+        "moveId": "crunch"
+      },
+      {
+        "level": 36,
+        "moveId": "take_down"
+      },
+      {
+        "level": 40,
+        "moveId": "uproar"
+      },
+      {
+        "level": 44,
+        "moveId": "wave_crash"
+      },
+      {
+        "level": 48,
+        "moveId": "thrash"
+      },
+      {
+        "level": 52,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 56,
+        "moveId": "head_smash"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "cut",
+      "take_down",
+      "double_edge",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "agility",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "waterfall",
+      "rest",
+      "substitute",
+      "spite",
+      "protect",
+      "scary_face",
+      "icy_wind",
+      "outrage",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "hidden_power",
+      "rain_dance",
+      "crunch",
+      "shadow_ball",
+      "whirlpool",
+      "uproar",
+      "facade",
+      "revenge",
+      "endeavor",
+      "muddy_water",
+      "mud_shot",
+      "water_pulse",
+      "aqua_tail",
+      "giga_impact",
+      "ice_fang",
+      "hex",
+      "phantom_force",
+      "psychic_fangs",
+      "liquidation",
+      "scale_shot",
+      "flip_turn",
+      "tera_blast",
+      "snowscape",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "seabed"
+    ]
+  }
+]

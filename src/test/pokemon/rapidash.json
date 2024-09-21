@@ -1,0 +1,179 @@
+[
+  {
+    "_id": "rapidash",
+    "gender": "",
+    "pokedexNumber": "78",
+    "name": "rapidash",
+    "koName": "날쌩마",
+    "speciesName": "rapidash",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "175",
+    "friendship": "50",
+    "types": [
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "run_away",
+      "flash_fire"
+    ],
+    "hiddenAbilityId": "flame_body",
+    "passiveAbilityId": "magic_guard",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 500,
+    "hp": 65,
+    "attack": 100,
+    "defense": 70,
+    "specialAttack": 80,
+    "specialDefense": 80,
+    "speed": 105,
+    "height": 1.7,
+    "weight": 95,
+    "eggMoveIds": [
+      "high_horsepower",
+      "fire_lash",
+      "swords_dance",
+      "volt_tackle"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "smart_strike"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "megahorn"
+      },
+      {
+        "level": 1,
+        "moveId": "poison_jab"
+      },
+      {
+        "level": 15,
+        "moveId": "flame_charge"
+      },
+      {
+        "level": 20,
+        "moveId": "agility"
+      },
+      {
+        "level": 25,
+        "moveId": "flame_wheel"
+      },
+      {
+        "level": 30,
+        "moveId": "stomp"
+      },
+      {
+        "level": 35,
+        "moveId": "fire_spin"
+      },
+      {
+        "level": 43,
+        "moveId": "take_down"
+      },
+      {
+        "level": 49,
+        "moveId": "inferno"
+      },
+      {
+        "level": 56,
+        "moveId": "fire_blast"
+      },
+      {
+        "level": 63,
+        "moveId": "flare_blitz"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "pay_day",
+      "swords_dance",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "flamethrower",
+      "hyper_beam",
+      "low_kick",
+      "strength",
+      "solar_beam",
+      "fire_spin",
+      "toxic",
+      "agility",
+      "double_team",
+      "reflect",
+      "fire_blast",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "megahorn",
+      "baton_pass",
+      "iron_tail",
+      "hidden_power",
+      "sunny_day",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "overheat",
+      "bounce",
+      "flare_blitz",
+      "poison_jab",
+      "giga_impact",
+      "flame_charge",
+      "round",
+      "echoed_voice",
+      "ally_switch",
+      "incinerate",
+      "wild_charge",
+      "drill_run",
+      "play_rough",
+      "confide",
+      "mystical_fire",
+      "high_horsepower",
+      "solar_blade",
+      "throat_chop",
+      "smart_strike",
+      "scorching_sands",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "meadow",
+      "volcano"
+    ]
+  }
+]

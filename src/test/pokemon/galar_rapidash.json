@@ -1,0 +1,168 @@
+[
+  {
+    "_id": "galar_rapidash",
+    "gender": "",
+    "pokedexNumber": "4078",
+    "name": "galar_rapidash",
+    "koName": "날쌩마",
+    "speciesName": "galar_rapidash",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "175",
+    "friendship": "50",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "run_away",
+      "pastel_veil"
+    ],
+    "hiddenAbilityId": "anticipation",
+    "passiveAbilityId": "moxie",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 500,
+    "hp": 65,
+    "attack": 100,
+    "defense": 70,
+    "specialAttack": 80,
+    "specialDefense": 80,
+    "speed": 105,
+    "height": 1.7,
+    "weight": 80,
+    "eggMoveIds": [
+      "magical_torque",
+      "extreme_speed",
+      "flare_blitz",
+      "photon_geyser"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "psycho_cut"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "megahorn"
+      },
+      {
+        "level": 15,
+        "moveId": "fairy_wind"
+      },
+      {
+        "level": 20,
+        "moveId": "agility"
+      },
+      {
+        "level": 25,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 30,
+        "moveId": "stomp"
+      },
+      {
+        "level": 35,
+        "moveId": "heal_pulse"
+      },
+      {
+        "level": 43,
+        "moveId": "take_down"
+      },
+      {
+        "level": 49,
+        "moveId": "dazzling_gleam"
+      },
+      {
+        "level": 56,
+        "moveId": "psychic"
+      },
+      {
+        "level": 63,
+        "moveId": "healing_wish"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "pay_day",
+      "swords_dance",
+      "body_slam",
+      "take_down",
+      "psybeam",
+      "hyper_beam",
+      "low_kick",
+      "strength",
+      "psychic",
+      "agility",
+      "double_team",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "endure",
+      "charm",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "megahorn",
+      "baton_pass",
+      "iron_tail",
+      "hidden_power",
+      "future_sight",
+      "facade",
+      "imprison",
+      "bounce",
+      "calm_mind",
+      "giga_impact",
+      "psycho_cut",
+      "zen_headbutt",
+      "trick_room",
+      "wonder_room",
+      "magic_room",
+      "round",
+      "stored_power",
+      "ally_switch",
+      "wild_charge",
+      "drill_run",
+      "misty_terrain",
+      "play_rough",
+      "mystical_fire",
+      "dazzling_gleam",
+      "high_horsepower",
+      "throat_chop",
+      "psychic_terrain",
+      "smart_strike",
+      "expanding_force"
+    ],
+    "biomeIds": [
+      "jungle"
+    ]
+  }
+]

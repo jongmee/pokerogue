@@ -1,0 +1,249 @@
+[
+  {
+    "_id": "clefairy",
+    "gender": "",
+    "pokedexNumber": "35",
+    "name": "clefairy",
+    "koName": "삐삐",
+    "speciesName": "clefairy",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "113",
+    "friendship": "140",
+    "types": [
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "cute_charm",
+      "magic_guard"
+    ],
+    "hiddenAbilityId": "friend_guard",
+    "passiveAbilityId": "analytic",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 323,
+    "hp": 70,
+    "attack": 45,
+    "defense": 48,
+    "specialAttack": 60,
+    "specialDefense": 65,
+    "speed": 35,
+    "height": 0.6,
+    "weight": 7.5,
+    "eggMoveIds": [
+      "calm_mind",
+      "earth_power",
+      "wish",
+      "light_of_ruin"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "sing"
+      },
+      {
+        "level": 1,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": 1,
+        "moveId": "splash"
+      },
+      {
+        "level": 1,
+        "moveId": "sweet_kiss"
+      },
+      {
+        "level": 1,
+        "moveId": "charm"
+      },
+      {
+        "level": 1,
+        "moveId": "copycat"
+      },
+      {
+        "level": 1,
+        "moveId": "disarming_voice"
+      },
+      {
+        "level": 1,
+        "moveId": "spotlight"
+      },
+      {
+        "level": 4,
+        "moveId": "stored_power"
+      },
+      {
+        "level": 8,
+        "moveId": "encore"
+      },
+      {
+        "level": 12,
+        "moveId": "after_you"
+      },
+      {
+        "level": 16,
+        "moveId": "life_dew"
+      },
+      {
+        "level": 20,
+        "moveId": "metronome"
+      },
+      {
+        "level": 24,
+        "moveId": "moonlight"
+      },
+      {
+        "level": 28,
+        "moveId": "gravity"
+      },
+      {
+        "level": 32,
+        "moveId": "meteor_mash"
+      },
+      {
+        "level": 36,
+        "moveId": "follow_me"
+      },
+      {
+        "level": 40,
+        "moveId": "cosmic_power"
+      },
+      {
+        "level": 44,
+        "moveId": "moonblast"
+      },
+      {
+        "level": 48,
+        "moveId": "healing_wish"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "flamethrower",
+      "ice_beam",
+      "blizzard",
+      "psybeam",
+      "counter",
+      "strength",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "dig",
+      "toxic",
+      "psychic",
+      "night_shade",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "metronome",
+      "fire_blast",
+      "swift",
+      "amnesia",
+      "dream_eater",
+      "flash",
+      "rest",
+      "tri_attack",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "safeguard",
+      "baton_pass",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "rock_smash",
+      "uproar",
+      "facade",
+      "focus_punch",
+      "helping_hand",
+      "trick",
+      "recycle",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "skill_swap",
+      "imprison",
+      "hyper_voice",
+      "fake_tears",
+      "cosmic_power",
+      "signal_beam",
+      "bounce",
+      "covet",
+      "magical_leaf",
+      "calm_mind",
+      "water_pulse",
+      "gravity",
+      "fling",
+      "drain_punch",
+      "zen_headbutt",
+      "stealth_rock",
+      "grass_knot",
+      "charge_beam",
+      "wonder_room",
+      "psyshock",
+      "round",
+      "echoed_voice",
+      "stored_power",
+      "ally_switch",
+      "incinerate",
+      "retaliate",
+      "work_up",
+      "disarming_voice",
+      "draining_kiss",
+      "misty_terrain",
+      "play_rough",
+      "confide",
+      "mystical_fire",
+      "dazzling_gleam",
+      "power_up_punch",
+      "meteor_beam",
+      "misty_explosion",
+      "dual_wingbeat",
+      "tera_blast",
+      "chilling_water",
+      "alluring_voice"
+    ],
+    "biomeIds": [
+      "fairy_cave",
+      "space"
+    ]
+  }
+]

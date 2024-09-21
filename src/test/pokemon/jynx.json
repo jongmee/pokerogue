@@ -1,0 +1,200 @@
+[
+  {
+    "_id": "jynx",
+    "gender": "",
+    "pokedexNumber": "124",
+    "name": "jynx",
+    "koName": "루주라",
+    "speciesName": "jynx",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "159",
+    "friendship": "50",
+    "types": [
+      "ice",
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "oblivious",
+      "forewarn"
+    ],
+    "hiddenAbilityId": "dry_skin",
+    "passiveAbilityId": "psychic_surge",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 455,
+    "hp": 65,
+    "attack": 50,
+    "defense": 35,
+    "specialAttack": 115,
+    "specialDefense": 95,
+    "speed": 95,
+    "height": 1.4,
+    "weight": 40.6,
+    "eggMoveIds": [
+      "expanding_force",
+      "aura_sphere",
+      "freeze_dry",
+      "quiver_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "lick"
+      },
+      {
+        "level": 1,
+        "moveId": "powder_snow"
+      },
+      {
+        "level": 1,
+        "moveId": "sweet_kiss"
+      },
+      {
+        "level": 1,
+        "moveId": "copycat"
+      },
+      {
+        "level": 12,
+        "moveId": "confusion"
+      },
+      {
+        "level": 16,
+        "moveId": "covet"
+      },
+      {
+        "level": 20,
+        "moveId": "sing"
+      },
+      {
+        "level": 24,
+        "moveId": "fake_tears"
+      },
+      {
+        "level": 28,
+        "moveId": "ice_punch"
+      },
+      {
+        "level": 34,
+        "moveId": "psychic"
+      },
+      {
+        "level": 40,
+        "moveId": "lovely_kiss"
+      },
+      {
+        "level": 46,
+        "moveId": "mean_look"
+      },
+      {
+        "level": 52,
+        "moveId": "perish_song"
+      },
+      {
+        "level": 58,
+        "moveId": "blizzard"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "ice_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "counter",
+      "toxic",
+      "psychic",
+      "screech",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "metronome",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "uproar",
+      "hail",
+      "torment",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "trick",
+      "recycle",
+      "brick_break",
+      "skill_swap",
+      "hyper_voice",
+      "fake_tears",
+      "signal_beam",
+      "icicle_spear",
+      "covet",
+      "calm_mind",
+      "water_pulse",
+      "payback",
+      "fling",
+      "drain_punch",
+      "focus_blast",
+      "energy_ball",
+      "giga_impact",
+      "nasty_plot",
+      "avalanche",
+      "psycho_cut",
+      "zen_headbutt",
+      "trick_room",
+      "grass_knot",
+      "wonder_room",
+      "psyshock",
+      "magic_room",
+      "round",
+      "echoed_voice",
+      "stored_power",
+      "ally_switch",
+      "frost_breath",
+      "draining_kiss",
+      "confide",
+      "power_up_punch",
+      "psychic_terrain",
+      "aurora_veil",
+      "expanding_force",
+      "triple_axel",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "ice_cave"
+    ]
+  }
+]

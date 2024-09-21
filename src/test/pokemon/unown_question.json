@@ -1,0 +1,54 @@
+[
+  {
+    "_id": "unown_question",
+    "gender": "",
+    "pokedexNumber": "201",
+    "name": "unown_question",
+    "koName": "안농_question",
+    "speciesName": "unown",
+    "canChangeForm": true,
+    "formName": "?",
+    "baseExp": "118",
+    "friendship": "70",
+    "types": [
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "levitate"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "pickup",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 336,
+    "hp": 48,
+    "attack": 72,
+    "defense": 48,
+    "specialAttack": 72,
+    "specialDefense": 48,
+    "speed": 48,
+    "height": 0.5,
+    "weight": 5,
+    "eggMoveIds": [
+      "nature_power",
+      "cosmic_power",
+      "ancient_power",
+      "mystical_power"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "hidden_power"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "ruins"
+    ]
+  }
+]

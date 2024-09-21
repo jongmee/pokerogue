@@ -1,0 +1,205 @@
+[
+  {
+    "_id": "volcarona",
+    "gender": "",
+    "pokedexNumber": "637",
+    "name": "volcarona",
+    "koName": "불카모스",
+    "speciesName": "volcarona",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "275",
+    "friendship": "50",
+    "types": [
+      "bug",
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "flame_body"
+    ],
+    "hiddenAbilityId": "swarm",
+    "passiveAbilityId": "drought",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 550,
+    "hp": 85,
+    "attack": 60,
+    "defense": 65,
+    "specialAttack": 135,
+    "specialDefense": 105,
+    "speed": 100,
+    "height": 1.6,
+    "weight": 46,
+    "eggMoveIds": [
+      "thunderbolt",
+      "matcha_gotcha",
+      "earth_power",
+      "torch_song"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "quiver_dance"
+      },
+      {
+        "level": 1,
+        "moveId": "gust"
+      },
+      {
+        "level": 1,
+        "moveId": "whirlwind"
+      },
+      {
+        "level": 1,
+        "moveId": "take_down"
+      },
+      {
+        "level": 1,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 1,
+        "moveId": "string_shot"
+      },
+      {
+        "level": 1,
+        "moveId": "fire_spin"
+      },
+      {
+        "level": 1,
+        "moveId": "flare_blitz"
+      },
+      {
+        "level": 1,
+        "moveId": "flame_charge"
+      },
+      {
+        "level": 1,
+        "moveId": "struggle_bug"
+      },
+      {
+        "level": 1,
+        "moveId": "fiery_dance"
+      },
+      {
+        "level": 18,
+        "moveId": "flame_wheel"
+      },
+      {
+        "level": 24,
+        "moveId": "bug_bite"
+      },
+      {
+        "level": 30,
+        "moveId": "screech"
+      },
+      {
+        "level": 36,
+        "moveId": "leech_life"
+      },
+      {
+        "level": 42,
+        "moveId": "bug_buzz"
+      },
+      {
+        "level": 48,
+        "moveId": "heat_wave"
+      },
+      {
+        "level": 54,
+        "moveId": "amnesia"
+      },
+      {
+        "level": 62,
+        "moveId": "hurricane"
+      },
+      {
+        "level": 70,
+        "moveId": "fire_blast"
+      },
+      {
+        "level": 78,
+        "moveId": "rage_powder"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fly",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "flamethrower",
+      "hyper_beam",
+      "solar_beam",
+      "fire_spin",
+      "toxic",
+      "psychic",
+      "screech",
+      "double_team",
+      "light_screen",
+      "fire_blast",
+      "amnesia",
+      "leech_life",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "air_cutter",
+      "overheat",
+      "signal_beam",
+      "aerial_ace",
+      "calm_mind",
+      "roost",
+      "tailwind",
+      "u_turn",
+      "flare_blitz",
+      "poison_jab",
+      "air_slash",
+      "bug_buzz",
+      "giga_impact",
+      "zen_headbutt",
+      "defog",
+      "bug_bite",
+      "flame_charge",
+      "round",
+      "incinerate",
+      "acrobatics",
+      "struggle_bug",
+      "wild_charge",
+      "hurricane",
+      "confide",
+      "mystical_fire",
+      "lunge",
+      "skitter_smack",
+      "dual_wingbeat",
+      "tera_blast",
+      "pounce",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "volcano"
+    ]
+  }
+]

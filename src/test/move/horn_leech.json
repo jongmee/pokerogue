@@ -1,0 +1,31 @@
+[
+  {
+    "_id": "horn_leech",
+    "name": "Horn Leech",
+    "koName": "우드혼",
+    "type": "grass",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 75,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "뿔을 꿰찔러서 상대의 양분을 흡수한다. 입힌 데미지의 절반에 해당하는 HP를 회복할 수 있다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 5,
+    "realased": "",
+    "flags": [
+      "makes_contact",
+      "triage_move"
+    ],
+    "pokemonIds": [
+      "paras",
+      "parasect",
+      "skiddo",
+      "gogoat",
+      "phantump",
+      "trevenant",
+      "tapu_bulu"
+    ]
+  }
+]

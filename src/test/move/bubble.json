@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "bubble",
+    "name": "Bubble",
+    "koName": "거품",
+    "type": "water",
+    "moveCategory": "special",
+    "moveTarget": "all_near_enemies",
+    "power": 40,
+    "accuracy": 100,
+    "powerPoint": 30,
+    "effect": "매우 많은 거품을 상대에게 내뿜어 공격한다. 상대의 스피드를 떨어뜨릴 때가 있다.",
+    "effectChance": 10,
+    "prioirty": 0,
+    "generation": 1,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "tympole",
+      "palpitoad",
+      "seismitoad",
+      "crabrawler",
+      "crabominable"
+    ]
+  }
+]

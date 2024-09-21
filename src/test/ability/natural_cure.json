@@ -1,0 +1,33 @@
+[
+  {
+    "_id": "natural_cure",
+    "name": "Natural Cure",
+    "koName": "자연회복",
+    "realased": "",
+    "description": "지닌 포켓몬으로 돌아오면 상태 이상이 회복된다.",
+    "generation": 3,
+    "pokemonIds": [
+      "chansey",
+      "staryu",
+      "starmie",
+      "corsola",
+      "blissey",
+      "celebi",
+      "roselia",
+      "swablu",
+      "altaria",
+      "budew",
+      "roserade",
+      "happiny",
+      "shaymin_land",
+      "phantump",
+      "trevenant",
+      "comfey",
+      "pawmi",
+      "pawmo",
+      "pawmot"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

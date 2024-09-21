@@ -1,0 +1,141 @@
+[
+  {
+    "_id": "snowy_forest",
+    "name": "Snowy Forest",
+    "koName": "눈덮인 숲",
+    "types": [
+      "ice"
+    ],
+    "nextBiomes": [
+      {
+        "name": "forest",
+        "percentage": 50
+      },
+      {
+        "name": "mountain",
+        "percentage": 25
+      },
+      {
+        "name": "lake",
+        "percentage": 25
+      }
+    ],
+    "nativePokemons": [
+      {
+        "tier": "보통",
+        "pokemonIds": [
+          "sneasel",
+          "teddiursa",
+          "ursaring",
+          "snom",
+          "frosmoth",
+          "swinub",
+          "piloswine",
+          "snover",
+          "abomasnow",
+          "eiscue"
+        ]
+      },
+      {
+        "tier": "드묾",
+        "pokemonIds": [
+          "sneasel",
+          "teddiursa",
+          "ursaring",
+          "stantler"
+        ]
+      },
+      {
+        "tier": "레어",
+        "pokemonIds": [
+          "galar_darumaka",
+          "galar_darmanitan",
+          "delibird",
+          "alola_sandshrew",
+          "alola_sandslash",
+          "alola_vulpix",
+          "alola_ninetales"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어",
+        "pokemonIds": [
+          "hisui_sneasel",
+          "hisui_zorua",
+          "hisui_zoroark",
+          "galar_mr_mime",
+          "mr_rime",
+          "arctozolt",
+          "hisui_avalugg"
+        ]
+      },
+      {
+        "tier": "울트라 레어",
+        "pokemonIds": [
+          "glastrier",
+          "chien_pao",
+          "galar_articuno"
+        ]
+      },
+      {
+        "tier": "보스",
+        "pokemonIds": [
+          "wyrdeer",
+          "frosmoth",
+          "abomasnow",
+          "ursaluna"
+        ]
+      },
+      {
+        "tier": "레어 보스",
+        "pokemonIds": [
+          "sneasler",
+          "galar_darmanitan",
+          "hisui_zoroark",
+          "mr_rime",
+          "arctozolt",
+          "alola_sandslash",
+          "alola_ninetales"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어 보스",
+        "pokemonIds": [
+          "glastrier",
+          "chien_pao"
+        ]
+      },
+      {
+        "tier": "슈퍼 울트라 레어 보스",
+        "pokemonIds": [
+          "zacian",
+          "galar_articuno"
+        ]
+      }
+    ],
+    "trainers": [
+      {
+        "name": "무청",
+        "types": [
+          "ice"
+        ],
+        "pokemonIds": [
+          "sneasel",
+          "snover",
+          "snorunt"
+        ]
+      },
+      {
+        "name": "멜론",
+        "types": [
+          "ice"
+        ],
+        "pokemonIds": [
+          "snom",
+          "galar_darumaka",
+          "galar_mr_mime"
+        ]
+      }
+    ]
+  }
+]

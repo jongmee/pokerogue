@@ -1,0 +1,114 @@
+[
+  {
+    "_id": "space",
+    "name": "Space",
+    "koName": "우주",
+    "types": [
+      "psychic"
+    ],
+    "nextBiomes": [
+      {
+        "name": "ruins",
+        "percentage": 100
+      }
+    ],
+    "nativePokemons": [
+      {
+        "tier": "보통",
+        "pokemonIds": [
+          "solrock",
+          "lunatone",
+          "clefairy",
+          "bronzor",
+          "bronzong",
+          "munna",
+          "musharna",
+          "minior"
+        ]
+      },
+      {
+        "tier": "드묾",
+        "pokemonIds": [
+          "baltoy",
+          "claydol",
+          "elgyem",
+          "beheeyem"
+        ]
+      },
+      {
+        "tier": "레어",
+        "pokemonIds": [
+          "beldum",
+          "metang",
+          "metagross",
+          "sigilyph",
+          "solosis",
+          "duosion",
+          "reuniclus"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어",
+        "pokemonIds": [
+          "porygon",
+          "porygon2"
+        ]
+      },
+      {
+        "tier": "울트라 레어",
+        "pokemonIds": [
+          "cosmog",
+          "cosmoem",
+          "celesteela"
+        ]
+      },
+      {
+        "tier": "보스",
+        "pokemonIds": [
+          "solrock",
+          "lunatone",
+          "clefable",
+          "bronzong",
+          "musharna",
+          "reuniclus",
+          "minior"
+        ]
+      },
+      {
+        "tier": "레어 보스",
+        "pokemonIds": [
+          "metagross",
+          "porygon_z"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어 보스",
+        "pokemonIds": [
+          "celesteela"
+        ]
+      },
+      {
+        "tier": "슈퍼 울트라 레어 보스",
+        "pokemonIds": [
+          "solgaleo",
+          "lunala",
+          "rayquaza",
+          "necrozma"
+        ]
+      }
+    ],
+    "trainers": [
+      {
+        "name": "고지카",
+        "types": [
+          "psychic"
+        ],
+        "pokemonIds": [
+          "espurr",
+          "sigilyph",
+          "slowking"
+        ]
+      }
+    ]
+  }
+]

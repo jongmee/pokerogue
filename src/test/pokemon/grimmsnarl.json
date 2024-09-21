@@ -1,0 +1,193 @@
+[
+  {
+    "_id": "grimmsnarl",
+    "gender": "",
+    "pokedexNumber": "861",
+    "name": "grimmsnarl",
+    "koName": "오롱털",
+    "speciesName": "grimmsnarl",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "255",
+    "friendship": "50",
+    "types": [
+      "dark",
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "prankster",
+      "frisk"
+    ],
+    "hiddenAbilityId": "pickpocket",
+    "passiveAbilityId": "fur_coat",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 510,
+    "hp": 95,
+    "attack": 120,
+    "defense": 65,
+    "specialAttack": 95,
+    "specialDefense": 75,
+    "speed": 60,
+    "height": 1.5,
+    "weight": 61,
+    "eggMoveIds": [
+      "encore",
+      "parting_shot",
+      "topsy_turvy",
+      "wicked_blow"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "spirit_break"
+      },
+      {
+        "level": 1,
+        "moveId": "bite"
+      },
+      {
+        "level": 1,
+        "moveId": "fake_out"
+      },
+      {
+        "level": 1,
+        "moveId": "flatter"
+      },
+      {
+        "level": 1,
+        "moveId": "bulk_up"
+      },
+      {
+        "level": 1,
+        "moveId": "confide"
+      },
+      {
+        "level": 1,
+        "moveId": "false_surrender"
+      },
+      {
+        "level": 12,
+        "moveId": "fake_tears"
+      },
+      {
+        "level": 16,
+        "moveId": "assurance"
+      },
+      {
+        "level": 20,
+        "moveId": "swagger"
+      },
+      {
+        "level": 24,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 28,
+        "moveId": "torment"
+      },
+      {
+        "level": 35,
+        "moveId": "dark_pulse"
+      },
+      {
+        "level": 40,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 48,
+        "moveId": "play_rough"
+      },
+      {
+        "level": 56,
+        "moveId": "foul_play"
+      },
+      {
+        "level": 64,
+        "moveId": "hammer_arm"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "hyper_beam",
+      "low_kick",
+      "thunder_wave",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "focus_energy",
+      "metronome",
+      "leech_life",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "scary_face",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "crunch",
+      "uproar",
+      "torment",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "trick",
+      "superpower",
+      "revenge",
+      "brick_break",
+      "imprison",
+      "fake_tears",
+      "bulk_up",
+      "assurance",
+      "fling",
+      "power_swap",
+      "dark_pulse",
+      "drain_punch",
+      "focus_blast",
+      "giga_impact",
+      "nasty_plot",
+      "shadow_claw",
+      "power_whip",
+      "wonder_room",
+      "low_sweep",
+      "foul_play",
+      "round",
+      "retaliate",
+      "draining_kiss",
+      "misty_terrain",
+      "play_rough",
+      "confide",
+      "dazzling_gleam",
+      "power_up_punch",
+      "darkest_lariat",
+      "throat_chop",
+      "stomping_tantrum",
+      "body_press",
+      "burning_jealousy",
+      "lash_out",
+      "tera_blast",
+      "trailblaze",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "abyss"
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "electromorphosis",
+    "name": "Electromorphosis",
+    "koName": "전기로바꾸기",
+    "realased": "",
+    "description": "데미지를 받으면 충전 상태가 된다.",
+    "generation": 9,
+    "pokemonIds": [
+      "mareep",
+      "flaaffy",
+      "ampharos",
+      "ampharos_mega",
+      "pincurchin",
+      "bellibolt"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

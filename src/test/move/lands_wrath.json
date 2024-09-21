@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "lands_wrath",
+    "name": "Land's Wrath",
+    "koName": "그라운드포스",
+    "type": "ground",
+    "moveCategory": "physical",
+    "moveTarget": "all_near_enemies",
+    "power": 90,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "대지의 힘을 모으고 그 힘을 상대에게 집중시켜서 데미지를 준다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 6,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "swinub",
+      "piloswine",
+      "mamoswine",
+      "zygarde"
+    ]
+  }
+]

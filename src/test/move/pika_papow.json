@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "pika_papow",
+    "name": "Pika Papow",
+    "koName": "피카피카썬더",
+    "type": "electric",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 20,
+    "effect": "트레이너를 좋아하는 피카츄의 마음이 강할수록 위력이 올라가는 전격. 반드시 명중한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "pikachu",
+      "pikachu_partner",
+      "pikachu_cosplay",
+      "pikachu_cool_cosplay",
+      "pikachu_beauty_cosplay",
+      "pikachu_cute_cosplay",
+      "pikachu_smart_cosplay",
+      "pikachu_tough_cosplay",
+      "pikachu_gigantamax",
+      "raichu",
+      "alola_raichu"
+    ]
+  }
+]

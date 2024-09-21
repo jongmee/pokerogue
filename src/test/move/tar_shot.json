@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "tar_shot",
+    "name": "Tar Shot",
+    "koName": "타르샷",
+    "type": "rock",
+    "moveCategory": "status",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": 100,
+    "powerPoint": 15,
+    "effect": "끈적끈적한 타르를 날려서 상대의 스피드를 떨어뜨린다. 상대는 불꽃이 약점이 된다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": " (P)",
+    "flags": [],
+    "pokemonIds": [
+      "coalossal"
+    ]
+  }
+]

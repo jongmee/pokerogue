@@ -1,0 +1,36 @@
+[
+  {
+    "_id": "baneful_bunker",
+    "name": "Baneful Bunker",
+    "koName": "토치카",
+    "type": "poison",
+    "moveCategory": "status",
+    "moveTarget": "user",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 10,
+    "effect": "상대의 공격을 막음과 동시에 접촉한 상대에게 독을 퍼뜨린다.",
+    "effectChance": -1,
+    "prioirty": 4,
+    "generation": 7,
+    "realased": "",
+    "flags": [
+      "ignore_protect"
+    ],
+    "pokemonIds": [
+      "nidoran_f",
+      "nidorina",
+      "nidoqueen",
+      "tentacool",
+      "tentacruel",
+      "shellder",
+      "cloyster",
+      "qwilfish",
+      "stunfisk",
+      "toxapex",
+      "pyukumuku",
+      "clodsire",
+      "paldea_wooper"
+    ]
+  }
+]

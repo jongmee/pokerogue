@@ -1,0 +1,176 @@
+[
+  {
+    "_id": "growlithe",
+    "gender": "",
+    "pokedexNumber": "58",
+    "name": "growlithe",
+    "koName": "가디",
+    "speciesName": "growlithe",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "70",
+    "friendship": "50",
+    "types": [
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "intimidate",
+      "flash_fire"
+    ],
+    "hiddenAbilityId": "justified",
+    "passiveAbilityId": "speed_boost",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 350,
+    "hp": 55,
+    "attack": 70,
+    "defense": 45,
+    "specialAttack": 70,
+    "specialDefense": 50,
+    "speed": 60,
+    "height": 0.7,
+    "weight": 19,
+    "eggMoveIds": [
+      "zing_zap",
+      "parting_shot",
+      "morning_sun",
+      "sacred_fire"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 4,
+        "moveId": "howl"
+      },
+      {
+        "level": 8,
+        "moveId": "bite"
+      },
+      {
+        "level": 12,
+        "moveId": "flame_wheel"
+      },
+      {
+        "level": 16,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 20,
+        "moveId": "agility"
+      },
+      {
+        "level": 24,
+        "moveId": "fire_fang"
+      },
+      {
+        "level": 28,
+        "moveId": "retaliate"
+      },
+      {
+        "level": 32,
+        "moveId": "crunch"
+      },
+      {
+        "level": 36,
+        "moveId": "take_down"
+      },
+      {
+        "level": 40,
+        "moveId": "flamethrower"
+      },
+      {
+        "level": 44,
+        "moveId": "roar"
+      },
+      {
+        "level": 48,
+        "moveId": "play_rough"
+      },
+      {
+        "level": 52,
+        "moveId": "reversal"
+      },
+      {
+        "level": 56,
+        "moveId": "flare_blitz"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "strength",
+      "fire_spin",
+      "dig",
+      "toxic",
+      "agility",
+      "double_team",
+      "reflect",
+      "fire_blast",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "reversal",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "outrage",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "iron_tail",
+      "hidden_power",
+      "sunny_day",
+      "crunch",
+      "rock_smash",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "helping_hand",
+      "overheat",
+      "aerial_ace",
+      "covet",
+      "close_combat",
+      "flare_blitz",
+      "thunder_fang",
+      "fire_fang",
+      "flame_charge",
+      "round",
+      "incinerate",
+      "retaliate",
+      "wild_charge",
+      "snarl",
+      "play_rough",
+      "confide",
+      "psychic_fangs",
+      "tera_blast",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "grass",
+      "volcano"
+    ]
+  }
+]

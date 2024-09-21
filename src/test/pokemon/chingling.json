@@ -1,0 +1,146 @@
+[
+  {
+    "_id": "chingling",
+    "gender": "",
+    "pokedexNumber": "433",
+    "name": "chingling",
+    "koName": "랑딸랑",
+    "speciesName": "chingling",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "57",
+    "friendship": "70",
+    "types": [
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "levitate"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "punk_rock",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 285,
+    "hp": 45,
+    "attack": 30,
+    "defense": 50,
+    "specialAttack": 65,
+    "specialDefense": 50,
+    "speed": 45,
+    "height": 0.2,
+    "weight": 0.6,
+    "eggMoveIds": [
+      "buzzy_buzz",
+      "eerie_spell",
+      "torch_song",
+      "boomburst"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "wrap"
+      },
+      {
+        "level": 1,
+        "moveId": "psywave"
+      },
+      {
+        "level": 4,
+        "moveId": "growl"
+      },
+      {
+        "level": 7,
+        "moveId": "astonish"
+      },
+      {
+        "level": 10,
+        "moveId": "confusion"
+      },
+      {
+        "level": 13,
+        "moveId": "yawn"
+      },
+      {
+        "level": 16,
+        "moveId": "last_resort"
+      },
+      {
+        "level": 19,
+        "moveId": "entrainment"
+      },
+      {
+        "level": 32,
+        "moveId": "uproar"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "double_edge",
+      "thunder_wave",
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "swift",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "safeguard",
+      "baton_pass",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "uproar",
+      "torment",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "trick",
+      "recycle",
+      "knock_off",
+      "skill_swap",
+      "hyper_voice",
+      "cosmic_power",
+      "signal_beam",
+      "calm_mind",
+      "gravity",
+      "energy_ball",
+      "zen_headbutt",
+      "trick_room",
+      "grass_knot",
+      "charge_beam",
+      "psyshock",
+      "round",
+      "echoed_voice",
+      "stored_power",
+      "ally_switch",
+      "confide",
+      "dazzling_gleam",
+      "tera_blast",
+      "psychic_noise"
+    ],
+    "biomeIds": [
+      "temple"
+    ]
+  }
+]

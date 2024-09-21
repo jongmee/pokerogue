@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "magic_powder",
+    "name": "Magic Powder",
+    "koName": "마법가루",
+    "type": "psychic",
+    "moveCategory": "status",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": 100,
+    "powerPoint": 20,
+    "effect": "마법가루를 날려서 상대를 에스퍼타입으로 바꾼다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [
+      "powder_move"
+    ],
+    "pokemonIds": [
+      "hatterene"
+    ]
+  }
+]

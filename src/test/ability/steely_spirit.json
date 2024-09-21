@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "steely_spirit",
+    "name": "Steely Spirit",
+    "koName": "강철정신",
+    "realased": "",
+    "description": "같은 편의 강철타입 공격의 위력이 올라간다.",
+    "generation": 8,
+    "pokemonIds": [
+      "klink",
+      "klang",
+      "klinklang",
+      "magearna",
+      "meltan",
+      "melmetal",
+      "melmetal_gigantamax",
+      "perrserker",
+      "iron_treads"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

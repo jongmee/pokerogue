@@ -1,0 +1,216 @@
+[
+  {
+    "_id": "krookodile",
+    "gender": "",
+    "pokedexNumber": "553",
+    "name": "krookodile",
+    "koName": "악비아르",
+    "speciesName": "krookodile",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "260",
+    "friendship": "50",
+    "types": [
+      "ground",
+      "dark"
+    ],
+    "normalAbilityIds": [
+      "intimidate",
+      "moxie"
+    ],
+    "hiddenAbilityId": "anger_point",
+    "passiveAbilityId": "tough_claws",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 519,
+    "hp": 95,
+    "attack": 117,
+    "defense": 80,
+    "specialAttack": 65,
+    "specialDefense": 70,
+    "speed": 92,
+    "height": 1.5,
+    "weight": 96.3,
+    "eggMoveIds": [
+      "dire_claw",
+      "high_horsepower",
+      "fire_lash",
+      "wicked_blow"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 1,
+        "moveId": "power_trip"
+      },
+      {
+        "level": 9,
+        "moveId": "sand_tomb"
+      },
+      {
+        "level": 12,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 15,
+        "moveId": "bite"
+      },
+      {
+        "level": 18,
+        "moveId": "torment"
+      },
+      {
+        "level": 21,
+        "moveId": "dig"
+      },
+      {
+        "level": 24,
+        "moveId": "swagger"
+      },
+      {
+        "level": 27,
+        "moveId": "crunch"
+      },
+      {
+        "level": 32,
+        "moveId": "sandstorm"
+      },
+      {
+        "level": 35,
+        "moveId": "foul_play"
+      },
+      {
+        "level": 44,
+        "moveId": "earthquake"
+      },
+      {
+        "level": 51,
+        "moveId": "thrash"
+      },
+      {
+        "level": 58,
+        "moveId": "outrage"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "cut",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "hyper_beam",
+      "low_kick",
+      "counter",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "double_team",
+      "focus_energy",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "mud_slap",
+      "outrage",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "crunch",
+      "rock_smash",
+      "beat_up",
+      "uproar",
+      "torment",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "superpower",
+      "revenge",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "rock_tomb",
+      "sand_tomb",
+      "aerial_ace",
+      "dragon_claw",
+      "bulk_up",
+      "mud_shot",
+      "close_combat",
+      "payback",
+      "assurance",
+      "embargo",
+      "fling",
+      "dark_pulse",
+      "aqua_tail",
+      "dragon_pulse",
+      "focus_blast",
+      "earth_power",
+      "giga_impact",
+      "shadow_claw",
+      "thunder_fang",
+      "fire_fang",
+      "rock_climb",
+      "gunk_shot",
+      "stone_edge",
+      "stealth_rock",
+      "grass_knot",
+      "hone_claws",
+      "smack_down",
+      "low_sweep",
+      "foul_play",
+      "round",
+      "incinerate",
+      "retaliate",
+      "bulldoze",
+      "dragon_tail",
+      "snarl",
+      "confide",
+      "power_up_punch",
+      "darkest_lariat",
+      "high_horsepower",
+      "throat_chop",
+      "brutal_swing",
+      "stomping_tantrum",
+      "breaking_swipe",
+      "scale_shot",
+      "skitter_smack",
+      "lash_out",
+      "scorching_sands",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "desert"
+    ]
+  }
+]

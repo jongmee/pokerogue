@@ -1,0 +1,41 @@
+[
+  {
+    "_id": "fell_stinger",
+    "name": "Fell Stinger",
+    "koName": "마지막일침",
+    "type": "bug",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 50,
+    "accuracy": 100,
+    "powerPoint": 25,
+    "effect": "이 기술을 사용하여 상대를 쓰러뜨리면 공격이 매우 크게 오른다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 6,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "beedrill",
+      "ariados",
+      "qwilfish",
+      "kricketune",
+      "vespiquen",
+      "skorupi",
+      "drapion",
+      "leavanny",
+      "escavalier",
+      "genesect",
+      "togedemaru",
+      "buzzwole",
+      "poipole",
+      "naganadel",
+      "overqwil",
+      "nymble",
+      "lokix",
+      "hisui_qwilfish"
+    ]
+  }
+]

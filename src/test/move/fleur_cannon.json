@@ -1,0 +1,31 @@
+[
+  {
+    "_id": "fleur_cannon",
+    "name": "Fleur Cannon",
+    "koName": "플뢰르캐논",
+    "type": "fairy",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 130,
+    "accuracy": 90,
+    "powerPoint": 5,
+    "effect": "강력한 빔을 발산한 후 자신의 특수공격이 크게 떨어진다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "magmar",
+      "magby",
+      "spinda",
+      "magmortar",
+      "snivy",
+      "servine",
+      "serperior",
+      "magearna",
+      "enamorus_incarnate",
+      "enamorus_therian"
+    ]
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "_id": "persian",
+    "gender": "",
+    "pokedexNumber": "53",
+    "name": "persian",
+    "koName": "페르시온",
+    "speciesName": "persian",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "154",
+    "friendship": "50",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "limber",
+      "technician"
+    ],
+    "hiddenAbilityId": "unnerve",
+    "passiveAbilityId": "tough_claws",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 440,
+    "hp": 65,
+    "attack": 70,
+    "defense": 60,
+    "specialAttack": 65,
+    "specialDefense": 65,
+    "speed": 115,
+    "height": 1,
+    "weight": 32,
+    "eggMoveIds": [
+      "covet",
+      "swords_dance",
+      "double_kick",
+      "tail_slap"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "power_gem"
+      },
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "fake_out"
+      },
+      {
+        "level": 1,
+        "moveId": "feint"
+      },
+      {
+        "level": 1,
+        "moveId": "switcheroo"
+      },
+      {
+        "level": 12,
+        "moveId": "pay_day"
+      },
+      {
+        "level": 16,
+        "moveId": "bite"
+      },
+      {
+        "level": 20,
+        "moveId": "taunt"
+      },
+      {
+        "level": 24,
+        "moveId": "assurance"
+      },
+      {
+        "level": 31,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 36,
+        "moveId": "screech"
+      },
+      {
+        "level": 42,
+        "moveId": "slash"
+      },
+      {
+        "level": 48,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 54,
+        "moveId": "play_rough"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "pay_day",
+      "cut",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "hyper_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "dig",
+      "toxic",
+      "agility",
+      "screech",
+      "double_team",
+      "swift",
+      "amnesia",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "charm",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "iron_tail",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "uproar",
+      "torment",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "knock_off",
+      "endeavor",
+      "hyper_voice",
+      "fake_tears",
+      "aerial_ace",
+      "covet",
+      "water_pulse",
+      "u_turn",
+      "payback",
+      "assurance",
+      "embargo",
+      "dark_pulse",
+      "seed_bomb",
+      "power_gem",
+      "giga_impact",
+      "nasty_plot",
+      "shadow_claw",
+      "gunk_shot",
+      "hone_claws",
+      "foul_play",
+      "round",
+      "echoed_voice",
+      "retaliate",
+      "work_up",
+      "snarl",
+      "play_rough",
+      "confide",
+      "throat_chop",
+      "skitter_smack",
+      "lash_out",
+      "tera_blast",
+      "trailblaze",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "plains"
+    ]
+  }
+]

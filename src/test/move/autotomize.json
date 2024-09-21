@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "autotomize",
+    "name": "Autotomize",
+    "koName": "바디퍼지",
+    "type": "steel",
+    "moveCategory": "status",
+    "moveTarget": "user",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 15,
+    "effect": "몸의 쓸모없는 부분을 깎는다. 자신의 스피드를 크게 올리고 체중도 가벼워진다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 5,
+    "realased": " (P)",
+    "flags": [
+      "ignore_protect"
+    ],
+    "pokemonIds": [
+      "steelix",
+      "aron",
+      "lairon",
+      "aggron",
+      "klink",
+      "klang",
+      "klinklang",
+      "honedge",
+      "doublade",
+      "aegislash",
+      "minior",
+      "celesteela",
+      "necrozma",
+      "stakataka"
+    ]
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "_id": "beheeyem",
+    "gender": "",
+    "pokedexNumber": "606",
+    "name": "beheeyem",
+    "koName": "벰크",
+    "speciesName": "beheeyem",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "170",
+    "friendship": "50",
+    "types": [
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "telepathy",
+      "synchronize"
+    ],
+    "hiddenAbilityId": "analytic",
+    "passiveAbilityId": "prism_armor",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 485,
+    "hp": 75,
+    "attack": 75,
+    "defense": 75,
+    "specialAttack": 125,
+    "specialDefense": 95,
+    "speed": 40,
+    "height": 1,
+    "weight": 34.5,
+    "eggMoveIds": [
+      "luster_purge",
+      "trick_room",
+      "aura_sphere",
+      "tail_glow"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 1,
+        "moveId": "synchronoise"
+      },
+      {
+        "level": 1,
+        "moveId": "teleport"
+      },
+      {
+        "level": 1,
+        "moveId": "imprison"
+      },
+      {
+        "level": 1,
+        "moveId": "psychic_terrain"
+      },
+      {
+        "level": 8,
+        "moveId": "heal_block"
+      },
+      {
+        "level": 18,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 24,
+        "moveId": "guard_split"
+      },
+      {
+        "level": 24,
+        "moveId": "power_split"
+      },
+      {
+        "level": 30,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 36,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 45,
+        "moveId": "recover"
+      },
+      {
+        "level": 52,
+        "moveId": "calm_mind"
+      },
+      {
+        "level": 60,
+        "moveId": "wonder_room"
+      },
+      {
+        "level": 68,
+        "moveId": "psychic"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "psybeam",
+      "hyper_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "toxic",
+      "psychic",
+      "agility",
+      "screech",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "dream_eater",
+      "flash",
+      "rest",
+      "rock_slide",
+      "tri_attack",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "endure",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "pain_split",
+      "hidden_power",
+      "rain_dance",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "uproar",
+      "facade",
+      "trick",
+      "recycle",
+      "skill_swap",
+      "imprison",
+      "rock_tomb",
+      "cosmic_power",
+      "signal_beam",
+      "calm_mind",
+      "gravity",
+      "embargo",
+      "power_swap",
+      "guard_swap",
+      "dark_pulse",
+      "energy_ball",
+      "giga_impact",
+      "nasty_plot",
+      "zen_headbutt",
+      "flash_cannon",
+      "trick_room",
+      "charge_beam",
+      "wonder_room",
+      "psyshock",
+      "round",
+      "echoed_voice",
+      "stored_power",
+      "ally_switch",
+      "confide",
+      "psychic_terrain",
+      "expanding_force",
+      "meteor_beam",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "ruins",
+      "space"
+    ]
+  }
+]

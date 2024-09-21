@@ -1,0 +1,168 @@
+[
+  {
+    "_id": "mabosstiff",
+    "gender": "",
+    "pokedexNumber": "943",
+    "name": "mabosstiff",
+    "koName": "마피티프",
+    "speciesName": "mabosstiff",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "177",
+    "friendship": "50",
+    "types": [
+      "dark"
+    ],
+    "normalAbilityIds": [
+      "intimidate",
+      "guard_dog"
+    ],
+    "hiddenAbilityId": "stakeout",
+    "passiveAbilityId": "strong_jaw",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 505,
+    "hp": 80,
+    "attack": 120,
+    "defense": 90,
+    "specialAttack": 60,
+    "specialDefense": 70,
+    "speed": 85,
+    "height": 1.1,
+    "weight": 61,
+    "eggMoveIds": [
+      "parting_shot",
+      "close_combat",
+      "psychic_fangs",
+      "no_retreat"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "comeuppance"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 4,
+        "moveId": "lick"
+      },
+      {
+        "level": 7,
+        "moveId": "snarl"
+      },
+      {
+        "level": 10,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 14,
+        "moveId": "bite"
+      },
+      {
+        "level": 18,
+        "moveId": "roar"
+      },
+      {
+        "level": 22,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 26,
+        "moveId": "payback"
+      },
+      {
+        "level": 34,
+        "moveId": "crunch"
+      },
+      {
+        "level": 39,
+        "moveId": "swagger"
+      },
+      {
+        "level": 43,
+        "moveId": "reversal"
+      },
+      {
+        "level": 48,
+        "moveId": "jaw_lock"
+      },
+      {
+        "level": 55,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 60,
+        "moveId": "outrage"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "hyper_beam",
+      "dig",
+      "double_team",
+      "rest",
+      "substitute",
+      "thief",
+      "curse",
+      "reversal",
+      "spite",
+      "protect",
+      "scary_face",
+      "outrage",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "endeavor",
+      "hyper_voice",
+      "fake_tears",
+      "payback",
+      "dark_pulse",
+      "giga_impact",
+      "thunder_fang",
+      "ice_fang",
+      "fire_fang",
+      "hone_claws",
+      "wild_charge",
+      "snarl",
+      "play_rough",
+      "psychic_fangs",
+      "lash_out",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "abyss"
+    ]
+  }
+]

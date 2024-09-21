@@ -1,0 +1,39 @@
+[
+  {
+    "_id": "sky_attack",
+    "name": "Sky Attack",
+    "koName": "불새",
+    "type": "flying",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 140,
+    "accuracy": 90,
+    "powerPoint": 5,
+    "effect": "2턴째에 상대를 공격한다. 가끔 풀죽게 만든다. 급소에도 맞기 쉽다.",
+    "effectChance": 30,
+    "prioirty": 0,
+    "generation": 1,
+    "realased": "",
+    "flags": [
+      "ignore_virtual"
+    ],
+    "pokemonIds": [
+      "moltres",
+      "noctowl",
+      "lugia",
+      "ho_oh",
+      "altaria",
+      "togekiss",
+      "pidove",
+      "tranquill",
+      "unfezant",
+      "sigilyph",
+      "braviary",
+      "mandibuzz",
+      "hawlucha",
+      "yveltal",
+      "galar_moltres",
+      "hisui_braviary"
+    ]
+  }
+]

@@ -1,0 +1,161 @@
+[
+  {
+    "_id": "galar_yamask",
+    "gender": "",
+    "pokedexNumber": "4562",
+    "name": "galar_yamask",
+    "koName": "데스마스",
+    "speciesName": "galar_yamask",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "61",
+    "friendship": "50",
+    "types": [
+      "ground",
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "wandering_spirit"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "tablets_of_ruin",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 303,
+    "hp": 38,
+    "attack": 55,
+    "defense": 85,
+    "specialAttack": 30,
+    "specialDefense": 65,
+    "speed": 30,
+    "height": 0.5,
+    "weight": 1.5,
+    "eggMoveIds": [
+      "strength_sap",
+      "dire_claw",
+      "thousand_waves",
+      "spectral_thief"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "protect"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 4,
+        "moveId": "haze"
+      },
+      {
+        "level": 8,
+        "moveId": "night_shade"
+      },
+      {
+        "level": 12,
+        "moveId": "disable"
+      },
+      {
+        "level": 16,
+        "moveId": "brutal_swing"
+      },
+      {
+        "level": 20,
+        "moveId": "crafty_shield"
+      },
+      {
+        "level": 24,
+        "moveId": "hex"
+      },
+      {
+        "level": 28,
+        "moveId": "mean_look"
+      },
+      {
+        "level": 32,
+        "moveId": "slam"
+      },
+      {
+        "level": 36,
+        "moveId": "curse"
+      },
+      {
+        "level": 40,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 44,
+        "moveId": "earthquake"
+      },
+      {
+        "level": 48,
+        "moveId": "guard_split"
+      },
+      {
+        "level": 48,
+        "moveId": "power_split"
+      },
+      {
+        "level": 52,
+        "moveId": "destiny_bond"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "earthquake",
+      "psychic",
+      "night_shade",
+      "double_team",
+      "haze",
+      "flash",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "sandstorm",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "rain_dance",
+      "shadow_ball",
+      "will_o_wisp",
+      "facade",
+      "trick",
+      "skill_swap",
+      "imprison",
+      "fake_tears",
+      "rock_tomb",
+      "iron_defense",
+      "calm_mind",
+      "payback",
+      "toxic_spikes",
+      "dark_pulse",
+      "energy_ball",
+      "earth_power",
+      "nasty_plot",
+      "zen_headbutt",
+      "trick_room",
+      "wonder_room",
+      "round",
+      "ally_switch",
+      "hex",
+      "brutal_swing",
+      "poltergeist"
+    ],
+    "biomeIds": [
+      "ruins"
+    ]
+  }
+]

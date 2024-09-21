@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "innards_out",
+    "name": "Innards Out",
+    "koName": "내용물분출",
+    "realased": "",
+    "description": "상대가 쓰러뜨렸을 때 HP의 남은 양만큼 상대에게 데미지를 준다.",
+    "generation": 7,
+    "pokemonIds": [
+      "pyukumuku"
+    ],
+    "isBypassFaint": true,
+    "isIgnorable": false
+  }
+]

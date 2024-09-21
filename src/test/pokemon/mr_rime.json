@@ -1,0 +1,254 @@
+[
+  {
+    "_id": "mr_rime",
+    "gender": "",
+    "pokedexNumber": "866",
+    "name": "mr_rime",
+    "koName": "마임꽁꽁",
+    "speciesName": "mr_rime",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "182",
+    "friendship": "50",
+    "types": [
+      "ice",
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "tangled_feet",
+      "screen_cleaner"
+    ],
+    "hiddenAbilityId": "ice_body",
+    "passiveAbilityId": "opportunist",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 520,
+    "hp": 80,
+    "attack": 85,
+    "defense": 75,
+    "specialAttack": 110,
+    "specialDefense": 100,
+    "speed": 70,
+    "height": 1.5,
+    "weight": 58.2,
+    "eggMoveIds": [
+      "calm_mind",
+      "moonblast",
+      "sizzly_slide",
+      "lumina_crash"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "mimic"
+      },
+      {
+        "level": 1,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 1,
+        "moveId": "reflect"
+      },
+      {
+        "level": 1,
+        "moveId": "protect"
+      },
+      {
+        "level": 1,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 1,
+        "moveId": "baton_pass"
+      },
+      {
+        "level": 1,
+        "moveId": "encore"
+      },
+      {
+        "level": 1,
+        "moveId": "rapid_spin"
+      },
+      {
+        "level": 1,
+        "moveId": "role_play"
+      },
+      {
+        "level": 1,
+        "moveId": "recycle"
+      },
+      {
+        "level": 1,
+        "moveId": "slack_off"
+      },
+      {
+        "level": 1,
+        "moveId": "fake_tears"
+      },
+      {
+        "level": 1,
+        "moveId": "block"
+      },
+      {
+        "level": 1,
+        "moveId": "copycat"
+      },
+      {
+        "level": 1,
+        "moveId": "ice_shard"
+      },
+      {
+        "level": 1,
+        "moveId": "after_you"
+      },
+      {
+        "level": 1,
+        "moveId": "misty_terrain"
+      },
+      {
+        "level": 1,
+        "moveId": "dazzling_gleam"
+      },
+      {
+        "level": 12,
+        "moveId": "confusion"
+      },
+      {
+        "level": 16,
+        "moveId": "ally_switch"
+      },
+      {
+        "level": 20,
+        "moveId": "icy_wind"
+      },
+      {
+        "level": 24,
+        "moveId": "double_kick"
+      },
+      {
+        "level": 28,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 32,
+        "moveId": "hypnosis"
+      },
+      {
+        "level": 36,
+        "moveId": "mirror_coat"
+      },
+      {
+        "level": 40,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 44,
+        "moveId": "freeze_dry"
+      },
+      {
+        "level": 48,
+        "moveId": "psychic"
+      },
+      {
+        "level": 52,
+        "moveId": "teeter_dance"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "ice_punch",
+      "mega_kick",
+      "body_slam",
+      "ice_beam",
+      "blizzard",
+      "psybeam",
+      "hyper_beam",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "psychic",
+      "screech",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "metronome",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "icy_wind",
+      "endure",
+      "charm",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "baton_pass",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "shadow_ball",
+      "future_sight",
+      "uproar",
+      "hail",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "trick",
+      "recycle",
+      "brick_break",
+      "skill_swap",
+      "fake_tears",
+      "icicle_spear",
+      "iron_defense",
+      "covet",
+      "calm_mind",
+      "payback",
+      "fling",
+      "power_swap",
+      "guard_swap",
+      "drain_punch",
+      "focus_blast",
+      "energy_ball",
+      "giga_impact",
+      "nasty_plot",
+      "avalanche",
+      "zen_headbutt",
+      "trick_room",
+      "grass_knot",
+      "wonder_room",
+      "psyshock",
+      "magic_room",
+      "foul_play",
+      "round",
+      "stored_power",
+      "ally_switch",
+      "misty_terrain",
+      "dazzling_gleam",
+      "psychic_terrain",
+      "stomping_tantrum",
+      "expanding_force",
+      "triple_axel"
+    ],
+    "biomeIds": [
+      "snowy_forest"
+    ]
+  }
+]

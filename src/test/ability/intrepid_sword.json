@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "intrepid_sword",
+    "name": "Intrepid Sword",
+    "koName": "불요의검",
+    "realased": "",
+    "description": "등장했을 때 공격이 올라간다.",
+    "generation": 8,
+    "pokemonIds": [
+      "oshawott",
+      "dewott",
+      "samurott",
+      "cobalion",
+      "sirfetchd",
+      "zacian",
+      "galar_farfetchd",
+      "hisui_samurott"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

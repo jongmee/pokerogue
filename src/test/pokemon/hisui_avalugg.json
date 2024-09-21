@@ -1,0 +1,185 @@
+[
+  {
+    "_id": "hisui_avalugg",
+    "gender": "",
+    "pokedexNumber": "6713",
+    "name": "hisui_avalugg",
+    "koName": "크레베이스",
+    "speciesName": "hisui_avalugg",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "180",
+    "friendship": "50",
+    "types": [
+      "ice",
+      "rock"
+    ],
+    "normalAbilityIds": [
+      "strong_jaw",
+      "ice_body"
+    ],
+    "hiddenAbilityId": "sturdy",
+    "passiveAbilityId": "ice_scales",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 514,
+    "hp": 95,
+    "attack": 127,
+    "defense": 184,
+    "specialAttack": 34,
+    "specialDefense": 36,
+    "speed": 38,
+    "height": 1.4,
+    "weight": 262.4,
+    "eggMoveIds": [
+      "stone_axe",
+      "metal_burst",
+      "body_press",
+      "glacial_lance"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "rock_slide"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "harden"
+      },
+      {
+        "level": 1,
+        "moveId": "powder_snow"
+      },
+      {
+        "level": 1,
+        "moveId": "rapid_spin"
+      },
+      {
+        "level": 1,
+        "moveId": "wide_guard"
+      },
+      {
+        "level": 9,
+        "moveId": "curse"
+      },
+      {
+        "level": 12,
+        "moveId": "icy_wind"
+      },
+      {
+        "level": 15,
+        "moveId": "protect"
+      },
+      {
+        "level": 18,
+        "moveId": "avalanche"
+      },
+      {
+        "level": 21,
+        "moveId": "bite"
+      },
+      {
+        "level": 24,
+        "moveId": "ice_fang"
+      },
+      {
+        "level": 27,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 30,
+        "moveId": "recover"
+      },
+      {
+        "level": 33,
+        "moveId": "crunch"
+      },
+      {
+        "level": 36,
+        "moveId": "take_down"
+      },
+      {
+        "level": 41,
+        "moveId": "blizzard"
+      },
+      {
+        "level": 46,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 51,
+        "moveId": "stone_edge"
+      },
+      {
+        "level": 61,
+        "moveId": "mountain_gale"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "strength",
+      "earthquake",
+      "dig",
+      "double_team",
+      "flash",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "curse",
+      "protect",
+      "scary_face",
+      "icy_wind",
+      "sandstorm",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "crunch",
+      "rock_smash",
+      "facade",
+      "rock_tomb",
+      "icicle_spear",
+      "iron_defense",
+      "rock_blast",
+      "gyro_ball",
+      "giga_impact",
+      "avalanche",
+      "ice_fang",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "heavy_slam",
+      "bulldoze",
+      "high_horsepower",
+      "aurora_veil",
+      "stomping_tantrum",
+      "body_press",
+      "meteor_beam",
+      "tera_blast",
+      "ice_spinner",
+      "snowscape",
+      "chilling_water",
+      "hard_press"
+    ],
+    "biomeIds": [
+      "snowy_forest"
+    ]
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "_id": "bellibolt",
+    "gender": "",
+    "pokedexNumber": "939",
+    "name": "bellibolt",
+    "koName": "찌리배리",
+    "speciesName": "bellibolt",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "173",
+    "friendship": "50",
+    "types": [
+      "electric"
+    ],
+    "normalAbilityIds": [
+      "electromorphosis",
+      "static"
+    ],
+    "hiddenAbilityId": "damp",
+    "passiveAbilityId": "stamina",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 495,
+    "hp": 109,
+    "attack": 64,
+    "defense": 91,
+    "specialAttack": 103,
+    "specialDefense": 83,
+    "speed": 45,
+    "height": 1.2,
+    "weight": 113,
+    "eggMoveIds": [
+      "parabolic_charge",
+      "scald",
+      "earth_power",
+      "electro_shot"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "mud_slap"
+      },
+      {
+        "level": 1,
+        "moveId": "slack_off"
+      },
+      {
+        "level": 7,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 11,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 17,
+        "moveId": "charge"
+      },
+      {
+        "level": 21,
+        "moveId": "spark"
+      },
+      {
+        "level": 24,
+        "moveId": "mud_shot"
+      },
+      {
+        "level": 25,
+        "moveId": "flail"
+      },
+      {
+        "level": 32,
+        "moveId": "discharge"
+      },
+      {
+        "level": 36,
+        "moveId": "weather_ball"
+      },
+      {
+        "level": 40,
+        "moveId": "electric_terrain"
+      },
+      {
+        "level": 45,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 50,
+        "moveId": "zap_cannon"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "hyper_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "swift",
+      "rest",
+      "substitute",
+      "protect",
+      "mud_slap",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "charge",
+      "hyper_voice",
+      "weather_ball",
+      "muddy_water",
+      "mud_shot",
+      "water_pulse",
+      "giga_impact",
+      "charge_beam",
+      "electro_ball",
+      "acid_spray",
+      "volt_switch",
+      "electroweb",
+      "wild_charge",
+      "eerie_impulse",
+      "electric_terrain",
+      "tera_blast",
+      "chilling_water",
+      "supercell_slam"
+    ],
+    "biomeIds": [
+      "power_plant"
+    ]
+  }
+]

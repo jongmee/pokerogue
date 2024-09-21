@@ -1,0 +1,169 @@
+[
+  {
+    "_id": "dragonair",
+    "gender": "",
+    "pokedexNumber": "148",
+    "name": "dragonair",
+    "koName": "신뇽",
+    "speciesName": "dragonair",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "147",
+    "friendship": "35",
+    "types": [
+      "dragon"
+    ],
+    "normalAbilityIds": [
+      "shed_skin"
+    ],
+    "hiddenAbilityId": "marvel_scale",
+    "passiveAbilityId": "aerilate",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 420,
+    "hp": 61,
+    "attack": 84,
+    "defense": 65,
+    "specialAttack": 70,
+    "specialDefense": 70,
+    "speed": 70,
+    "height": 4,
+    "weight": 16.5,
+    "eggMoveIds": [
+      "dragon_hammer",
+      "crush_grip",
+      "fire_lash",
+      "gigaton_hammer"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "wrap"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_wave"
+      },
+      {
+        "level": 1,
+        "moveId": "twister"
+      },
+      {
+        "level": 15,
+        "moveId": "dragon_tail"
+      },
+      {
+        "level": 20,
+        "moveId": "agility"
+      },
+      {
+        "level": 25,
+        "moveId": "slam"
+      },
+      {
+        "level": 33,
+        "moveId": "aqua_tail"
+      },
+      {
+        "level": 39,
+        "moveId": "dragon_rush"
+      },
+      {
+        "level": 46,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 53,
+        "moveId": "rain_dance"
+      },
+      {
+        "level": 60,
+        "moveId": "dragon_dance"
+      },
+      {
+        "level": 67,
+        "moveId": "outrage"
+      },
+      {
+        "level": 74,
+        "moveId": "hyper_beam"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "flamethrower",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "fire_spin",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "agility",
+      "double_team",
+      "light_screen",
+      "haze",
+      "reflect",
+      "fire_blast",
+      "waterfall",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "icy_wind",
+      "outrage",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "whirlpool",
+      "hail",
+      "facade",
+      "helping_hand",
+      "weather_ball",
+      "dragon_dance",
+      "water_pulse",
+      "aqua_tail",
+      "dragon_pulse",
+      "giga_impact",
+      "draco_meteor",
+      "iron_head",
+      "round",
+      "incinerate",
+      "dragon_tail",
+      "confide",
+      "brutal_swing",
+      "breaking_swipe",
+      "scale_shot",
+      "tera_blast",
+      "chilling_water",
+      "dragon_cheer"
+    ],
+    "biomeIds": [
+      "wasteland"
+    ]
+  }
+]

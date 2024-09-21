@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "harvest",
+    "name": "Harvest",
+    "koName": "수확",
+    "realased": " (P)",
+    "description": "사용한 나무열매를 몇 번이고 만들어 낸다.",
+    "generation": 5,
+    "pokemonIds": [
+      "exeggcute",
+      "exeggutor",
+      "snorlax_gigantamax",
+      "shuckle",
+      "tropius",
+      "phantump",
+      "trevenant",
+      "xerneas_neutral",
+      "xerneas_active",
+      "skwovet",
+      "greedent",
+      "calyrex",
+      "calyrex_ice",
+      "calyrex_shadow",
+      "smoliv",
+      "dolliv",
+      "arboliva",
+      "alola_exeggutor"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

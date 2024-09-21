@@ -1,0 +1,166 @@
+[
+  {
+    "_id": "piplup",
+    "gender": "",
+    "pokedexNumber": "393",
+    "name": "piplup",
+    "koName": "팽도리",
+    "speciesName": "piplup",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "63",
+    "friendship": "70",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "torrent"
+    ],
+    "hiddenAbilityId": "competitive",
+    "passiveAbilityId": "drizzle",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 314,
+    "hp": 53,
+    "attack": 51,
+    "defense": 53,
+    "specialAttack": 61,
+    "specialDefense": 56,
+    "speed": 40,
+    "height": 0.4,
+    "weight": 5.2,
+    "eggMoveIds": [
+      "kings_shield",
+      "tachyon_cutter",
+      "roost",
+      "steam_eruption"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 4,
+        "moveId": "growl"
+      },
+      {
+        "level": 5,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 11,
+        "moveId": "charm"
+      },
+      {
+        "level": 15,
+        "moveId": "peck"
+      },
+      {
+        "level": 18,
+        "moveId": "bubble_beam"
+      },
+      {
+        "level": 22,
+        "moveId": "swagger"
+      },
+      {
+        "level": 25,
+        "moveId": "fury_attack"
+      },
+      {
+        "level": 29,
+        "moveId": "brine"
+      },
+      {
+        "level": 32,
+        "moveId": "whirlpool"
+      },
+      {
+        "level": 36,
+        "moveId": "mist"
+      },
+      {
+        "level": 39,
+        "moveId": "drill_peck"
+      },
+      {
+        "level": 43,
+        "moveId": "hydro_pump"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "cut",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "dig",
+      "toxic",
+      "agility",
+      "double_team",
+      "haze",
+      "waterfall",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "rock_smash",
+      "whirlpool",
+      "hail",
+      "facade",
+      "helping_hand",
+      "brick_break",
+      "dive",
+      "feather_dance",
+      "weather_ball",
+      "rock_tomb",
+      "signal_beam",
+      "aerial_ace",
+      "covet",
+      "water_pulse",
+      "roost",
+      "brine",
+      "pluck",
+      "fling",
+      "defog",
+      "stealth_rock",
+      "grass_knot",
+      "round",
+      "echoed_voice",
+      "scald",
+      "quash",
+      "water_pledge",
+      "work_up",
+      "disarming_voice",
+      "confide",
+      "liquidation",
+      "flip_turn",
+      "triple_axel",
+      "tera_blast",
+      "ice_spinner",
+      "snowscape",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "sea"
+    ]
+  }
+]

@@ -1,0 +1,159 @@
+[
+  {
+    "_id": "popplio",
+    "gender": "",
+    "pokedexNumber": "728",
+    "name": "popplio",
+    "koName": "누리공",
+    "speciesName": "popplio",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "64",
+    "friendship": "50",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "torrent"
+    ],
+    "hiddenAbilityId": "liquid_voice",
+    "passiveAbilityId": "punk_rock",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 320,
+    "hp": 50,
+    "attack": 54,
+    "defense": 54,
+    "specialAttack": 66,
+    "specialDefense": 56,
+    "speed": 40,
+    "height": 0.4,
+    "weight": 7.5,
+    "eggMoveIds": [
+      "psychic_noise",
+      "bouncy_bubble",
+      "alluring_voice",
+      "torch_song"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 3,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 6,
+        "moveId": "disarming_voice"
+      },
+      {
+        "level": 9,
+        "moveId": "aqua_jet"
+      },
+      {
+        "level": 12,
+        "moveId": "baby_doll_eyes"
+      },
+      {
+        "level": 15,
+        "moveId": "icy_wind"
+      },
+      {
+        "level": 18,
+        "moveId": "sing"
+      },
+      {
+        "level": 21,
+        "moveId": "bubble_beam"
+      },
+      {
+        "level": 24,
+        "moveId": "encore"
+      },
+      {
+        "level": 27,
+        "moveId": "misty_terrain"
+      },
+      {
+        "level": 30,
+        "moveId": "hyper_voice"
+      },
+      {
+        "level": 33,
+        "moveId": "moonblast"
+      },
+      {
+        "level": 36,
+        "moveId": "hydro_pump"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "toxic",
+      "double_team",
+      "waterfall",
+      "amnesia",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "icy_wind",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "whirlpool",
+      "uproar",
+      "hail",
+      "facade",
+      "helping_hand",
+      "dive",
+      "hyper_voice",
+      "covet",
+      "water_pulse",
+      "brine",
+      "aqua_tail",
+      "wonder_room",
+      "round",
+      "echoed_voice",
+      "scald",
+      "acrobatics",
+      "water_pledge",
+      "work_up",
+      "disarming_voice",
+      "draining_kiss",
+      "misty_terrain",
+      "play_rough",
+      "confide",
+      "flip_turn",
+      "triple_axel",
+      "tera_blast",
+      "ice_spinner",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "sea"
+    ]
+  }
+]

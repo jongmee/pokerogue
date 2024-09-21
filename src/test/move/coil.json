@@ -1,0 +1,51 @@
+[
+  {
+    "_id": "coil",
+    "name": "Coil",
+    "koName": "똬리틀기",
+    "type": "poison",
+    "moveCategory": "status",
+    "moveTarget": "user",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 20,
+    "effect": "똬리를 틀어서 집중한다. 자신의 공격과 방어와 명중률을 올린다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 5,
+    "realased": "",
+    "flags": [
+      "ignore_protect"
+    ],
+    "pokemonIds": [
+      "ekans",
+      "arbok",
+      "furret",
+      "dunsparce",
+      "seviper",
+      "milotic",
+      "huntail",
+      "gorebyss",
+      "skorupi",
+      "drapion",
+      "carnivine",
+      "snivy",
+      "servine",
+      "serperior",
+      "trubbish",
+      "garbodor",
+      "garbodor_gigantamax",
+      "eelektrik",
+      "eelektross",
+      "zygarde",
+      "silicobra",
+      "sandaconda",
+      "sizzlipede",
+      "centiskorch",
+      "orthworm",
+      "dudunsparce",
+      "alola_rattata",
+      "alola_raticate"
+    ]
+  }
+]

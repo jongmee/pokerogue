@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "comet_punch",
+    "name": "Comet Punch",
+    "koName": "연속펀치",
+    "type": "normal",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 18,
+    "accuracy": 85,
+    "powerPoint": 15,
+    "effect": "노도 같은 펀치로 상대를 세게 때려서 공격한다. 2-5회 동안 연속으로 쓴다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 1,
+    "realased": "",
+    "flags": [
+      "makes_contact",
+      "punching_move"
+    ],
+    "pokemonIds": [
+      "hitmonchan",
+      "kangaskhan"
+    ]
+  }
+]

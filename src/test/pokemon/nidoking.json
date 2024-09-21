@@ -1,0 +1,217 @@
+[
+  {
+    "_id": "nidoking",
+    "gender": "",
+    "pokedexNumber": "34",
+    "name": "nidoking",
+    "koName": "니드킹",
+    "speciesName": "nidoking",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "253",
+    "friendship": "50",
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "normalAbilityIds": [
+      "poison_point",
+      "rivalry"
+    ],
+    "hiddenAbilityId": "sheer_force",
+    "passiveAbilityId": "guts",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 505,
+    "hp": 81,
+    "attack": 102,
+    "defense": 77,
+    "specialAttack": 85,
+    "specialDefense": 75,
+    "speed": 85,
+    "height": 1.4,
+    "weight": 62,
+    "eggMoveIds": [
+      "noxious_torque",
+      "kings_shield",
+      "no_retreat",
+      "precipice_blades"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "megahorn"
+      },
+      {
+        "level": 1,
+        "moveId": "sludge_wave"
+      },
+      {
+        "level": 1,
+        "moveId": "double_kick"
+      },
+      {
+        "level": 1,
+        "moveId": "horn_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "fury_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "poison_sting"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "peck"
+      },
+      {
+        "level": 1,
+        "moveId": "toxic"
+      },
+      {
+        "level": 1,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 1,
+        "moveId": "flatter"
+      },
+      {
+        "level": 1,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 1,
+        "moveId": "toxic_spikes"
+      },
+      {
+        "level": 1,
+        "moveId": "poison_jab"
+      },
+      {
+        "level": 1,
+        "moveId": "earth_power"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "pay_day",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "cut",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "counter",
+      "strength",
+      "thunderbolt",
+      "thunder",
+      "earthquake",
+      "dig",
+      "toxic",
+      "double_team",
+      "reflect",
+      "focus_energy",
+      "fire_blast",
+      "amnesia",
+      "rest",
+      "rock_slide",
+      "super_fang",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "sludge_bomb",
+      "mud_slap",
+      "icy_wind",
+      "outrage",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "megahorn",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "shadow_ball",
+      "rock_smash",
+      "whirlpool",
+      "beat_up",
+      "uproar",
+      "torment",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "superpower",
+      "brick_break",
+      "rock_tomb",
+      "sand_tomb",
+      "mud_shot",
+      "rock_blast",
+      "water_pulse",
+      "fling",
+      "toxic_spikes",
+      "poison_jab",
+      "aqua_tail",
+      "dragon_pulse",
+      "focus_blast",
+      "earth_power",
+      "giga_impact",
+      "avalanche",
+      "shadow_claw",
+      "rock_climb",
+      "stone_edge",
+      "stealth_rock",
+      "hone_claws",
+      "venoshock",
+      "smack_down",
+      "sludge_wave",
+      "round",
+      "echoed_voice",
+      "hex",
+      "incinerate",
+      "quash",
+      "bulldoze",
+      "dragon_tail",
+      "drill_run",
+      "confide",
+      "venom_drench",
+      "power_up_punch",
+      "high_horsepower",
+      "throat_chop",
+      "smart_strike",
+      "stomping_tantrum",
+      "body_press",
+      "scorching_sands",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "tall_grass"
+    ]
+  }
+]

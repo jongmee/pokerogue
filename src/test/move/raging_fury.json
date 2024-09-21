@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "raging_fury",
+    "name": "Raging Fury",
+    "koName": "대격분",
+    "type": "fire",
+    "moveCategory": "physical",
+    "moveTarget": "random_near_enemy",
+    "power": 120,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "2~3턴 동안 불꽃을 마구 뿜어 대며 난동을 부린다. 난동 부린 뒤에는 혼란에 빠진다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "infernape",
+      "gouging_fire",
+      "hisui_arcanine"
+    ]
+  }
+]

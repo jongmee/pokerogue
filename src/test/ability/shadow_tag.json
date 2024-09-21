@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "shadow_tag",
+    "name": "Shadow Tag",
+    "koName": "그림자밟기",
+    "realased": "",
+    "description": "상대의 그림자를 밟아 도망치거나 교체할 수 없게 한다.",
+    "generation": 3,
+    "pokemonIds": [
+      "gengar_mega",
+      "wobbuffet",
+      "wynaut",
+      "gothita",
+      "gothorita",
+      "gothitelle",
+      "phantump",
+      "trevenant"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "_id": "sprigatito",
+    "gender": "",
+    "pokedexNumber": "906",
+    "name": "sprigatito",
+    "koName": "나오하",
+    "speciesName": "sprigatito",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "62",
+    "friendship": "50",
+    "types": [
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "overgrow"
+    ],
+    "hiddenAbilityId": "protean",
+    "passiveAbilityId": "magician",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 310,
+    "hp": 40,
+    "attack": 61,
+    "defense": 54,
+    "specialAttack": 45,
+    "specialDefense": 45,
+    "speed": 65,
+    "height": 0.4,
+    "weight": 4.1,
+    "eggMoveIds": [
+      "fire_lash",
+      "triple_axel",
+      "sucker_punch",
+      "wicked_blow"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "leafage"
+      },
+      {
+        "level": 7,
+        "moveId": "bite"
+      },
+      {
+        "level": 10,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 13,
+        "moveId": "magical_leaf"
+      },
+      {
+        "level": 15,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 17,
+        "moveId": "seed_bomb"
+      },
+      {
+        "level": 21,
+        "moveId": "u_turn"
+      },
+      {
+        "level": 25,
+        "moveId": "worry_seed"
+      },
+      {
+        "level": 28,
+        "moveId": "slash"
+      },
+      {
+        "level": 32,
+        "moveId": "energy_ball"
+      },
+      {
+        "level": 36,
+        "moveId": "play_rough"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "solar_beam",
+      "agility",
+      "double_team",
+      "swift",
+      "rest",
+      "substitute",
+      "protect",
+      "mud_slap",
+      "giga_drain",
+      "endure",
+      "charm",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "fake_tears",
+      "bullet_seed",
+      "magical_leaf",
+      "u_turn",
+      "worry_seed",
+      "seed_bomb",
+      "energy_ball",
+      "nasty_plot",
+      "shadow_claw",
+      "leaf_storm",
+      "grass_knot",
+      "hone_claws",
+      "ally_switch",
+      "acrobatics",
+      "grass_pledge",
+      "petal_blizzard",
+      "disarming_voice",
+      "grassy_terrain",
+      "play_rough",
+      "grassy_glide",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "meadow"
+    ]
+  }
+]

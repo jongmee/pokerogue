@@ -1,0 +1,149 @@
+[
+  {
+    "_id": "thievul",
+    "gender": "",
+    "pokedexNumber": "828",
+    "name": "thievul",
+    "koName": "폭슬라이",
+    "speciesName": "thievul",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "159",
+    "friendship": "50",
+    "types": [
+      "dark"
+    ],
+    "normalAbilityIds": [
+      "run_away",
+      "unburden"
+    ],
+    "hiddenAbilityId": "stakeout",
+    "passiveAbilityId": "magician",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 455,
+    "hp": 70,
+    "attack": 58,
+    "defense": 58,
+    "specialAttack": 87,
+    "specialDefense": 92,
+    "speed": 90,
+    "height": 1.2,
+    "weight": 19.9,
+    "eggMoveIds": [
+      "baddy_bad",
+      "burning_jealousy",
+      "sparkly_swirl",
+      "fiery_wrath"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "thief"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "beat_up"
+      },
+      {
+        "level": 1,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 12,
+        "moveId": "snarl"
+      },
+      {
+        "level": 16,
+        "moveId": "assurance"
+      },
+      {
+        "level": 22,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 28,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 34,
+        "moveId": "night_slash"
+      },
+      {
+        "level": 40,
+        "moveId": "tail_slap"
+      },
+      {
+        "level": 46,
+        "moveId": "foul_play"
+      },
+      {
+        "level": 52,
+        "moveId": "parting_shot"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "hyper_beam",
+      "dig",
+      "psychic",
+      "agility",
+      "screech",
+      "double_team",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "hidden_power",
+      "crunch",
+      "shadow_ball",
+      "beat_up",
+      "facade",
+      "taunt",
+      "fake_tears",
+      "mud_shot",
+      "u_turn",
+      "assurance",
+      "dark_pulse",
+      "giga_impact",
+      "nasty_plot",
+      "shadow_claw",
+      "thunder_fang",
+      "ice_fang",
+      "fire_fang",
+      "grass_knot",
+      "hone_claws",
+      "foul_play",
+      "round",
+      "acrobatics",
+      "tail_slap",
+      "snarl",
+      "play_rough",
+      "burning_jealousy",
+      "lash_out"
+    ],
+    "biomeIds": [
+      "abyss"
+    ]
+  }
+]

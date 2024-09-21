@@ -1,0 +1,40 @@
+[
+  {
+    "_id": "double_slap",
+    "name": "Double Slap",
+    "koName": "연속뺨치기",
+    "type": "normal",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 15,
+    "accuracy": 85,
+    "powerPoint": 10,
+    "effect": "연속 뺨치기로 상대를 때려서 공격한다. 2-5회 동안 연속으로 쓴다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 1,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "growlithe",
+      "arcanine",
+      "phanpy",
+      "donphan",
+      "shinx",
+      "luxio",
+      "luxray",
+      "palkia",
+      "rufflet",
+      "braviary",
+      "grubbin",
+      "charjabug",
+      "vikavolt",
+      "sizzlipede",
+      "centiskorch",
+      "centiskorch_gigantamax",
+      "hisui_braviary"
+    ]
+  }
+]

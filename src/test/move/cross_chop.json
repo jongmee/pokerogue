@@ -1,0 +1,33 @@
+[
+  {
+    "_id": "cross_chop",
+    "name": "Cross Chop",
+    "koName": "크로스촙",
+    "type": "fighting",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 100,
+    "accuracy": 80,
+    "powerPoint": 5,
+    "effect": "양손으로 당수를 상대에게 힘껏 쳐서 공격한다. 급소에 맞기 쉽다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 2,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "mankey",
+      "primeape",
+      "machop",
+      "machoke",
+      "machamp",
+      "binacle",
+      "barbaracle",
+      "incineroar",
+      "obstagoon",
+      "annihilape"
+    ]
+  }
+]

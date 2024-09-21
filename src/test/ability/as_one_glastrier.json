@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "as_one_glastrier",
+    "name": "As One",
+    "koName": "혼연일체",
+    "realased": "",
+    "description": "버드렉스의 긴장감과 블리자포스의 백의울음 두 가지 특성을 겸비한다.",
+    "generation": 8,
+    "pokemonIds": [
+      "calyrex_ice"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

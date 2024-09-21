@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "corkscrew_crash__special",
+    "name": "Corkscrew Crash",
+    "koName": "초월나선연격",
+    "type": "steel",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 1,
+    "effect": "Dummy Data",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": " (N)",
+    "flags": [
+      "ignore_virtual"
+    ],
+    "pokemonIds": []
+  }
+]

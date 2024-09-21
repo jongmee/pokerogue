@@ -1,0 +1,137 @@
+[
+  {
+    "_id": "cherubi",
+    "gender": "",
+    "pokedexNumber": "420",
+    "name": "cherubi",
+    "koName": "체리버",
+    "speciesName": "cherubi",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "55",
+    "friendship": "50",
+    "types": [
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "chlorophyll"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "orichalcum_pulse",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 275,
+    "hp": 45,
+    "attack": 35,
+    "defense": 45,
+    "specialAttack": 62,
+    "specialDefense": 53,
+    "speed": 35,
+    "height": 0.4,
+    "weight": 3.3,
+    "eggMoveIds": [
+      "spore",
+      "strength_sap",
+      "fire_lash",
+      "flower_trick"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "morning_sun"
+      },
+      {
+        "level": 5,
+        "moveId": "leafage"
+      },
+      {
+        "level": 10,
+        "moveId": "growth"
+      },
+      {
+        "level": 15,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 20,
+        "moveId": "magical_leaf"
+      },
+      {
+        "level": 26,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 30,
+        "moveId": "take_down"
+      },
+      {
+        "level": 35,
+        "moveId": "petal_blizzard"
+      },
+      {
+        "level": 40,
+        "moveId": "worry_seed"
+      },
+      {
+        "level": 45,
+        "moveId": "solar_beam"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "take_down",
+      "solar_beam",
+      "toxic",
+      "double_team",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "synthesis",
+      "hidden_power",
+      "sunny_day",
+      "facade",
+      "nature_power",
+      "helping_hand",
+      "weather_ball",
+      "bullet_seed",
+      "magical_leaf",
+      "worry_seed",
+      "seed_bomb",
+      "energy_ball",
+      "grass_knot",
+      "round",
+      "petal_blizzard",
+      "draining_kiss",
+      "grassy_terrain",
+      "confide",
+      "dazzling_gleam",
+      "pollen_puff",
+      "grassy_glide",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "town",
+      "grass",
+      "jungle"
+    ]
+  }
+]

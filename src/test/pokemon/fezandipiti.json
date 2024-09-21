@@ -1,0 +1,167 @@
+[
+  {
+    "_id": "fezandipiti",
+    "gender": "",
+    "pokedexNumber": "1016",
+    "name": "fezandipiti",
+    "koName": "기로치",
+    "speciesName": "fezandipiti",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "276",
+    "friendship": "0",
+    "types": [
+      "poison",
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "toxic_chain"
+    ],
+    "hiddenAbilityId": "technician",
+    "passiveAbilityId": "levitate",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 555,
+    "hp": 88,
+    "attack": 91,
+    "defense": 82,
+    "specialAttack": 70,
+    "specialDefense": 125,
+    "speed": 99,
+    "height": 1.4,
+    "weight": 30.1,
+    "eggMoveIds": [
+      "barb_barrage",
+      "victory_dance",
+      "triple_axel",
+      "magical_torque"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "double_kick"
+      },
+      {
+        "level": 1,
+        "moveId": "peck"
+      },
+      {
+        "level": 1,
+        "moveId": "poison_gas"
+      },
+      {
+        "level": 1,
+        "moveId": "disarming_voice"
+      },
+      {
+        "level": 8,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 16,
+        "moveId": "attract"
+      },
+      {
+        "level": 24,
+        "moveId": "wing_attack"
+      },
+      {
+        "level": 32,
+        "moveId": "cross_poison"
+      },
+      {
+        "level": 40,
+        "moveId": "tail_slap"
+      },
+      {
+        "level": 48,
+        "moveId": "beat_up"
+      },
+      {
+        "level": 56,
+        "moveId": "swagger"
+      },
+      {
+        "level": 56,
+        "moveId": "flatter"
+      },
+      {
+        "level": 64,
+        "moveId": "roost"
+      },
+      {
+        "level": 72,
+        "moveId": "moonblast"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "fly",
+      "take_down",
+      "hyper_beam",
+      "toxic",
+      "agility",
+      "double_team",
+      "light_screen",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "spite",
+      "protect",
+      "sludge_bomb",
+      "icy_wind",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "shadow_ball",
+      "beat_up",
+      "uproar",
+      "heat_wave",
+      "facade",
+      "taunt",
+      "air_cutter",
+      "aerial_ace",
+      "poison_tail",
+      "calm_mind",
+      "roost",
+      "tailwind",
+      "u_turn",
+      "poison_jab",
+      "dark_pulse",
+      "air_slash",
+      "brave_bird",
+      "giga_impact",
+      "nasty_plot",
+      "shadow_claw",
+      "cross_poison",
+      "gunk_shot",
+      "venoshock",
+      "acid_spray",
+      "hex",
+      "acrobatics",
+      "tail_slap",
+      "hurricane",
+      "disarming_voice",
+      "play_rough",
+      "dazzling_gleam",
+      "lash_out",
+      "dual_wingbeat",
+      "tera_blast",
+      "alluring_voice"
+    ],
+    "biomeIds": [
+      "ruins"
+    ]
+  }
+]

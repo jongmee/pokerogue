@@ -1,0 +1,113 @@
+[
+  {
+    "_id": "kyurem_white",
+    "gender": "",
+    "pokedexNumber": "646",
+    "name": "kyurem_white",
+    "koName": "큐레무_white",
+    "speciesName": "kyurem",
+    "canChangeForm": true,
+    "formName": "white",
+    "baseExp": "330",
+    "friendship": "0",
+    "types": [
+      "dragon",
+      "ice"
+    ],
+    "normalAbilityIds": [
+      "turboblaze"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "snow_warning",
+    "generation": 5,
+    "legendary": true,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 700,
+    "hp": 125,
+    "attack": 120,
+    "defense": 90,
+    "specialAttack": 170,
+    "specialDefense": 100,
+    "speed": 95,
+    "height": 3.6,
+    "weight": 325,
+    "eggMoveIds": [
+      "dragon_darts",
+      "core_enforcer",
+      "no_retreat",
+      "glacial_lance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "dragon_breath"
+      },
+      {
+        "level": 1,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 1,
+        "moveId": "noble_roar"
+      },
+      {
+        "level": 1,
+        "moveId": "freeze_dry"
+      },
+      {
+        "level": 8,
+        "moveId": "slash"
+      },
+      {
+        "level": 16,
+        "moveId": "endeavor"
+      },
+      {
+        "level": 24,
+        "moveId": "dragon_pulse"
+      },
+      {
+        "level": 32,
+        "moveId": "ice_beam"
+      },
+      {
+        "level": 40,
+        "moveId": "hyper_voice"
+      },
+      {
+        "level": 48,
+        "moveId": "fusion_flare"
+      },
+      {
+        "level": 56,
+        "moveId": "blizzard"
+      },
+      {
+        "level": 64,
+        "moveId": "imprison"
+      },
+      {
+        "level": 72,
+        "moveId": "outrage"
+      },
+      {
+        "level": 80,
+        "moveId": "ice_burn"
+      },
+      {
+        "level": 88,
+        "moveId": "sheer_cold"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "snowscape"
+    ],
+    "biomeIds": [
+      "ice_cave"
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "_id": "shaymin_land",
+    "gender": "",
+    "pokedexNumber": "492",
+    "name": "shaymin_land",
+    "koName": "쉐이미_land",
+    "speciesName": "shaymin",
+    "canChangeForm": true,
+    "formName": "land_forme",
+    "baseExp": "270",
+    "friendship": "100",
+    "types": [
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "natural_cure"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "wind_rider",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": true,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 600,
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "specialAttack": 100,
+    "specialDefense": 100,
+    "speed": 100,
+    "height": 0.2,
+    "weight": 2.1,
+    "eggMoveIds": [
+      "matcha_gotcha",
+      "fiery_dance",
+      "aeroblast",
+      "quiver_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "leafage"
+      },
+      {
+        "level": 1,
+        "moveId": "growth"
+      },
+      {
+        "level": 10,
+        "moveId": "magical_leaf"
+      },
+      {
+        "level": 19,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 28,
+        "moveId": "synthesis"
+      },
+      {
+        "level": 37,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 46,
+        "moveId": "natural_gift"
+      },
+      {
+        "level": 55,
+        "moveId": "worry_seed"
+      },
+      {
+        "level": 64,
+        "moveId": "aromatherapy"
+      },
+      {
+        "level": 73,
+        "moveId": "energy_ball"
+      },
+      {
+        "level": 82,
+        "moveId": "sweet_kiss"
+      },
+      {
+        "level": 91,
+        "moveId": "healing_wish"
+      },
+      {
+        "level": 100,
+        "moveId": "seed_flare"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "meadow"
+    ]
+  }
+]

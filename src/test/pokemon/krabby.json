@@ -1,0 +1,169 @@
+[
+  {
+    "_id": "krabby",
+    "gender": "",
+    "pokedexNumber": "98",
+    "name": "krabby",
+    "koName": "크랩",
+    "speciesName": "krabby",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "65",
+    "friendship": "50",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "hyper_cutter",
+      "shell_armor"
+    ],
+    "hiddenAbilityId": "sheer_force",
+    "passiveAbilityId": "unburden",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 325,
+    "hp": 30,
+    "attack": 105,
+    "defense": 90,
+    "specialAttack": 25,
+    "specialDefense": 25,
+    "speed": 50,
+    "height": 0.4,
+    "weight": 6.5,
+    "eggMoveIds": [
+      "fire_lash",
+      "play_rough",
+      "ivy_cudgel",
+      "shell_smash"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "mud_sport"
+      },
+      {
+        "level": 4,
+        "moveId": "harden"
+      },
+      {
+        "level": 8,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 12,
+        "moveId": "mud_shot"
+      },
+      {
+        "level": 16,
+        "moveId": "protect"
+      },
+      {
+        "level": 20,
+        "moveId": "bubble_beam"
+      },
+      {
+        "level": 24,
+        "moveId": "stomp"
+      },
+      {
+        "level": 29,
+        "moveId": "flail"
+      },
+      {
+        "level": 32,
+        "moveId": "razor_shell"
+      },
+      {
+        "level": 36,
+        "moveId": "slam"
+      },
+      {
+        "level": 40,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 44,
+        "moveId": "crabhammer"
+      },
+      {
+        "level": 48,
+        "moveId": "guillotine"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "strength",
+      "dig",
+      "toxic",
+      "agility",
+      "double_team",
+      "haze",
+      "amnesia",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "rock_smash",
+      "whirlpool",
+      "hail",
+      "facade",
+      "superpower",
+      "brick_break",
+      "knock_off",
+      "dive",
+      "rock_tomb",
+      "iron_defense",
+      "mud_shot",
+      "water_pulse",
+      "brine",
+      "fling",
+      "x_scissor",
+      "hone_claws",
+      "round",
+      "ally_switch",
+      "scald",
+      "razor_shell",
+      "confide",
+      "liquidation",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "beach"
+    ]
+  }
+]

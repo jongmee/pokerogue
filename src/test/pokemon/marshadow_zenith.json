@@ -1,0 +1,127 @@
+[
+  {
+    "_id": "marshadow_zenith",
+    "gender": "",
+    "pokedexNumber": "802",
+    "name": "marshadow_zenith",
+    "koName": "마샤도_zenith",
+    "speciesName": "marshadow",
+    "canChangeForm": true,
+    "formName": "zenith",
+    "baseExp": "300",
+    "friendship": "0",
+    "types": [
+      "fighting",
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "technician"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "iron_fist",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": true,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 600,
+    "hp": 90,
+    "attack": 125,
+    "defense": 80,
+    "specialAttack": 90,
+    "specialDefense": 90,
+    "speed": 125,
+    "height": 0.7,
+    "weight": 22.2,
+    "eggMoveIds": [
+      "power_up_punch",
+      "triple_axel",
+      "meteor_mash",
+      "storm_throw"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "fire_punch"
+      },
+      {
+        "level": 1,
+        "moveId": "ice_punch"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_punch"
+      },
+      {
+        "level": 1,
+        "moveId": "counter"
+      },
+      {
+        "level": 1,
+        "moveId": "feint"
+      },
+      {
+        "level": 1,
+        "moveId": "copycat"
+      },
+      {
+        "level": 1,
+        "moveId": "shadow_sneak"
+      },
+      {
+        "level": 1,
+        "moveId": "pursuit"
+      },
+      {
+        "level": 9,
+        "moveId": "role_play"
+      },
+      {
+        "level": 18,
+        "moveId": "shadow_punch"
+      },
+      {
+        "level": 27,
+        "moveId": "force_palm"
+      },
+      {
+        "level": 36,
+        "moveId": "assurance"
+      },
+      {
+        "level": 45,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 54,
+        "moveId": "drain_punch"
+      },
+      {
+        "level": 63,
+        "moveId": "psych_up"
+      },
+      {
+        "level": 72,
+        "moveId": "spectral_thief"
+      },
+      {
+        "level": 81,
+        "moveId": "laser_focus"
+      },
+      {
+        "level": 90,
+        "moveId": "endeavor"
+      },
+      {
+        "level": 99,
+        "moveId": "close_combat"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "graveyard"
+    ]
+  }
+]

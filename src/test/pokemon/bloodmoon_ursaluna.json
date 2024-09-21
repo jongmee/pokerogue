@@ -1,0 +1,183 @@
+[
+  {
+    "_id": "bloodmoon_ursaluna",
+    "gender": "",
+    "pokedexNumber": "8901",
+    "name": "bloodmoon_ursaluna",
+    "koName": "다투곰",
+    "speciesName": "bloodmoon_ursaluna",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "275",
+    "friendship": "50",
+    "types": [
+      "ground",
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "minds_eye"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "berserk",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 555,
+    "hp": 113,
+    "attack": 70,
+    "defense": 120,
+    "specialAttack": 135,
+    "specialDefense": 65,
+    "speed": 52,
+    "height": 2.7,
+    "weight": 333,
+    "eggMoveIds": [
+      "nasty_plot",
+      "trick_room",
+      "thunderbolt",
+      "boomburst"
+    ],
+    "levelMoves": [
+      {
+        "level": -1,
+        "moveId": "moonlight"
+      },
+      {
+        "level": 1,
+        "moveId": "headlong_rush"
+      },
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "lick"
+      },
+      {
+        "level": 8,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 13,
+        "moveId": "payback"
+      },
+      {
+        "level": 17,
+        "moveId": "harden"
+      },
+      {
+        "level": 22,
+        "moveId": "slash"
+      },
+      {
+        "level": 25,
+        "moveId": "play_nice"
+      },
+      {
+        "level": 35,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 41,
+        "moveId": "rest"
+      },
+      {
+        "level": 41,
+        "moveId": "snore"
+      },
+      {
+        "level": 48,
+        "moveId": "earth_power"
+      },
+      {
+        "level": 56,
+        "moveId": "moonblast"
+      },
+      {
+        "level": 64,
+        "moveId": "hammer_arm"
+      },
+      {
+        "level": 70,
+        "moveId": "blood_moon"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "swords_dance",
+      "cut",
+      "body_slam",
+      "double_edge",
+      "roar",
+      "hyper_beam",
+      "low_kick",
+      "strength",
+      "earthquake",
+      "dig",
+      "double_team",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "protect",
+      "scary_face",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "rock_smash",
+      "uproar",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "brick_break",
+      "hyper_voice",
+      "rock_tomb",
+      "mud_shot",
+      "calm_mind",
+      "fling",
+      "seed_bomb",
+      "vacuum_wave",
+      "focus_blast",
+      "earth_power",
+      "giga_impact",
+      "avalanche",
+      "shadow_claw",
+      "rock_climb",
+      "gunk_shot",
+      "stone_edge",
+      "smack_down",
+      "heavy_slam",
+      "bulldoze",
+      "snarl",
+      "high_horsepower",
+      "stomping_tantrum",
+      "body_press",
+      "tera_blast",
+      "trailblaze",
+      "hard_press"
+    ],
+    "biomeIds": [
+      "forest"
+    ]
+  }
+]

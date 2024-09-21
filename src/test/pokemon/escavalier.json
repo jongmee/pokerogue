@@ -1,0 +1,196 @@
+[
+  {
+    "_id": "escavalier",
+    "gender": "",
+    "pokedexNumber": "589",
+    "name": "escavalier",
+    "koName": "슈바르고",
+    "speciesName": "escavalier",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "173",
+    "friendship": "50",
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "normalAbilityIds": [
+      "swarm",
+      "shell_armor"
+    ],
+    "hiddenAbilityId": "overcoat",
+    "passiveAbilityId": "quick_draw",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 495,
+    "hp": 70,
+    "attack": 135,
+    "defense": 105,
+    "specialAttack": 60,
+    "specialDefense": 105,
+    "speed": 20,
+    "height": 1,
+    "weight": 33,
+    "eggMoveIds": [
+      "leech_life",
+      "heal_order",
+      "high_horsepower",
+      "double_iron_bash"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "take_down"
+      },
+      {
+        "level": 1,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "peck"
+      },
+      {
+        "level": 1,
+        "moveId": "flail"
+      },
+      {
+        "level": 1,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 1,
+        "moveId": "endure"
+      },
+      {
+        "level": 1,
+        "moveId": "fury_cutter"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_guard"
+      },
+      {
+        "level": 1,
+        "moveId": "fell_stinger"
+      },
+      {
+        "level": 1,
+        "moveId": "twineedle"
+      },
+      {
+        "level": 12,
+        "moveId": "false_swipe"
+      },
+      {
+        "level": 16,
+        "moveId": "acid_spray"
+      },
+      {
+        "level": 20,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 24,
+        "moveId": "reversal"
+      },
+      {
+        "level": 28,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 32,
+        "moveId": "x_scissor"
+      },
+      {
+        "level": 36,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 40,
+        "moveId": "iron_head"
+      },
+      {
+        "level": 44,
+        "moveId": "bug_buzz"
+      },
+      {
+        "level": 48,
+        "moveId": "giga_impact"
+      },
+      {
+        "level": 52,
+        "moveId": "metal_burst"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "take_down",
+      "hyper_beam",
+      "counter",
+      "toxic",
+      "agility",
+      "screech",
+      "double_team",
+      "rest",
+      "substitute",
+      "snore",
+      "reversal",
+      "protect",
+      "scary_face",
+      "giga_drain",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "megahorn",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "rock_smash",
+      "facade",
+      "taunt",
+      "revenge",
+      "knock_off",
+      "signal_beam",
+      "aerial_ace",
+      "iron_defense",
+      "close_combat",
+      "poison_jab",
+      "x_scissor",
+      "bug_buzz",
+      "focus_blast",
+      "energy_ball",
+      "giga_impact",
+      "iron_head",
+      "bug_bite",
+      "acid_spray",
+      "round",
+      "struggle_bug",
+      "drill_run",
+      "razor_shell",
+      "confide",
+      "infestation",
+      "smart_strike",
+      "brutal_swing",
+      "steel_beam",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "forest"
+    ]
+  }
+]

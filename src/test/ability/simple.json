@@ -1,0 +1,41 @@
+[
+  {
+    "_id": "simple",
+    "name": "Simple",
+    "koName": "단순",
+    "realased": "",
+    "description": "능력 변화가 평소의 2배가 된다.",
+    "generation": 4,
+    "pokemonIds": [
+      "venonat",
+      "venomoth",
+      "psyduck",
+      "golduck",
+      "remoraid",
+      "octillery",
+      "wurmple",
+      "silcoon",
+      "beautifly",
+      "cascoon",
+      "dustox",
+      "numel",
+      "spinda",
+      "barboach",
+      "whiscash",
+      "bidoof",
+      "bibarel",
+      "phione",
+      "woobat",
+      "swoobat",
+      "petilil",
+      "lilligant",
+      "wooloo",
+      "dubwool",
+      "lechonk",
+      "oinkologne",
+      "hisui_lilligant"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

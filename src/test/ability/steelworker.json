@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "steelworker",
+    "name": "Steelworker",
+    "koName": "강철술사",
+    "realased": "",
+    "description": "강철타입 기술의 위력이 올라간다.",
+    "generation": 7,
+    "pokemonIds": [
+      "dhelmise",
+      "perrserker",
+      "duraludon",
+      "duraludon_gigantamax",
+      "tinkatink",
+      "tinkatuff",
+      "tinkaton",
+      "archaludon",
+      "galar_meowth"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

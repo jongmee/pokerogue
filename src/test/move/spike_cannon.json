@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "spike_cannon",
+    "name": "Spike Cannon",
+    "koName": "가시대포",
+    "type": "normal",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 20,
+    "accuracy": 100,
+    "powerPoint": 15,
+    "effect": "날카로운 침을 상대에게 발사해서 공격한다. 2-5회 동안 연속으로 쓴다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 1,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "omastar"
+    ]
+  }
+]

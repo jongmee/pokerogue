@@ -1,0 +1,154 @@
+[
+  {
+    "_id": "seadra",
+    "gender": "",
+    "pokedexNumber": "117",
+    "name": "seadra",
+    "koName": "시드라",
+    "speciesName": "seadra",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "154",
+    "friendship": "50",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "poison_point",
+      "sniper"
+    ],
+    "hiddenAbilityId": "damp",
+    "passiveAbilityId": "dragons_maw",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 440,
+    "hp": 55,
+    "attack": 65,
+    "defense": 95,
+    "specialAttack": 95,
+    "specialDefense": 45,
+    "speed": 85,
+    "height": 1.2,
+    "weight": 25,
+    "eggMoveIds": [
+      "snipe_shot",
+      "frost_breath",
+      "hurricane",
+      "spacial_rend"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "smokescreen"
+      },
+      {
+        "level": 1,
+        "moveId": "twister"
+      },
+      {
+        "level": 15,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 20,
+        "moveId": "dragon_breath"
+      },
+      {
+        "level": 25,
+        "moveId": "bubble_beam"
+      },
+      {
+        "level": 30,
+        "moveId": "agility"
+      },
+      {
+        "level": 37,
+        "moveId": "laser_focus"
+      },
+      {
+        "level": 44,
+        "moveId": "dragon_pulse"
+      },
+      {
+        "level": 51,
+        "moveId": "hydro_pump"
+      },
+      {
+        "level": 58,
+        "moveId": "dragon_dance"
+      },
+      {
+        "level": 65,
+        "moveId": "rain_dance"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "double_edge",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "toxic",
+      "agility",
+      "double_team",
+      "focus_energy",
+      "waterfall",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "icy_wind",
+      "outrage",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "whirlpool",
+      "hail",
+      "facade",
+      "dive",
+      "weather_ball",
+      "signal_beam",
+      "muddy_water",
+      "bounce",
+      "dragon_dance",
+      "water_pulse",
+      "brine",
+      "dragon_pulse",
+      "giga_impact",
+      "flash_cannon",
+      "round",
+      "scald",
+      "confide",
+      "liquidation",
+      "scale_shot",
+      "flip_turn",
+      "tera_blast",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "sea"
+    ]
+  }
+]

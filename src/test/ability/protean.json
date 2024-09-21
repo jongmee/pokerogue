@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "protean",
+    "name": "Protean",
+    "koName": "변환자재",
+    "realased": "",
+    "description": "자신이 사용한 기술과 같은 타입으로 변화한다.",
+    "generation": 6,
+    "pokemonIds": [
+      "eevee_gigantamax",
+      "porygon",
+      "mew",
+      "porygon2",
+      "kecleon",
+      "deoxys",
+      "deoxys_attack",
+      "deoxys_defense",
+      "deoxys_speed",
+      "porygon_z",
+      "scraggy",
+      "scrafty",
+      "shelmet",
+      "accelgor",
+      "genesect",
+      "genesect_shock",
+      "genesect_burn",
+      "genesect_chill",
+      "genesect_douse",
+      "froakie",
+      "frogadier",
+      "greninja",
+      "helioptile",
+      "heliolisk",
+      "sprigatito",
+      "floragato",
+      "meowscarada",
+      "cyclizar"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

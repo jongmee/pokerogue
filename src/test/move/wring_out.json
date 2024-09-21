@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "wring_out",
+    "name": "Wring Out",
+    "koName": "쥐어짜기",
+    "type": "normal",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "강하게 조여 공격을 한다. 상대의 HP가 많이 남아 있을수록 위력이 올라간다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 4,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "tentacruel",
+      "swalot",
+      "lickilicky",
+      "jellicent"
+    ]
+  }
+]

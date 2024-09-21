@@ -1,0 +1,40 @@
+[
+  {
+    "_id": "glacial_lance",
+    "name": "Glacial Lance",
+    "koName": "블리자드랜스",
+    "type": "ice",
+    "moveCategory": "physical",
+    "moveTarget": "all_near_enemies",
+    "power": 120,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "눈보라를 두른 얼음의 창을 상대에게 던져서 공격한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "swinub",
+      "piloswine",
+      "delibird",
+      "mamoswine",
+      "kyurem",
+      "kyurem_black",
+      "kyurem_white",
+      "bergmite",
+      "avalugg",
+      "eiscue",
+      "glastrier",
+      "calyrex_ice",
+      "frigibax",
+      "arctibax",
+      "baxcalibur",
+      "chien_pao",
+      "alola_sandshrew",
+      "alola_sandslash",
+      "hisui_avalugg"
+    ]
+  }
+]

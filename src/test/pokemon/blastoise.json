@@ -1,0 +1,196 @@
+[
+  {
+    "_id": "blastoise",
+    "gender": "",
+    "pokedexNumber": "9",
+    "name": "blastoise",
+    "koName": "거북왕",
+    "speciesName": "blastoise",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "265",
+    "friendship": "50",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "torrent"
+    ],
+    "hiddenAbilityId": "rain_dish",
+    "passiveAbilityId": "sturdy",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 530,
+    "hp": 79,
+    "attack": 83,
+    "defense": 100,
+    "specialAttack": 85,
+    "specialDefense": 105,
+    "speed": 78,
+    "height": 1.6,
+    "weight": 85.5,
+    "eggMoveIds": [
+      "freeze_dry",
+      "shore_up",
+      "bouncy_bubble",
+      "origin_pulse"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "flash_cannon"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "withdraw"
+      },
+      {
+        "level": 9,
+        "moveId": "rapid_spin"
+      },
+      {
+        "level": 12,
+        "moveId": "bite"
+      },
+      {
+        "level": 15,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 20,
+        "moveId": "protect"
+      },
+      {
+        "level": 25,
+        "moveId": "rain_dance"
+      },
+      {
+        "level": 30,
+        "moveId": "aqua_tail"
+      },
+      {
+        "level": 35,
+        "moveId": "shell_smash"
+      },
+      {
+        "level": 42,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 49,
+        "moveId": "hydro_pump"
+      },
+      {
+        "level": 56,
+        "moveId": "wave_crash"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "ice_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "counter",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "double_team",
+      "haze",
+      "reflect",
+      "waterfall",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "outrage",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "crunch",
+      "rock_smash",
+      "whirlpool",
+      "hail",
+      "facade",
+      "focus_punch",
+      "helping_hand",
+      "brick_break",
+      "dive",
+      "hydro_cannon",
+      "weather_ball",
+      "rock_tomb",
+      "signal_beam",
+      "muddy_water",
+      "iron_defense",
+      "water_pulse",
+      "gyro_ball",
+      "brine",
+      "fling",
+      "aura_sphere",
+      "dark_pulse",
+      "aqua_tail",
+      "dragon_pulse",
+      "focus_blast",
+      "giga_impact",
+      "avalanche",
+      "zen_headbutt",
+      "flash_cannon",
+      "rock_climb",
+      "smack_down",
+      "round",
+      "scald",
+      "water_pledge",
+      "bulldoze",
+      "dragon_tail",
+      "work_up",
+      "confide",
+      "power_up_punch",
+      "liquidation",
+      "body_press",
+      "terrain_pulse",
+      "flip_turn",
+      "tera_blast",
+      "ice_spinner",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "lake"
+    ]
+  }
+]

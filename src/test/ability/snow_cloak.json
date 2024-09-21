@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "snow_cloak",
+    "name": "Snow Cloak",
+    "koName": "눈숨기",
+    "realased": "",
+    "description": "날씨가 눈일 때 회피율이 올라간다.",
+    "generation": 4,
+    "pokemonIds": [
+      "articuno",
+      "swinub",
+      "piloswine",
+      "glaceon",
+      "mamoswine",
+      "froslass",
+      "vanillite",
+      "vanillish",
+      "cubchoo",
+      "beartic",
+      "cetoddle",
+      "alola_sandshrew",
+      "alola_sandslash",
+      "alola_vulpix",
+      "alola_ninetales"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

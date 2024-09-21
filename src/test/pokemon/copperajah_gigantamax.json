@@ -1,0 +1,107 @@
+[
+  {
+    "_id": "copperajah_gigantamax",
+    "gender": "",
+    "pokedexNumber": "879",
+    "name": "copperajah_gigantamax",
+    "koName": "대왕끼리동_gigantamax",
+    "speciesName": "copperajah",
+    "canChangeForm": true,
+    "formName": "g_max",
+    "baseExp": "175",
+    "friendship": "50",
+    "types": [
+      "steel",
+      "ground"
+    ],
+    "normalAbilityIds": [
+      "mold_breaker"
+    ],
+    "hiddenAbilityId": "mold_breaker",
+    "passiveAbilityId": "earth_eater",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 600,
+    "hp": 167,
+    "attack": 155,
+    "defense": 89,
+    "specialAttack": 80,
+    "specialDefense": 89,
+    "speed": 20,
+    "height": 23,
+    "weight": 650,
+    "eggMoveIds": [
+      "liquidation",
+      "curse",
+      "combat_torque",
+      "gigaton_hammer"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "heavy_slam"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "rollout"
+      },
+      {
+        "level": 1,
+        "moveId": "rock_smash"
+      },
+      {
+        "level": 15,
+        "moveId": "bulldoze"
+      },
+      {
+        "level": 20,
+        "moveId": "stomp"
+      },
+      {
+        "level": 25,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 30,
+        "moveId": "dig"
+      },
+      {
+        "level": 37,
+        "moveId": "strength"
+      },
+      {
+        "level": 44,
+        "moveId": "iron_head"
+      },
+      {
+        "level": 51,
+        "moveId": "play_rough"
+      },
+      {
+        "level": 58,
+        "moveId": "high_horsepower"
+      },
+      {
+        "level": 65,
+        "moveId": "superpower"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "badlands"
+    ]
+  }
+]

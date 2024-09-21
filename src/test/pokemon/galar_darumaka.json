@@ -1,0 +1,160 @@
+[
+  {
+    "_id": "galar_darumaka",
+    "gender": "",
+    "pokedexNumber": "4554",
+    "name": "galar_darumaka",
+    "koName": "달막화",
+    "speciesName": "galar_darumaka",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "63",
+    "friendship": "50",
+    "types": [
+      "ice"
+    ],
+    "normalAbilityIds": [
+      "hustle"
+    ],
+    "hiddenAbilityId": "inner_focus",
+    "passiveAbilityId": "flash_fire",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 315,
+    "hp": 70,
+    "attack": 90,
+    "defense": 45,
+    "specialAttack": 15,
+    "specialDefense": 45,
+    "speed": 50,
+    "height": 0.7,
+    "weight": 40,
+    "eggMoveIds": [
+      "ice_spinner",
+      "endure",
+      "drain_punch",
+      "v_create"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "powder_snow"
+      },
+      {
+        "level": 4,
+        "moveId": "taunt"
+      },
+      {
+        "level": 8,
+        "moveId": "bite"
+      },
+      {
+        "level": 12,
+        "moveId": "avalanche"
+      },
+      {
+        "level": 16,
+        "moveId": "work_up"
+      },
+      {
+        "level": 20,
+        "moveId": "ice_fang"
+      },
+      {
+        "level": 24,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 28,
+        "moveId": "ice_punch"
+      },
+      {
+        "level": 32,
+        "moveId": "uproar"
+      },
+      {
+        "level": 36,
+        "moveId": "belly_drum"
+      },
+      {
+        "level": 40,
+        "moveId": "blizzard"
+      },
+      {
+        "level": 44,
+        "moveId": "thrash"
+      },
+      {
+        "level": 48,
+        "moveId": "superpower"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "mega_kick",
+      "take_down",
+      "flamethrower",
+      "ice_beam",
+      "blizzard",
+      "strength",
+      "solar_beam",
+      "fire_spin",
+      "dig",
+      "double_team",
+      "focus_energy",
+      "fire_blast",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "hidden_power",
+      "sunny_day",
+      "rock_smash",
+      "uproar",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "superpower",
+      "brick_break",
+      "overheat",
+      "rock_tomb",
+      "gyro_ball",
+      "u_turn",
+      "fling",
+      "flare_blitz",
+      "avalanche",
+      "ice_fang",
+      "fire_fang",
+      "zen_headbutt",
+      "grass_knot",
+      "round",
+      "incinerate",
+      "work_up",
+      "power_up_punch"
+    ],
+    "biomeIds": [
+      "snowy_forest"
+    ]
+  }
+]

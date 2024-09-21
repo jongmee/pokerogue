@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "order_up",
+    "name": "Order Up",
+    "koName": "한판내기",
+    "type": "dragon",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 80,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "멋들어진 몸놀림으로 공격한다. 입속에 싸리용이 있으면 싸리용의 모습에 따라 능력이 올라간다.",
+    "effectChance": 100,
+    "prioirty": 0,
+    "generation": 9,
+    "realased": " (P)",
+    "flags": [],
+    "pokemonIds": [
+      "dondozo"
+    ]
+  }
+]

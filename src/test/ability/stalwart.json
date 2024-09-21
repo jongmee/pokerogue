@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "stalwart",
+    "name": "Stalwart",
+    "koName": "굳건한신념",
+    "realased": "",
+    "description": "상대의 기술을 끌어모으는 특성이나 기술의 영향을 받지 않는다.",
+    "generation": 8,
+    "pokemonIds": [
+      "duraludon",
+      "archaludon"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

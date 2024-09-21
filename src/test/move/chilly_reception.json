@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "chilly_reception",
+    "name": "Chilly Reception",
+    "koName": "썰렁개그",
+    "type": "ice",
+    "moveCategory": "status",
+    "moveTarget": "both_sides",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 10,
+    "effect": "자리를 얼어붙게 만드는 개그를 하고 교대 포켓몬과 교체한다. 5턴 동안 눈을 내리게 한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 9,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "slowking",
+      "milcery",
+      "alcremie",
+      "alcremie_ruby_cream",
+      "alcremie_matcha_cream",
+      "alcremie_mint_cream",
+      "alcremie_lemon_cream",
+      "alcremie_salted_cream",
+      "alcremie_ruby_swirl",
+      "alcremie_caramel_swirl",
+      "alcremie_rainbow_swirl",
+      "alcremie_gigantamax",
+      "galar_slowking"
+    ]
+  }
+]

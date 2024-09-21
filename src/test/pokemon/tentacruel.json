@@ -1,0 +1,182 @@
+[
+  {
+    "_id": "tentacruel",
+    "gender": "",
+    "pokedexNumber": "73",
+    "name": "tentacruel",
+    "koName": "독파리",
+    "speciesName": "tentacruel",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "180",
+    "friendship": "50",
+    "types": [
+      "water",
+      "poison"
+    ],
+    "normalAbilityIds": [
+      "clear_body",
+      "liquid_ooze"
+    ],
+    "hiddenAbilityId": "rain_dish",
+    "passiveAbilityId": "toxic_chain",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 515,
+    "hp": 80,
+    "attack": 70,
+    "defense": 65,
+    "specialAttack": 80,
+    "specialDefense": 120,
+    "speed": 100,
+    "height": 1.6,
+    "weight": 55,
+    "eggMoveIds": [
+      "baneful_bunker",
+      "strength_sap",
+      "bouncy_bubble",
+      "malignant_chain"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "wrap"
+      },
+      {
+        "level": 1,
+        "moveId": "poison_sting"
+      },
+      {
+        "level": 1,
+        "moveId": "acid"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "reflect_type"
+      },
+      {
+        "level": 1,
+        "moveId": "wring_out"
+      },
+      {
+        "level": 12,
+        "moveId": "supersonic"
+      },
+      {
+        "level": 16,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 20,
+        "moveId": "screech"
+      },
+      {
+        "level": 24,
+        "moveId": "bubble_beam"
+      },
+      {
+        "level": 28,
+        "moveId": "hex"
+      },
+      {
+        "level": 34,
+        "moveId": "acid_armor"
+      },
+      {
+        "level": 40,
+        "moveId": "poison_jab"
+      },
+      {
+        "level": 46,
+        "moveId": "surf"
+      },
+      {
+        "level": 52,
+        "moveId": "sludge_wave"
+      },
+      {
+        "level": 58,
+        "moveId": "hydro_pump"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "take_down",
+      "double_edge",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "toxic",
+      "screech",
+      "double_team",
+      "confuse_ray",
+      "haze",
+      "reflect",
+      "waterfall",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "sludge_bomb",
+      "icy_wind",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "rain_dance",
+      "whirlpool",
+      "hail",
+      "facade",
+      "knock_off",
+      "dive",
+      "weather_ball",
+      "muddy_water",
+      "water_pulse",
+      "brine",
+      "payback",
+      "toxic_spikes",
+      "poison_jab",
+      "giga_impact",
+      "cross_poison",
+      "venoshock",
+      "sludge_wave",
+      "acid_spray",
+      "round",
+      "scald",
+      "hex",
+      "confide",
+      "venom_drench",
+      "dazzling_gleam",
+      "infestation",
+      "brutal_swing",
+      "skitter_smack",
+      "corrosive_gas",
+      "flip_turn",
+      "tera_blast",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "sea",
+      "seabed"
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "_id": "rage_powder",
+    "name": "Rage Powder",
+    "koName": "분노가루",
+    "type": "bug",
+    "moveCategory": "status",
+    "moveTarget": "user",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 20,
+    "effect": "안절부절못하게 하는 가루를 자신에게 뿌려서 주의를 끈다. 상대의 공격은 모두 자신에게 향한다.",
+    "effectChance": -1,
+    "prioirty": 2,
+    "generation": 5,
+    "realased": "",
+    "flags": [
+      "ignore_protect",
+      "powder_move"
+    ],
+    "pokemonIds": [
+      "butterfree",
+      "paras",
+      "parasect",
+      "foongus",
+      "amoonguss",
+      "volcarona",
+      "brute_bonnet"
+    ]
+  }
+]

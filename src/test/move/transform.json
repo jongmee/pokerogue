@@ -1,0 +1,49 @@
+[
+  {
+    "_id": "transform",
+    "name": "Transform",
+    "koName": "변신",
+    "type": "normal",
+    "moveCategory": "status",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 10,
+    "effect": "상대 포켓몬으로 변신하여 상대와 완전히 똑같은 기술을 사용할 수 있다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 1,
+    "realased": "",
+    "flags": [
+      "ignore_protect"
+    ],
+    "pokemonIds": [
+      "ekans",
+      "arbok",
+      "staryu",
+      "starmie",
+      "ditto",
+      "mew",
+      "goomy",
+      "sliggoo",
+      "goodra",
+      "wishiwashi",
+      "wimpod",
+      "golisopod",
+      "milcery",
+      "alcremie",
+      "alcremie_ruby_cream",
+      "alcremie_matcha_cream",
+      "alcremie_mint_cream",
+      "alcremie_lemon_cream",
+      "alcremie_salted_cream",
+      "alcremie_ruby_swirl",
+      "alcremie_caramel_swirl",
+      "alcremie_rainbow_swirl",
+      "alcremie_gigantamax",
+      "orthworm",
+      "hisui_sliggoo",
+      "hisui_goodra"
+    ]
+  }
+]

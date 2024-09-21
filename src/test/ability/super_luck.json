@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "super_luck",
+    "name": "Super Luck",
+    "koName": "대운",
+    "realased": " (P)",
+    "description": "대운을 가지고 있어 상대의 급소에 공격이 맞기 쉽다.",
+    "generation": 4,
+    "pokemonIds": [
+      "togepi",
+      "togetic",
+      "murkrow",
+      "absol",
+      "honchkrow",
+      "skorupi",
+      "drapion",
+      "togekiss",
+      "pidove",
+      "tranquill",
+      "unfezant",
+      "sobble",
+      "drizzile",
+      "inteleon",
+      "inteleon_gigantamax",
+      "veluza"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

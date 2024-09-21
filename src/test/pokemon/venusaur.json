@@ -1,0 +1,190 @@
+[
+  {
+    "_id": "venusaur",
+    "gender": "",
+    "pokedexNumber": "3",
+    "name": "venusaur",
+    "koName": "이상해꽃",
+    "speciesName": "venusaur",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "263",
+    "friendship": "50",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "normalAbilityIds": [
+      "overgrow"
+    ],
+    "hiddenAbilityId": "chlorophyll",
+    "passiveAbilityId": "grassy_surge",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 525,
+    "hp": 80,
+    "attack": 82,
+    "defense": 83,
+    "specialAttack": 100,
+    "specialDefense": 100,
+    "speed": 80,
+    "height": 2,
+    "weight": 100,
+    "eggMoveIds": [
+      "sappy_seed",
+      "sludge_wave",
+      "earth_power",
+      "matcha_gotcha"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "petal_blizzard"
+      },
+      {
+        "level": 1,
+        "moveId": "growth"
+      },
+      {
+        "level": 1,
+        "moveId": "petal_dance"
+      },
+      {
+        "level": 1,
+        "moveId": "vine_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 9,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 12,
+        "moveId": "razor_leaf"
+      },
+      {
+        "level": 15,
+        "moveId": "poison_powder"
+      },
+      {
+        "level": 15,
+        "moveId": "sleep_powder"
+      },
+      {
+        "level": 20,
+        "moveId": "seed_bomb"
+      },
+      {
+        "level": 25,
+        "moveId": "take_down"
+      },
+      {
+        "level": 30,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 37,
+        "moveId": "synthesis"
+      },
+      {
+        "level": 44,
+        "moveId": "worry_seed"
+      },
+      {
+        "level": 51,
+        "moveId": "power_whip"
+      },
+      {
+        "level": 58,
+        "moveId": "solar_beam"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "hyper_beam",
+      "strength",
+      "solar_beam",
+      "earthquake",
+      "toxic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "amnesia",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "sludge_bomb",
+      "mud_slap",
+      "outrage",
+      "giga_drain",
+      "endure",
+      "charm",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "synthesis",
+      "hidden_power",
+      "sunny_day",
+      "rock_smash",
+      "facade",
+      "nature_power",
+      "helping_hand",
+      "knock_off",
+      "weather_ball",
+      "bullet_seed",
+      "frenzy_plant",
+      "magical_leaf",
+      "worry_seed",
+      "seed_bomb",
+      "energy_ball",
+      "earth_power",
+      "giga_impact",
+      "rock_climb",
+      "leaf_storm",
+      "power_whip",
+      "grass_knot",
+      "venoshock",
+      "acid_spray",
+      "round",
+      "echoed_voice",
+      "grass_pledge",
+      "bulldoze",
+      "work_up",
+      "petal_blizzard",
+      "grassy_terrain",
+      "confide",
+      "stomping_tantrum",
+      "grassy_glide",
+      "terrain_pulse",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "grass"
+    ]
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "_id": "raboot",
+    "gender": "",
+    "pokedexNumber": "814",
+    "name": "raboot",
+    "koName": "래비풋",
+    "speciesName": "raboot",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "147",
+    "friendship": "50",
+    "types": [
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "blaze"
+    ],
+    "hiddenAbilityId": "libero",
+    "passiveAbilityId": "no_guard",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 420,
+    "hp": 65,
+    "attack": 86,
+    "defense": 60,
+    "specialAttack": 55,
+    "specialDefense": 60,
+    "speed": 94,
+    "height": 0.6,
+    "weight": 9,
+    "eggMoveIds": [
+      "extreme_speed",
+      "high_jump_kick",
+      "triple_axel",
+      "bolt_strike"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 12,
+        "moveId": "double_kick"
+      },
+      {
+        "level": 19,
+        "moveId": "flame_charge"
+      },
+      {
+        "level": 24,
+        "moveId": "agility"
+      },
+      {
+        "level": 30,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 36,
+        "moveId": "counter"
+      },
+      {
+        "level": 42,
+        "moveId": "bounce"
+      },
+      {
+        "level": 48,
+        "moveId": "double_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "mega_kick",
+      "take_down",
+      "double_edge",
+      "flamethrower",
+      "low_kick",
+      "counter",
+      "fire_spin",
+      "agility",
+      "double_team",
+      "focus_energy",
+      "fire_blast",
+      "swift",
+      "rest",
+      "super_fang",
+      "substitute",
+      "snore",
+      "reversal",
+      "protect",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "hidden_power",
+      "sunny_day",
+      "heat_wave",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "blaze_kick",
+      "weather_ball",
+      "overheat",
+      "bulk_up",
+      "bounce",
+      "mud_shot",
+      "u_turn",
+      "assurance",
+      "flare_blitz",
+      "fire_fang",
+      "gunk_shot",
+      "electro_ball",
+      "flame_charge",
+      "low_sweep",
+      "round",
+      "ally_switch",
+      "acrobatics",
+      "fire_pledge",
+      "work_up",
+      "burning_jealousy",
+      "tera_blast",
+      "trailblaze",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "volcano"
+    ]
+  }
+]

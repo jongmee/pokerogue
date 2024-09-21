@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "anticipation",
+    "name": "Anticipation",
+    "koName": "위험예지",
+    "realased": "",
+    "description": "상대가 지닌 위험한 기술을 감지할 수 있다.",
+    "generation": 4,
+    "pokemonIds": [
+      "eevee",
+      "eevee_partner",
+      "barboach",
+      "whiscash",
+      "croagunk",
+      "toxicroak",
+      "ferrothorn",
+      "golisopod",
+      "hatenna",
+      "hattrem",
+      "hatterene",
+      "flittle",
+      "galar_ponyta",
+      "galar_rapidash"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

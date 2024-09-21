@@ -1,0 +1,143 @@
+[
+  {
+    "_id": "sea",
+    "name": "Sea",
+    "koName": "바다",
+    "types": [
+      "water"
+    ],
+    "nextBiomes": [
+      {
+        "name": "seabed",
+        "percentage": 50
+      },
+      {
+        "name": "ice_cave",
+        "percentage": 50
+      }
+    ],
+    "nativePokemons": [
+      {
+        "tier": "보통",
+        "pokemonIds": [
+          "slowpoke",
+          "slowbro",
+          "wingull",
+          "pelipper",
+          "cramorant",
+          "finizen",
+          "palafin",
+          "inkay",
+          "malamar",
+          "finneon",
+          "lumineon",
+          "tentacool",
+          "tentacruel",
+          "magikarp",
+          "gyarados",
+          "buizel",
+          "floatzel"
+        ]
+      },
+      {
+        "tier": "드묾",
+        "pokemonIds": [
+          "staryu",
+          "starmie",
+          "slowpoke",
+          "slowbro",
+          "shellder",
+          "carvanha",
+          "sharpedo",
+          "chinchou",
+          "lanturn",
+          "poliwag",
+          "poliwhirl",
+          "horsea",
+          "seadra",
+          "goldeen",
+          "seaking",
+          "wailmer",
+          "wailord",
+          "panpour",
+          "simipour",
+          "wattrel",
+          "kilowattrel"
+        ]
+      },
+      {
+        "tier": "레어",
+        "pokemonIds": [
+          "lapras",
+          "piplup",
+          "prinplup",
+          "empoleon",
+          "popplio",
+          "brionne",
+          "primarina"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어",
+        "pokemonIds": [
+          "kingdra",
+          "rotom",
+          "tirtouga",
+          "carracosta"
+        ]
+      },
+      {
+        "tier": "울트라 레어",
+        "pokemonIds": []
+      },
+      {
+        "tier": "보스",
+        "pokemonIds": [
+          "pelipper",
+          "cramorant",
+          "palafin",
+          "sharpedo",
+          "malamar",
+          "lumineon",
+          "tentacruel",
+          "floatzel",
+          "simipour",
+          "kilowattrel"
+        ]
+      },
+      {
+        "tier": "레어 보스",
+        "pokemonIds": [
+          "kingdra",
+          "empoleon",
+          "primarina"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어 보스",
+        "pokemonIds": [
+          "rotom"
+        ]
+      },
+      {
+        "tier": "슈퍼 울트라 레어 보스",
+        "pokemonIds": [
+          "lugia"
+        ]
+      }
+    ],
+    "trainers": [
+      {
+        "name": "시즈",
+        "types": [
+          "water"
+        ],
+        "pokemonIds": [
+          "wailmer",
+          "frillish",
+          "tirtouga"
+        ]
+      }
+    ]
+  }
+]

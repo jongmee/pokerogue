@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "tablets_of_ruin",
+    "name": "Tablets of Ruin",
+    "koName": "재앙의목간",
+    "realased": "",
+    "description": "재앙을 부르는 목간의 힘으로 자신을 제외한 모든 포켓몬의 공격을 약하게 만든다.",
+    "generation": 9,
+    "pokemonIds": [
+      "runerigus",
+      "wo_chien",
+      "galar_yamask"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

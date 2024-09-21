@@ -1,0 +1,164 @@
+[
+  {
+    "_id": "klefki",
+    "gender": "",
+    "pokedexNumber": "707",
+    "name": "klefki",
+    "koName": "클레피",
+    "speciesName": "klefki",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "165",
+    "friendship": "50",
+    "types": [
+      "steel",
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "prankster"
+    ],
+    "hiddenAbilityId": "magician",
+    "passiveAbilityId": "levitate",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 470,
+    "hp": 57,
+    "attack": 80,
+    "defense": 91,
+    "specialAttack": 80,
+    "specialDefense": 87,
+    "speed": 75,
+    "height": 0.2,
+    "weight": 3,
+    "eggMoveIds": [
+      "heal_bell",
+      "encore",
+      "topsy_turvy",
+      "instruct"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 4,
+        "moveId": "tackle"
+      },
+      {
+        "level": 8,
+        "moveId": "fairy_wind"
+      },
+      {
+        "level": 12,
+        "moveId": "torment"
+      },
+      {
+        "level": 16,
+        "moveId": "fairy_lock"
+      },
+      {
+        "level": 20,
+        "moveId": "metal_sound"
+      },
+      {
+        "level": 24,
+        "moveId": "draining_kiss"
+      },
+      {
+        "level": 28,
+        "moveId": "recycle"
+      },
+      {
+        "level": 32,
+        "moveId": "imprison"
+      },
+      {
+        "level": 36,
+        "moveId": "flash_cannon"
+      },
+      {
+        "level": 40,
+        "moveId": "play_rough"
+      },
+      {
+        "level": 44,
+        "moveId": "magic_room"
+      },
+      {
+        "level": 48,
+        "moveId": "foul_play"
+      },
+      {
+        "level": 50,
+        "moveId": "heal_block"
+      },
+      {
+        "level": 52,
+        "moveId": "last_resort"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "cut",
+      "hyper_beam",
+      "thunder_wave",
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "spikes",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "torment",
+      "facade",
+      "recycle",
+      "imprison",
+      "metal_sound",
+      "iron_defense",
+      "covet",
+      "calm_mind",
+      "giga_impact",
+      "flash_cannon",
+      "defog",
+      "trick_room",
+      "psyshock",
+      "magic_room",
+      "foul_play",
+      "round",
+      "stored_power",
+      "draining_kiss",
+      "misty_terrain",
+      "play_rough",
+      "confide",
+      "dazzling_gleam",
+      "steel_beam",
+      "skitter_smack",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "factory"
+    ]
+  }
+]

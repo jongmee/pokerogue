@@ -1,0 +1,41 @@
+[
+  {
+    "_id": "scrappy",
+    "name": "Scrappy",
+    "koName": "배짱",
+    "realased": "",
+    "description": "고스트타입 포켓몬에게 노말타입과 격투타입의 기술을 맞게 한다.",
+    "generation": 4,
+    "pokemonIds": [
+      "kangaskhan",
+      "tauros",
+      "aipom",
+      "miltank",
+      "taillow",
+      "swellow",
+      "loudred",
+      "exploud",
+      "skitty",
+      "delcatty",
+      "ambipom",
+      "lopunny_mega",
+      "herdier",
+      "stoutland",
+      "sawk",
+      "pancham",
+      "pangoro",
+      "stufful",
+      "bewear",
+      "sirfetchd",
+      "sneasler",
+      "tandemaus",
+      "flamigo",
+      "slither_wing",
+      "galar_farfetchd",
+      "hisui_sneasel",
+      "hisui_decidueye"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

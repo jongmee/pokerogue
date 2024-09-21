@@ -1,0 +1,39 @@
+[
+  {
+    "_id": "mach_punch",
+    "name": "Mach Punch",
+    "koName": "마하펀치",
+    "type": "fighting",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 40,
+    "accuracy": 100,
+    "powerPoint": 30,
+    "effect": "눈에 보이지 않는 굉장한 속도로 펀치를 날린다. 반드시 선제공격을 할 수 있다.",
+    "effectChance": -1,
+    "prioirty": 1,
+    "generation": 2,
+    "realased": "",
+    "flags": [
+      "makes_contact",
+      "punching_move"
+    ],
+    "pokemonIds": [
+      "hitmonchan",
+      "ledyba",
+      "ledian",
+      "breloom",
+      "monferno",
+      "infernape",
+      "timburr",
+      "gurdurr",
+      "conkeldurr",
+      "throh",
+      "clobbopus",
+      "grapploct",
+      "pawmi",
+      "pawmo",
+      "pawmot"
+    ]
+  }
+]

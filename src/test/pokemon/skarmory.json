@@ -1,0 +1,177 @@
+[
+  {
+    "_id": "skarmory",
+    "gender": "",
+    "pokedexNumber": "227",
+    "name": "skarmory",
+    "koName": "무장조",
+    "speciesName": "skarmory",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "163",
+    "friendship": "50",
+    "types": [
+      "steel",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "keen_eye",
+      "sturdy"
+    ],
+    "hiddenAbilityId": "weak_armor",
+    "passiveAbilityId": "lightning_rod",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 465,
+    "hp": 65,
+    "attack": 80,
+    "defense": 140,
+    "specialAttack": 40,
+    "specialDefense": 70,
+    "speed": 70,
+    "height": 1.7,
+    "weight": 50.5,
+    "eggMoveIds": [
+      "roost",
+      "body_press",
+      "spiky_shield",
+      "beak_blast"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "peck"
+      },
+      {
+        "level": 4,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 8,
+        "moveId": "fury_attack"
+      },
+      {
+        "level": 12,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 16,
+        "moveId": "agility"
+      },
+      {
+        "level": 20,
+        "moveId": "wing_attack"
+      },
+      {
+        "level": 24,
+        "moveId": "slash"
+      },
+      {
+        "level": 28,
+        "moveId": "steel_wing"
+      },
+      {
+        "level": 32,
+        "moveId": "payback"
+      },
+      {
+        "level": 36,
+        "moveId": "drill_peck"
+      },
+      {
+        "level": 40,
+        "moveId": "metal_sound"
+      },
+      {
+        "level": 44,
+        "moveId": "spikes"
+      },
+      {
+        "level": 48,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 52,
+        "moveId": "brave_bird"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "fly",
+      "roar",
+      "counter",
+      "toxic",
+      "agility",
+      "double_team",
+      "swift",
+      "flash",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "reversal",
+      "protect",
+      "mud_slap",
+      "spikes",
+      "icy_wind",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "metal_claw",
+      "hidden_power",
+      "sunny_day",
+      "rock_smash",
+      "torment",
+      "facade",
+      "taunt",
+      "air_cutter",
+      "rock_tomb",
+      "metal_sound",
+      "sand_tomb",
+      "aerial_ace",
+      "iron_defense",
+      "roost",
+      "pluck",
+      "tailwind",
+      "payback",
+      "assurance",
+      "guard_swap",
+      "dark_pulse",
+      "air_slash",
+      "x_scissor",
+      "brave_bird",
+      "flash_cannon",
+      "defog",
+      "iron_head",
+      "stealth_rock",
+      "round",
+      "sky_drop",
+      "drill_run",
+      "confide",
+      "body_press",
+      "steel_beam",
+      "dual_wingbeat",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "mountain"
+    ]
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "_id": "slither_wing",
+    "gender": "",
+    "pokedexNumber": "988",
+    "name": "slither_wing",
+    "koName": "땅을기는날개",
+    "speciesName": "slither_wing",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "285",
+    "friendship": "0",
+    "types": [
+      "bug",
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "protosynthesis"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "scrappy",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 570,
+    "hp": 85,
+    "attack": 135,
+    "defense": 79,
+    "specialAttack": 85,
+    "specialDefense": 105,
+    "speed": 81,
+    "height": 3.2,
+    "weight": 92,
+    "eggMoveIds": [
+      "mighty_cleave",
+      "thunderous_kick",
+      "fire_lash",
+      "victory_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": -1,
+        "moveId": "sunny_day"
+      },
+      {
+        "level": 1,
+        "moveId": "gust"
+      },
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 1,
+        "moveId": "bug_bite"
+      },
+      {
+        "level": 7,
+        "moveId": "poison_powder"
+      },
+      {
+        "level": 7,
+        "moveId": "stun_spore"
+      },
+      {
+        "level": 14,
+        "moveId": "flame_charge"
+      },
+      {
+        "level": 21,
+        "moveId": "stomp"
+      },
+      {
+        "level": 28,
+        "moveId": "low_sweep"
+      },
+      {
+        "level": 35,
+        "moveId": "morning_sun"
+      },
+      {
+        "level": 42,
+        "moveId": "lunge"
+      },
+      {
+        "level": 49,
+        "moveId": "superpower"
+      },
+      {
+        "level": 56,
+        "moveId": "bulk_up"
+      },
+      {
+        "level": 63,
+        "moveId": "dual_wingbeat"
+      },
+      {
+        "level": 70,
+        "moveId": "first_impression"
+      },
+      {
+        "level": 77,
+        "moveId": "whirlwind"
+      },
+      {
+        "level": 84,
+        "moveId": "leech_life"
+      },
+      {
+        "level": 91,
+        "moveId": "thrash"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "low_kick",
+      "earthquake",
+      "double_team",
+      "leech_life",
+      "rest",
+      "substitute",
+      "curse",
+      "reversal",
+      "protect",
+      "sandstorm",
+      "giga_drain",
+      "endure",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "superpower",
+      "brick_break",
+      "aerial_ace",
+      "bulk_up",
+      "u_turn",
+      "close_combat",
+      "flare_blitz",
+      "bug_buzz",
+      "giga_impact",
+      "zen_headbutt",
+      "bug_bite",
+      "heavy_slam",
+      "flame_charge",
+      "low_sweep",
+      "acrobatics",
+      "wild_charge",
+      "heat_crash",
+      "hurricane",
+      "high_horsepower",
+      "lunge",
+      "stomping_tantrum",
+      "body_press",
+      "skitter_smack",
+      "dual_wingbeat",
+      "tera_blast",
+      "trailblaze",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "end"
+    ]
+  }
+]

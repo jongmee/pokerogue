@@ -1,0 +1,175 @@
+[
+  {
+    "_id": "sandy_shocks",
+    "gender": "",
+    "pokedexNumber": "989",
+    "name": "sandy_shocks",
+    "koName": "모래털가죽",
+    "speciesName": "sandy_shocks",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "285",
+    "friendship": "0",
+    "types": [
+      "electric",
+      "ground"
+    ],
+    "normalAbilityIds": [
+      "protosynthesis"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "earth_eater",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 570,
+    "hp": 85,
+    "attack": 81,
+    "defense": 97,
+    "specialAttack": 121,
+    "specialDefense": 85,
+    "speed": 101,
+    "height": 2.3,
+    "weight": 60,
+    "eggMoveIds": [
+      "morning_sun",
+      "ice_beam",
+      "nasty_plot",
+      "thunderclap"
+    ],
+    "levelMoves": [
+      {
+        "level": -1,
+        "moveId": "sunny_day"
+      },
+      {
+        "level": 1,
+        "moveId": "supersonic"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_wave"
+      },
+      {
+        "level": 1,
+        "moveId": "electric_terrain"
+      },
+      {
+        "level": 7,
+        "moveId": "spark"
+      },
+      {
+        "level": 14,
+        "moveId": "bulldoze"
+      },
+      {
+        "level": 21,
+        "moveId": "charge_beam"
+      },
+      {
+        "level": 28,
+        "moveId": "tri_attack"
+      },
+      {
+        "level": 35,
+        "moveId": "screech"
+      },
+      {
+        "level": 42,
+        "moveId": "heavy_slam"
+      },
+      {
+        "level": 49,
+        "moveId": "metal_sound"
+      },
+      {
+        "level": 56,
+        "moveId": "discharge"
+      },
+      {
+        "level": 63,
+        "moveId": "earth_power"
+      },
+      {
+        "level": 70,
+        "moveId": "mirror_coat"
+      },
+      {
+        "level": 77,
+        "moveId": "gravity"
+      },
+      {
+        "level": 84,
+        "moveId": "zap_cannon"
+      },
+      {
+        "level": 91,
+        "moveId": "magnetic_flux"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "hyper_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "earthquake",
+      "screech",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "swift",
+      "rest",
+      "tri_attack",
+      "substitute",
+      "protect",
+      "spikes",
+      "sandstorm",
+      "endure",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "sunny_day",
+      "facade",
+      "charge",
+      "metal_sound",
+      "sand_tomb",
+      "iron_defense",
+      "mud_shot",
+      "gravity",
+      "power_gem",
+      "earth_power",
+      "giga_impact",
+      "flash_cannon",
+      "stealth_rock",
+      "charge_beam",
+      "heavy_slam",
+      "electro_ball",
+      "volt_switch",
+      "bulldoze",
+      "electroweb",
+      "wild_charge",
+      "eerie_impulse",
+      "electric_terrain",
+      "high_horsepower",
+      "stomping_tantrum",
+      "body_press",
+      "scorching_sands",
+      "tera_blast",
+      "supercell_slam"
+    ],
+    "biomeIds": [
+      "end"
+    ]
+  }
+]

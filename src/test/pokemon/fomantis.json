@@ -1,0 +1,149 @@
+[
+  {
+    "_id": "fomantis",
+    "gender": "",
+    "pokedexNumber": "753",
+    "name": "fomantis",
+    "koName": "짜랑랑",
+    "speciesName": "fomantis",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "50",
+    "friendship": "50",
+    "types": [
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "leaf_guard"
+    ],
+    "hiddenAbilityId": "contrary",
+    "passiveAbilityId": "sharpness",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 250,
+    "hp": 40,
+    "attack": 55,
+    "defense": 35,
+    "specialAttack": 50,
+    "specialDefense": 35,
+    "speed": 35,
+    "height": 0.3,
+    "weight": 1.5,
+    "eggMoveIds": [
+      "superpower",
+      "headlong_rush",
+      "ice_hammer",
+      "bitter_blade"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "fury_cutter"
+      },
+      {
+        "level": 1,
+        "moveId": "leafage"
+      },
+      {
+        "level": 5,
+        "moveId": "growth"
+      },
+      {
+        "level": 10,
+        "moveId": "ingrain"
+      },
+      {
+        "level": 15,
+        "moveId": "razor_leaf"
+      },
+      {
+        "level": 20,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 25,
+        "moveId": "slash"
+      },
+      {
+        "level": 30,
+        "moveId": "x_scissor"
+      },
+      {
+        "level": 35,
+        "moveId": "synthesis"
+      },
+      {
+        "level": 40,
+        "moveId": "leaf_blade"
+      },
+      {
+        "level": 45,
+        "moveId": "sunny_day"
+      },
+      {
+        "level": 50,
+        "moveId": "solar_beam"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "take_down",
+      "solar_beam",
+      "toxic",
+      "double_team",
+      "leech_life",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "giga_drain",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "synthesis",
+      "hidden_power",
+      "sunny_day",
+      "facade",
+      "nature_power",
+      "weather_ball",
+      "signal_beam",
+      "bullet_seed",
+      "magical_leaf",
+      "leaf_blade",
+      "payback",
+      "fling",
+      "worry_seed",
+      "poison_jab",
+      "seed_bomb",
+      "x_scissor",
+      "energy_ball",
+      "defog",
+      "leaf_storm",
+      "grass_knot",
+      "bug_bite",
+      "round",
+      "petal_blizzard",
+      "grassy_terrain",
+      "confide",
+      "pollen_puff",
+      "grassy_glide",
+      "skitter_smack",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "tall_grass",
+      "jungle"
+    ]
+  }
+]

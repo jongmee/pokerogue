@@ -1,0 +1,33 @@
+[
+  {
+    "_id": "gigaton_hammer",
+    "name": "Gigaton Hammer",
+    "koName": "거대해머",
+    "type": "steel",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 160,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "거대한 해머를 온몸으로 휘둘러서 공격한다. 이 기술은 2회 연속으로 쓸 수 없다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 9,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "dratini",
+      "dragonair",
+      "dragonite",
+      "registeel",
+      "regigigas",
+      "trubbish",
+      "garbodor",
+      "garbodor_gigantamax",
+      "cufant",
+      "copperajah",
+      "copperajah_gigantamax",
+      "tinkaton"
+    ]
+  }
+]

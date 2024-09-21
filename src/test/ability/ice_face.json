@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "ice_face",
+    "name": "Ice Face",
+    "koName": "아이스페이스",
+    "realased": "",
+    "description": "물리공격을 머리의 얼음이 대신 맞아주지만 모습도 바뀐다. 얼음은 싸라기눈이 내리면 원래대로 돌아온다.",
+    "generation": 8,
+    "pokemonIds": [
+      "eiscue"
+    ],
+    "isBypassFaint": true,
+    "isIgnorable": true
+  }
+]

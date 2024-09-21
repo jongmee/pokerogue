@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "sparkly_swirl",
+    "name": "Sparkly Swirl",
+    "koName": "반짝반짝스톰",
+    "type": "fairy",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 120,
+    "accuracy": 85,
+    "powerPoint": 5,
+    "effect": "숨 막힐 듯 진한 향기의 회오리로 상대를 휘감아 공격한다. 같은 편의 상태 이상을 회복한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "eevee_partner",
+      "eevee_gigantamax",
+      "minun",
+      "latias",
+      "latias_mega",
+      "uxie",
+      "vanillite",
+      "vanillish",
+      "vanilluxe",
+      "sylveon",
+      "carbink",
+      "nickit",
+      "thievul",
+      "sinistea",
+      "polteageist",
+      "scream_tail"
+    ]
+  }
+]

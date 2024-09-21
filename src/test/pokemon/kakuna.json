@@ -1,0 +1,63 @@
+[
+  {
+    "_id": "kakuna",
+    "gender": "",
+    "pokedexNumber": "14",
+    "name": "kakuna",
+    "koName": "딱충이",
+    "speciesName": "kakuna",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "72",
+    "friendship": "70",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "normalAbilityIds": [
+      "shed_skin"
+    ],
+    "hiddenAbilityId": "shed_skin",
+    "passiveAbilityId": "tinted_lens",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 205,
+    "hp": 45,
+    "attack": 25,
+    "defense": 50,
+    "specialAttack": 25,
+    "specialDefense": 25,
+    "speed": 35,
+    "height": 0.6,
+    "weight": 10,
+    "eggMoveIds": [
+      "thousand_arrows",
+      "swords_dance",
+      "attack_order",
+      "noxious_torque"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "harden"
+      },
+      {
+        "level": 1,
+        "moveId": "harden"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "iron_defense",
+      "bug_bite",
+      "electroweb"
+    ],
+    "biomeIds": [
+      "town"
+    ]
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "_id": "pichu_spiky",
+    "gender": "",
+    "pokedexNumber": "172",
+    "name": "pichu_spiky",
+    "koName": "피츄_spiky",
+    "speciesName": "pichu",
+    "canChangeForm": true,
+    "formName": "spiky_eared",
+    "baseExp": "41",
+    "friendship": "70",
+    "types": [
+      "electric"
+    ],
+    "normalAbilityIds": [
+      "static"
+    ],
+    "hiddenAbilityId": "lightning_rod",
+    "passiveAbilityId": "electric_surge",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 205,
+    "hp": 20,
+    "attack": 40,
+    "defense": 15,
+    "specialAttack": 35,
+    "specialDefense": 35,
+    "speed": 60,
+    "height": 1.4,
+    "weight": 61.5,
+    "eggMoveIds": [
+      "rising_voltage",
+      "splishy_splash",
+      "floaty_fall",
+      "thunderclap"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 4,
+        "moveId": "play_nice"
+      },
+      {
+        "level": 8,
+        "moveId": "sweet_kiss"
+      },
+      {
+        "level": 12,
+        "moveId": "nuzzle"
+      },
+      {
+        "level": 16,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 20,
+        "moveId": "charm"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": []
+  }
+]

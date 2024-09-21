@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "mystical_power",
+    "name": "Mystical Power",
+    "koName": "신비의힘",
+    "type": "psychic",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 70,
+    "accuracy": 90,
+    "powerPoint": 10,
+    "effect": "신비한 힘으로 자신을 강화한다. 자신의 특수공격이 올라간다.",
+    "effectChance": 100,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "venonat",
+      "venomoth",
+      "psyduck",
+      "golduck",
+      "slowpoke",
+      "slowbro",
+      "slowbro_mega",
+      "staryu",
+      "starmie",
+      "slowking",
+      "girafarig",
+      "baltoy",
+      "claydol",
+      "latias",
+      "latias_mega",
+      "uxie",
+      "mesprit",
+      "azelf",
+      "munna",
+      "musharna",
+      "farigiraf"
+    ]
+  }
+]

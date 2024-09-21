@@ -1,0 +1,173 @@
+[
+  {
+    "_id": "luxray",
+    "gender": "",
+    "pokedexNumber": "405",
+    "name": "luxray",
+    "koName": "렌트라",
+    "speciesName": "luxray",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "262",
+    "friendship": "50",
+    "types": [
+      "electric"
+    ],
+    "normalAbilityIds": [
+      "rivalry",
+      "intimidate"
+    ],
+    "hiddenAbilityId": "guts",
+    "passiveAbilityId": "speed_boost",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 523,
+    "hp": 80,
+    "attack": 120,
+    "defense": 79,
+    "specialAttack": 95,
+    "specialDefense": 79,
+    "speed": 70,
+    "height": 1.4,
+    "weight": 42,
+    "eggMoveIds": [
+      "fire_lash",
+      "triple_axel",
+      "facade",
+      "bolt_strike"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 1,
+        "moveId": "charge"
+      },
+      {
+        "level": 1,
+        "moveId": "electric_terrain"
+      },
+      {
+        "level": 12,
+        "moveId": "bite"
+      },
+      {
+        "level": 18,
+        "moveId": "spark"
+      },
+      {
+        "level": 24,
+        "moveId": "roar"
+      },
+      {
+        "level": 33,
+        "moveId": "volt_switch"
+      },
+      {
+        "level": 40,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 48,
+        "moveId": "thunder_wave"
+      },
+      {
+        "level": 56,
+        "moveId": "crunch"
+      },
+      {
+        "level": 64,
+        "moveId": "discharge"
+      },
+      {
+        "level": 72,
+        "moveId": "swagger"
+      },
+      {
+        "level": 80,
+        "moveId": "wild_charge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "hyper_beam",
+      "strength",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "agility",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "swift",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "facade",
+      "charge",
+      "helping_hand",
+      "superpower",
+      "fake_tears",
+      "signal_beam",
+      "giga_impact",
+      "thunder_fang",
+      "ice_fang",
+      "fire_fang",
+      "charge_beam",
+      "electro_ball",
+      "round",
+      "volt_switch",
+      "wild_charge",
+      "snarl",
+      "play_rough",
+      "confide",
+      "eerie_impulse",
+      "electric_terrain",
+      "throat_chop",
+      "psychic_fangs",
+      "rising_voltage",
+      "tera_blast",
+      "trailblaze",
+      "supercell_slam"
+    ],
+    "biomeIds": [
+      "plains",
+      "power_plant"
+    ]
+  }
+]

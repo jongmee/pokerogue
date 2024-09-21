@@ -1,0 +1,127 @@
+[
+  {
+    "_id": "garbodor_gigantamax",
+    "gender": "",
+    "pokedexNumber": "569",
+    "name": "garbodor_gigantamax",
+    "koName": "더스트나_gigantamax",
+    "speciesName": "garbodor",
+    "canChangeForm": true,
+    "formName": "g_max",
+    "baseExp": "166",
+    "friendship": "50",
+    "types": [
+      "poison",
+      "steel"
+    ],
+    "normalAbilityIds": [
+      "toxic_debris"
+    ],
+    "hiddenAbilityId": "toxic_debris",
+    "passiveAbilityId": "neutralizing_gas",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 574,
+    "hp": 135,
+    "attack": 125,
+    "defense": 102,
+    "specialAttack": 57,
+    "specialDefense": 102,
+    "speed": 53,
+    "height": 21,
+    "weight": 107.3,
+    "eggMoveIds": [
+      "coil",
+      "recover",
+      "dire_claw",
+      "gigaton_hammer"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "take_down"
+      },
+      {
+        "level": 1,
+        "moveId": "poison_gas"
+      },
+      {
+        "level": 1,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 1,
+        "moveId": "recycle"
+      },
+      {
+        "level": 1,
+        "moveId": "acid_spray"
+      },
+      {
+        "level": 9,
+        "moveId": "amnesia"
+      },
+      {
+        "level": 12,
+        "moveId": "clear_smog"
+      },
+      {
+        "level": 15,
+        "moveId": "toxic_spikes"
+      },
+      {
+        "level": 18,
+        "moveId": "sludge"
+      },
+      {
+        "level": 21,
+        "moveId": "stockpile"
+      },
+      {
+        "level": 21,
+        "moveId": "swallow"
+      },
+      {
+        "level": 24,
+        "moveId": "body_slam"
+      },
+      {
+        "level": 27,
+        "moveId": "sludge_bomb"
+      },
+      {
+        "level": 30,
+        "moveId": "toxic"
+      },
+      {
+        "level": 33,
+        "moveId": "belch"
+      },
+      {
+        "level": 39,
+        "moveId": "pain_split"
+      },
+      {
+        "level": 43,
+        "moveId": "gunk_shot"
+      },
+      {
+        "level": 48,
+        "moveId": "explosion"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "slum"
+    ]
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "_id": "hydrapple",
+    "gender": "",
+    "pokedexNumber": "1019",
+    "name": "hydrapple",
+    "koName": "과미드라",
+    "speciesName": "hydrapple",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "270",
+    "friendship": "50",
+    "types": [
+      "grass",
+      "dragon"
+    ],
+    "normalAbilityIds": [
+      "supersweet_syrup",
+      "regenerator"
+    ],
+    "hiddenAbilityId": "sticky_hold",
+    "passiveAbilityId": "dragons_maw",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 540,
+    "hp": 106,
+    "attack": 80,
+    "defense": 110,
+    "specialAttack": 120,
+    "specialDefense": 80,
+    "speed": 44,
+    "height": 1.8,
+    "weight": 93,
+    "eggMoveIds": [
+      "matcha_gotcha",
+      "dragon_hammer",
+      "flower_trick",
+      "strength_sap"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "fickle_beam"
+      },
+      {
+        "level": -1,
+        "moveId": "yawn"
+      },
+      {
+        "level": -1,
+        "moveId": "double_hit"
+      },
+      {
+        "level": -1,
+        "moveId": "infestation"
+      },
+      {
+        "level": 1,
+        "moveId": "withdraw"
+      },
+      {
+        "level": 1,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 1,
+        "moveId": "recycle"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 4,
+        "moveId": "dragon_tail"
+      },
+      {
+        "level": 8,
+        "moveId": "growth"
+      },
+      {
+        "level": 12,
+        "moveId": "dragon_breath"
+      },
+      {
+        "level": 16,
+        "moveId": "protect"
+      },
+      {
+        "level": 20,
+        "moveId": "bullet_seed"
+      },
+      {
+        "level": 28,
+        "moveId": "syrup_bomb"
+      },
+      {
+        "level": 32,
+        "moveId": "dragon_pulse"
+      },
+      {
+        "level": 36,
+        "moveId": "recover"
+      },
+      {
+        "level": 40,
+        "moveId": "energy_ball"
+      },
+      {
+        "level": 44,
+        "moveId": "substitute"
+      },
+      {
+        "level": 54,
+        "moveId": "power_whip"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hydro_pump",
+      "solar_beam",
+      "earthquake",
+      "double_team",
+      "reflect",
+      "rest",
+      "substitute",
+      "curse",
+      "protect",
+      "outrage",
+      "giga_drain",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "uproar",
+      "facade",
+      "recycle",
+      "bullet_seed",
+      "magical_leaf",
+      "gyro_ball",
+      "seed_bomb",
+      "dragon_pulse",
+      "energy_ball",
+      "earth_power",
+      "giga_impact",
+      "nasty_plot",
+      "draco_meteor",
+      "leaf_storm",
+      "grass_knot",
+      "bug_bite",
+      "heavy_slam",
+      "dragon_tail",
+      "grassy_terrain",
+      "pollen_puff",
+      "body_press",
+      "breaking_swipe",
+      "grassy_glide",
+      "lash_out",
+      "pounce",
+      "dragon_cheer"
+    ],
+    "biomeIds": [
+      "meadow"
+    ]
+  }
+]

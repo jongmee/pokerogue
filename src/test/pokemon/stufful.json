@@ -1,0 +1,156 @@
+[
+  {
+    "_id": "stufful",
+    "gender": "",
+    "pokedexNumber": "759",
+    "name": "stufful",
+    "koName": "포곰곰",
+    "speciesName": "stufful",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "68",
+    "friendship": "50",
+    "types": [
+      "normal",
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "fluffy",
+      "klutz"
+    ],
+    "hiddenAbilityId": "cute_charm",
+    "passiveAbilityId": "scrappy",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 340,
+    "hp": 70,
+    "attack": 75,
+    "defense": 50,
+    "specialAttack": 45,
+    "specialDefense": 50,
+    "speed": 50,
+    "height": 0.5,
+    "weight": 6.8,
+    "eggMoveIds": [
+      "drain_punch",
+      "meteor_mash",
+      "triple_axel",
+      "rage_fist"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 4,
+        "moveId": "baby_doll_eyes"
+      },
+      {
+        "level": 8,
+        "moveId": "payback"
+      },
+      {
+        "level": 12,
+        "moveId": "brutal_swing"
+      },
+      {
+        "level": 16,
+        "moveId": "endure"
+      },
+      {
+        "level": 20,
+        "moveId": "strength"
+      },
+      {
+        "level": 24,
+        "moveId": "take_down"
+      },
+      {
+        "level": 28,
+        "moveId": "flail"
+      },
+      {
+        "level": 32,
+        "moveId": "hammer_arm"
+      },
+      {
+        "level": 36,
+        "moveId": "thrash"
+      },
+      {
+        "level": 40,
+        "moveId": "pain_split"
+      },
+      {
+        "level": 44,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 48,
+        "moveId": "superpower"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "ice_punch",
+      "thunder_punch",
+      "swords_dance",
+      "mega_kick",
+      "take_down",
+      "roar",
+      "strength",
+      "earthquake",
+      "toxic",
+      "double_team",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "hidden_power",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "superpower",
+      "brick_break",
+      "rock_tomb",
+      "aerial_ace",
+      "bulk_up",
+      "payback",
+      "fling",
+      "focus_blast",
+      "zen_headbutt",
+      "iron_head",
+      "low_sweep",
+      "round",
+      "bulldoze",
+      "work_up",
+      "confide",
+      "brutal_swing",
+      "stomping_tantrum",
+      "coaching",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "dojo"
+    ]
+  }
+]

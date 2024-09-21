@@ -1,0 +1,31 @@
+[
+  {
+    "_id": "psystrike",
+    "name": "Psystrike",
+    "koName": "사이코브레이크",
+    "type": "psychic",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 100,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "이상한 염력파를 실체화하여 상대를 공격한다. 물리적인 데미지를 준다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 5,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "abra",
+      "kadabra",
+      "alakazam",
+      "alakazam_mega",
+      "mewtwo",
+      "azelf",
+      "espurr",
+      "meowstic",
+      "munkidori",
+      "iron_crown"
+    ]
+  }
+]

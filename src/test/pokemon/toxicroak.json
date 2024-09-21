@@ -1,0 +1,202 @@
+[
+  {
+    "_id": "toxicroak",
+    "gender": "",
+    "pokedexNumber": "454",
+    "name": "toxicroak",
+    "koName": "독개굴",
+    "speciesName": "toxicroak",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "172",
+    "friendship": "50",
+    "types": [
+      "poison",
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "anticipation",
+      "dry_skin"
+    ],
+    "hiddenAbilityId": "poison_touch",
+    "passiveAbilityId": "moxie",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 490,
+    "hp": 83,
+    "attack": 106,
+    "defense": 65,
+    "specialAttack": 86,
+    "specialDefense": 65,
+    "speed": 85,
+    "height": 1.3,
+    "weight": 44.4,
+    "eggMoveIds": [
+      "dire_claw",
+      "ice_punch",
+      "thunderous_kick",
+      "victory_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "poison_sting"
+      },
+      {
+        "level": 1,
+        "moveId": "mud_slap"
+      },
+      {
+        "level": 1,
+        "moveId": "taunt"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 12,
+        "moveId": "flatter"
+      },
+      {
+        "level": 16,
+        "moveId": "low_kick"
+      },
+      {
+        "level": 20,
+        "moveId": "venoshock"
+      },
+      {
+        "level": 24,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 28,
+        "moveId": "swagger"
+      },
+      {
+        "level": 32,
+        "moveId": "poison_jab"
+      },
+      {
+        "level": 36,
+        "moveId": "toxic"
+      },
+      {
+        "level": 42,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 48,
+        "moveId": "sludge_bomb"
+      },
+      {
+        "level": 54,
+        "moveId": "belch"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "ice_punch",
+      "thunder_punch",
+      "swords_dance",
+      "cut",
+      "mega_kick",
+      "take_down",
+      "hyper_beam",
+      "low_kick",
+      "counter",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "screech",
+      "double_team",
+      "rest",
+      "rock_slide",
+      "super_fang",
+      "substitute",
+      "thief",
+      "snore",
+      "reversal",
+      "spite",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "shadow_ball",
+      "rock_smash",
+      "torment",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "revenge",
+      "brick_break",
+      "knock_off",
+      "rock_tomb",
+      "aerial_ace",
+      "bulk_up",
+      "bounce",
+      "mud_shot",
+      "close_combat",
+      "payback",
+      "assurance",
+      "embargo",
+      "fling",
+      "poison_jab",
+      "dark_pulse",
+      "x_scissor",
+      "drain_punch",
+      "vacuum_wave",
+      "focus_blast",
+      "giga_impact",
+      "nasty_plot",
+      "shadow_claw",
+      "rock_climb",
+      "cross_poison",
+      "gunk_shot",
+      "stone_edge",
+      "venoshock",
+      "sludge_wave",
+      "low_sweep",
+      "acid_spray",
+      "foul_play",
+      "round",
+      "retaliate",
+      "bulldoze",
+      "work_up",
+      "confide",
+      "venom_drench",
+      "power_up_punch",
+      "throat_chop",
+      "lash_out",
+      "corrosive_gas",
+      "coaching",
+      "tera_blast",
+      "chilling_water",
+      "upper_hand"
+    ],
+    "biomeIds": [
+      "swamp",
+      "dojo"
+    ]
+  }
+]

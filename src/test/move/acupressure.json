@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "acupressure",
+    "name": "Acupressure",
+    "koName": "경혈찌르기",
+    "type": "normal",
+    "moveCategory": "status",
+    "moveTarget": "user_or_near_ally",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 30,
+    "effect": "경혈을 눌러 몸을 활성화시킨다. 능력 중 하나를 크게 올린다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 4,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "doduo",
+      "dodrio",
+      "qwilfish",
+      "meditite",
+      "medicham",
+      "skorupi",
+      "drapion",
+      "maractus",
+      "pincurchin",
+      "overqwil",
+      "hisui_qwilfish"
+    ]
+  }
+]

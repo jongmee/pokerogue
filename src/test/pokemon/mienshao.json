@@ -1,0 +1,187 @@
+[
+  {
+    "_id": "mienshao",
+    "gender": "",
+    "pokedexNumber": "620",
+    "name": "mienshao",
+    "koName": "비조도",
+    "speciesName": "mienshao",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "179",
+    "friendship": "50",
+    "types": [
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "inner_focus",
+      "regenerator"
+    ],
+    "hiddenAbilityId": "reckless",
+    "passiveAbilityId": "no_guard",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 510,
+    "hp": 65,
+    "attack": 125,
+    "defense": 60,
+    "specialAttack": 95,
+    "specialDefense": 60,
+    "speed": 105,
+    "height": 1.4,
+    "weight": 35.5,
+    "eggMoveIds": [
+      "gunk_shot",
+      "supercell_slam",
+      "knock_off",
+      "mountain_gale"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "reversal"
+      },
+      {
+        "level": 1,
+        "moveId": "detect"
+      },
+      {
+        "level": 1,
+        "moveId": "fake_out"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_guard"
+      },
+      {
+        "level": 15,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 20,
+        "moveId": "wide_guard"
+      },
+      {
+        "level": 25,
+        "moveId": "force_palm"
+      },
+      {
+        "level": 30,
+        "moveId": "u_turn"
+      },
+      {
+        "level": 35,
+        "moveId": "drain_punch"
+      },
+      {
+        "level": 40,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 45,
+        "moveId": "aura_sphere"
+      },
+      {
+        "level": 53,
+        "moveId": "bounce"
+      },
+      {
+        "level": 59,
+        "moveId": "calm_mind"
+      },
+      {
+        "level": 66,
+        "moveId": "high_jump_kick"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "swords_dance",
+      "mega_kick",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "low_kick",
+      "strength",
+      "dig",
+      "toxic",
+      "agility",
+      "double_team",
+      "reflect",
+      "focus_energy",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "reversal",
+      "protect",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "rock_smash",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "revenge",
+      "brick_break",
+      "knock_off",
+      "blaze_kick",
+      "rock_tomb",
+      "aerial_ace",
+      "bulk_up",
+      "bounce",
+      "calm_mind",
+      "u_turn",
+      "close_combat",
+      "payback",
+      "assurance",
+      "fling",
+      "aura_sphere",
+      "poison_jab",
+      "drain_punch",
+      "vacuum_wave",
+      "focus_blast",
+      "giga_impact",
+      "stone_edge",
+      "grass_knot",
+      "hone_claws",
+      "low_sweep",
+      "round",
+      "ally_switch",
+      "acrobatics",
+      "retaliate",
+      "work_up",
+      "confide",
+      "power_up_punch",
+      "brutal_swing",
+      "coaching",
+      "triple_axel",
+      "tera_blast",
+      "ice_spinner",
+      "trailblaze",
+      "upper_hand"
+    ],
+    "biomeIds": [
+      "dojo"
+    ]
+  }
+]

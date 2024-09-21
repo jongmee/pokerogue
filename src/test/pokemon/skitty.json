@@ -1,0 +1,180 @@
+[
+  {
+    "_id": "skitty",
+    "gender": "",
+    "pokedexNumber": "300",
+    "name": "skitty",
+    "koName": "에나비",
+    "speciesName": "skitty",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "52",
+    "friendship": "70",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "cute_charm",
+      "normalize"
+    ],
+    "hiddenAbilityId": "wonder_skin",
+    "passiveAbilityId": "scrappy",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 260,
+    "hp": 50,
+    "attack": 45,
+    "defense": 45,
+    "specialAttack": 35,
+    "specialDefense": 35,
+    "speed": 50,
+    "height": 0.6,
+    "weight": 11,
+    "eggMoveIds": [
+      "thunderous_kick",
+      "entrainment",
+      "tidy_up",
+      "v_create"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "fake_out"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 4,
+        "moveId": "tackle"
+      },
+      {
+        "level": 7,
+        "moveId": "sing"
+      },
+      {
+        "level": 10,
+        "moveId": "attract"
+      },
+      {
+        "level": 13,
+        "moveId": "disarming_voice"
+      },
+      {
+        "level": 16,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 19,
+        "moveId": "copycat"
+      },
+      {
+        "level": 22,
+        "moveId": "payback"
+      },
+      {
+        "level": 25,
+        "moveId": "charm"
+      },
+      {
+        "level": 31,
+        "moveId": "facade"
+      },
+      {
+        "level": 34,
+        "moveId": "covet"
+      },
+      {
+        "level": 37,
+        "moveId": "heal_bell"
+      },
+      {
+        "level": 40,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 43,
+        "moveId": "baby_doll_eyes"
+      },
+      {
+        "level": 46,
+        "moveId": "play_rough"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "pay_day",
+      "body_slam",
+      "ice_beam",
+      "blizzard",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "dig",
+      "toxic",
+      "double_team",
+      "swift",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "safeguard",
+      "baton_pass",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "uproar",
+      "facade",
+      "helping_hand",
+      "hyper_voice",
+      "fake_tears",
+      "cosmic_power",
+      "covet",
+      "calm_mind",
+      "water_pulse",
+      "payback",
+      "nasty_plot",
+      "zen_headbutt",
+      "grass_knot",
+      "charge_beam",
+      "round",
+      "echoed_voice",
+      "retaliate",
+      "work_up",
+      "wild_charge",
+      "disarming_voice",
+      "play_rough",
+      "confide",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "town",
+      "meadow"
+    ]
+  }
+]

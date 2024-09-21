@@ -1,0 +1,43 @@
+[
+  {
+    "_id": "healing_wish",
+    "name": "Healing Wish",
+    "koName": "치유소원",
+    "type": "psychic",
+    "moveCategory": "status",
+    "moveTarget": "user",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 10,
+    "effect": "자신은 기절하지만 교대하여 나오는 포켓몬의 상태 이상과 HP를 회복한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 4,
+    "realased": "",
+    "flags": [
+      "ignore_protect",
+      "triage_move"
+    ],
+    "pokemonIds": [
+      "clefairy",
+      "clefable",
+      "chansey",
+      "blissey",
+      "celebi",
+      "gardevoir",
+      "chimecho",
+      "latias",
+      "jirachi",
+      "buneary",
+      "lopunny",
+      "mesprit",
+      "alomomola",
+      "hatenna",
+      "hattrem",
+      "hatterene",
+      "indeedee",
+      "galar_ponyta",
+      "galar_rapidash"
+    ]
+  }
+]

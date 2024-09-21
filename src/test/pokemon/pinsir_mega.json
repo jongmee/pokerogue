@@ -1,0 +1,111 @@
+[
+  {
+    "_id": "pinsir_mega",
+    "gender": "",
+    "pokedexNumber": "127",
+    "name": "pinsir_mega",
+    "koName": "쁘사이저_mega",
+    "speciesName": "pinsir",
+    "canChangeForm": true,
+    "formName": "mega",
+    "baseExp": "175",
+    "friendship": "50",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "aerilate"
+    ],
+    "hiddenAbilityId": "aerilate",
+    "passiveAbilityId": "tinted_lens",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 600,
+    "hp": 65,
+    "attack": 155,
+    "defense": 120,
+    "specialAttack": 65,
+    "specialDefense": 90,
+    "speed": 105,
+    "height": 1.7,
+    "weight": 59,
+    "eggMoveIds": [
+      "earthquake",
+      "leech_life",
+      "close_combat",
+      "extreme_speed"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "vise_grip"
+      },
+      {
+        "level": 1,
+        "moveId": "harden"
+      },
+      {
+        "level": 4,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 8,
+        "moveId": "bind"
+      },
+      {
+        "level": 12,
+        "moveId": "seismic_toss"
+      },
+      {
+        "level": 16,
+        "moveId": "bug_bite"
+      },
+      {
+        "level": 20,
+        "moveId": "storm_throw"
+      },
+      {
+        "level": 24,
+        "moveId": "double_hit"
+      },
+      {
+        "level": 28,
+        "moveId": "vital_throw"
+      },
+      {
+        "level": 32,
+        "moveId": "x_scissor"
+      },
+      {
+        "level": 36,
+        "moveId": "strength"
+      },
+      {
+        "level": 40,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 44,
+        "moveId": "submission"
+      },
+      {
+        "level": 48,
+        "moveId": "guillotine"
+      },
+      {
+        "level": 52,
+        "moveId": "superpower"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "tall_grass"
+    ]
+  }
+]

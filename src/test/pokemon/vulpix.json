@@ -1,0 +1,173 @@
+[
+  {
+    "_id": "vulpix",
+    "gender": "",
+    "pokedexNumber": "37",
+    "name": "vulpix",
+    "koName": "식스테일",
+    "speciesName": "vulpix",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "60",
+    "friendship": "50",
+    "types": [
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "flash_fire"
+    ],
+    "hiddenAbilityId": "drought",
+    "passiveAbilityId": "fur_coat",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 299,
+    "hp": 38,
+    "attack": 41,
+    "defense": 40,
+    "specialAttack": 50,
+    "specialDefense": 65,
+    "speed": 65,
+    "height": 0.6,
+    "weight": 9.9,
+    "eggMoveIds": [
+      "moonblast",
+      "infernal_parade",
+      "morning_sun",
+      "tail_glow"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 4,
+        "moveId": "disable"
+      },
+      {
+        "level": 8,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 12,
+        "moveId": "spite"
+      },
+      {
+        "level": 16,
+        "moveId": "incinerate"
+      },
+      {
+        "level": 20,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 24,
+        "moveId": "will_o_wisp"
+      },
+      {
+        "level": 28,
+        "moveId": "extrasensory"
+      },
+      {
+        "level": 32,
+        "moveId": "flamethrower"
+      },
+      {
+        "level": 36,
+        "moveId": "imprison"
+      },
+      {
+        "level": 40,
+        "moveId": "fire_spin"
+      },
+      {
+        "level": 44,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 48,
+        "moveId": "inferno"
+      },
+      {
+        "level": 52,
+        "moveId": "fire_blast"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "fire_spin",
+      "dig",
+      "toxic",
+      "agility",
+      "double_team",
+      "confuse_ray",
+      "reflect",
+      "fire_blast",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "pain_split",
+      "baton_pass",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "sunny_day",
+      "psych_up",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "helping_hand",
+      "imprison",
+      "weather_ball",
+      "overheat",
+      "covet",
+      "payback",
+      "power_swap",
+      "flare_blitz",
+      "dark_pulse",
+      "energy_ball",
+      "nasty_plot",
+      "zen_headbutt",
+      "flame_charge",
+      "foul_play",
+      "round",
+      "hex",
+      "incinerate",
+      "tail_slap",
+      "snarl",
+      "confide",
+      "mystical_fire",
+      "burning_jealousy",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "tall_grass",
+      "volcano"
+    ]
+  }
+]

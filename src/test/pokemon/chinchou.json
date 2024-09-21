@@ -1,0 +1,161 @@
+[
+  {
+    "_id": "chinchou",
+    "gender": "",
+    "pokedexNumber": "170",
+    "name": "chinchou",
+    "koName": "초라기",
+    "speciesName": "chinchou",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "66",
+    "friendship": "50",
+    "types": [
+      "water",
+      "electric"
+    ],
+    "normalAbilityIds": [
+      "volt_absorb",
+      "illuminate"
+    ],
+    "hiddenAbilityId": "water_absorb",
+    "passiveAbilityId": "water_bubble",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 330,
+    "hp": 75,
+    "attack": 38,
+    "defense": 38,
+    "specialAttack": 56,
+    "specialDefense": 56,
+    "speed": 67,
+    "height": 0.5,
+    "weight": 12,
+    "eggMoveIds": [
+      "thunderclap",
+      "bouncy_bubble",
+      "thunder_cage",
+      "tail_glow"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "supersonic"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 4,
+        "moveId": "electro_ball"
+      },
+      {
+        "level": 8,
+        "moveId": "thunder_wave"
+      },
+      {
+        "level": 12,
+        "moveId": "bubble_beam"
+      },
+      {
+        "level": 16,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 20,
+        "moveId": "spark"
+      },
+      {
+        "level": 24,
+        "moveId": "charge"
+      },
+      {
+        "level": 28,
+        "moveId": "discharge"
+      },
+      {
+        "level": 32,
+        "moveId": "aqua_ring"
+      },
+      {
+        "level": 36,
+        "moveId": "flail"
+      },
+      {
+        "level": 40,
+        "moveId": "take_down"
+      },
+      {
+        "level": 44,
+        "moveId": "hydro_pump"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "double_edge",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "psybeam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "agility",
+      "screech",
+      "double_team",
+      "confuse_ray",
+      "waterfall",
+      "amnesia",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "whirlpool",
+      "hail",
+      "facade",
+      "charge",
+      "dive",
+      "signal_beam",
+      "muddy_water",
+      "bounce",
+      "water_pulse",
+      "brine",
+      "charge_beam",
+      "electro_ball",
+      "round",
+      "scald",
+      "volt_switch",
+      "wild_charge",
+      "confide",
+      "dazzling_gleam",
+      "rising_voltage",
+      "flip_turn",
+      "tera_blast",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "sea",
+      "seabed"
+    ]
+  }
+]

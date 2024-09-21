@@ -1,0 +1,43 @@
+[
+  {
+    "_id": "combat_torque",
+    "name": "Combat Torque",
+    "koName": "파이트액셀",
+    "type": "fighting",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 100,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "상대를 향해 기세 좋게 부릉거린다. 마비 상태로 만들 때가 있다.",
+    "effectChance": 30,
+    "prioirty": 0,
+    "generation": 9,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "machop",
+      "machoke",
+      "machamp",
+      "machamp_gigantamax",
+      "tauros",
+      "makuhita",
+      "hariyama",
+      "deerling_spring",
+      "deerling_summer",
+      "deerling_autumn",
+      "deerling_winter",
+      "sawsbuck_spring",
+      "sawsbuck_summer",
+      "sawsbuck_autumn",
+      "sawsbuck_winter",
+      "buzzwole",
+      "falinks",
+      "cufant",
+      "copperajah",
+      "copperajah_gigantamax",
+      "varoom",
+      "revavroom"
+    ]
+  }
+]

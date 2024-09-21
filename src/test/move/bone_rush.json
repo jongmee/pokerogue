@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "bone_rush",
+    "name": "Bone Rush",
+    "koName": "본러시",
+    "type": "ground",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 25,
+    "accuracy": 90,
+    "powerPoint": 10,
+    "effect": "단단한 뼈로 상대를 세게 때려서 공격한다. 2-5회 동안 연속으로 쓴다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 2,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "shellder",
+      "cloyster",
+      "cubone",
+      "marowak",
+      "lucario",
+      "mandibuzz",
+      "froakie",
+      "frogadier",
+      "greninja",
+      "pikipek",
+      "trumbeak",
+      "toucannon",
+      "alola_marowak"
+    ]
+  }
+]

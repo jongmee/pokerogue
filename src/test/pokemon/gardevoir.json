@@ -1,0 +1,230 @@
+[
+  {
+    "_id": "gardevoir",
+    "gender": "",
+    "pokedexNumber": "282",
+    "name": "gardevoir",
+    "koName": "가디안",
+    "speciesName": "gardevoir",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "259",
+    "friendship": "35",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "synchronize",
+      "trace"
+    ],
+    "hiddenAbilityId": "telepathy",
+    "passiveAbilityId": "psychic_surge",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 518,
+    "hp": 68,
+    "attack": 65,
+    "defense": 65,
+    "specialAttack": 125,
+    "specialDefense": 115,
+    "speed": 80,
+    "height": 1.6,
+    "weight": 48.4,
+    "eggMoveIds": [
+      "psyblade",
+      "bitter_blade",
+      "no_retreat",
+      "boomburst"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "dazzling_gleam"
+      },
+      {
+        "level": 1,
+        "moveId": "misty_terrain"
+      },
+      {
+        "level": 1,
+        "moveId": "healing_wish"
+      },
+      {
+        "level": 1,
+        "moveId": "charm"
+      },
+      {
+        "level": 1,
+        "moveId": "mystical_fire"
+      },
+      {
+        "level": 1,
+        "moveId": "heal_pulse"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "disarming_voice"
+      },
+      {
+        "level": 1,
+        "moveId": "double_team"
+      },
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 9,
+        "moveId": "hypnosis"
+      },
+      {
+        "level": 12,
+        "moveId": "draining_kiss"
+      },
+      {
+        "level": 15,
+        "moveId": "teleport"
+      },
+      {
+        "level": 18,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 23,
+        "moveId": "life_dew"
+      },
+      {
+        "level": 28,
+        "moveId": "wish"
+      },
+      {
+        "level": 35,
+        "moveId": "calm_mind"
+      },
+      {
+        "level": 42,
+        "moveId": "psychic"
+      },
+      {
+        "level": 49,
+        "moveId": "moonblast"
+      },
+      {
+        "level": 56,
+        "moveId": "dream_eater"
+      },
+      {
+        "level": 63,
+        "moveId": "future_sight"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "mega_kick",
+      "body_slam",
+      "psybeam",
+      "hyper_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "toxic",
+      "psychic",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "metronome",
+      "swift",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "safeguard",
+      "pain_split",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "torment",
+      "will_o_wisp",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "trick",
+      "recycle",
+      "knock_off",
+      "skill_swap",
+      "imprison",
+      "hyper_voice",
+      "signal_beam",
+      "magical_leaf",
+      "calm_mind",
+      "gravity",
+      "fling",
+      "power_swap",
+      "guard_swap",
+      "aura_sphere",
+      "vacuum_wave",
+      "focus_blast",
+      "energy_ball",
+      "giga_impact",
+      "zen_headbutt",
+      "trick_room",
+      "grass_knot",
+      "charge_beam",
+      "wonder_room",
+      "psyshock",
+      "magic_room",
+      "round",
+      "echoed_voice",
+      "stored_power",
+      "ally_switch",
+      "disarming_voice",
+      "draining_kiss",
+      "misty_terrain",
+      "confide",
+      "mystical_fire",
+      "dazzling_gleam",
+      "psychic_terrain",
+      "expanding_force",
+      "misty_explosion",
+      "triple_axel",
+      "tera_blast",
+      "alluring_voice",
+      "psychic_noise"
+    ],
+    "biomeIds": [
+      "meadow",
+      "fairy_cave"
+    ]
+  }
+]

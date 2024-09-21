@@ -1,0 +1,175 @@
+[
+  {
+    "_id": "espathra",
+    "gender": "",
+    "pokedexNumber": "956",
+    "name": "espathra",
+    "koName": "클레스퍼트라",
+    "speciesName": "espathra",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "168",
+    "friendship": "50",
+    "types": [
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "opportunist",
+      "frisk"
+    ],
+    "hiddenAbilityId": "speed_boost",
+    "passiveAbilityId": "magic_bounce",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 481,
+    "hp": 95,
+    "attack": 60,
+    "defense": 60,
+    "specialAttack": 101,
+    "specialDefense": 60,
+    "speed": 105,
+    "height": 1.9,
+    "weight": 90,
+    "eggMoveIds": [
+      "cosmic_power",
+      "aura_sphere",
+      "roost",
+      "fiery_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "lumina_crash"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "peck"
+      },
+      {
+        "level": 1,
+        "moveId": "drill_peck"
+      },
+      {
+        "level": 1,
+        "moveId": "feather_dance"
+      },
+      {
+        "level": 5,
+        "moveId": "confusion"
+      },
+      {
+        "level": 8,
+        "moveId": "baby_doll_eyes"
+      },
+      {
+        "level": 11,
+        "moveId": "disarming_voice"
+      },
+      {
+        "level": 15,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 19,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 24,
+        "moveId": "pluck"
+      },
+      {
+        "level": 29,
+        "moveId": "agility"
+      },
+      {
+        "level": 34,
+        "moveId": "uproar"
+      },
+      {
+        "level": 43,
+        "moveId": "dazzling_gleam"
+      },
+      {
+        "level": 49,
+        "moveId": "psychic"
+      },
+      {
+        "level": 54,
+        "moveId": "last_resort"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "psybeam",
+      "hyper_beam",
+      "low_kick",
+      "psychic",
+      "agility",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "protect",
+      "mud_slap",
+      "sandstorm",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "shadow_ball",
+      "uproar",
+      "facade",
+      "helping_hand",
+      "trick",
+      "skill_swap",
+      "feather_dance",
+      "hyper_voice",
+      "aerial_ace",
+      "calm_mind",
+      "roost",
+      "pluck",
+      "u_turn",
+      "seed_bomb",
+      "energy_ball",
+      "brave_bird",
+      "giga_impact",
+      "zen_headbutt",
+      "flash_cannon",
+      "trick_room",
+      "psyshock",
+      "foul_play",
+      "stored_power",
+      "hex",
+      "disarming_voice",
+      "dazzling_gleam",
+      "psychic_terrain",
+      "expanding_force",
+      "tera_blast",
+      "pounce"
+    ],
+    "biomeIds": [
+      "mountain"
+    ]
+  }
+]

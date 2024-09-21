@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "grudge",
+    "name": "Grudge",
+    "koName": "원념",
+    "type": "ghost",
+    "moveCategory": "status",
+    "moveTarget": "user",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 5,
+    "effect": "상대의 기술로 기절하면 원념을 담아 그 기술의 PP를 0으로 만든다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 3,
+    "realased": " (N)",
+    "flags": [
+      "ignore_protect"
+    ],
+    "pokemonIds": [
+      "aerodactyl",
+      "aerodactyl_mega",
+      "shedinja",
+      "cherubi",
+      "cherrim_overcast",
+      "cherrim_sunshine",
+      "yamask",
+      "cofagrigus",
+      "reshiram",
+      "cursola",
+      "galar_corsola"
+    ]
+  }
+]

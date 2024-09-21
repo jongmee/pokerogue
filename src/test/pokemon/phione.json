@@ -1,0 +1,143 @@
+[
+  {
+    "_id": "phione",
+    "gender": "",
+    "pokedexNumber": "489",
+    "name": "phione",
+    "koName": "피오네",
+    "speciesName": "phione",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "216",
+    "friendship": "70",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "hydration"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "simple",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": true,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 480,
+    "hp": 80,
+    "attack": 80,
+    "defense": 80,
+    "specialAttack": 80,
+    "specialDefense": 80,
+    "speed": 80,
+    "height": 0.4,
+    "weight": 3.1,
+    "eggMoveIds": [
+      "bouncy_bubble",
+      "freeze_dry",
+      "splishy_splash",
+      "quiver_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 9,
+        "moveId": "charm"
+      },
+      {
+        "level": 16,
+        "moveId": "supersonic"
+      },
+      {
+        "level": 24,
+        "moveId": "bubble_beam"
+      },
+      {
+        "level": 31,
+        "moveId": "acid_armor"
+      },
+      {
+        "level": 39,
+        "moveId": "whirlpool"
+      },
+      {
+        "level": 46,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 54,
+        "moveId": "aqua_ring"
+      },
+      {
+        "level": 61,
+        "moveId": "dive"
+      },
+      {
+        "level": 69,
+        "moveId": "rain_dance"
+      },
+      {
+        "level": 75,
+        "moveId": "take_heart"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "toxic",
+      "double_team",
+      "haze",
+      "waterfall",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "charm",
+      "swagger",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "rain_dance",
+      "psych_up",
+      "whirlpool",
+      "uproar",
+      "hail",
+      "facade",
+      "helping_hand",
+      "knock_off",
+      "dive",
+      "weather_ball",
+      "signal_beam",
+      "bounce",
+      "covet",
+      "water_pulse",
+      "brine",
+      "u_turn",
+      "fling",
+      "grass_knot",
+      "round",
+      "scald",
+      "confide",
+      "dazzling_gleam",
+      "liquidation",
+      "flip_turn",
+      "tera_blast",
+      "chilling_water",
+      "alluring_voice"
+    ],
+    "biomeIds": []
+  }
+]

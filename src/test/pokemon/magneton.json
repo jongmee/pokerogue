@@ -1,0 +1,180 @@
+[
+  {
+    "_id": "magneton",
+    "gender": "",
+    "pokedexNumber": "82",
+    "name": "magneton",
+    "koName": "레어코일",
+    "speciesName": "magneton",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "163",
+    "friendship": "50",
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "normalAbilityIds": [
+      "magnet_pull",
+      "sturdy"
+    ],
+    "hiddenAbilityId": "analytic",
+    "passiveAbilityId": "levitate",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 465,
+    "hp": 50,
+    "attack": 60,
+    "defense": 95,
+    "specialAttack": 120,
+    "specialDefense": 70,
+    "speed": 70,
+    "height": 1,
+    "weight": 60,
+    "eggMoveIds": [
+      "parabolic_charge",
+      "body_press",
+      "ice_beam",
+      "thunderclap"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "tri_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "supersonic"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_wave"
+      },
+      {
+        "level": 1,
+        "moveId": "electric_terrain"
+      },
+      {
+        "level": 12,
+        "moveId": "electro_ball"
+      },
+      {
+        "level": 16,
+        "moveId": "gyro_ball"
+      },
+      {
+        "level": 20,
+        "moveId": "spark"
+      },
+      {
+        "level": 24,
+        "moveId": "screech"
+      },
+      {
+        "level": 28,
+        "moveId": "magnet_rise"
+      },
+      {
+        "level": 34,
+        "moveId": "flash_cannon"
+      },
+      {
+        "level": 40,
+        "moveId": "discharge"
+      },
+      {
+        "level": 46,
+        "moveId": "metal_sound"
+      },
+      {
+        "level": 52,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 58,
+        "moveId": "lock_on"
+      },
+      {
+        "level": 64,
+        "moveId": "zap_cannon"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "screech",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "swift",
+      "flash",
+      "explosion",
+      "rest",
+      "tri_attack",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "facade",
+      "charge",
+      "helping_hand",
+      "recycle",
+      "metal_sound",
+      "signal_beam",
+      "iron_defense",
+      "gravity",
+      "gyro_ball",
+      "giga_impact",
+      "flash_cannon",
+      "iron_head",
+      "charge_beam",
+      "heavy_slam",
+      "electro_ball",
+      "round",
+      "volt_switch",
+      "electroweb",
+      "wild_charge",
+      "confide",
+      "eerie_impulse",
+      "electric_terrain",
+      "steel_beam",
+      "rising_voltage",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "power_plant",
+      "factory",
+      "construction_site",
+      "laboratory"
+    ]
+  }
+]

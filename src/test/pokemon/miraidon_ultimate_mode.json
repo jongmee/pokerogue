@@ -1,0 +1,115 @@
+[
+  {
+    "_id": "miraidon_ultimate_mode",
+    "gender": "",
+    "pokedexNumber": "1008",
+    "name": "miraidon_ultimate_mode",
+    "koName": "미라이돈_ultimate_mode",
+    "speciesName": "miraidon",
+    "canChangeForm": true,
+    "formName": "ultimate_mode",
+    "baseExp": "335",
+    "friendship": "0",
+    "types": [
+      "electric",
+      "dragon"
+    ],
+    "normalAbilityIds": [
+      "hadron_engine"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "opportunist",
+    "generation": 9,
+    "legendary": true,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 670,
+    "hp": 100,
+    "attack": 85,
+    "defense": 100,
+    "specialAttack": 135,
+    "specialDefense": 115,
+    "speed": 135,
+    "height": 3.5,
+    "weight": 240,
+    "eggMoveIds": [
+      "ice_beam",
+      "clangorous_soul",
+      "core_enforcer",
+      "rising_voltage"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 1,
+        "moveId": "dragon_breath"
+      },
+      {
+        "level": 1,
+        "moveId": "electric_terrain"
+      },
+      {
+        "level": 7,
+        "moveId": "shock_wave"
+      },
+      {
+        "level": 14,
+        "moveId": "charge"
+      },
+      {
+        "level": 21,
+        "moveId": "parabolic_charge"
+      },
+      {
+        "level": 28,
+        "moveId": "discharge"
+      },
+      {
+        "level": 35,
+        "moveId": "agility"
+      },
+      {
+        "level": 42,
+        "moveId": "dragon_pulse"
+      },
+      {
+        "level": 56,
+        "moveId": "electro_drift"
+      },
+      {
+        "level": 63,
+        "moveId": "metal_sound"
+      },
+      {
+        "level": 70,
+        "moveId": "mirror_coat"
+      },
+      {
+        "level": 77,
+        "moveId": "outrage"
+      },
+      {
+        "level": 84,
+        "moveId": "thunder"
+      },
+      {
+        "level": 91,
+        "moveId": "overheat"
+      },
+      {
+        "level": 98,
+        "moveId": "hyper_beam"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "laboratory"
+    ]
+  }
+]

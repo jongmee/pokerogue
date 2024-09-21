@@ -1,0 +1,152 @@
+[
+  {
+    "_id": "horsea",
+    "gender": "",
+    "pokedexNumber": "116",
+    "name": "horsea",
+    "koName": "쏘드라",
+    "speciesName": "horsea",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "59",
+    "friendship": "50",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "swift_swim",
+      "sniper"
+    ],
+    "hiddenAbilityId": "damp",
+    "passiveAbilityId": "dragons_maw",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 295,
+    "hp": 30,
+    "attack": 40,
+    "defense": 70,
+    "specialAttack": 70,
+    "specialDefense": 25,
+    "speed": 60,
+    "height": 0.4,
+    "weight": 8,
+    "eggMoveIds": [
+      "snipe_shot",
+      "frost_breath",
+      "hurricane",
+      "spacial_rend"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 5,
+        "moveId": "smokescreen"
+      },
+      {
+        "level": 10,
+        "moveId": "twister"
+      },
+      {
+        "level": 15,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 20,
+        "moveId": "dragon_breath"
+      },
+      {
+        "level": 25,
+        "moveId": "bubble_beam"
+      },
+      {
+        "level": 30,
+        "moveId": "agility"
+      },
+      {
+        "level": 35,
+        "moveId": "laser_focus"
+      },
+      {
+        "level": 40,
+        "moveId": "dragon_pulse"
+      },
+      {
+        "level": 45,
+        "moveId": "hydro_pump"
+      },
+      {
+        "level": 50,
+        "moveId": "dragon_dance"
+      },
+      {
+        "level": 55,
+        "moveId": "rain_dance"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "double_edge",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "toxic",
+      "agility",
+      "double_team",
+      "focus_energy",
+      "waterfall",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "icy_wind",
+      "outrage",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "whirlpool",
+      "hail",
+      "facade",
+      "dive",
+      "weather_ball",
+      "signal_beam",
+      "muddy_water",
+      "bounce",
+      "dragon_dance",
+      "water_pulse",
+      "brine",
+      "dragon_pulse",
+      "flash_cannon",
+      "round",
+      "scald",
+      "confide",
+      "liquidation",
+      "scale_shot",
+      "flip_turn",
+      "tera_blast",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "sea"
+    ]
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "_id": "marshtomp",
+    "gender": "",
+    "pokedexNumber": "259",
+    "name": "marshtomp",
+    "koName": "늪짱이",
+    "speciesName": "marshtomp",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "142",
+    "friendship": "50",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "normalAbilityIds": [
+      "torrent"
+    ],
+    "hiddenAbilityId": "damp",
+    "passiveAbilityId": "drizzle",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 405,
+    "hp": 70,
+    "attack": 85,
+    "defense": 70,
+    "specialAttack": 60,
+    "specialDefense": 70,
+    "speed": 50,
+    "height": 0.7,
+    "weight": 28,
+    "eggMoveIds": [
+      "shore_up",
+      "mountain_gale",
+      "bulk_up",
+      "surging_strikes"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "mud_shot"
+      },
+      {
+        "level": -1,
+        "moveId": "rock_smash"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 9,
+        "moveId": "rock_throw"
+      },
+      {
+        "level": 12,
+        "moveId": "protect"
+      },
+      {
+        "level": 15,
+        "moveId": "supersonic"
+      },
+      {
+        "level": 20,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 25,
+        "moveId": "rock_slide"
+      },
+      {
+        "level": 30,
+        "moveId": "take_down"
+      },
+      {
+        "level": 35,
+        "moveId": "amnesia"
+      },
+      {
+        "level": 40,
+        "moveId": "muddy_water"
+      },
+      {
+        "level": 45,
+        "moveId": "screech"
+      },
+      {
+        "level": 50,
+        "moveId": "endeavor"
+      },
+      {
+        "level": 55,
+        "moveId": "hydro_pump"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "ice_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "low_kick",
+      "counter",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "screech",
+      "double_team",
+      "waterfall",
+      "amnesia",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "rock_smash",
+      "whirlpool",
+      "uproar",
+      "hail",
+      "facade",
+      "focus_punch",
+      "superpower",
+      "brick_break",
+      "endeavor",
+      "dive",
+      "rock_tomb",
+      "sand_tomb",
+      "muddy_water",
+      "mud_shot",
+      "water_pulse",
+      "fling",
+      "aqua_tail",
+      "earth_power",
+      "avalanche",
+      "stealth_rock",
+      "sludge_wave",
+      "round",
+      "echoed_voice",
+      "scald",
+      "water_pledge",
+      "bulldoze",
+      "work_up",
+      "confide",
+      "power_up_punch",
+      "tera_blast",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "swamp"
+    ]
+  }
+]

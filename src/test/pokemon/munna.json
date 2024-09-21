@@ -1,0 +1,174 @@
+[
+  {
+    "_id": "munna",
+    "gender": "",
+    "pokedexNumber": "517",
+    "name": "munna",
+    "koName": "몽나",
+    "speciesName": "munna",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "58",
+    "friendship": "50",
+    "types": [
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "forewarn",
+      "synchronize"
+    ],
+    "hiddenAbilityId": "telepathy",
+    "passiveAbilityId": "neutralizing_gas",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 292,
+    "hp": 76,
+    "attack": 25,
+    "defense": 45,
+    "specialAttack": 67,
+    "specialDefense": 55,
+    "speed": 24,
+    "height": 0.6,
+    "weight": 23.3,
+    "eggMoveIds": [
+      "cosmic_power",
+      "aura_sphere",
+      "earth_power",
+      "mystical_power"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": 1,
+        "moveId": "stored_power"
+      },
+      {
+        "level": 1,
+        "moveId": "psywave"
+      },
+      {
+        "level": 4,
+        "moveId": "hypnosis"
+      },
+      {
+        "level": 8,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 12,
+        "moveId": "imprison"
+      },
+      {
+        "level": 16,
+        "moveId": "moonlight"
+      },
+      {
+        "level": 20,
+        "moveId": "magic_coat"
+      },
+      {
+        "level": 24,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 28,
+        "moveId": "calm_mind"
+      },
+      {
+        "level": 32,
+        "moveId": "yawn"
+      },
+      {
+        "level": 36,
+        "moveId": "psychic"
+      },
+      {
+        "level": 40,
+        "moveId": "moonblast"
+      },
+      {
+        "level": 44,
+        "moveId": "dream_eater"
+      },
+      {
+        "level": 48,
+        "moveId": "future_sight"
+      },
+      {
+        "level": 52,
+        "moveId": "wonder_room"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "psybeam",
+      "thunder_wave",
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "swift",
+      "amnesia",
+      "dream_eater",
+      "flash",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "safeguard",
+      "pain_split",
+      "baton_pass",
+      "hidden_power",
+      "rain_dance",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "torment",
+      "facade",
+      "helping_hand",
+      "trick",
+      "skill_swap",
+      "imprison",
+      "rock_tomb",
+      "signal_beam",
+      "calm_mind",
+      "gravity",
+      "gyro_ball",
+      "power_swap",
+      "guard_swap",
+      "worry_seed",
+      "energy_ball",
+      "zen_headbutt",
+      "trick_room",
+      "charge_beam",
+      "wonder_room",
+      "psyshock",
+      "round",
+      "stored_power",
+      "ally_switch",
+      "confide",
+      "dazzling_gleam",
+      "expanding_force",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "space"
+    ]
+  }
+]

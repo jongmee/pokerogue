@@ -1,0 +1,108 @@
+[
+  {
+    "_id": "abomasnow_mega",
+    "gender": "",
+    "pokedexNumber": "460",
+    "name": "abomasnow_mega",
+    "koName": "눈설왕_mega",
+    "speciesName": "abomasnow",
+    "canChangeForm": true,
+    "formName": "mega",
+    "baseExp": "173",
+    "friendship": "50",
+    "types": [
+      "grass",
+      "ice"
+    ],
+    "normalAbilityIds": [
+      "snow_warning"
+    ],
+    "hiddenAbilityId": "snow_warning",
+    "passiveAbilityId": "thick_fat",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 594,
+    "hp": 90,
+    "attack": 132,
+    "defense": 105,
+    "specialAttack": 132,
+    "specialDefense": 105,
+    "speed": 30,
+    "height": 2.7,
+    "weight": 185,
+    "eggMoveIds": [
+      "high_horsepower",
+      "strength_sap",
+      "matcha_gotcha",
+      "sappy_seed"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "ice_punch"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "mist"
+      },
+      {
+        "level": 1,
+        "moveId": "powder_snow"
+      },
+      {
+        "level": 1,
+        "moveId": "leafage"
+      },
+      {
+        "level": 1,
+        "moveId": "aurora_veil"
+      },
+      {
+        "level": 15,
+        "moveId": "ice_shard"
+      },
+      {
+        "level": 20,
+        "moveId": "razor_leaf"
+      },
+      {
+        "level": 25,
+        "moveId": "icy_wind"
+      },
+      {
+        "level": 30,
+        "moveId": "swagger"
+      },
+      {
+        "level": 35,
+        "moveId": "ingrain"
+      },
+      {
+        "level": 43,
+        "moveId": "wood_hammer"
+      },
+      {
+        "level": 49,
+        "moveId": "blizzard"
+      },
+      {
+        "level": 56,
+        "moveId": "sheer_cold"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "ice_cave",
+      "snowy_forest"
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "opportunist",
+    "name": "Opportunist",
+    "koName": "편승",
+    "realased": "",
+    "description": "상대의 능력이 올라가면 자신도 편승해서 똑같이 자신도 올린다.",
+    "generation": 9,
+    "pokemonIds": [
+      "mr_mime",
+      "mime_jr",
+      "woobat",
+      "swoobat",
+      "hoopa",
+      "mr_rime",
+      "quaxly",
+      "quaxwell",
+      "quaquaval",
+      "espathra",
+      "galar_mr_mime"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

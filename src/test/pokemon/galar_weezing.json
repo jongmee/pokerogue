@@ -1,0 +1,204 @@
+[
+  {
+    "_id": "galar_weezing",
+    "gender": "",
+    "pokedexNumber": "4110",
+    "name": "galar_weezing",
+    "koName": "또도가스",
+    "speciesName": "galar_weezing",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "172",
+    "friendship": "50",
+    "types": [
+      "poison",
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "levitate",
+      "neutralizing_gas"
+    ],
+    "hiddenAbilityId": "misty_surge",
+    "passiveAbilityId": "parental_bond",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 490,
+    "hp": 65,
+    "attack": 90,
+    "defense": 120,
+    "specialAttack": 85,
+    "specialDefense": 70,
+    "speed": 60,
+    "height": 3,
+    "weight": 16,
+    "eggMoveIds": [
+      "scald",
+      "recover",
+      "body_press",
+      "malignant_chain"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "double_hit"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "smokescreen"
+      },
+      {
+        "level": 1,
+        "moveId": "haze"
+      },
+      {
+        "level": 1,
+        "moveId": "smog"
+      },
+      {
+        "level": 1,
+        "moveId": "poison_gas"
+      },
+      {
+        "level": 1,
+        "moveId": "heat_wave"
+      },
+      {
+        "level": 1,
+        "moveId": "defog"
+      },
+      {
+        "level": 1,
+        "moveId": "aromatic_mist"
+      },
+      {
+        "level": 1,
+        "moveId": "strange_steam"
+      },
+      {
+        "level": 12,
+        "moveId": "clear_smog"
+      },
+      {
+        "level": 16,
+        "moveId": "assurance"
+      },
+      {
+        "level": 20,
+        "moveId": "sludge"
+      },
+      {
+        "level": 24,
+        "moveId": "fairy_wind"
+      },
+      {
+        "level": 28,
+        "moveId": "self_destruct"
+      },
+      {
+        "level": 32,
+        "moveId": "sludge_bomb"
+      },
+      {
+        "level": 38,
+        "moveId": "toxic"
+      },
+      {
+        "level": 44,
+        "moveId": "belch"
+      },
+      {
+        "level": 50,
+        "moveId": "explosion"
+      },
+      {
+        "level": 56,
+        "moveId": "memento"
+      },
+      {
+        "level": 62,
+        "moveId": "destiny_bond"
+      },
+      {
+        "level": 68,
+        "moveId": "misty_terrain"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "flamethrower",
+      "psybeam",
+      "hyper_beam",
+      "thunderbolt",
+      "thunder",
+      "toxic",
+      "screech",
+      "double_team",
+      "haze",
+      "self_destruct",
+      "fire_blast",
+      "flash",
+      "explosion",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "shadow_ball",
+      "uproar",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "taunt",
+      "overheat",
+      "gyro_ball",
+      "payback",
+      "assurance",
+      "toxic_spikes",
+      "dark_pulse",
+      "giga_impact",
+      "defog",
+      "gunk_shot",
+      "wonder_room",
+      "venoshock",
+      "sludge_wave",
+      "acid_spray",
+      "round",
+      "incinerate",
+      "misty_terrain",
+      "play_rough",
+      "venom_drench",
+      "dazzling_gleam",
+      "brutal_swing",
+      "misty_explosion",
+      "corrosive_gas",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "slum"
+    ]
+  }
+]

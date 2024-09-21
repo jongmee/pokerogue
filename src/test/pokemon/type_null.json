@@ -1,0 +1,153 @@
+[
+  {
+    "_id": "type_null",
+    "gender": "",
+    "pokedexNumber": "772",
+    "name": "type_null",
+    "koName": "타입:널",
+    "speciesName": "type_null",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "107",
+    "friendship": "0",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "battle_armor"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "adaptability",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 534,
+    "hp": 95,
+    "attack": 95,
+    "defense": 95,
+    "specialAttack": 95,
+    "specialDefense": 95,
+    "speed": 59,
+    "height": 1.9,
+    "weight": 120.5,
+    "eggMoveIds": [
+      "dire_claw",
+      "recover",
+      "extreme_speed",
+      "shell_smash"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "imprison"
+      },
+      {
+        "level": 5,
+        "moveId": "aerial_ace"
+      },
+      {
+        "level": 10,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 15,
+        "moveId": "double_hit"
+      },
+      {
+        "level": 20,
+        "moveId": "metal_sound"
+      },
+      {
+        "level": 25,
+        "moveId": "crush_claw"
+      },
+      {
+        "level": 30,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 35,
+        "moveId": "tri_attack"
+      },
+      {
+        "level": 40,
+        "moveId": "x_scissor"
+      },
+      {
+        "level": 45,
+        "moveId": "iron_head"
+      },
+      {
+        "level": 50,
+        "moveId": "take_down"
+      },
+      {
+        "level": 55,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 60,
+        "moveId": "heal_block"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "take_down",
+      "roar",
+      "hyper_beam",
+      "thunder_wave",
+      "toxic",
+      "double_team",
+      "swift",
+      "rest",
+      "rock_slide",
+      "tri_attack",
+      "substitute",
+      "snore",
+      "protect",
+      "scary_face",
+      "icy_wind",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "hail",
+      "facade",
+      "imprison",
+      "metal_sound",
+      "signal_beam",
+      "aerial_ace",
+      "iron_defense",
+      "dragon_claw",
+      "u_turn",
+      "payback",
+      "air_slash",
+      "x_scissor",
+      "giga_impact",
+      "shadow_claw",
+      "iron_head",
+      "flame_charge",
+      "round",
+      "work_up",
+      "confide",
+      "terrain_pulse",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "laboratory"
+    ]
+  }
+]

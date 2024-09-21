@@ -1,0 +1,164 @@
+[
+  {
+    "_id": "trubbish",
+    "gender": "",
+    "pokedexNumber": "568",
+    "name": "trubbish",
+    "koName": "깨봉이",
+    "speciesName": "trubbish",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "66",
+    "friendship": "50",
+    "types": [
+      "poison"
+    ],
+    "normalAbilityIds": [
+      "stench",
+      "sticky_hold"
+    ],
+    "hiddenAbilityId": "aftermath",
+    "passiveAbilityId": "neutralizing_gas",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 329,
+    "hp": 50,
+    "attack": 50,
+    "defense": 62,
+    "specialAttack": 40,
+    "specialDefense": 62,
+    "speed": 65,
+    "height": 0.6,
+    "weight": 31,
+    "eggMoveIds": [
+      "coil",
+      "recover",
+      "dire_claw",
+      "gigaton_hammer"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "poison_gas"
+      },
+      {
+        "level": 3,
+        "moveId": "recycle"
+      },
+      {
+        "level": 6,
+        "moveId": "acid_spray"
+      },
+      {
+        "level": 9,
+        "moveId": "amnesia"
+      },
+      {
+        "level": 12,
+        "moveId": "clear_smog"
+      },
+      {
+        "level": 15,
+        "moveId": "toxic_spikes"
+      },
+      {
+        "level": 18,
+        "moveId": "sludge"
+      },
+      {
+        "level": 21,
+        "moveId": "stockpile"
+      },
+      {
+        "level": 21,
+        "moveId": "swallow"
+      },
+      {
+        "level": 24,
+        "moveId": "take_down"
+      },
+      {
+        "level": 27,
+        "moveId": "sludge_bomb"
+      },
+      {
+        "level": 30,
+        "moveId": "toxic"
+      },
+      {
+        "level": 33,
+        "moveId": "belch"
+      },
+      {
+        "level": 37,
+        "moveId": "pain_split"
+      },
+      {
+        "level": 39,
+        "moveId": "gunk_shot"
+      },
+      {
+        "level": 42,
+        "moveId": "explosion"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "toxic",
+      "double_team",
+      "haze",
+      "self_destruct",
+      "amnesia",
+      "explosion",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "spite",
+      "protect",
+      "sludge_bomb",
+      "spikes",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "facade",
+      "recycle",
+      "rock_blast",
+      "payback",
+      "toxic_spikes",
+      "dark_pulse",
+      "seed_bomb",
+      "drain_punch",
+      "gunk_shot",
+      "venoshock",
+      "sludge_wave",
+      "acid_spray",
+      "round",
+      "confide",
+      "venom_drench",
+      "infestation",
+      "corrosive_gas",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "slum"
+    ]
+  }
+]

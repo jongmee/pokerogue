@@ -1,0 +1,39 @@
+[
+  {
+    "_id": "crabhammer",
+    "name": "Crabhammer",
+    "koName": "집게해머",
+    "type": "water",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 100,
+    "accuracy": 90,
+    "powerPoint": 10,
+    "effect": "큰 집게를 상대에게 내리쳐서 공격한다. 급소에 맞기 쉽다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 1,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "paras",
+      "parasect",
+      "krabby",
+      "kingler",
+      "gligar",
+      "corphish",
+      "crawdaunt",
+      "skorupi",
+      "drapion",
+      "gliscor",
+      "dwebble",
+      "crustle",
+      "clauncher",
+      "clawitzer",
+      "crabrawler",
+      "klawf"
+    ]
+  }
+]

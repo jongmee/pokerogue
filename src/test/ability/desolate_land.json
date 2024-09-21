@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "desolate_land",
+    "name": "Desolate Land",
+    "koName": "끝의대지",
+    "realased": "",
+    "description": "물타입의 공격을 받지 않는 날씨로 만든다.",
+    "generation": 6,
+    "pokemonIds": [
+      "slugma",
+      "magcargo",
+      "groudon_primal"
+    ],
+    "isBypassFaint": true,
+    "isIgnorable": false
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "_id": "sand_rush",
+    "name": "Sand Rush",
+    "koName": "모래헤치기",
+    "realased": "",
+    "description": "날씨가 모래바람일 때 스피드가 올라간다.",
+    "generation": 5,
+    "pokemonIds": [
+      "sandshrew",
+      "sandslash",
+      "larvitar",
+      "pupitar",
+      "tyranitar",
+      "tyranitar_mega",
+      "cacnea",
+      "cacturne",
+      "herdier",
+      "stoutland",
+      "drilbur",
+      "excadrill",
+      "lycanroc",
+      "silicobra",
+      "sandaconda",
+      "sandaconda_gigantamax",
+      "dracozolt",
+      "dracovish",
+      "houndstone"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

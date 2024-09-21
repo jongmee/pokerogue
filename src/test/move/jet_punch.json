@@ -1,0 +1,48 @@
+[
+  {
+    "_id": "jet_punch",
+    "name": "Jet Punch",
+    "koName": "제트펀치",
+    "type": "water",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 60,
+    "accuracy": 100,
+    "powerPoint": 15,
+    "effect": "거센 물살을 주먹에 둘러 눈에 보이지 않는 속도로 펀치를 날린다. 반드시 선제공격할 수 있다.",
+    "effectChance": -1,
+    "prioirty": 1,
+    "generation": 9,
+    "realased": "",
+    "flags": [
+      "makes_contact",
+      "punching_move"
+    ],
+    "pokemonIds": [
+      "marill",
+      "azumarill",
+      "azurill",
+      "corphish",
+      "crawdaunt",
+      "buizel",
+      "floatzel",
+      "tympole",
+      "palpitoad",
+      "seismitoad",
+      "crabrawler",
+      "crabominable",
+      "wishiwashi",
+      "dewpider",
+      "araquanid",
+      "wimpod",
+      "golisopod",
+      "clobbopus",
+      "grapploct",
+      "kubfu",
+      "urshifu",
+      "urshifu_rapid_strike",
+      "urshifu_gigantamax_single",
+      "urshifu_gigantamax_rapid"
+    ]
+  }
+]

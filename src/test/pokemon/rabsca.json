@@ -1,0 +1,194 @@
+[
+  {
+    "_id": "rabsca",
+    "gender": "",
+    "pokedexNumber": "954",
+    "name": "rabsca",
+    "koName": "베라카스",
+    "speciesName": "rabsca",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "165",
+    "friendship": "50",
+    "types": [
+      "bug",
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "synchronize"
+    ],
+    "hiddenAbilityId": "telepathy",
+    "passiveAbilityId": "prankster",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 470,
+    "hp": 75,
+    "attack": 50,
+    "defense": 85,
+    "specialAttack": 115,
+    "specialDefense": 100,
+    "speed": 45,
+    "height": 0.3,
+    "weight": 3.5,
+    "eggMoveIds": [
+      "heal_block",
+      "recover",
+      "heat_wave",
+      "lumina_crash"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "revival_blessing"
+      },
+      {
+        "level": -1,
+        "moveId": "safeguard"
+      },
+      {
+        "level": -1,
+        "moveId": "psych_up"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 1,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": 4,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 7,
+        "moveId": "struggle_bug"
+      },
+      {
+        "level": 11,
+        "moveId": "rollout"
+      },
+      {
+        "level": 15,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 20,
+        "moveId": "bug_bite"
+      },
+      {
+        "level": 24,
+        "moveId": "take_down"
+      },
+      {
+        "level": 29,
+        "moveId": "extrasensory"
+      },
+      {
+        "level": 35,
+        "moveId": "lunge"
+      },
+      {
+        "level": 40,
+        "moveId": "power_swap"
+      },
+      {
+        "level": 40,
+        "moveId": "guard_swap"
+      },
+      {
+        "level": 40,
+        "moveId": "speed_swap"
+      },
+      {
+        "level": 45,
+        "moveId": "bug_buzz"
+      },
+      {
+        "level": 50,
+        "moveId": "psychic"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "psybeam",
+      "hyper_beam",
+      "dig",
+      "psychic",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "leech_life",
+      "rest",
+      "substitute",
+      "thief",
+      "protect",
+      "sludge_bomb",
+      "mud_slap",
+      "sandstorm",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "facade",
+      "trick",
+      "skill_swap",
+      "imprison",
+      "weather_ball",
+      "rock_tomb",
+      "cosmic_power",
+      "iron_defense",
+      "mud_shot",
+      "calm_mind",
+      "gravity",
+      "fling",
+      "power_swap",
+      "guard_swap",
+      "x_scissor",
+      "bug_buzz",
+      "power_gem",
+      "energy_ball",
+      "earth_power",
+      "giga_impact",
+      "zen_headbutt",
+      "trick_room",
+      "gunk_shot",
+      "bug_bite",
+      "psyshock",
+      "electro_ball",
+      "stored_power",
+      "struggle_bug",
+      "dazzling_gleam",
+      "psychic_terrain",
+      "lunge",
+      "speed_swap",
+      "expanding_force",
+      "skitter_smack",
+      "poltergeist",
+      "tera_blast",
+      "pounce",
+      "psychic_noise"
+    ],
+    "biomeIds": [
+      "desert"
+    ]
+  }
+]

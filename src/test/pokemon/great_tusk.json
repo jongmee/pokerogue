@@ -1,0 +1,175 @@
+[
+  {
+    "_id": "great_tusk",
+    "gender": "",
+    "pokedexNumber": "984",
+    "name": "great_tusk",
+    "koName": "위대한엄니",
+    "speciesName": "great_tusk",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "285",
+    "friendship": "0",
+    "types": [
+      "ground",
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "protosynthesis"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "intimidate",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 570,
+    "hp": 115,
+    "attack": 131,
+    "defense": 131,
+    "specialAttack": 53,
+    "specialDefense": 53,
+    "speed": 87,
+    "height": 2.2,
+    "weight": 320,
+    "eggMoveIds": [
+      "stone_axe",
+      "morning_sun",
+      "collision_course",
+      "shift_gear"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "horn_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": 1,
+        "moveId": "rollout"
+      },
+      {
+        "level": 1,
+        "moveId": "sunny_day"
+      },
+      {
+        "level": 7,
+        "moveId": "bulldoze"
+      },
+      {
+        "level": 14,
+        "moveId": "taunt"
+      },
+      {
+        "level": 21,
+        "moveId": "rapid_spin"
+      },
+      {
+        "level": 28,
+        "moveId": "brick_break"
+      },
+      {
+        "level": 35,
+        "moveId": "stomping_tantrum"
+      },
+      {
+        "level": 42,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 49,
+        "moveId": "earthquake"
+      },
+      {
+        "level": 56,
+        "moveId": "giga_impact"
+      },
+      {
+        "level": 63,
+        "moveId": "close_combat"
+      },
+      {
+        "level": 70,
+        "moveId": "endeavor"
+      },
+      {
+        "level": 77,
+        "moveId": "megahorn"
+      },
+      {
+        "level": 84,
+        "moveId": "head_smash"
+      },
+      {
+        "level": 91,
+        "moveId": "headlong_rush"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "hyper_beam",
+      "earthquake",
+      "dig",
+      "double_team",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "reversal",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "sandstorm",
+      "endure",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "megahorn",
+      "hidden_power",
+      "sunny_day",
+      "facade",
+      "taunt",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "rock_tomb",
+      "bulk_up",
+      "mud_shot",
+      "close_combat",
+      "earth_power",
+      "giga_impact",
+      "thunder_fang",
+      "ice_fang",
+      "fire_fang",
+      "zen_headbutt",
+      "flash_cannon",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "psyshock",
+      "smack_down",
+      "heavy_slam",
+      "bulldoze",
+      "play_rough",
+      "high_horsepower",
+      "smart_strike",
+      "stomping_tantrum",
+      "body_press",
+      "tera_blast",
+      "ice_spinner",
+      "temper_flare",
+      "supercell_slam"
+    ],
+    "biomeIds": [
+      "end"
+    ]
+  }
+]

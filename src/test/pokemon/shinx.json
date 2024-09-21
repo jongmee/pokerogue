@@ -1,0 +1,162 @@
+[
+  {
+    "_id": "shinx",
+    "gender": "",
+    "pokedexNumber": "403",
+    "name": "shinx",
+    "koName": "꼬링크",
+    "speciesName": "shinx",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "53",
+    "friendship": "50",
+    "types": [
+      "electric"
+    ],
+    "normalAbilityIds": [
+      "rivalry",
+      "intimidate"
+    ],
+    "hiddenAbilityId": "guts",
+    "passiveAbilityId": "speed_boost",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 263,
+    "hp": 45,
+    "attack": 65,
+    "defense": 34,
+    "specialAttack": 40,
+    "specialDefense": 34,
+    "speed": 45,
+    "height": 0.5,
+    "weight": 9.5,
+    "eggMoveIds": [
+      "fire_lash",
+      "triple_axel",
+      "facade",
+      "bolt_strike"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 4,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 8,
+        "moveId": "charge"
+      },
+      {
+        "level": 12,
+        "moveId": "bite"
+      },
+      {
+        "level": 16,
+        "moveId": "spark"
+      },
+      {
+        "level": 20,
+        "moveId": "roar"
+      },
+      {
+        "level": 24,
+        "moveId": "volt_switch"
+      },
+      {
+        "level": 28,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 32,
+        "moveId": "thunder_wave"
+      },
+      {
+        "level": 36,
+        "moveId": "crunch"
+      },
+      {
+        "level": 40,
+        "moveId": "discharge"
+      },
+      {
+        "level": 44,
+        "moveId": "swagger"
+      },
+      {
+        "level": 48,
+        "moveId": "wild_charge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "double_edge",
+      "roar",
+      "strength",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "swift",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "facade",
+      "charge",
+      "helping_hand",
+      "fake_tears",
+      "signal_beam",
+      "thunder_fang",
+      "ice_fang",
+      "fire_fang",
+      "charge_beam",
+      "electro_ball",
+      "round",
+      "volt_switch",
+      "wild_charge",
+      "snarl",
+      "play_rough",
+      "confide",
+      "eerie_impulse",
+      "electric_terrain",
+      "psychic_fangs",
+      "rising_voltage",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "plains",
+      "power_plant"
+    ]
+  }
+]

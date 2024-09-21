@@ -1,0 +1,162 @@
+[
+  {
+    "_id": "galar_zigzagoon",
+    "gender": "",
+    "pokedexNumber": "4263",
+    "name": "galar_zigzagoon",
+    "koName": "지그제구리",
+    "speciesName": "galar_zigzagoon",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "56",
+    "friendship": "50",
+    "types": [
+      "dark",
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "pickup",
+      "gluttony"
+    ],
+    "hiddenAbilityId": "quick_feet",
+    "passiveAbilityId": "poison_heal",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 240,
+    "hp": 38,
+    "attack": 30,
+    "defense": 41,
+    "specialAttack": 30,
+    "specialDefense": 41,
+    "speed": 60,
+    "height": 0.4,
+    "weight": 17.5,
+    "eggMoveIds": [
+      "ceaseless_edge",
+      "facade",
+      "parting_shot",
+      "extreme_speed"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 3,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 6,
+        "moveId": "lick"
+      },
+      {
+        "level": 9,
+        "moveId": "snarl"
+      },
+      {
+        "level": 12,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 15,
+        "moveId": "baby_doll_eyes"
+      },
+      {
+        "level": 18,
+        "moveId": "pin_missile"
+      },
+      {
+        "level": 21,
+        "moveId": "rest"
+      },
+      {
+        "level": 24,
+        "moveId": "take_down"
+      },
+      {
+        "level": 27,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 30,
+        "moveId": "counter"
+      },
+      {
+        "level": 33,
+        "moveId": "taunt"
+      },
+      {
+        "level": 36,
+        "moveId": "double_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "cut",
+      "body_slam",
+      "take_down",
+      "pin_missile",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "dig",
+      "screech",
+      "double_team",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "scary_face",
+      "icy_wind",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "shadow_ball",
+      "rock_smash",
+      "whirlpool",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "trick",
+      "knock_off",
+      "hyper_voice",
+      "fake_tears",
+      "mud_shot",
+      "payback",
+      "assurance",
+      "fling",
+      "seed_bomb",
+      "rock_climb",
+      "gunk_shot",
+      "grass_knot",
+      "round",
+      "retaliate",
+      "work_up",
+      "snarl",
+      "lash_out"
+    ],
+    "biomeIds": [
+      "slum"
+    ]
+  }
+]

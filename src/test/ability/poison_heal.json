@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "poison_heal",
+    "name": "Poison Heal",
+    "koName": "포이즌힐",
+    "realased": "",
+    "description": "독 상태가 되면 HP가 줄지 않고 증가한다.",
+    "generation": 4,
+    "pokemonIds": [
+      "shroomish",
+      "breloom",
+      "zangoose",
+      "gliscor",
+      "tympole",
+      "palpitoad",
+      "seismitoad",
+      "tynamo",
+      "eelektrik",
+      "eelektross",
+      "guzzlord",
+      "obstagoon",
+      "galar_zigzagoon",
+      "galar_linoone"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

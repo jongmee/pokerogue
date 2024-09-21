@@ -1,0 +1,164 @@
+[
+  {
+    "_id": "exeggcute",
+    "gender": "",
+    "pokedexNumber": "102",
+    "name": "exeggcute",
+    "koName": "아라리",
+    "speciesName": "exeggcute",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "65",
+    "friendship": "50",
+    "types": [
+      "grass",
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "chlorophyll"
+    ],
+    "hiddenAbilityId": "harvest",
+    "passiveAbilityId": "ripen",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 325,
+    "hp": 60,
+    "attack": 40,
+    "defense": 80,
+    "specialAttack": 60,
+    "specialDefense": 45,
+    "speed": 40,
+    "height": 0.4,
+    "weight": 2.5,
+    "eggMoveIds": [
+      "fickle_beam",
+      "apple_acid",
+      "trick_room",
+      "lumina_crash"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 1,
+        "moveId": "hypnosis"
+      },
+      {
+        "level": 1,
+        "moveId": "barrage"
+      },
+      {
+        "level": 5,
+        "moveId": "reflect"
+      },
+      {
+        "level": 10,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 15,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 20,
+        "moveId": "confusion"
+      },
+      {
+        "level": 25,
+        "moveId": "synthesis"
+      },
+      {
+        "level": 30,
+        "moveId": "bullet_seed"
+      },
+      {
+        "level": 35,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 40,
+        "moveId": "extrasensory"
+      },
+      {
+        "level": 45,
+        "moveId": "uproar"
+      },
+      {
+        "level": 50,
+        "moveId": "worry_seed"
+      },
+      {
+        "level": 55,
+        "moveId": "solar_beam"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "take_down",
+      "double_edge",
+      "psybeam",
+      "strength",
+      "solar_beam",
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "self_destruct",
+      "dream_eater",
+      "flash",
+      "explosion",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "sludge_bomb",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "synthesis",
+      "hidden_power",
+      "sunny_day",
+      "psych_up",
+      "uproar",
+      "facade",
+      "nature_power",
+      "skill_swap",
+      "bullet_seed",
+      "gravity",
+      "power_swap",
+      "worry_seed",
+      "seed_bomb",
+      "energy_ball",
+      "trick_room",
+      "leaf_storm",
+      "grass_knot",
+      "psyshock",
+      "round",
+      "stored_power",
+      "grassy_terrain",
+      "confide",
+      "infestation",
+      "grassy_glide",
+      "tera_blast",
+      "psychic_noise"
+    ],
+    "biomeIds": [
+      "forest",
+      "jungle"
+    ]
+  }
+]

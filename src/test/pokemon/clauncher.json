@@ -1,0 +1,154 @@
+[
+  {
+    "_id": "clauncher",
+    "gender": "",
+    "pokedexNumber": "692",
+    "name": "clauncher",
+    "koName": "완철포",
+    "speciesName": "clauncher",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "66",
+    "friendship": "50",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "mega_launcher"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "swift_swim",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 330,
+    "hp": 50,
+    "attack": 53,
+    "defense": 62,
+    "specialAttack": 58,
+    "specialDefense": 63,
+    "speed": 44,
+    "height": 0.5,
+    "weight": 8.3,
+    "eggMoveIds": [
+      "shell_smash",
+      "armor_cannon",
+      "water_shuriken",
+      "origin_pulse"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "splash"
+      },
+      {
+        "level": 10,
+        "moveId": "flail"
+      },
+      {
+        "level": 15,
+        "moveId": "aqua_jet"
+      },
+      {
+        "level": 20,
+        "moveId": "smack_down"
+      },
+      {
+        "level": 25,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 30,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 35,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 40,
+        "moveId": "aura_sphere"
+      },
+      {
+        "level": 45,
+        "moveId": "bounce"
+      },
+      {
+        "level": 50,
+        "moveId": "muddy_water"
+      },
+      {
+        "level": 55,
+        "moveId": "crabhammer"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "take_down",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "toxic",
+      "double_team",
+      "waterfall",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "sludge_bomb",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "facade",
+      "helping_hand",
+      "dive",
+      "weather_ball",
+      "muddy_water",
+      "bounce",
+      "mud_shot",
+      "water_pulse",
+      "u_turn",
+      "aura_sphere",
+      "dark_pulse",
+      "aqua_tail",
+      "dragon_pulse",
+      "flash_cannon",
+      "hone_claws",
+      "venoshock",
+      "smack_down",
+      "sludge_wave",
+      "round",
+      "scald",
+      "confide",
+      "liquidation",
+      "terrain_pulse",
+      "flip_turn",
+      "tera_blast",
+      "pounce",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "beach"
+    ]
+  }
+]

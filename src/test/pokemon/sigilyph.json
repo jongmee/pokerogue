@@ -1,0 +1,183 @@
+[
+  {
+    "_id": "sigilyph",
+    "gender": "",
+    "pokedexNumber": "561",
+    "name": "sigilyph",
+    "koName": "심보러",
+    "speciesName": "sigilyph",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "172",
+    "friendship": "50",
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "wonder_skin",
+      "magic_guard"
+    ],
+    "hiddenAbilityId": "tinted_lens",
+    "passiveAbilityId": "flare_boost",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 490,
+    "hp": 72,
+    "attack": 58,
+    "defense": 80,
+    "specialAttack": 103,
+    "specialDefense": 80,
+    "speed": 97,
+    "height": 1.4,
+    "weight": 14,
+    "eggMoveIds": [
+      "moonblast",
+      "calm_mind",
+      "freezing_glare",
+      "oblivion_wing"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "gust"
+      },
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 5,
+        "moveId": "gravity"
+      },
+      {
+        "level": 10,
+        "moveId": "hypnosis"
+      },
+      {
+        "level": 15,
+        "moveId": "air_cutter"
+      },
+      {
+        "level": 20,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 25,
+        "moveId": "whirlwind"
+      },
+      {
+        "level": 30,
+        "moveId": "cosmic_power"
+      },
+      {
+        "level": 35,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 40,
+        "moveId": "psychic"
+      },
+      {
+        "level": 45,
+        "moveId": "tailwind"
+      },
+      {
+        "level": 50,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 50,
+        "moveId": "reflect"
+      },
+      {
+        "level": 55,
+        "moveId": "sky_attack"
+      },
+      {
+        "level": 60,
+        "moveId": "skill_swap"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fly",
+      "ice_beam",
+      "psybeam",
+      "hyper_beam",
+      "solar_beam",
+      "thunder_wave",
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "swift",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "rain_dance",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "heat_wave",
+      "facade",
+      "trick",
+      "skill_swap",
+      "imprison",
+      "air_cutter",
+      "cosmic_power",
+      "signal_beam",
+      "aerial_ace",
+      "calm_mind",
+      "roost",
+      "gravity",
+      "pluck",
+      "tailwind",
+      "power_swap",
+      "dark_pulse",
+      "air_slash",
+      "energy_ball",
+      "giga_impact",
+      "psycho_cut",
+      "zen_headbutt",
+      "flash_cannon",
+      "defog",
+      "trick_room",
+      "charge_beam",
+      "psyshock",
+      "magic_room",
+      "smack_down",
+      "round",
+      "stored_power",
+      "confide",
+      "dazzling_gleam",
+      "speed_swap",
+      "expanding_force",
+      "dual_wingbeat",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "ruins",
+      "space"
+    ]
+  }
+]

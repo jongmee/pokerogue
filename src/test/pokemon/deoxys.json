@@ -1,0 +1,195 @@
+[
+  {
+    "_id": "deoxys",
+    "gender": "",
+    "pokedexNumber": "386",
+    "name": "deoxys",
+    "koName": "테오키스",
+    "speciesName": "deoxys",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "270",
+    "friendship": "0",
+    "types": [
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "pressure"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "protean",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": true,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 600,
+    "hp": 50,
+    "attack": 150,
+    "defense": 50,
+    "specialAttack": 150,
+    "specialDefense": 50,
+    "speed": 150,
+    "height": 1.7,
+    "weight": 60.8,
+    "eggMoveIds": [
+      "collision_course",
+      "earth_power",
+      "parting_shot",
+      "lumina_crash"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "wrap"
+      },
+      {
+        "level": 7,
+        "moveId": "night_shade"
+      },
+      {
+        "level": 13,
+        "moveId": "teleport"
+      },
+      {
+        "level": 19,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 25,
+        "moveId": "psyshock"
+      },
+      {
+        "level": 31,
+        "moveId": "psychic"
+      },
+      {
+        "level": 37,
+        "moveId": "gravity"
+      },
+      {
+        "level": 43,
+        "moveId": "skill_swap"
+      },
+      {
+        "level": 49,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 55,
+        "moveId": "cosmic_power"
+      },
+      {
+        "level": 61,
+        "moveId": "recover"
+      },
+      {
+        "level": 67,
+        "moveId": "psycho_boost"
+      },
+      {
+        "level": 73,
+        "moveId": "hyper_beam"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "cut",
+      "body_slam",
+      "ice_beam",
+      "hyper_beam",
+      "low_kick",
+      "counter",
+      "strength",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "psychic",
+      "night_shade",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "dream_eater",
+      "flash",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "mud_slap",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "pain_split",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "rock_smash",
+      "torment",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "trick",
+      "recycle",
+      "brick_break",
+      "knock_off",
+      "skill_swap",
+      "rock_tomb",
+      "signal_beam",
+      "aerial_ace",
+      "calm_mind",
+      "water_pulse",
+      "gravity",
+      "fling",
+      "poison_jab",
+      "dark_pulse",
+      "drain_punch",
+      "focus_blast",
+      "energy_ball",
+      "giga_impact",
+      "nasty_plot",
+      "avalanche",
+      "zen_headbutt",
+      "flash_cannon",
+      "trick_room",
+      "stealth_rock",
+      "grass_knot",
+      "charge_beam",
+      "wonder_room",
+      "psyshock",
+      "low_sweep",
+      "round",
+      "stored_power",
+      "ally_switch",
+      "confide",
+      "power_up_punch",
+      "throat_chop",
+      "brutal_swing",
+      "stomping_tantrum",
+      "expanding_force",
+      "meteor_beam",
+      "tera_blast",
+      "psychic_noise"
+    ],
+    "biomeIds": []
+  }
+]

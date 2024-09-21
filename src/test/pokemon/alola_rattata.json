@@ -1,0 +1,154 @@
+[
+  {
+    "_id": "alola_rattata",
+    "gender": "",
+    "pokedexNumber": "2019",
+    "name": "alola_rattata",
+    "koName": "꼬렛",
+    "speciesName": "alola_rattata",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "51",
+    "friendship": "70",
+    "types": [
+      "dark",
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "gluttony",
+      "hustle"
+    ],
+    "hiddenAbilityId": "thick_fat",
+    "passiveAbilityId": "adaptability",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 253,
+    "hp": 30,
+    "attack": 56,
+    "defense": 35,
+    "specialAttack": 25,
+    "specialDefense": 35,
+    "speed": 72,
+    "height": 0.3,
+    "weight": 3.8,
+    "eggMoveIds": [
+      "false_surrender",
+      "psychic_fangs",
+      "coil",
+      "extreme_speed"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 4,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 7,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 10,
+        "moveId": "bite"
+      },
+      {
+        "level": 13,
+        "moveId": "pursuit"
+      },
+      {
+        "level": 16,
+        "moveId": "hyper_fang"
+      },
+      {
+        "level": 19,
+        "moveId": "assurance"
+      },
+      {
+        "level": 22,
+        "moveId": "crunch"
+      },
+      {
+        "level": 25,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 28,
+        "moveId": "super_fang"
+      },
+      {
+        "level": 31,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 34,
+        "moveId": "endeavor"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "cut",
+      "double_edge",
+      "ice_beam",
+      "blizzard",
+      "dig",
+      "toxic",
+      "double_team",
+      "focus_energy",
+      "rest",
+      "super_fang",
+      "substitute",
+      "thief",
+      "snore",
+      "reversal",
+      "protect",
+      "sludge_bomb",
+      "icy_wind",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "shadow_ball",
+      "rock_smash",
+      "uproar",
+      "torment",
+      "facade",
+      "taunt",
+      "revenge",
+      "endeavor",
+      "covet",
+      "pluck",
+      "u_turn",
+      "assurance",
+      "embargo",
+      "dark_pulse",
+      "shadow_claw",
+      "zen_headbutt",
+      "grass_knot",
+      "round",
+      "quash",
+      "snarl",
+      "confide",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "island"
+    ]
+  }
+]

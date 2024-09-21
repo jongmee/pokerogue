@@ -1,0 +1,176 @@
+[
+  {
+    "_id": "overqwil",
+    "gender": "",
+    "pokedexNumber": "904",
+    "name": "overqwil",
+    "koName": "장침바루",
+    "speciesName": "overqwil",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "179",
+    "friendship": "50",
+    "types": [
+      "dark",
+      "poison"
+    ],
+    "normalAbilityIds": [
+      "poison_point",
+      "swift_swim"
+    ],
+    "hiddenAbilityId": "intimidate",
+    "passiveAbilityId": "merciless",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 510,
+    "hp": 85,
+    "attack": 115,
+    "defense": 95,
+    "specialAttack": 65,
+    "specialDefense": 65,
+    "speed": 85,
+    "height": 2.5,
+    "weight": 60.5,
+    "eggMoveIds": [
+      "ceaseless_edge",
+      "knock_off",
+      "strength_sap",
+      "fishious_rend"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "poison_sting"
+      },
+      {
+        "level": 4,
+        "moveId": "harden"
+      },
+      {
+        "level": 8,
+        "moveId": "bite"
+      },
+      {
+        "level": 12,
+        "moveId": "fell_stinger"
+      },
+      {
+        "level": 16,
+        "moveId": "minimize"
+      },
+      {
+        "level": 20,
+        "moveId": "spikes"
+      },
+      {
+        "level": 24,
+        "moveId": "brine"
+      },
+      {
+        "level": 28,
+        "moveId": "barb_barrage"
+      },
+      {
+        "level": 32,
+        "moveId": "pin_missile"
+      },
+      {
+        "level": 36,
+        "moveId": "toxic_spikes"
+      },
+      {
+        "level": 40,
+        "moveId": "stockpile"
+      },
+      {
+        "level": 40,
+        "moveId": "spit_up"
+      },
+      {
+        "level": 44,
+        "moveId": "toxic"
+      },
+      {
+        "level": 48,
+        "moveId": "crunch"
+      },
+      {
+        "level": 52,
+        "moveId": "acupressure"
+      },
+      {
+        "level": 56,
+        "moveId": "destiny_bond"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "take_down",
+      "double_edge",
+      "pin_missile",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "toxic",
+      "agility",
+      "double_team",
+      "haze",
+      "waterfall",
+      "rest",
+      "substitute",
+      "curse",
+      "reversal",
+      "spite",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "spikes",
+      "icy_wind",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "hidden_power",
+      "rain_dance",
+      "crunch",
+      "shadow_ball",
+      "facade",
+      "taunt",
+      "mud_shot",
+      "poison_tail",
+      "gyro_ball",
+      "brine",
+      "toxic_spikes",
+      "poison_jab",
+      "dark_pulse",
+      "aqua_tail",
+      "giga_impact",
+      "gunk_shot",
+      "venoshock",
+      "sludge_wave",
+      "acid_spray",
+      "smart_strike",
+      "liquidation",
+      "scale_shot",
+      "lash_out",
+      "tera_blast",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "seabed"
+    ]
+  }
+]

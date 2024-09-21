@@ -1,0 +1,128 @@
+[
+  {
+    "_id": "slowbro_mega",
+    "gender": "",
+    "pokedexNumber": "80",
+    "name": "slowbro_mega",
+    "koName": "야도란_mega",
+    "speciesName": "slowbro",
+    "canChangeForm": true,
+    "formName": "mega",
+    "baseExp": "172",
+    "friendship": "50",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "shell_armor"
+    ],
+    "hiddenAbilityId": "shell_armor",
+    "passiveAbilityId": "unaware",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 590,
+    "hp": 95,
+    "attack": 75,
+    "defense": 180,
+    "specialAttack": 130,
+    "specialDefense": 80,
+    "speed": 30,
+    "height": 2,
+    "weight": 120,
+    "eggMoveIds": [
+      "bouncy_bubble",
+      "flamethrower",
+      "mystical_power",
+      "shed_tail"
+    ],
+    "levelMoves": [
+      {
+        "level": -1,
+        "moveId": "future_sight"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "withdraw"
+      },
+      {
+        "level": 1,
+        "moveId": "curse"
+      },
+      {
+        "level": 9,
+        "moveId": "yawn"
+      },
+      {
+        "level": 12,
+        "moveId": "confusion"
+      },
+      {
+        "level": 15,
+        "moveId": "disable"
+      },
+      {
+        "level": 18,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 21,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 24,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 27,
+        "moveId": "amnesia"
+      },
+      {
+        "level": 30,
+        "moveId": "surf"
+      },
+      {
+        "level": 33,
+        "moveId": "slack_off"
+      },
+      {
+        "level": 36,
+        "moveId": "psychic"
+      },
+      {
+        "level": 41,
+        "moveId": "psych_up"
+      },
+      {
+        "level": 46,
+        "moveId": "rain_dance"
+      },
+      {
+        "level": 51,
+        "moveId": "heal_pulse"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "sea",
+      "lake"
+    ]
+  }
+]

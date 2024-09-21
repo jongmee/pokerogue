@@ -1,0 +1,39 @@
+[
+  {
+    "_id": "baddy_bad",
+    "name": "Baddy Bad",
+    "koName": "아그아그존",
+    "type": "dark",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 80,
+    "accuracy": 95,
+    "powerPoint": 15,
+    "effect": "악함을 어필해서 공격한다. 상대의 물리공격을 약하게 만드는 이상한 장막을 만든다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "abra",
+      "kadabra",
+      "alakazam",
+      "alakazam_mega",
+      "drowzee",
+      "hypno",
+      "eevee_partner",
+      "eevee_gigantamax",
+      "umbreon",
+      "minun",
+      "spiritomb",
+      "nickit",
+      "thievul",
+      "alola_meowth",
+      "alola_persian",
+      "galar_slowpoke",
+      "galar_slowbro",
+      "galar_slowking"
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "schooling",
+    "name": "Schooling",
+    "koName": "어군",
+    "realased": "",
+    "description": "HP가 많을 때 무리지어 강해진다. HP가 얼마 남지 않으면 무리는 뿔뿔이 흩어진다.",
+    "generation": 7,
+    "pokemonIds": [
+      "wishiwashi"
+    ],
+    "isBypassFaint": true,
+    "isIgnorable": false
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "_id": "wyrdeer",
+    "gender": "",
+    "pokedexNumber": "899",
+    "name": "wyrdeer",
+    "koName": "신비록",
+    "speciesName": "wyrdeer",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "263",
+    "friendship": "50",
+    "types": [
+      "normal",
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "intimidate",
+      "frisk"
+    ],
+    "hiddenAbilityId": "sap_sipper",
+    "passiveAbilityId": "analytic",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 525,
+    "hp": 103,
+    "attack": 105,
+    "defense": 72,
+    "specialAttack": 105,
+    "specialDefense": 75,
+    "speed": 65,
+    "height": 1.8,
+    "weight": 95.1,
+    "eggMoveIds": [
+      "thunderous_kick",
+      "hyper_voice",
+      "bulk_up",
+      "photon_geyser"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "psyshield_bash"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 3,
+        "moveId": "leer"
+      },
+      {
+        "level": 7,
+        "moveId": "astonish"
+      },
+      {
+        "level": 10,
+        "moveId": "hypnosis"
+      },
+      {
+        "level": 13,
+        "moveId": "stomp"
+      },
+      {
+        "level": 16,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 21,
+        "moveId": "take_down"
+      },
+      {
+        "level": 23,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 27,
+        "moveId": "calm_mind"
+      },
+      {
+        "level": 32,
+        "moveId": "role_play"
+      },
+      {
+        "level": 37,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 49,
+        "moveId": "imprison"
+      },
+      {
+        "level": 55,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 62,
+        "moveId": "megahorn"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "psybeam",
+      "hyper_beam",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "earthquake",
+      "dig",
+      "psychic",
+      "agility",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "swift",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "curse",
+      "spite",
+      "protect",
+      "scary_face",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "megahorn",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "shadow_ball",
+      "uproar",
+      "facade",
+      "helping_hand",
+      "trick",
+      "skill_swap",
+      "imprison",
+      "signal_beam",
+      "calm_mind",
+      "gravity",
+      "energy_ball",
+      "earth_power",
+      "giga_impact",
+      "zen_headbutt",
+      "trick_room",
+      "charge_beam",
+      "psyshock",
+      "stored_power",
+      "bulldoze",
+      "wild_charge",
+      "high_horsepower",
+      "lunge",
+      "expanding_force",
+      "tera_blast",
+      "trailblaze",
+      "psychic_noise"
+    ],
+    "biomeIds": [
+      "snowy_forest"
+    ]
+  }
+]

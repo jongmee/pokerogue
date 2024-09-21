@@ -1,0 +1,173 @@
+[
+  {
+    "_id": "revavroom",
+    "gender": "",
+    "pokedexNumber": "966",
+    "name": "revavroom",
+    "koName": "부르르룸",
+    "speciesName": "revavroom",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "175",
+    "friendship": "50",
+    "types": [
+      "steel",
+      "poison"
+    ],
+    "normalAbilityIds": [
+      "overcoat"
+    ],
+    "hiddenAbilityId": "filter",
+    "passiveAbilityId": "levitate",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 500,
+    "hp": 80,
+    "attack": 119,
+    "defense": 90,
+    "specialAttack": 54,
+    "specialDefense": 67,
+    "speed": 90,
+    "height": 1.8,
+    "weight": 120,
+    "eggMoveIds": [
+      "combat_torque",
+      "u_turn",
+      "blazing_torque",
+      "noxious_torque"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "shift_gear"
+      },
+      {
+        "level": 1,
+        "moveId": "lick"
+      },
+      {
+        "level": 1,
+        "moveId": "poison_gas"
+      },
+      {
+        "level": 1,
+        "moveId": "magnet_rise"
+      },
+      {
+        "level": 4,
+        "moveId": "smog"
+      },
+      {
+        "level": 7,
+        "moveId": "taunt"
+      },
+      {
+        "level": 10,
+        "moveId": "assurance"
+      },
+      {
+        "level": 13,
+        "moveId": "sludge"
+      },
+      {
+        "level": 17,
+        "moveId": "gyro_ball"
+      },
+      {
+        "level": 21,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 25,
+        "moveId": "screech"
+      },
+      {
+        "level": 28,
+        "moveId": "iron_head"
+      },
+      {
+        "level": 32,
+        "moveId": "swagger"
+      },
+      {
+        "level": 36,
+        "moveId": "poison_jab"
+      },
+      {
+        "level": 46,
+        "moveId": "uproar"
+      },
+      {
+        "level": 52,
+        "moveId": "spin_out"
+      },
+      {
+        "level": 58,
+        "moveId": "gunk_shot"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "toxic",
+      "screech",
+      "double_team",
+      "haze",
+      "rest",
+      "substitute",
+      "thief",
+      "curse",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "uproar",
+      "facade",
+      "taunt",
+      "endeavor",
+      "overheat",
+      "metal_sound",
+      "iron_defense",
+      "gyro_ball",
+      "assurance",
+      "toxic_spikes",
+      "poison_jab",
+      "giga_impact",
+      "zen_headbutt",
+      "flash_cannon",
+      "gunk_shot",
+      "iron_head",
+      "venoshock",
+      "sludge_wave",
+      "heavy_slam",
+      "acid_spray",
+      "bulldoze",
+      "high_horsepower",
+      "steel_beam",
+      "lash_out",
+      "tera_blast",
+      "hard_press",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "metropolis",
+      "slum"
+    ]
+  }
+]

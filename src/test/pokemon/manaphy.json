@@ -1,0 +1,162 @@
+[
+  {
+    "_id": "manaphy",
+    "gender": "",
+    "pokedexNumber": "490",
+    "name": "manaphy",
+    "koName": "마나피",
+    "speciesName": "manaphy",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "270",
+    "friendship": "70",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "hydration"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "primordial_sea",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": true,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 600,
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "specialAttack": 100,
+    "specialDefense": 100,
+    "speed": 100,
+    "height": 0.3,
+    "weight": 1.4,
+    "eggMoveIds": [
+      "bouncy_bubble",
+      "freeze_dry",
+      "splishy_splash",
+      "quiver_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "heart_swap"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_glow"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 9,
+        "moveId": "charm"
+      },
+      {
+        "level": 16,
+        "moveId": "supersonic"
+      },
+      {
+        "level": 24,
+        "moveId": "bubble_beam"
+      },
+      {
+        "level": 31,
+        "moveId": "acid_armor"
+      },
+      {
+        "level": 39,
+        "moveId": "whirlpool"
+      },
+      {
+        "level": 46,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 54,
+        "moveId": "aqua_ring"
+      },
+      {
+        "level": 61,
+        "moveId": "dive"
+      },
+      {
+        "level": 69,
+        "moveId": "rain_dance"
+      },
+      {
+        "level": 76,
+        "moveId": "take_heart"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "haze",
+      "reflect",
+      "waterfall",
+      "swift",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "charm",
+      "swagger",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "rain_dance",
+      "psych_up",
+      "shadow_ball",
+      "whirlpool",
+      "uproar",
+      "hail",
+      "facade",
+      "helping_hand",
+      "knock_off",
+      "skill_swap",
+      "dive",
+      "weather_ball",
+      "signal_beam",
+      "bounce",
+      "covet",
+      "calm_mind",
+      "water_pulse",
+      "brine",
+      "u_turn",
+      "fling",
+      "energy_ball",
+      "giga_impact",
+      "grass_knot",
+      "round",
+      "stored_power",
+      "scald",
+      "confide",
+      "dazzling_gleam",
+      "liquidation",
+      "flip_turn",
+      "tera_blast",
+      "chilling_water",
+      "alluring_voice"
+    ],
+    "biomeIds": []
+  }
+]

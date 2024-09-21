@@ -1,0 +1,166 @@
+[
+  {
+    "_id": "meadow",
+    "name": "Meadow",
+    "koName": "목초지",
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "nextBiomes": [
+      {
+        "name": "plains",
+        "percentage": 50
+      },
+      {
+        "name": "fairy_cave",
+        "percentage": 50
+      }
+    ],
+    "nativePokemons": [
+      {
+        "tier": "보통",
+        "pokemonIds": [
+          "ledyba",
+          "ledian",
+          "roselia",
+          "cottonee",
+          "minccino",
+          "blitzle",
+          "zebstrika",
+          "flabebe",
+          "floette",
+          "cutiefly",
+          "ribombee",
+          "gossifleur",
+          "eldegoss",
+          "wooloo",
+          "dubwool"
+        ]
+      },
+      {
+        "tier": "드묾",
+        "pokemonIds": [
+          "ponyta",
+          "rapidash",
+          "snubbull",
+          "granbull",
+          "skitty",
+          "delcatty",
+          "bouffalant",
+          "smoliv",
+          "dolliv",
+          "arboliva",
+          "jigglypuff",
+          "wigglytuff",
+          "mareep",
+          "flaaffy",
+          "ampharos",
+          "ralts",
+          "kirlia",
+          "gardevoir",
+          "glameow",
+          "purugly",
+          "oricorio"
+        ]
+      },
+      {
+        "tier": "레어",
+        "pokemonIds": [
+          "volbeat",
+          "illumise",
+          "tauros",
+          "eevee",
+          "miltank",
+          "spinda",
+          "applin",
+          "dipplin",
+          "sprigatito",
+          "floragato",
+          "meowscarada"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어",
+        "pokemonIds": [
+          "chansey",
+          "sylveon"
+        ]
+      },
+      {
+        "tier": "울트라 레어",
+        "pokemonIds": [
+          "meloetta"
+        ]
+      },
+      {
+        "tier": "보스",
+        "pokemonIds": [
+          "ledian",
+          "granbull",
+          "delcatty",
+          "roserade",
+          "cinccino",
+          "bouffalant",
+          "arboliva",
+          "tauros",
+          "miltank",
+          "gardevoir",
+          "purugly",
+          "zebstrika",
+          "florges",
+          "ribombee",
+          "dubwool"
+        ]
+      },
+      {
+        "tier": "레어 보스",
+        "pokemonIds": [
+          "hisui_lilligant",
+          "blissey",
+          "sylveon",
+          "flapple",
+          "appletun",
+          "meowscarada",
+          "hydrapple"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어 보스",
+        "pokemonIds": [
+          "meloetta"
+        ]
+      },
+      {
+        "tier": "슈퍼 울트라 레어 보스",
+        "pokemonIds": [
+          "shaymin"
+        ]
+      }
+    ],
+    "trainers": [
+      {
+        "name": "알로에",
+        "types": [
+          "normal"
+        ],
+        "pokemonIds": [
+          "kangaskhan",
+          "deerling",
+          "audino"
+        ]
+      },
+      {
+        "name": "아킬",
+        "types": [
+          "grass"
+        ],
+        "pokemonIds": [
+          "gossifleur",
+          "applin",
+          "bounsweet"
+        ]
+      }
+    ]
+  }
+]

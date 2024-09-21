@@ -1,0 +1,184 @@
+[
+  {
+    "_id": "kingler",
+    "gender": "",
+    "pokedexNumber": "99",
+    "name": "kingler",
+    "koName": "킹크랩",
+    "speciesName": "kingler",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "166",
+    "friendship": "50",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "hyper_cutter",
+      "shell_armor"
+    ],
+    "hiddenAbilityId": "sheer_force",
+    "passiveAbilityId": "unburden",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 475,
+    "hp": 55,
+    "attack": 130,
+    "defense": 115,
+    "specialAttack": 50,
+    "specialDefense": 50,
+    "speed": 75,
+    "height": 1.3,
+    "weight": 60,
+    "eggMoveIds": [
+      "fire_lash",
+      "play_rough",
+      "ivy_cudgel",
+      "shell_smash"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "harden"
+      },
+      {
+        "level": 1,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 1,
+        "moveId": "hammer_arm"
+      },
+      {
+        "level": 1,
+        "moveId": "wide_guard"
+      },
+      {
+        "level": 1,
+        "moveId": "mud_sport"
+      },
+      {
+        "level": 12,
+        "moveId": "mud_shot"
+      },
+      {
+        "level": 16,
+        "moveId": "protect"
+      },
+      {
+        "level": 20,
+        "moveId": "bubble_beam"
+      },
+      {
+        "level": 24,
+        "moveId": "stomp"
+      },
+      {
+        "level": 31,
+        "moveId": "flail"
+      },
+      {
+        "level": 36,
+        "moveId": "razor_shell"
+      },
+      {
+        "level": 42,
+        "moveId": "slam"
+      },
+      {
+        "level": 48,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 54,
+        "moveId": "crabhammer"
+      },
+      {
+        "level": 60,
+        "moveId": "guillotine"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "strength",
+      "dig",
+      "toxic",
+      "agility",
+      "double_team",
+      "haze",
+      "amnesia",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "rock_smash",
+      "whirlpool",
+      "hail",
+      "facade",
+      "superpower",
+      "brick_break",
+      "knock_off",
+      "dive",
+      "rock_tomb",
+      "iron_defense",
+      "mud_shot",
+      "water_pulse",
+      "brine",
+      "fling",
+      "x_scissor",
+      "giga_impact",
+      "hone_claws",
+      "round",
+      "ally_switch",
+      "scald",
+      "quash",
+      "razor_shell",
+      "confide",
+      "high_horsepower",
+      "brutal_swing",
+      "stomping_tantrum",
+      "liquidation",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "beach"
+    ]
+  }
+]

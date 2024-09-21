@@ -1,0 +1,104 @@
+[
+  {
+    "_id": "clamperl",
+    "gender": "",
+    "pokedexNumber": "366",
+    "name": "clamperl",
+    "koName": "진주몽",
+    "speciesName": "clamperl",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "69",
+    "friendship": "70",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "shell_armor"
+    ],
+    "hiddenAbilityId": "rattled",
+    "passiveAbilityId": "drizzle",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 345,
+    "hp": 35,
+    "attack": 64,
+    "defense": 85,
+    "specialAttack": 74,
+    "specialDefense": 55,
+    "speed": 32,
+    "height": 0.4,
+    "weight": 52.5,
+    "eggMoveIds": [
+      "shell_side_arm",
+      "bouncy_bubble",
+      "freeze_dry",
+      "steam_eruption"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "clamp"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "whirlpool"
+      },
+      {
+        "level": 1,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 50,
+        "moveId": "shell_smash"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "toxic",
+      "double_team",
+      "confuse_ray",
+      "waterfall",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "whirlpool",
+      "hail",
+      "facade",
+      "dive",
+      "muddy_water",
+      "iron_defense",
+      "water_pulse",
+      "brine",
+      "round",
+      "scald",
+      "confide",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "seabed"
+    ]
+  }
+]

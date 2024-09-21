@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "max_geyser",
+    "name": "Max Geyser",
+    "koName": "다이스트림",
+    "type": "water",
+    "moveCategory": "physical",
+    "moveTarget": "near_enemy",
+    "power": 10,
+    "accuracy": -1,
+    "powerPoint": 10,
+    "effect": "다이맥스한 포켓몬이 날리는 물타입의 공격. 5턴 동안 비를 내리게 한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": " (N)",
+    "flags": [
+      "makes_contact",
+      "ignore_virtual"
+    ],
+    "pokemonIds": []
+  }
+]

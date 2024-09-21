@@ -1,0 +1,13 @@
+[
+  {
+    "_id": "teraform_zero",
+    "name": "Teraform Zero",
+    "koName": "제로포밍",
+    "realased": " (N)",
+    "description": "테라파고스가 스텔라폼이 되었을 때 숨겨진 힘에 의해 날씨와 필드의 영향을 모두 무효로 만든다.",
+    "generation": 9,
+    "pokemonIds": [],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

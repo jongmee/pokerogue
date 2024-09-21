@@ -1,0 +1,187 @@
+[
+  {
+    "_id": "stunky",
+    "gender": "",
+    "pokedexNumber": "434",
+    "name": "stunky",
+    "koName": "스컹뿡",
+    "speciesName": "stunky",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "66",
+    "friendship": "50",
+    "types": [
+      "poison",
+      "dark"
+    ],
+    "normalAbilityIds": [
+      "stench",
+      "aftermath"
+    ],
+    "hiddenAbilityId": "keen_eye",
+    "passiveAbilityId": "neutralizing_gas",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 329,
+    "hp": 63,
+    "attack": 63,
+    "defense": 47,
+    "specialAttack": 41,
+    "specialDefense": 41,
+    "speed": 74,
+    "height": 0.4,
+    "weight": 19.2,
+    "eggMoveIds": [
+      "ceaseless_edge",
+      "knock_off",
+      "recover",
+      "dire_claw"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "poison_gas"
+      },
+      {
+        "level": 3,
+        "moveId": "feint"
+      },
+      {
+        "level": 6,
+        "moveId": "smokescreen"
+      },
+      {
+        "level": 9,
+        "moveId": "acid_spray"
+      },
+      {
+        "level": 12,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 15,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 18,
+        "moveId": "bite"
+      },
+      {
+        "level": 21,
+        "moveId": "venoshock"
+      },
+      {
+        "level": 24,
+        "moveId": "screech"
+      },
+      {
+        "level": 27,
+        "moveId": "toxic"
+      },
+      {
+        "level": 30,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 33,
+        "moveId": "memento"
+      },
+      {
+        "level": 36,
+        "moveId": "night_slash"
+      },
+      {
+        "level": 39,
+        "moveId": "belch"
+      },
+      {
+        "level": 42,
+        "moveId": "explosion"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "cut",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "dig",
+      "toxic",
+      "screech",
+      "double_team",
+      "haze",
+      "focus_energy",
+      "fire_blast",
+      "swift",
+      "explosion",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "mud_slap",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "shadow_ball",
+      "rock_smash",
+      "torment",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "knock_off",
+      "poison_tail",
+      "payback",
+      "assurance",
+      "toxic_spikes",
+      "poison_jab",
+      "dark_pulse",
+      "nasty_plot",
+      "shadow_claw",
+      "defog",
+      "gunk_shot",
+      "hone_claws",
+      "venoshock",
+      "sludge_wave",
+      "acid_spray",
+      "foul_play",
+      "round",
+      "hex",
+      "incinerate",
+      "tail_slap",
+      "snarl",
+      "play_rough",
+      "confide",
+      "venom_drench",
+      "throat_chop",
+      "lash_out",
+      "corrosive_gas",
+      "tera_blast",
+      "trailblaze",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "slum"
+    ]
+  }
+]

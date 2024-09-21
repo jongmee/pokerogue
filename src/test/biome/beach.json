@@ -1,0 +1,134 @@
+[
+  {
+    "_id": "beach",
+    "name": "Beach",
+    "koName": "해변",
+    "types": [
+      "water"
+    ],
+    "nextBiomes": [
+      {
+        "name": "sea",
+        "percentage": 66.66666666666666
+      },
+      {
+        "name": "island",
+        "percentage": 33.33333333333333
+      }
+    ],
+    "nativePokemons": [
+      {
+        "tier": "보통",
+        "pokemonIds": [
+          "staryu",
+          "starmie",
+          "shellder",
+          "krabby",
+          "kingler",
+          "corphish",
+          "crawdaunt",
+          "dwebble",
+          "crustle",
+          "binacle",
+          "barbaracle",
+          "mareanie",
+          "toxapex",
+          "wiglett",
+          "wugtrio"
+        ]
+      },
+      {
+        "tier": "드묾",
+        "pokemonIds": [
+          "burmy",
+          "wormadam",
+          "clauncher",
+          "clawitzer",
+          "sandygast",
+          "palossand"
+        ]
+      },
+      {
+        "tier": "레어",
+        "pokemonIds": [
+          "quaxly",
+          "quaxwell",
+          "quaquaval",
+          "tatsugiri"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어",
+        "pokemonIds": [
+          "tirtouga",
+          "carracosta"
+        ]
+      },
+      {
+        "tier": "울트라 레어",
+        "pokemonIds": [
+          "cresselia",
+          "keldeo",
+          "tapu_fini"
+        ]
+      },
+      {
+        "tier": "보스",
+        "pokemonIds": [
+          "starmie",
+          "cloyster",
+          "kingler",
+          "crawdaunt",
+          "wormadam",
+          "crustle",
+          "barbaracle",
+          "clawitzer",
+          "toxapex",
+          "palossand"
+        ]
+      },
+      {
+        "tier": "레어 보스",
+        "pokemonIds": [
+          "carracosta",
+          "quaquaval"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어 보스",
+        "pokemonIds": [
+          "cresselia",
+          "keldeo",
+          "tapu_fini"
+        ]
+      },
+      {
+        "tier": "슈퍼 울트라 레어 보스",
+        "pokemonIds": []
+      }
+    ],
+    "trainers": [
+      {
+        "name": "이슬",
+        "types": [
+          "water"
+        ],
+        "pokemonIds": [
+          "staryu",
+          "psyduck"
+        ]
+      },
+      {
+        "name": "곤포",
+        "types": [
+          "water"
+        ],
+        "pokemonIds": [
+          "veluza",
+          "wiglett",
+          "wingull"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "mist_ball",
+    "name": "Mist Ball",
+    "koName": "미스트볼",
+    "type": "psychic",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 95,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "안개의 깃털로 둘러싸 공격한다. 상대의 특수공격을 떨어뜨릴 때가 있다.",
+    "effectChance": 50,
+    "prioirty": 0,
+    "generation": 3,
+    "realased": "",
+    "flags": [
+      "ballbomb_move"
+    ],
+    "pokemonIds": [
+      "latias"
+    ]
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "_id": "eldegoss",
+    "gender": "",
+    "pokedexNumber": "830",
+    "name": "eldegoss",
+    "koName": "백솜모카",
+    "speciesName": "eldegoss",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "161",
+    "friendship": "50",
+    "types": [
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "cotton_down",
+      "regenerator"
+    ],
+    "hiddenAbilityId": "effect_spore",
+    "passiveAbilityId": "grassy_surge",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 460,
+    "hp": 60,
+    "attack": 50,
+    "defense": 90,
+    "specialAttack": 80,
+    "specialDefense": 120,
+    "speed": 60,
+    "height": 0.5,
+    "weight": 2.5,
+    "eggMoveIds": [
+      "tailwind",
+      "strength_sap",
+      "sappy_seed",
+      "seed_flare"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "cotton_spore"
+      },
+      {
+        "level": 1,
+        "moveId": "sing"
+      },
+      {
+        "level": 1,
+        "moveId": "rapid_spin"
+      },
+      {
+        "level": 1,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 1,
+        "moveId": "leafage"
+      },
+      {
+        "level": 12,
+        "moveId": "razor_leaf"
+      },
+      {
+        "level": 16,
+        "moveId": "round"
+      },
+      {
+        "level": 23,
+        "moveId": "leaf_tornado"
+      },
+      {
+        "level": 28,
+        "moveId": "synthesis"
+      },
+      {
+        "level": 34,
+        "moveId": "hyper_voice"
+      },
+      {
+        "level": 40,
+        "moveId": "aromatherapy"
+      },
+      {
+        "level": 46,
+        "moveId": "leaf_storm"
+      },
+      {
+        "level": 52,
+        "moveId": "cotton_guard"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "hyper_beam",
+      "solar_beam",
+      "double_team",
+      "light_screen",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "giga_drain",
+      "endure",
+      "charm",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "synthesis",
+      "hidden_power",
+      "sunny_day",
+      "facade",
+      "helping_hand",
+      "hyper_voice",
+      "weather_ball",
+      "bullet_seed",
+      "magical_leaf",
+      "worry_seed",
+      "seed_bomb",
+      "energy_ball",
+      "giga_impact",
+      "leaf_storm",
+      "grass_knot",
+      "round",
+      "grassy_terrain",
+      "pollen_puff",
+      "grassy_glide"
+    ],
+    "biomeIds": [
+      "meadow"
+    ]
+  }
+]

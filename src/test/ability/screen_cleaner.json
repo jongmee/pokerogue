@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "screen_cleaner",
+    "name": "Screen Cleaner",
+    "koName": "배리어프리",
+    "realased": "",
+    "description": "등장했을 때 상대와 같은 편의 빛의장막, 리플렉터, 오로라베일의 효과가 사라진다.",
+    "generation": 8,
+    "pokemonIds": [
+      "mr_rime",
+      "galar_mr_mime"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

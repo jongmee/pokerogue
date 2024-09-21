@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "double_shock",
+    "name": "Double Shock",
+    "koName": "전광쌍격",
+    "type": "electric",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 120,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "전신의 전기를 모두 방출해서 큰 데미지를 준다. 자신의 전기타입이 없어진다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 9,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "pawmot"
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "slush_rush",
+    "name": "Slush Rush",
+    "koName": "눈치우기",
+    "realased": "",
+    "description": "날씨가 눈일 때 스피드가 올라간다.",
+    "generation": 7,
+    "pokemonIds": [
+      "swinub",
+      "piloswine",
+      "mamoswine",
+      "vanillite",
+      "vanillish",
+      "vanilluxe",
+      "cubchoo",
+      "beartic",
+      "arctozolt",
+      "arctovish",
+      "cetitan",
+      "alola_sandshrew",
+      "alola_sandslash"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

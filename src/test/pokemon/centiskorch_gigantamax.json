@@ -1,0 +1,107 @@
+[
+  {
+    "_id": "centiskorch_gigantamax",
+    "gender": "",
+    "pokedexNumber": "851",
+    "name": "centiskorch_gigantamax",
+    "koName": "다태우지네_gigantamax",
+    "speciesName": "centiskorch",
+    "canChangeForm": true,
+    "formName": "g_max",
+    "baseExp": "184",
+    "friendship": "50",
+    "types": [
+      "fire",
+      "bug"
+    ],
+    "normalAbilityIds": [
+      "flash_fire"
+    ],
+    "hiddenAbilityId": "flash_fire",
+    "passiveAbilityId": "speed_boost",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 625,
+    "hp": 140,
+    "attack": 145,
+    "defense": 75,
+    "specialAttack": 90,
+    "specialDefense": 100,
+    "speed": 75,
+    "height": 75,
+    "weight": 120,
+    "eggMoveIds": [
+      "burning_bulwark",
+      "zing_zap",
+      "first_impression",
+      "bitter_blade"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "wrap"
+      },
+      {
+        "level": 1,
+        "moveId": "bite"
+      },
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 1,
+        "moveId": "smokescreen"
+      },
+      {
+        "level": 1,
+        "moveId": "inferno"
+      },
+      {
+        "level": 15,
+        "moveId": "flame_wheel"
+      },
+      {
+        "level": 20,
+        "moveId": "bug_bite"
+      },
+      {
+        "level": 25,
+        "moveId": "coil"
+      },
+      {
+        "level": 32,
+        "moveId": "slam"
+      },
+      {
+        "level": 39,
+        "moveId": "fire_spin"
+      },
+      {
+        "level": 46,
+        "moveId": "crunch"
+      },
+      {
+        "level": 53,
+        "moveId": "fire_lash"
+      },
+      {
+        "level": 60,
+        "moveId": "lunge"
+      },
+      {
+        "level": 67,
+        "moveId": "burn_up"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "badlands"
+    ]
+  }
+]

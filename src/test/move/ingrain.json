@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "ingrain",
+    "name": "Ingrain",
+    "koName": "뿌리박기",
+    "type": "grass",
+    "moveCategory": "status",
+    "moveTarget": "user",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 20,
+    "effect": "대지에 뿌리를 박아 매 턴마다 자신의 HP를 회복한다. 뿌리 박고 있으므로 교체할 수 없다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 3,
+    "realased": "",
+    "flags": [
+      "ignore_protect"
+    ],
+    "pokemonIds": [
+      "tangela",
+      "sunflora",
+      "roselia",
+      "cacnea",
+      "cacturne",
+      "lileep",
+      "cradily",
+      "roserade",
+      "carnivine",
+      "snover",
+      "abomasnow",
+      "tangrowth",
+      "maractus",
+      "foongus",
+      "amoonguss",
+      "ferroseed",
+      "ferrothorn",
+      "phantump",
+      "trevenant",
+      "fomantis",
+      "lurantis",
+      "morelull",
+      "shiinotic",
+      "xurkitree",
+      "celesteela",
+      "brute_bonnet",
+      "wo_chien"
+    ]
+  }
+]

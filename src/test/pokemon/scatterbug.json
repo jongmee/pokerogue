@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "scatterbug",
+    "gender": "",
+    "pokedexNumber": "664",
+    "name": "scatterbug",
+    "koName": "분이벌레",
+    "speciesName": "scatterbug",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "40",
+    "friendship": "70",
+    "types": [
+      "bug"
+    ],
+    "normalAbilityIds": [
+      "shield_dust",
+      "compound_eyes"
+    ],
+    "hiddenAbilityId": "friend_guard",
+    "passiveAbilityId": "prankster",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 200,
+    "hp": 38,
+    "attack": 35,
+    "defense": 40,
+    "specialAttack": 27,
+    "specialDefense": 25,
+    "speed": 35,
+    "height": 0.3,
+    "weight": 2.5,
+    "eggMoveIds": [
+      "focus_blast",
+      "after_you",
+      "decorate",
+      "blizzard"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "string_shot"
+      },
+      {
+        "level": 6,
+        "moveId": "stun_spore"
+      },
+      {
+        "level": 15,
+        "moveId": "bug_bite"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "bug_bite",
+      "struggle_bug",
+      "tera_blast",
+      "pounce"
+    ],
+    "biomeIds": [
+      "town"
+    ]
+  }
+]

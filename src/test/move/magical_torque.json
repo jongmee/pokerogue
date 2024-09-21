@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "magical_torque",
+    "name": "Magical Torque",
+    "koName": "매지컬액셀",
+    "type": "fairy",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 100,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "메르헨틱한 엔진으로 상대에게 부릉거린다. 상대를 혼란시킬 때가 있다.",
+    "effectChance": 30,
+    "prioirty": 0,
+    "generation": 9,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "marill",
+      "azumarill",
+      "dunsparce",
+      "azurill",
+      "mawile",
+      "mawile_mega",
+      "swirlix",
+      "slurpuff",
+      "diancie",
+      "diancie_mega",
+      "tapu_koko",
+      "tapu_bulu",
+      "zacian",
+      "tinkatink",
+      "tinkatuff",
+      "tinkaton",
+      "dudunsparce",
+      "iron_valiant",
+      "fezandipiti",
+      "galar_ponyta",
+      "galar_rapidash"
+    ]
+  }
+]

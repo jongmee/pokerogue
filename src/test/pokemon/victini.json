@@ -1,0 +1,201 @@
+[
+  {
+    "_id": "victini",
+    "gender": "",
+    "pokedexNumber": "494",
+    "name": "victini",
+    "koName": "비크티니",
+    "speciesName": "victini",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "300",
+    "friendship": "100",
+    "types": [
+      "psychic",
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "victory_star"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "sheer_force",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": true,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 600,
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "specialAttack": 100,
+    "specialDefense": 100,
+    "speed": 100,
+    "height": 0.4,
+    "weight": 4,
+    "eggMoveIds": [
+      "blue_flare",
+      "bolt_strike",
+      "luster_purge",
+      "victory_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 1,
+        "moveId": "flame_charge"
+      },
+      {
+        "level": 1,
+        "moveId": "v_create"
+      },
+      {
+        "level": 7,
+        "moveId": "work_up"
+      },
+      {
+        "level": 14,
+        "moveId": "incinerate"
+      },
+      {
+        "level": 21,
+        "moveId": "stored_power"
+      },
+      {
+        "level": 28,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 35,
+        "moveId": "endure"
+      },
+      {
+        "level": 42,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 49,
+        "moveId": "inferno"
+      },
+      {
+        "level": 56,
+        "moveId": "reversal"
+      },
+      {
+        "level": 63,
+        "moveId": "searing_shot"
+      },
+      {
+        "level": 70,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 77,
+        "moveId": "flare_blitz"
+      },
+      {
+        "level": 84,
+        "moveId": "overheat"
+      },
+      {
+        "level": 91,
+        "moveId": "final_gambit"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "thunder_punch",
+      "mega_kick",
+      "flamethrower",
+      "hyper_beam",
+      "solar_beam",
+      "fire_spin",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "focus_energy",
+      "fire_blast",
+      "swift",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "reversal",
+      "protect",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "baton_pass",
+      "encore",
+      "hidden_power",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "rock_smash",
+      "uproar",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "trick",
+      "brick_break",
+      "skill_swap",
+      "blaze_kick",
+      "overheat",
+      "signal_beam",
+      "bounce",
+      "u_turn",
+      "embargo",
+      "fling",
+      "power_swap",
+      "guard_swap",
+      "flare_blitz",
+      "focus_blast",
+      "energy_ball",
+      "giga_impact",
+      "zen_headbutt",
+      "trick_room",
+      "grass_knot",
+      "charge_beam",
+      "psyshock",
+      "flame_charge",
+      "round",
+      "stored_power",
+      "incinerate",
+      "work_up",
+      "wild_charge",
+      "confide",
+      "mystical_fire",
+      "dazzling_gleam",
+      "power_up_punch",
+      "speed_swap",
+      "expanding_force",
+      "scorching_sands",
+      "tera_blast"
+    ],
+    "biomeIds": []
+  }
+]

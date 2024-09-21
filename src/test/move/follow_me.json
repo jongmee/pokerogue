@@ -1,0 +1,33 @@
+[
+  {
+    "_id": "follow_me",
+    "name": "Follow Me",
+    "koName": "날따름",
+    "type": "normal",
+    "moveCategory": "status",
+    "moveTarget": "user",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 20,
+    "effect": "자신에게 주목시켜 상대로부터의 공격을 모두 자신에게 향하게 한다.",
+    "effectChance": -1,
+    "prioirty": 2,
+    "generation": 3,
+    "realased": "",
+    "flags": [
+      "ignore_protect"
+    ],
+    "pokemonIds": [
+      "clefairy",
+      "clefable",
+      "sentret",
+      "furret",
+      "togepi",
+      "togetic",
+      "togekiss",
+      "audino",
+      "audino_mega",
+      "oranguru"
+    ]
+  }
+]

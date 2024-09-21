@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "storm_drain",
+    "name": "Storm Drain",
+    "koName": "마중물",
+    "realased": "",
+    "description": "물타입의 기술을 자신에게 끌어모아 데미지는 받지 않고 특수공격이 올라간다.",
+    "generation": 4,
+    "pokemonIds": [
+      "corsola",
+      "lileep",
+      "cradily",
+      "finneon",
+      "lumineon",
+      "maractus",
+      "stunfisk",
+      "landorus_incarnate",
+      "landorus_therian"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

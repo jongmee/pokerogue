@@ -1,0 +1,174 @@
+[
+  {
+    "_id": "alola_raticate",
+    "gender": "",
+    "pokedexNumber": "2020",
+    "name": "alola_raticate",
+    "koName": "레트라",
+    "speciesName": "alola_raticate",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "145",
+    "friendship": "70",
+    "types": [
+      "dark",
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "gluttony",
+      "hustle"
+    ],
+    "hiddenAbilityId": "thick_fat",
+    "passiveAbilityId": "adaptability",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 413,
+    "hp": 75,
+    "attack": 71,
+    "defense": 70,
+    "specialAttack": 40,
+    "specialDefense": 80,
+    "speed": 77,
+    "height": 0.7,
+    "weight": 25.5,
+    "eggMoveIds": [
+      "false_surrender",
+      "psychic_fangs",
+      "coil",
+      "extreme_speed"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 1,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 10,
+        "moveId": "bite"
+      },
+      {
+        "level": 13,
+        "moveId": "pursuit"
+      },
+      {
+        "level": 16,
+        "moveId": "hyper_fang"
+      },
+      {
+        "level": 19,
+        "moveId": "assurance"
+      },
+      {
+        "level": 24,
+        "moveId": "crunch"
+      },
+      {
+        "level": 29,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 34,
+        "moveId": "super_fang"
+      },
+      {
+        "level": 39,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 44,
+        "moveId": "endeavor"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "double_edge",
+      "roar",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "strength",
+      "dig",
+      "toxic",
+      "double_team",
+      "focus_energy",
+      "rest",
+      "super_fang",
+      "substitute",
+      "thief",
+      "snore",
+      "reversal",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "icy_wind",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "shadow_ball",
+      "rock_smash",
+      "uproar",
+      "torment",
+      "facade",
+      "taunt",
+      "revenge",
+      "knock_off",
+      "endeavor",
+      "bulk_up",
+      "covet",
+      "pluck",
+      "u_turn",
+      "assurance",
+      "embargo",
+      "dark_pulse",
+      "giga_impact",
+      "shadow_claw",
+      "zen_headbutt",
+      "grass_knot",
+      "venoshock",
+      "sludge_wave",
+      "round",
+      "quash",
+      "snarl",
+      "confide",
+      "throat_chop",
+      "stomping_tantrum",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "island"
+    ]
+  }
+]

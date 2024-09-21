@@ -1,0 +1,127 @@
+[
+  {
+    "_id": "ogerpon_cornerstone_mask",
+    "gender": "",
+    "pokedexNumber": "1017",
+    "name": "ogerpon_cornerstone_mask",
+    "koName": "오거폰_cornerstone_mask",
+    "speciesName": "ogerpon",
+    "canChangeForm": true,
+    "formName": "cornerstone_mask",
+    "baseExp": "275",
+    "friendship": "50",
+    "types": [
+      "grass",
+      "rock"
+    ],
+    "normalAbilityIds": [
+      "sturdy"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "opportunist",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 550,
+    "hp": 80,
+    "attack": 120,
+    "defense": 84,
+    "specialAttack": 60,
+    "specialDefense": 96,
+    "speed": 110,
+    "height": 1.2,
+    "weight": 39.8,
+    "eggMoveIds": [
+      "flower_trick",
+      "bonemerang",
+      "triple_axel",
+      "gigaton_hammer"
+    ],
+    "levelMoves": [
+      {
+        "level": -1,
+        "moveId": "double_kick"
+      },
+      {
+        "level": -1,
+        "moveId": "counter"
+      },
+      {
+        "level": -1,
+        "moveId": "retaliate"
+      },
+      {
+        "level": -1,
+        "moveId": "horn_leech"
+      },
+      {
+        "level": 1,
+        "moveId": "vine_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "follow_me"
+      },
+      {
+        "level": 6,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 12,
+        "moveId": "growth"
+      },
+      {
+        "level": 18,
+        "moveId": "slam"
+      },
+      {
+        "level": 24,
+        "moveId": "low_sweep"
+      },
+      {
+        "level": 30,
+        "moveId": "ivy_cudgel"
+      },
+      {
+        "level": 36,
+        "moveId": "throat_chop"
+      },
+      {
+        "level": 42,
+        "moveId": "synthesis"
+      },
+      {
+        "level": 48,
+        "moveId": "spiky_shield"
+      },
+      {
+        "level": 54,
+        "moveId": "power_whip"
+      },
+      {
+        "level": 60,
+        "moveId": "superpower"
+      },
+      {
+        "level": 66,
+        "moveId": "wood_hammer"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "mountain"
+    ]
+  }
+]

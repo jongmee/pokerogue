@@ -1,0 +1,232 @@
+[
+  {
+    "_id": "blissey",
+    "gender": "",
+    "pokedexNumber": "242",
+    "name": "blissey",
+    "koName": "해피너스",
+    "speciesName": "blissey",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "635",
+    "friendship": "140",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "natural_cure",
+      "serene_grace"
+    ],
+    "hiddenAbilityId": "healer",
+    "passiveAbilityId": "fur_coat",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 540,
+    "hp": 255,
+    "attack": 10,
+    "defense": 10,
+    "specialAttack": 75,
+    "specialDefense": 135,
+    "speed": 55,
+    "height": 1.5,
+    "weight": 46.8,
+    "eggMoveIds": [
+      "cotton_guard",
+      "seismic_toss",
+      "sizzly_slide",
+      "revival_blessing"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": 1,
+        "moveId": "sweet_kiss"
+      },
+      {
+        "level": 1,
+        "moveId": "charm"
+      },
+      {
+        "level": 1,
+        "moveId": "covet"
+      },
+      {
+        "level": 1,
+        "moveId": "copycat"
+      },
+      {
+        "level": 1,
+        "moveId": "disarming_voice"
+      },
+      {
+        "level": 4,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 8,
+        "moveId": "echoed_voice"
+      },
+      {
+        "level": 12,
+        "moveId": "life_dew"
+      },
+      {
+        "level": 16,
+        "moveId": "sing"
+      },
+      {
+        "level": 20,
+        "moveId": "fling"
+      },
+      {
+        "level": 24,
+        "moveId": "take_down"
+      },
+      {
+        "level": 28,
+        "moveId": "heal_pulse"
+      },
+      {
+        "level": 32,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 36,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 40,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 44,
+        "moveId": "soft_boiled"
+      },
+      {
+        "level": 48,
+        "moveId": "last_resort"
+      },
+      {
+        "level": 52,
+        "moveId": "healing_wish"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "flamethrower",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "strength",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "earthquake",
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "metronome",
+      "fire_blast",
+      "swift",
+      "dream_eater",
+      "flash",
+      "rest",
+      "rock_slide",
+      "tri_attack",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "sandstorm",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "safeguard",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "rock_smash",
+      "uproar",
+      "hail",
+      "facade",
+      "focus_punch",
+      "helping_hand",
+      "trick",
+      "recycle",
+      "brick_break",
+      "endeavor",
+      "skill_swap",
+      "hyper_voice",
+      "rock_tomb",
+      "covet",
+      "calm_mind",
+      "water_pulse",
+      "gravity",
+      "fling",
+      "drain_punch",
+      "focus_blast",
+      "giga_impact",
+      "avalanche",
+      "zen_headbutt",
+      "rock_climb",
+      "stealth_rock",
+      "grass_knot",
+      "charge_beam",
+      "round",
+      "echoed_voice",
+      "stored_power",
+      "ally_switch",
+      "incinerate",
+      "retaliate",
+      "bulldoze",
+      "work_up",
+      "wild_charge",
+      "disarming_voice",
+      "confide",
+      "electric_terrain",
+      "dazzling_gleam",
+      "power_up_punch",
+      "stomping_tantrum",
+      "tera_blast",
+      "snowscape",
+      "trailblaze",
+      "chilling_water",
+      "alluring_voice"
+    ],
+    "biomeIds": [
+      "meadow"
+    ]
+  }
+]

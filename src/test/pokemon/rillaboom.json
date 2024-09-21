@@ -1,0 +1,189 @@
+[
+  {
+    "_id": "rillaboom",
+    "gender": "",
+    "pokedexNumber": "812",
+    "name": "rillaboom",
+    "koName": "고릴타",
+    "speciesName": "rillaboom",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "265",
+    "friendship": "50",
+    "types": [
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "overgrow"
+    ],
+    "hiddenAbilityId": "grassy_surge",
+    "passiveAbilityId": "grass_pelt",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 530,
+    "hp": 100,
+    "attack": 125,
+    "defense": 90,
+    "specialAttack": 60,
+    "specialDefense": 70,
+    "speed": 85,
+    "height": 2.1,
+    "weight": 90,
+    "eggMoveIds": [
+      "high_horsepower",
+      "clangorous_soul",
+      "grassy_glide",
+      "sappy_seed"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "drum_beating"
+      },
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "taunt"
+      },
+      {
+        "level": 1,
+        "moveId": "double_hit"
+      },
+      {
+        "level": 1,
+        "moveId": "noble_roar"
+      },
+      {
+        "level": 1,
+        "moveId": "grassy_terrain"
+      },
+      {
+        "level": 1,
+        "moveId": "branch_poke"
+      },
+      {
+        "level": 12,
+        "moveId": "razor_leaf"
+      },
+      {
+        "level": 19,
+        "moveId": "screech"
+      },
+      {
+        "level": 24,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 30,
+        "moveId": "slam"
+      },
+      {
+        "level": 38,
+        "moveId": "uproar"
+      },
+      {
+        "level": 46,
+        "moveId": "wood_hammer"
+      },
+      {
+        "level": 54,
+        "moveId": "endeavor"
+      },
+      {
+        "level": 62,
+        "moveId": "boomburst"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "swords_dance",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "low_kick",
+      "strength",
+      "solar_beam",
+      "earthquake",
+      "screech",
+      "double_team",
+      "focus_energy",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "scary_face",
+      "giga_drain",
+      "endure",
+      "false_swipe",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "sunny_day",
+      "uproar",
+      "facade",
+      "focus_punch",
+      "nature_power",
+      "taunt",
+      "superpower",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "hyper_voice",
+      "bullet_seed",
+      "frenzy_plant",
+      "bulk_up",
+      "mud_shot",
+      "magical_leaf",
+      "u_turn",
+      "assurance",
+      "fling",
+      "worry_seed",
+      "seed_bomb",
+      "drain_punch",
+      "focus_blast",
+      "energy_ball",
+      "earth_power",
+      "giga_impact",
+      "leaf_storm",
+      "grass_knot",
+      "low_sweep",
+      "round",
+      "acrobatics",
+      "grass_pledge",
+      "bulldoze",
+      "work_up",
+      "snarl",
+      "grassy_terrain",
+      "darkest_lariat",
+      "high_horsepower",
+      "solar_blade",
+      "brutal_swing",
+      "stomping_tantrum",
+      "body_press",
+      "grassy_glide",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "jungle"
+    ]
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "_id": "roselia",
+    "gender": "",
+    "pokedexNumber": "315",
+    "name": "roselia",
+    "koName": "로젤리아",
+    "speciesName": "roselia",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "140",
+    "friendship": "50",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "normalAbilityIds": [
+      "natural_cure",
+      "poison_point"
+    ],
+    "hiddenAbilityId": "leaf_guard",
+    "passiveAbilityId": "grassy_surge",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 400,
+    "hp": 50,
+    "attack": 60,
+    "defense": 45,
+    "specialAttack": 100,
+    "specialDefense": 80,
+    "speed": 65,
+    "height": 0.3,
+    "weight": 2,
+    "eggMoveIds": [
+      "fiery_dance",
+      "acid_spray",
+      "bouncy_bubble",
+      "quiver_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "poison_sting"
+      },
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 1,
+        "moveId": "growth"
+      },
+      {
+        "level": 1,
+        "moveId": "stun_spore"
+      },
+      {
+        "level": 1,
+        "moveId": "worry_seed"
+      },
+      {
+        "level": 5,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 10,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 15,
+        "moveId": "magical_leaf"
+      },
+      {
+        "level": 20,
+        "moveId": "toxic_spikes"
+      },
+      {
+        "level": 25,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 30,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 35,
+        "moveId": "synthesis"
+      },
+      {
+        "level": 40,
+        "moveId": "toxic"
+      },
+      {
+        "level": 45,
+        "moveId": "petal_blizzard"
+      },
+      {
+        "level": 50,
+        "moveId": "aromatherapy"
+      },
+      {
+        "level": 55,
+        "moveId": "ingrain"
+      },
+      {
+        "level": 60,
+        "moveId": "petal_dance"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "body_slam",
+      "pin_missile",
+      "solar_beam",
+      "toxic",
+      "double_team",
+      "swift",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "sludge_bomb",
+      "mud_slap",
+      "spikes",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "synthesis",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "uproar",
+      "facade",
+      "nature_power",
+      "weather_ball",
+      "bullet_seed",
+      "covet",
+      "magical_leaf",
+      "worry_seed",
+      "toxic_spikes",
+      "poison_jab",
+      "seed_bomb",
+      "energy_ball",
+      "leaf_storm",
+      "power_whip",
+      "grass_knot",
+      "venoshock",
+      "round",
+      "petal_blizzard",
+      "confide",
+      "dazzling_gleam",
+      "grassy_glide",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "forest",
+      "meadow"
+    ]
+  }
+]

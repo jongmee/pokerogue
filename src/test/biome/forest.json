@@ -1,0 +1,212 @@
+[
+  {
+    "_id": "forest",
+    "name": "Forest",
+    "koName": "숲",
+    "types": [
+      "bug"
+    ],
+    "nextBiomes": [
+      {
+        "name": "jungle",
+        "percentage": 50
+      },
+      {
+        "name": "meadow",
+        "percentage": 50
+      }
+    ],
+    "nativePokemons": [
+      {
+        "tier": "보통",
+        "pokemonIds": [
+          "butterfree",
+          "bellsprout",
+          "weepinbell",
+          "combee",
+          "vespiquen",
+          "petilil",
+          "deerling",
+          "sawsbuck",
+          "vivillon",
+          "beautifly",
+          "beedrill",
+          "pineco",
+          "forretress",
+          "seedot",
+          "nuzleaf",
+          "shroomish",
+          "breloom",
+          "venipede",
+          "whirlipede",
+          "scolipede",
+          "venonat",
+          "venomoth",
+          "spinarak",
+          "ariados",
+          "dustox",
+          "tarountula",
+          "spidops",
+          "nymble",
+          "lokix",
+          "shroodle",
+          "grafaiai"
+        ]
+      },
+      {
+        "tier": "드묾",
+        "pokemonIds": [
+          "roselia",
+          "mothim",
+          "sewaddle",
+          "swadloon",
+          "leavanny",
+          "spinarak",
+          "ariados",
+          "dottler",
+          "orbeetle",
+          "hoothoot",
+          "noctowl",
+          "rockruff",
+          "lycanroc",
+          "ekans",
+          "arbok",
+          "teddiursa",
+          "ursaring",
+          "burmy",
+          "wormadam",
+          "pansage",
+          "simisage"
+        ]
+      },
+      {
+        "tier": "레어",
+        "pokemonIds": [
+          "exeggcute",
+          "stantler",
+          "scyther",
+          "heracross",
+          "treecko",
+          "grovyle",
+          "sceptile",
+          "tropius",
+          "karrablast",
+          "shelmet",
+          "chespin",
+          "quilladin",
+          "chesnaught",
+          "rowlet",
+          "dartrix",
+          "decidueye",
+          "squawkabilly",
+          "toedscool",
+          "toedscruel"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어",
+        "pokemonIds": [
+          "bloodmoon_ursaluna",
+          "durant"
+        ]
+      },
+      {
+        "tier": "울트라 레어",
+        "pokemonIds": [
+          "kartana",
+          "wo_chien"
+        ]
+      },
+      {
+        "tier": "보스",
+        "pokemonIds": [
+          "victreebel",
+          "mothim",
+          "vespiquen",
+          "lilligant",
+          "sawsbuck",
+          "beautifly",
+          "ariados",
+          "forretress",
+          "shiftry",
+          "breloom",
+          "scolipede",
+          "orbeetle",
+          "venomoth",
+          "noctowl",
+          "dustox",
+          "wormadam",
+          "simisage",
+          "spidops",
+          "lokix",
+          "grafaiai"
+        ]
+      },
+      {
+        "tier": "레어 보스",
+        "pokemonIds": [
+          "stantler",
+          "lycanroc",
+          "bloodmoon_ursaluna",
+          "heracross",
+          "sceptile",
+          "escavalier",
+          "accelgor",
+          "durant",
+          "chesnaught",
+          "decidueye",
+          "toedscruel"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어 보스",
+        "pokemonIds": [
+          "kartana",
+          "wo_chien"
+        ]
+      },
+      {
+        "tier": "슈퍼 울트라 레어 보스",
+        "pokemonIds": [
+          "calyrex"
+        ]
+      }
+    ],
+    "trainers": [
+      {
+        "name": "호일",
+        "types": [
+          "bug"
+        ],
+        "pokemonIds": [
+          "scyther",
+          "heracross",
+          "shuckle",
+          "pinsir"
+        ]
+      },
+      {
+        "name": "아티",
+        "types": [
+          "bug"
+        ],
+        "pokemonIds": [
+          "sewaddle",
+          "shelmet",
+          "karrablast"
+        ]
+      },
+      {
+        "name": "단풍",
+        "types": [
+          "bug"
+        ],
+        "pokemonIds": [
+          "nymble",
+          "tarountula",
+          "heracross"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "_id": "misty_explosion",
+    "name": "Misty Explosion",
+    "koName": "미스트버스트",
+    "type": "fairy",
+    "moveCategory": "special",
+    "moveTarget": "all_near_others",
+    "power": 100,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "자신의 주위에 있는 모두를 공격하지만 사용하면 기절한다. 미스트필드일 때 위력이 올라간다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "clefairy",
+      "clefable",
+      "jigglypuff",
+      "wigglytuff",
+      "mew",
+      "marill",
+      "azumarill",
+      "gardevoir",
+      "musharna",
+      "florges",
+      "spritzee",
+      "aromatisse",
+      "swirlix",
+      "slurpuff",
+      "sylveon",
+      "carbink",
+      "xerneas",
+      "diancie",
+      "primarina",
+      "magearna",
+      "hatterene",
+      "alcremie",
+      "enamorus",
+      "scream_tail",
+      "galar_weezing"
+    ]
+  }
+]

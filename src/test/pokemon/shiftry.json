@@ -1,0 +1,249 @@
+[
+  {
+    "_id": "shiftry",
+    "gender": "",
+    "pokedexNumber": "275",
+    "name": "shiftry",
+    "koName": "다탱구",
+    "speciesName": "shiftry",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "240",
+    "friendship": "50",
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "normalAbilityIds": [
+      "chlorophyll",
+      "wind_rider"
+    ],
+    "hiddenAbilityId": "pickpocket",
+    "passiveAbilityId": "sharpness",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 480,
+    "hp": 90,
+    "attack": 100,
+    "defense": 60,
+    "specialAttack": 90,
+    "specialDefense": 60,
+    "speed": 80,
+    "height": 1.3,
+    "weight": 59.6,
+    "eggMoveIds": [
+      "swords_dance",
+      "sacred_sword",
+      "kowtow_cleave",
+      "bitter_blade"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "leaf_blade"
+      },
+      {
+        "level": -1,
+        "moveId": "whirlwind"
+      },
+      {
+        "level": -1,
+        "moveId": "tackle"
+      },
+      {
+        "level": -1,
+        "moveId": "absorb"
+      },
+      {
+        "level": -1,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": -1,
+        "moveId": "growth"
+      },
+      {
+        "level": -1,
+        "moveId": "razor_leaf"
+      },
+      {
+        "level": -1,
+        "moveId": "harden"
+      },
+      {
+        "level": -1,
+        "moveId": "explosion"
+      },
+      {
+        "level": -1,
+        "moveId": "rollout"
+      },
+      {
+        "level": -1,
+        "moveId": "swagger"
+      },
+      {
+        "level": -1,
+        "moveId": "synthesis"
+      },
+      {
+        "level": -1,
+        "moveId": "beat_up"
+      },
+      {
+        "level": -1,
+        "moveId": "fake_out"
+      },
+      {
+        "level": -1,
+        "moveId": "torment"
+      },
+      {
+        "level": -1,
+        "moveId": "astonish"
+      },
+      {
+        "level": -1,
+        "moveId": "extrasensory"
+      },
+      {
+        "level": -1,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 1,
+        "moveId": "air_cutter"
+      },
+      {
+        "level": 1,
+        "moveId": "hurricane"
+      },
+      {
+        "level": 1,
+        "moveId": "payback"
+      },
+      {
+        "level": 1,
+        "moveId": "sunny_day"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "low_kick",
+      "strength",
+      "solar_beam",
+      "dig",
+      "toxic",
+      "screech",
+      "double_team",
+      "confuse_ray",
+      "self_destruct",
+      "swift",
+      "amnesia",
+      "flash",
+      "explosion",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "reversal",
+      "spite",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "icy_wind",
+      "giga_drain",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "synthesis",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "rock_smash",
+      "beat_up",
+      "uproar",
+      "heat_wave",
+      "torment",
+      "will_o_wisp",
+      "facade",
+      "nature_power",
+      "taunt",
+      "revenge",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "imprison",
+      "weather_ball",
+      "air_cutter",
+      "rock_tomb",
+      "bullet_seed",
+      "aerial_ace",
+      "bounce",
+      "magical_leaf",
+      "leaf_blade",
+      "tailwind",
+      "payback",
+      "assurance",
+      "embargo",
+      "fling",
+      "power_swap",
+      "worry_seed",
+      "toxic_spikes",
+      "dark_pulse",
+      "seed_bomb",
+      "air_slash",
+      "x_scissor",
+      "vacuum_wave",
+      "focus_blast",
+      "energy_ball",
+      "giga_impact",
+      "nasty_plot",
+      "defog",
+      "leaf_storm",
+      "grass_knot",
+      "low_sweep",
+      "foul_play",
+      "round",
+      "hex",
+      "retaliate",
+      "hurricane",
+      "snarl",
+      "petal_blizzard",
+      "grassy_terrain",
+      "confide",
+      "power_up_punch",
+      "solar_blade",
+      "throat_chop",
+      "brutal_swing",
+      "grassy_glide",
+      "lash_out",
+      "tera_blast",
+      "trailblaze",
+      "chilling_water",
+      "upper_hand"
+    ],
+    "biomeIds": [
+      "forest"
+    ]
+  }
+]

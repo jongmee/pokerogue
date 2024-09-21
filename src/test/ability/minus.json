@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "minus",
+    "name": "Minus",
+    "koName": "마이너스",
+    "realased": "",
+    "description": "플러스나 마이너스의 특성을 가진 포켓몬이 동료에 있으면 자신의 특수공격이 올라간다.",
+    "generation": 3,
+    "pokemonIds": [
+      "electrike",
+      "manectric",
+      "minun",
+      "klink",
+      "klang",
+      "klinklang",
+      "toxtricity_lowkey"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

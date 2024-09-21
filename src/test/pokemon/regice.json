@@ -1,0 +1,177 @@
+[
+  {
+    "_id": "regice",
+    "gender": "",
+    "pokedexNumber": "378",
+    "name": "regice",
+    "koName": "레지아이스",
+    "speciesName": "regice",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "290",
+    "friendship": "35",
+    "types": [
+      "ice"
+    ],
+    "normalAbilityIds": [
+      "clear_body"
+    ],
+    "hiddenAbilityId": "ice_body",
+    "passiveAbilityId": "snow_warning",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 580,
+    "hp": 80,
+    "attack": 50,
+    "defense": 100,
+    "specialAttack": 100,
+    "specialDefense": 200,
+    "speed": 50,
+    "height": 1.8,
+    "weight": 175,
+    "eggMoveIds": [
+      "earth_power",
+      "take_heart",
+      "recover",
+      "freeze_dry"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "charge_beam"
+      },
+      {
+        "level": 1,
+        "moveId": "icy_wind"
+      },
+      {
+        "level": 6,
+        "moveId": "bulldoze"
+      },
+      {
+        "level": 12,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 18,
+        "moveId": "stomp"
+      },
+      {
+        "level": 24,
+        "moveId": "ice_beam"
+      },
+      {
+        "level": 30,
+        "moveId": "curse"
+      },
+      {
+        "level": 36,
+        "moveId": "amnesia"
+      },
+      {
+        "level": 42,
+        "moveId": "hammer_arm"
+      },
+      {
+        "level": 48,
+        "moveId": "blizzard"
+      },
+      {
+        "level": 54,
+        "moveId": "superpower"
+      },
+      {
+        "level": 60,
+        "moveId": "lock_on"
+      },
+      {
+        "level": 66,
+        "moveId": "zap_cannon"
+      },
+      {
+        "level": 72,
+        "moveId": "hyper_beam"
+      },
+      {
+        "level": 78,
+        "moveId": "explosion"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "ice_punch",
+      "thunder_punch",
+      "mega_kick",
+      "body_slam",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "counter",
+      "strength",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "earthquake",
+      "toxic",
+      "double_team",
+      "self_destruct",
+      "amnesia",
+      "explosion",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "rain_dance",
+      "psych_up",
+      "rock_smash",
+      "hail",
+      "facade",
+      "focus_punch",
+      "superpower",
+      "brick_break",
+      "rock_tomb",
+      "signal_beam",
+      "icicle_spear",
+      "gravity",
+      "fling",
+      "rock_polish",
+      "focus_blast",
+      "giga_impact",
+      "avalanche",
+      "flash_cannon",
+      "rock_climb",
+      "iron_head",
+      "charge_beam",
+      "heavy_slam",
+      "round",
+      "bulldoze",
+      "frost_breath",
+      "confide",
+      "power_up_punch",
+      "aurora_veil",
+      "stomping_tantrum",
+      "tera_blast",
+      "ice_spinner",
+      "snowscape"
+    ],
+    "biomeIds": [
+      "ice_cave"
+    ]
+  }
+]

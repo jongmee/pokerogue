@@ -1,0 +1,159 @@
+[
+  {
+    "_id": "seaking",
+    "gender": "",
+    "pokedexNumber": "119",
+    "name": "seaking",
+    "koName": "왕콘치",
+    "speciesName": "seaking",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "158",
+    "friendship": "50",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "swift_swim",
+      "water_veil"
+    ],
+    "hiddenAbilityId": "lightning_rod",
+    "passiveAbilityId": "multiscale",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 450,
+    "hp": 80,
+    "attack": 92,
+    "defense": 65,
+    "specialAttack": 65,
+    "specialDefense": 80,
+    "speed": 68,
+    "height": 1.3,
+    "weight": 39,
+    "eggMoveIds": [
+      "drill_run",
+      "flip_turn",
+      "dragon_dance",
+      "fishious_rend"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "supersonic"
+      },
+      {
+        "level": 1,
+        "moveId": "water_sport"
+      },
+      {
+        "level": 1,
+        "moveId": "peck"
+      },
+      {
+        "level": 1,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 15,
+        "moveId": "horn_attack"
+      },
+      {
+        "level": 20,
+        "moveId": "agility"
+      },
+      {
+        "level": 25,
+        "moveId": "aqua_ring"
+      },
+      {
+        "level": 30,
+        "moveId": "flail"
+      },
+      {
+        "level": 37,
+        "moveId": "waterfall"
+      },
+      {
+        "level": 44,
+        "moveId": "soak"
+      },
+      {
+        "level": 51,
+        "moveId": "megahorn"
+      },
+      {
+        "level": 58,
+        "moveId": "horn_drill"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "psybeam",
+      "hyper_beam",
+      "toxic",
+      "agility",
+      "double_team",
+      "haze",
+      "waterfall",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "megahorn",
+      "hidden_power",
+      "rain_dance",
+      "whirlpool",
+      "hail",
+      "facade",
+      "knock_off",
+      "dive",
+      "signal_beam",
+      "muddy_water",
+      "bounce",
+      "mud_shot",
+      "water_pulse",
+      "poison_jab",
+      "aqua_tail",
+      "giga_impact",
+      "round",
+      "scald",
+      "drill_run",
+      "confide",
+      "throat_chop",
+      "smart_strike",
+      "scale_shot",
+      "flip_turn",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "lake",
+      "sea"
+    ]
+  }
+]

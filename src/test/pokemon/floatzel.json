@@ -1,0 +1,187 @@
+[
+  {
+    "_id": "floatzel",
+    "gender": "",
+    "pokedexNumber": "419",
+    "name": "floatzel",
+    "koName": "플로젤",
+    "speciesName": "floatzel",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "173",
+    "friendship": "70",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "swift_swim"
+    ],
+    "hiddenAbilityId": "water_veil",
+    "passiveAbilityId": "moxie",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 495,
+    "hp": 85,
+    "attack": 105,
+    "defense": 55,
+    "specialAttack": 85,
+    "specialDefense": 50,
+    "speed": 115,
+    "height": 1.1,
+    "weight": 33.5,
+    "eggMoveIds": [
+      "jet_punch",
+      "triple_axel",
+      "supercell_slam",
+      "surging_strikes"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "crunch"
+      },
+      {
+        "level": 1,
+        "moveId": "ice_fang"
+      },
+      {
+        "level": 1,
+        "moveId": "soak"
+      },
+      {
+        "level": 15,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 18,
+        "moveId": "bite"
+      },
+      {
+        "level": 21,
+        "moveId": "swift"
+      },
+      {
+        "level": 24,
+        "moveId": "aqua_jet"
+      },
+      {
+        "level": 29,
+        "moveId": "double_hit"
+      },
+      {
+        "level": 35,
+        "moveId": "whirlpool"
+      },
+      {
+        "level": 41,
+        "moveId": "liquidation"
+      },
+      {
+        "level": 46,
+        "moveId": "aqua_tail"
+      },
+      {
+        "level": 51,
+        "moveId": "agility"
+      },
+      {
+        "level": 57,
+        "moveId": "hydro_pump"
+      },
+      {
+        "level": 62,
+        "moveId": "wave_crash"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "ice_punch",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "low_kick",
+      "strength",
+      "dig",
+      "toxic",
+      "agility",
+      "double_team",
+      "metronome",
+      "waterfall",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "crunch",
+      "rock_smash",
+      "whirlpool",
+      "hail",
+      "torment",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "brick_break",
+      "dive",
+      "rock_tomb",
+      "muddy_water",
+      "bulk_up",
+      "water_pulse",
+      "brine",
+      "payback",
+      "fling",
+      "aqua_tail",
+      "focus_blast",
+      "giga_impact",
+      "ice_fang",
+      "low_sweep",
+      "round",
+      "echoed_voice",
+      "scald",
+      "tail_slap",
+      "snarl",
+      "confide",
+      "power_up_punch",
+      "liquidation",
+      "flip_turn",
+      "tera_blast",
+      "ice_spinner",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "sea"
+    ]
+  }
+]

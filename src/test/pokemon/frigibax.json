@@ -1,0 +1,137 @@
+[
+  {
+    "_id": "frigibax",
+    "gender": "",
+    "pokedexNumber": "996",
+    "name": "frigibax",
+    "koName": "드니차",
+    "speciesName": "frigibax",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "64",
+    "friendship": "50",
+    "types": [
+      "dragon",
+      "ice"
+    ],
+    "normalAbilityIds": [
+      "thermal_exchange"
+    ],
+    "hiddenAbilityId": "ice_body",
+    "passiveAbilityId": "snow_warning",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 320,
+    "hp": 65,
+    "attack": 75,
+    "defense": 45,
+    "specialAttack": 35,
+    "specialDefense": 45,
+    "speed": 55,
+    "height": 0.5,
+    "weight": 17,
+    "eggMoveIds": [
+      "dragon_darts",
+      "dragon_dance",
+      "earthquake",
+      "glacial_lance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "dragon_tail"
+      },
+      {
+        "level": 6,
+        "moveId": "icy_wind"
+      },
+      {
+        "level": 12,
+        "moveId": "dragon_breath"
+      },
+      {
+        "level": 18,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 24,
+        "moveId": "bite"
+      },
+      {
+        "level": 29,
+        "moveId": "ice_fang"
+      },
+      {
+        "level": 32,
+        "moveId": "dragon_claw"
+      },
+      {
+        "level": 36,
+        "moveId": "take_down"
+      },
+      {
+        "level": 40,
+        "moveId": "ice_beam"
+      },
+      {
+        "level": 44,
+        "moveId": "crunch"
+      },
+      {
+        "level": 48,
+        "moveId": "icicle_crash"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "body_slam",
+      "take_down",
+      "ice_beam",
+      "blizzard",
+      "dig",
+      "double_team",
+      "focus_energy",
+      "rest",
+      "substitute",
+      "protect",
+      "icy_wind",
+      "outrage",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "crunch",
+      "facade",
+      "helping_hand",
+      "icicle_spear",
+      "dragon_claw",
+      "aqua_tail",
+      "dragon_pulse",
+      "avalanche",
+      "ice_fang",
+      "draco_meteor",
+      "dragon_tail",
+      "tera_blast",
+      "snowscape"
+    ],
+    "biomeIds": [
+      "wasteland"
+    ]
+  }
+]

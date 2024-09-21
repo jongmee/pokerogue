@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "aura_break",
+    "name": "Aura Break",
+    "koName": "오라브레이크",
+    "realased": "",
+    "description": "오라의 효과를 역전시켜 위력을 떨어뜨린다.",
+    "generation": 6,
+    "pokemonIds": [
+      "zygarde"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

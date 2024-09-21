@@ -1,0 +1,189 @@
+[
+  {
+    "_id": "avalugg",
+    "gender": "",
+    "pokedexNumber": "713",
+    "name": "avalugg",
+    "koName": "크레베이스",
+    "speciesName": "avalugg",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "180",
+    "friendship": "50",
+    "types": [
+      "ice"
+    ],
+    "normalAbilityIds": [
+      "own_tempo",
+      "ice_body"
+    ],
+    "hiddenAbilityId": "sturdy",
+    "passiveAbilityId": "ice_scales",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 514,
+    "hp": 95,
+    "attack": 117,
+    "defense": 184,
+    "specialAttack": 44,
+    "specialDefense": 46,
+    "speed": 28,
+    "height": 2,
+    "weight": 505,
+    "eggMoveIds": [
+      "stone_axe",
+      "metal_burst",
+      "body_press",
+      "glacial_lance"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "body_slam"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "harden"
+      },
+      {
+        "level": 1,
+        "moveId": "powder_snow"
+      },
+      {
+        "level": 1,
+        "moveId": "rapid_spin"
+      },
+      {
+        "level": 1,
+        "moveId": "wide_guard"
+      },
+      {
+        "level": 9,
+        "moveId": "curse"
+      },
+      {
+        "level": 12,
+        "moveId": "icy_wind"
+      },
+      {
+        "level": 15,
+        "moveId": "protect"
+      },
+      {
+        "level": 18,
+        "moveId": "avalanche"
+      },
+      {
+        "level": 21,
+        "moveId": "bite"
+      },
+      {
+        "level": 24,
+        "moveId": "ice_fang"
+      },
+      {
+        "level": 27,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 30,
+        "moveId": "recover"
+      },
+      {
+        "level": 33,
+        "moveId": "crunch"
+      },
+      {
+        "level": 36,
+        "moveId": "take_down"
+      },
+      {
+        "level": 41,
+        "moveId": "blizzard"
+      },
+      {
+        "level": 46,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 51,
+        "moveId": "icicle_crash"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "strength",
+      "earthquake",
+      "toxic",
+      "double_team",
+      "flash",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "scary_face",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "rain_dance",
+      "crunch",
+      "rock_smash",
+      "hail",
+      "facade",
+      "superpower",
+      "rock_tomb",
+      "icicle_spear",
+      "iron_defense",
+      "water_pulse",
+      "gyro_ball",
+      "rock_polish",
+      "giga_impact",
+      "avalanche",
+      "ice_fang",
+      "flash_cannon",
+      "iron_head",
+      "stone_edge",
+      "heavy_slam",
+      "round",
+      "bulldoze",
+      "frost_breath",
+      "confide",
+      "high_horsepower",
+      "aurora_veil",
+      "stomping_tantrum",
+      "body_press",
+      "tera_blast",
+      "ice_spinner",
+      "snowscape",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "ice_cave"
+    ]
+  }
+]

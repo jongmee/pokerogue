@@ -1,0 +1,190 @@
+[
+  {
+    "_id": "lickitung",
+    "gender": "",
+    "pokedexNumber": "108",
+    "name": "lickitung",
+    "koName": "내루미",
+    "speciesName": "lickitung",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "77",
+    "friendship": "50",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "own_tempo",
+      "oblivious"
+    ],
+    "hiddenAbilityId": "cloud_nine",
+    "passiveAbilityId": "thick_fat",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 385,
+    "hp": 90,
+    "attack": 55,
+    "defense": 75,
+    "specialAttack": 60,
+    "specialDefense": 75,
+    "speed": 30,
+    "height": 1.2,
+    "weight": 65.5,
+    "eggMoveIds": [
+      "body_slam",
+      "fire_lash",
+      "grav_apple",
+      "milk_drink"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": 1,
+        "moveId": "lick"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 6,
+        "moveId": "rest"
+      },
+      {
+        "level": 12,
+        "moveId": "supersonic"
+      },
+      {
+        "level": 18,
+        "moveId": "wrap"
+      },
+      {
+        "level": 24,
+        "moveId": "disable"
+      },
+      {
+        "level": 30,
+        "moveId": "stomp"
+      },
+      {
+        "level": 32,
+        "moveId": "rollout"
+      },
+      {
+        "level": 36,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 42,
+        "moveId": "screech"
+      },
+      {
+        "level": 48,
+        "moveId": "slam"
+      },
+      {
+        "level": 54,
+        "moveId": "power_whip"
+      },
+      {
+        "level": 60,
+        "moveId": "belly_drum"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "swords_dance",
+      "cut",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "flamethrower",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "counter",
+      "strength",
+      "solar_beam",
+      "thunderbolt",
+      "thunder",
+      "earthquake",
+      "dig",
+      "toxic",
+      "screech",
+      "double_team",
+      "fire_blast",
+      "amnesia",
+      "dream_eater",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "rock_smash",
+      "whirlpool",
+      "facade",
+      "focus_punch",
+      "helping_hand",
+      "brick_break",
+      "knock_off",
+      "rock_tomb",
+      "muddy_water",
+      "water_pulse",
+      "fling",
+      "aqua_tail",
+      "giga_impact",
+      "zen_headbutt",
+      "rock_climb",
+      "power_whip",
+      "round",
+      "incinerate",
+      "retaliate",
+      "bulldoze",
+      "dragon_tail",
+      "work_up",
+      "confide",
+      "power_up_punch",
+      "brutal_swing",
+      "stomping_tantrum",
+      "body_press",
+      "steel_roller",
+      "terrain_pulse",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "plains"
+    ]
+  }
+]

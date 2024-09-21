@@ -1,0 +1,181 @@
+[
+  {
+    "_id": "zygarde",
+    "gender": "",
+    "pokedexNumber": "718",
+    "name": "zygarde",
+    "koName": "지가르데",
+    "speciesName": "zygarde",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "300",
+    "friendship": "0",
+    "types": [
+      "dragon",
+      "ground"
+    ],
+    "normalAbilityIds": [
+      "aura_break"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "huge_power",
+    "generation": 6,
+    "legendary": true,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 600,
+    "hp": 108,
+    "attack": 100,
+    "defense": 121,
+    "specialAttack": 81,
+    "specialDefense": 95,
+    "speed": 95,
+    "height": 5,
+    "weight": 305,
+    "eggMoveIds": [
+      "dragon_darts",
+      "heal_order",
+      "clangorous_soul",
+      "double_iron_bash"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "bind"
+      },
+      {
+        "level": 1,
+        "moveId": "bite"
+      },
+      {
+        "level": 1,
+        "moveId": "dragon_breath"
+      },
+      {
+        "level": 1,
+        "moveId": "bulldoze"
+      },
+      {
+        "level": 1,
+        "moveId": "thousand_arrows"
+      },
+      {
+        "level": 1,
+        "moveId": "thousand_waves"
+      },
+      {
+        "level": 1,
+        "moveId": "core_enforcer"
+      },
+      {
+        "level": 8,
+        "moveId": "haze"
+      },
+      {
+        "level": 16,
+        "moveId": "dig"
+      },
+      {
+        "level": 24,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 32,
+        "moveId": "crunch"
+      },
+      {
+        "level": 40,
+        "moveId": "dragon_pulse"
+      },
+      {
+        "level": 48,
+        "moveId": "lands_wrath"
+      },
+      {
+        "level": 56,
+        "moveId": "glare"
+      },
+      {
+        "level": 64,
+        "moveId": "sandstorm"
+      },
+      {
+        "level": 72,
+        "moveId": "coil"
+      },
+      {
+        "level": 80,
+        "moveId": "earthquake"
+      },
+      {
+        "level": 88,
+        "moveId": "outrage"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "hyper_beam",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "double_team",
+      "haze",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "reversal",
+      "spite",
+      "protect",
+      "outrage",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "pain_split",
+      "iron_tail",
+      "hidden_power",
+      "sunny_day",
+      "crunch",
+      "rock_smash",
+      "facade",
+      "superpower",
+      "brick_break",
+      "hyper_voice",
+      "dragon_dance",
+      "payback",
+      "dragon_pulse",
+      "focus_blast",
+      "earth_power",
+      "giga_impact",
+      "zen_headbutt",
+      "draco_meteor",
+      "stone_edge",
+      "grass_knot",
+      "sludge_wave",
+      "round",
+      "retaliate",
+      "bulldoze",
+      "dragon_tail",
+      "confide",
+      "high_horsepower",
+      "stomping_tantrum",
+      "breaking_swipe",
+      "scale_shot",
+      "skitter_smack",
+      "scorching_sands",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "laboratory"
+    ]
+  }
+]

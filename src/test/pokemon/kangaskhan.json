@@ -1,0 +1,202 @@
+[
+  {
+    "_id": "kangaskhan",
+    "gender": "",
+    "pokedexNumber": "115",
+    "name": "kangaskhan",
+    "koName": "캥카",
+    "speciesName": "kangaskhan",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "172",
+    "friendship": "50",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "early_bird",
+      "scrappy"
+    ],
+    "hiddenAbilityId": "inner_focus",
+    "passiveAbilityId": "guts",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 490,
+    "hp": 105,
+    "attack": 95,
+    "defense": 80,
+    "specialAttack": 40,
+    "specialDefense": 80,
+    "speed": 90,
+    "height": 2.2,
+    "weight": 80,
+    "eggMoveIds": [
+      "power_up_punch",
+      "trailblaze",
+      "facade",
+      "seismic_toss"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "comet_punch"
+      },
+      {
+        "level": 4,
+        "moveId": "growl"
+      },
+      {
+        "level": 8,
+        "moveId": "fake_out"
+      },
+      {
+        "level": 12,
+        "moveId": "bite"
+      },
+      {
+        "level": 16,
+        "moveId": "stomp"
+      },
+      {
+        "level": 20,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 24,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 28,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 32,
+        "moveId": "double_hit"
+      },
+      {
+        "level": 36,
+        "moveId": "crunch"
+      },
+      {
+        "level": 40,
+        "moveId": "endure"
+      },
+      {
+        "level": 44,
+        "moveId": "reversal"
+      },
+      {
+        "level": 48,
+        "moveId": "outrage"
+      },
+      {
+        "level": 52,
+        "moveId": "last_resort"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "cut",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "low_kick",
+      "counter",
+      "strength",
+      "solar_beam",
+      "thunderbolt",
+      "thunder",
+      "earthquake",
+      "dig",
+      "toxic",
+      "double_team",
+      "focus_energy",
+      "fire_blast",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "reversal",
+      "spite",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "outrage",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "shadow_ball",
+      "rock_smash",
+      "whirlpool",
+      "beat_up",
+      "uproar",
+      "hail",
+      "facade",
+      "focus_punch",
+      "helping_hand",
+      "brick_break",
+      "endeavor",
+      "rock_tomb",
+      "aerial_ace",
+      "covet",
+      "water_pulse",
+      "assurance",
+      "fling",
+      "aqua_tail",
+      "drain_punch",
+      "focus_blast",
+      "giga_impact",
+      "avalanche",
+      "shadow_claw",
+      "rock_climb",
+      "round",
+      "incinerate",
+      "retaliate",
+      "bulldoze",
+      "work_up",
+      "confide",
+      "power_up_punch",
+      "terrain_pulse",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "jungle"
+    ]
+  }
+]

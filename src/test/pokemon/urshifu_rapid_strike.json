@@ -1,0 +1,119 @@
+[
+  {
+    "_id": "urshifu_rapid_strike",
+    "gender": "",
+    "pokedexNumber": "892",
+    "name": "urshifu_rapid_strike",
+    "koName": "우라오스_rapid_strike",
+    "speciesName": "urshifu",
+    "canChangeForm": true,
+    "formName": "rapid_strike style",
+    "baseExp": "275",
+    "friendship": "50",
+    "types": [
+      "fighting",
+      "water"
+    ],
+    "normalAbilityIds": [
+      "unseen_fist"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "iron_fist",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 550,
+    "hp": 100,
+    "attack": 130,
+    "defense": 100,
+    "specialAttack": 63,
+    "specialDefense": 60,
+    "speed": 97,
+    "height": 1.9,
+    "weight": 105,
+    "eggMoveIds": [
+      "meteor_mash",
+      "drain_punch",
+      "jet_punch",
+      "dragon_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "surging_strikes"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 1,
+        "moveId": "endure"
+      },
+      {
+        "level": 1,
+        "moveId": "rock_smash"
+      },
+      {
+        "level": 1,
+        "moveId": "aqua_jet"
+      },
+      {
+        "level": 12,
+        "moveId": "aerial_ace"
+      },
+      {
+        "level": 16,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 20,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 24,
+        "moveId": "brick_break"
+      },
+      {
+        "level": 28,
+        "moveId": "detect"
+      },
+      {
+        "level": 32,
+        "moveId": "bulk_up"
+      },
+      {
+        "level": 36,
+        "moveId": "iron_head"
+      },
+      {
+        "level": 40,
+        "moveId": "dynamic_punch"
+      },
+      {
+        "level": 44,
+        "moveId": "counter"
+      },
+      {
+        "level": 48,
+        "moveId": "close_combat"
+      },
+      {
+        "level": 52,
+        "moveId": "focus_punch"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "dojo"
+    ]
+  }
+]

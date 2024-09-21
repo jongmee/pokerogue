@@ -1,0 +1,182 @@
+[
+  {
+    "_id": "gouging_fire",
+    "gender": "",
+    "pokedexNumber": "1020",
+    "name": "gouging_fire",
+    "koName": "꿰뚫는화염",
+    "speciesName": "gouging_fire",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "295",
+    "friendship": "0",
+    "types": [
+      "fire",
+      "dragon"
+    ],
+    "normalAbilityIds": [
+      "protosynthesis"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "beast_boost",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 590,
+    "hp": 105,
+    "attack": 115,
+    "defense": 121,
+    "specialAttack": 65,
+    "specialDefense": 93,
+    "speed": 91,
+    "height": 3.5,
+    "weight": 590,
+    "eggMoveIds": [
+      "supercell_slam",
+      "bulk_up",
+      "sacred_fire",
+      "glaive_rush"
+    ],
+    "levelMoves": [
+      {
+        "level": -1,
+        "moveId": "double_kick"
+      },
+      {
+        "level": -1,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": -1,
+        "moveId": "noble_roar"
+      },
+      {
+        "level": 1,
+        "moveId": "stomp"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "incinerate"
+      },
+      {
+        "level": 1,
+        "moveId": "sunny_day"
+      },
+      {
+        "level": 7,
+        "moveId": "fire_fang"
+      },
+      {
+        "level": 14,
+        "moveId": "howl"
+      },
+      {
+        "level": 21,
+        "moveId": "bite"
+      },
+      {
+        "level": 28,
+        "moveId": "dragon_claw"
+      },
+      {
+        "level": 35,
+        "moveId": "crush_claw"
+      },
+      {
+        "level": 42,
+        "moveId": "morning_sun"
+      },
+      {
+        "level": 49,
+        "moveId": "burning_bulwark"
+      },
+      {
+        "level": 56,
+        "moveId": "dragon_rush"
+      },
+      {
+        "level": 63,
+        "moveId": "fire_blast"
+      },
+      {
+        "level": 70,
+        "moveId": "lava_plume"
+      },
+      {
+        "level": 77,
+        "moveId": "outrage"
+      },
+      {
+        "level": 84,
+        "moveId": "flare_blitz"
+      },
+      {
+        "level": 91,
+        "moveId": "raging_fury"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "fire_spin",
+      "earthquake",
+      "double_team",
+      "fire_blast",
+      "rest",
+      "substitute",
+      "reversal",
+      "protect",
+      "scary_face",
+      "outrage",
+      "endure",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "sunny_day",
+      "crunch",
+      "heat_wave",
+      "facade",
+      "weather_ball",
+      "overheat",
+      "dragon_claw",
+      "dragon_dance",
+      "flare_blitz",
+      "dragon_pulse",
+      "giga_impact",
+      "thunder_fang",
+      "fire_fang",
+      "draco_meteor",
+      "iron_head",
+      "stone_edge",
+      "flame_charge",
+      "incinerate",
+      "bulldoze",
+      "heat_crash",
+      "snarl",
+      "smart_strike",
+      "psychic_fangs",
+      "stomping_tantrum",
+      "breaking_swipe",
+      "scale_shot",
+      "lash_out",
+      "scorching_sands",
+      "dragon_cheer",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "end"
+    ]
+  }
+]

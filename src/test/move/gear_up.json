@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "gear_up",
+    "name": "Gear Up",
+    "koName": "어시스트기어",
+    "type": "steel",
+    "moveCategory": "status",
+    "moveTarget": "user_and_allies",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 20,
+    "effect": "기어를 넣는 것으로 특성 플러스와 마이너스의 공격과 특수공격이 올라간다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "klinklang",
+      "magearna"
+    ]
+  }
+]

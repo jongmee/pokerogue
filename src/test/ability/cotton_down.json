@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "cotton_down",
+    "name": "Cotton Down",
+    "koName": "솜털",
+    "realased": "",
+    "description": "공격을 받으면 솜털을 흩뿌려서 자신을 제외한 모든 포켓몬의 스피드를 떨어뜨린다.",
+    "generation": 8,
+    "pokemonIds": [
+      "gossifleur",
+      "eldegoss"
+    ],
+    "isBypassFaint": true,
+    "isIgnorable": false
+  }
+]

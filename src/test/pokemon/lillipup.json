@@ -1,0 +1,156 @@
+[
+  {
+    "_id": "lillipup",
+    "gender": "",
+    "pokedexNumber": "506",
+    "name": "lillipup",
+    "koName": "요테리",
+    "speciesName": "lillipup",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "55",
+    "friendship": "50",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "vital_spirit",
+      "pickup"
+    ],
+    "hiddenAbilityId": "run_away",
+    "passiveAbilityId": "fur_coat",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 275,
+    "hp": 45,
+    "attack": 60,
+    "defense": 45,
+    "specialAttack": 25,
+    "specialDefense": 45,
+    "speed": 55,
+    "height": 0.4,
+    "weight": 4.1,
+    "eggMoveIds": [
+      "close_combat",
+      "body_slam",
+      "high_horsepower",
+      "last_respects"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 4,
+        "moveId": "work_up"
+      },
+      {
+        "level": 8,
+        "moveId": "bite"
+      },
+      {
+        "level": 12,
+        "moveId": "retaliate"
+      },
+      {
+        "level": 17,
+        "moveId": "baby_doll_eyes"
+      },
+      {
+        "level": 20,
+        "moveId": "play_rough"
+      },
+      {
+        "level": 24,
+        "moveId": "crunch"
+      },
+      {
+        "level": 28,
+        "moveId": "take_down"
+      },
+      {
+        "level": 32,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 36,
+        "moveId": "reversal"
+      },
+      {
+        "level": 40,
+        "moveId": "roar"
+      },
+      {
+        "level": 44,
+        "moveId": "last_resort"
+      },
+      {
+        "level": 48,
+        "moveId": "giga_impact"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "roar",
+      "thunderbolt",
+      "thunder_wave",
+      "dig",
+      "toxic",
+      "double_team",
+      "rest",
+      "substitute",
+      "snore",
+      "reversal",
+      "protect",
+      "mud_slap",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "shadow_ball",
+      "rock_smash",
+      "uproar",
+      "facade",
+      "helping_hand",
+      "hyper_voice",
+      "rock_tomb",
+      "aerial_ace",
+      "covet",
+      "payback",
+      "giga_impact",
+      "thunder_fang",
+      "ice_fang",
+      "fire_fang",
+      "round",
+      "retaliate",
+      "work_up",
+      "wild_charge",
+      "snarl",
+      "play_rough",
+      "confide",
+      "psychic_fangs",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "town",
+      "metropolis"
+    ]
+  }
+]

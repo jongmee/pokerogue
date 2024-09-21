@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "steadfast",
+    "name": "Steadfast",
+    "koName": "불굴의마음",
+    "realased": "",
+    "description": "풀죽을 때마다 불굴의 마음을 불태워 스피드가 올라간다.",
+    "generation": 4,
+    "pokemonIds": [
+      "machop",
+      "machoke",
+      "machamp",
+      "scyther",
+      "mewtwo_mega_x",
+      "tyrogue",
+      "hitmontop",
+      "riolu",
+      "lucario",
+      "gallade",
+      "rockruff",
+      "lycanroc",
+      "dubwool",
+      "sirfetchd",
+      "galar_farfetchd"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

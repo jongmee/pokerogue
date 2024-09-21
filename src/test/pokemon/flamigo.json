@@ -1,0 +1,161 @@
+[
+  {
+    "_id": "flamigo",
+    "gender": "",
+    "pokedexNumber": "973",
+    "name": "flamigo",
+    "koName": "꼬이밍고",
+    "speciesName": "flamigo",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "175",
+    "friendship": "50",
+    "types": [
+      "flying",
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "scrappy",
+      "tangled_feet"
+    ],
+    "hiddenAbilityId": "costar",
+    "passiveAbilityId": "moxie",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 500,
+    "hp": 82,
+    "attack": 115,
+    "defense": 74,
+    "specialAttack": 75,
+    "specialDefense": 64,
+    "speed": 90,
+    "height": 1.6,
+    "weight": 37,
+    "eggMoveIds": [
+      "thunderous_kick",
+      "triple_axel",
+      "floaty_fall",
+      "victory_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "peck"
+      },
+      {
+        "level": 1,
+        "moveId": "copycat"
+      },
+      {
+        "level": 5,
+        "moveId": "double_kick"
+      },
+      {
+        "level": 9,
+        "moveId": "detect"
+      },
+      {
+        "level": 12,
+        "moveId": "wing_attack"
+      },
+      {
+        "level": 15,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 18,
+        "moveId": "low_kick"
+      },
+      {
+        "level": 21,
+        "moveId": "feint"
+      },
+      {
+        "level": 27,
+        "moveId": "payback"
+      },
+      {
+        "level": 31,
+        "moveId": "roost"
+      },
+      {
+        "level": 35,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 39,
+        "moveId": "mega_kick"
+      },
+      {
+        "level": 44,
+        "moveId": "wide_guard"
+      },
+      {
+        "level": 48,
+        "moveId": "throat_chop"
+      },
+      {
+        "level": 54,
+        "moveId": "brave_bird"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "fly",
+      "mega_kick",
+      "take_down",
+      "hyper_beam",
+      "low_kick",
+      "agility",
+      "double_team",
+      "focus_energy",
+      "rest",
+      "substitute",
+      "thief",
+      "reversal",
+      "protect",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "facade",
+      "taunt",
+      "endeavor",
+      "feather_dance",
+      "air_cutter",
+      "aerial_ace",
+      "bulk_up",
+      "water_pulse",
+      "roost",
+      "tailwind",
+      "u_turn",
+      "close_combat",
+      "payback",
+      "fling",
+      "air_slash",
+      "brave_bird",
+      "giga_impact",
+      "low_sweep",
+      "acrobatics",
+      "hurricane",
+      "throat_chop",
+      "lunge",
+      "liquidation",
+      "dual_wingbeat",
+      "tera_blast",
+      "pounce",
+      "chilling_water",
+      "upper_hand"
+    ],
+    "biomeIds": [
+      "lake"
+    ]
+  }
+]

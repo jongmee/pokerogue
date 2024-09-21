@@ -1,0 +1,245 @@
+[
+  {
+    "_id": "jigglypuff",
+    "gender": "",
+    "pokedexNumber": "39",
+    "name": "jigglypuff",
+    "koName": "푸린",
+    "speciesName": "jigglypuff",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "95",
+    "friendship": "50",
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "cute_charm",
+      "competitive"
+    ],
+    "hiddenAbilityId": "friend_guard",
+    "passiveAbilityId": "huge_power",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 270,
+    "hp": 115,
+    "attack": 45,
+    "defense": 20,
+    "specialAttack": 45,
+    "specialDefense": 25,
+    "speed": 20,
+    "height": 0.5,
+    "weight": 5.5,
+    "eggMoveIds": [
+      "drain_punch",
+      "grav_apple",
+      "soft_boiled",
+      "extreme_speed"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "sing"
+      },
+      {
+        "level": 1,
+        "moveId": "disable"
+      },
+      {
+        "level": 1,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": 1,
+        "moveId": "sweet_kiss"
+      },
+      {
+        "level": 1,
+        "moveId": "charm"
+      },
+      {
+        "level": 1,
+        "moveId": "copycat"
+      },
+      {
+        "level": 1,
+        "moveId": "disarming_voice"
+      },
+      {
+        "level": 4,
+        "moveId": "echoed_voice"
+      },
+      {
+        "level": 8,
+        "moveId": "covet"
+      },
+      {
+        "level": 12,
+        "moveId": "stockpile"
+      },
+      {
+        "level": 12,
+        "moveId": "spit_up"
+      },
+      {
+        "level": 12,
+        "moveId": "swallow"
+      },
+      {
+        "level": 16,
+        "moveId": "round"
+      },
+      {
+        "level": 20,
+        "moveId": "rest"
+      },
+      {
+        "level": 24,
+        "moveId": "body_slam"
+      },
+      {
+        "level": 28,
+        "moveId": "mimic"
+      },
+      {
+        "level": 32,
+        "moveId": "gyro_ball"
+      },
+      {
+        "level": 36,
+        "moveId": "hyper_voice"
+      },
+      {
+        "level": 44,
+        "moveId": "double_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "flamethrower",
+      "ice_beam",
+      "blizzard",
+      "counter",
+      "strength",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "dig",
+      "toxic",
+      "psychic",
+      "screech",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "metronome",
+      "self_destruct",
+      "fire_blast",
+      "swift",
+      "amnesia",
+      "dream_eater",
+      "flash",
+      "rest",
+      "tri_attack",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "sandstorm",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "safeguard",
+      "pain_split",
+      "baton_pass",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "uproar",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "recycle",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "skill_swap",
+      "hyper_voice",
+      "fake_tears",
+      "bounce",
+      "covet",
+      "magical_leaf",
+      "calm_mind",
+      "water_pulse",
+      "gravity",
+      "gyro_ball",
+      "fling",
+      "dark_pulse",
+      "drain_punch",
+      "energy_ball",
+      "nasty_plot",
+      "zen_headbutt",
+      "stealth_rock",
+      "grass_knot",
+      "charge_beam",
+      "psyshock",
+      "round",
+      "echoed_voice",
+      "stored_power",
+      "ally_switch",
+      "incinerate",
+      "retaliate",
+      "work_up",
+      "wild_charge",
+      "disarming_voice",
+      "draining_kiss",
+      "misty_terrain",
+      "play_rough",
+      "confide",
+      "dazzling_gleam",
+      "power_up_punch",
+      "body_press",
+      "steel_roller",
+      "misty_explosion",
+      "tera_blast",
+      "ice_spinner",
+      "trailblaze",
+      "chilling_water",
+      "alluring_voice",
+      "psychic_noise"
+    ],
+    "biomeIds": [
+      "meadow",
+      "fairy_cave"
+    ]
+  }
+]

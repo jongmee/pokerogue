@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "light_metal",
+    "name": "Light Metal",
+    "koName": "라이트메탈",
+    "realased": "",
+    "description": "자신의 무게가 절반이 된다.",
+    "generation": 5,
+    "pokemonIds": [
+      "scizor",
+      "beldum",
+      "metang",
+      "metagross",
+      "registeel",
+      "duraludon"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

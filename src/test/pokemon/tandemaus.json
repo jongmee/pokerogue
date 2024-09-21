@@ -1,0 +1,152 @@
+[
+  {
+    "_id": "tandemaus",
+    "gender": "",
+    "pokedexNumber": "924",
+    "name": "tandemaus",
+    "koName": "두리쥐",
+    "speciesName": "tandemaus",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "61",
+    "friendship": "50",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "run_away",
+      "pickup"
+    ],
+    "hiddenAbilityId": "own_tempo",
+    "passiveAbilityId": "scrappy",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 305,
+    "hp": 50,
+    "attack": 50,
+    "defense": 45,
+    "specialAttack": 40,
+    "specialDefense": 45,
+    "speed": 75,
+    "height": 0.3,
+    "weight": 1.8,
+    "eggMoveIds": [
+      "baton_pass",
+      "thief",
+      "sizzly_slide",
+      "revival_blessing"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "baby_doll_eyes"
+      },
+      {
+        "level": 5,
+        "moveId": "echoed_voice"
+      },
+      {
+        "level": 8,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 11,
+        "moveId": "super_fang"
+      },
+      {
+        "level": 14,
+        "moveId": "double_hit"
+      },
+      {
+        "level": 18,
+        "moveId": "bullet_seed"
+      },
+      {
+        "level": 22,
+        "moveId": "encore"
+      },
+      {
+        "level": 26,
+        "moveId": "play_rough"
+      },
+      {
+        "level": 30,
+        "moveId": "hyper_voice"
+      },
+      {
+        "level": 33,
+        "moveId": "charm"
+      },
+      {
+        "level": 37,
+        "moveId": "beat_up"
+      },
+      {
+        "level": 41,
+        "moveId": "copycat"
+      },
+      {
+        "level": 46,
+        "moveId": "population_bomb"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "double_edge",
+      "low_kick",
+      "thunder_wave",
+      "dig",
+      "agility",
+      "double_team",
+      "swift",
+      "rest",
+      "super_fang",
+      "substitute",
+      "thief",
+      "protect",
+      "mud_slap",
+      "endure",
+      "charm",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "beat_up",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "hyper_voice",
+      "fake_tears",
+      "bullet_seed",
+      "aerial_ace",
+      "mud_shot",
+      "water_pulse",
+      "u_turn",
+      "seed_bomb",
+      "shadow_claw",
+      "grass_knot",
+      "low_sweep",
+      "echoed_voice",
+      "play_rough",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "town",
+      "metropolis"
+    ]
+  }
+]

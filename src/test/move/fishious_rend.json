@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "fishious_rend",
+    "name": "Fishious Rend",
+    "koName": "아가미물기",
+    "type": "water",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 85,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "단단한 아가미로 문다. 상대보다 먼저 공격하면 기술의 위력은 2배가 된다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [
+      "makes_contact",
+      "biting_move"
+    ],
+    "pokemonIds": [
+      "goldeen",
+      "seaking",
+      "totodile",
+      "croconaw",
+      "feraligatr",
+      "qwilfish",
+      "chewtle",
+      "drednaw",
+      "drednaw_gigantamax",
+      "dracovish",
+      "arctovish",
+      "overqwil",
+      "hisui_qwilfish"
+    ]
+  }
+]

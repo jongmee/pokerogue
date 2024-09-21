@@ -1,0 +1,166 @@
+[
+  {
+    "_id": "minior",
+    "gender": "",
+    "pokedexNumber": "774",
+    "name": "minior",
+    "koName": "메테노",
+    "speciesName": "minior",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "154",
+    "friendship": "70",
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "shields_down"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "sturdy",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 440,
+    "hp": 60,
+    "attack": 60,
+    "defense": 100,
+    "specialAttack": 60,
+    "specialDefense": 100,
+    "speed": 60,
+    "height": 0.3,
+    "weight": 40,
+    "eggMoveIds": [
+      "earth_power",
+      "floaty_fall",
+      "zing_zap",
+      "diamond_storm"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 3,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": 8,
+        "moveId": "rollout"
+      },
+      {
+        "level": 10,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 15,
+        "moveId": "swift"
+      },
+      {
+        "level": 17,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 22,
+        "moveId": "self_destruct"
+      },
+      {
+        "level": 24,
+        "moveId": "stealth_rock"
+      },
+      {
+        "level": 29,
+        "moveId": "take_down"
+      },
+      {
+        "level": 31,
+        "moveId": "autotomize"
+      },
+      {
+        "level": 36,
+        "moveId": "cosmic_power"
+      },
+      {
+        "level": 38,
+        "moveId": "power_gem"
+      },
+      {
+        "level": 43,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 45,
+        "moveId": "shell_smash"
+      },
+      {
+        "level": 50,
+        "moveId": "explosion"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "solar_beam",
+      "earthquake",
+      "toxic",
+      "psychic",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "self_destruct",
+      "swift",
+      "explosion",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "sandstorm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "psych_up",
+      "facade",
+      "endeavor",
+      "rock_tomb",
+      "cosmic_power",
+      "calm_mind",
+      "rock_blast",
+      "gravity",
+      "gyro_ball",
+      "u_turn",
+      "rock_polish",
+      "power_gem",
+      "earth_power",
+      "giga_impact",
+      "zen_headbutt",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "charge_beam",
+      "round",
+      "acrobatics",
+      "bulldoze",
+      "confide",
+      "dazzling_gleam",
+      "meteor_beam",
+      "scorching_sands",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "space"
+    ]
+  }
+]

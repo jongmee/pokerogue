@@ -1,0 +1,171 @@
+[
+  {
+    "_id": "bombirdier",
+    "gender": "",
+    "pokedexNumber": "962",
+    "name": "bombirdier",
+    "koName": "떨구새",
+    "speciesName": "bombirdier",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "243",
+    "friendship": "50",
+    "types": [
+      "flying",
+      "dark"
+    ],
+    "normalAbilityIds": [
+      "big_pecks",
+      "keen_eye"
+    ],
+    "hiddenAbilityId": "rocky_payload",
+    "passiveAbilityId": "unburden",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 485,
+    "hp": 70,
+    "attack": 103,
+    "defense": 85,
+    "specialAttack": 60,
+    "specialDefense": 85,
+    "speed": 82,
+    "height": 1.5,
+    "weight": 42.9,
+    "eggMoveIds": [
+      "floaty_fall",
+      "swords_dance",
+      "sucker_punch",
+      "mighty_cleave"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "wing_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "peck"
+      },
+      {
+        "level": 1,
+        "moveId": "memento"
+      },
+      {
+        "level": 1,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 7,
+        "moveId": "thief"
+      },
+      {
+        "level": 11,
+        "moveId": "rock_throw"
+      },
+      {
+        "level": 16,
+        "moveId": "whirlwind"
+      },
+      {
+        "level": 20,
+        "moveId": "pluck"
+      },
+      {
+        "level": 24,
+        "moveId": "torment"
+      },
+      {
+        "level": 29,
+        "moveId": "rock_tomb"
+      },
+      {
+        "level": 36,
+        "moveId": "payback"
+      },
+      {
+        "level": 42,
+        "moveId": "dual_wingbeat"
+      },
+      {
+        "level": 47,
+        "moveId": "rock_slide"
+      },
+      {
+        "level": 53,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 60,
+        "moveId": "parting_shot"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fly",
+      "take_down",
+      "hyper_beam",
+      "double_team",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "curse",
+      "protect",
+      "scary_face",
+      "icy_wind",
+      "sandstorm",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "heat_wave",
+      "torment",
+      "facade",
+      "taunt",
+      "knock_off",
+      "endeavor",
+      "feather_dance",
+      "hyper_voice",
+      "air_cutter",
+      "rock_tomb",
+      "aerial_ace",
+      "rock_blast",
+      "roost",
+      "pluck",
+      "tailwind",
+      "u_turn",
+      "payback",
+      "dark_pulse",
+      "air_slash",
+      "power_gem",
+      "brave_bird",
+      "giga_impact",
+      "nasty_plot",
+      "stone_edge",
+      "stealth_rock",
+      "hone_claws",
+      "foul_play",
+      "acrobatics",
+      "drill_run",
+      "hurricane",
+      "snarl",
+      "lash_out",
+      "dual_wingbeat",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "mountain"
+    ]
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "_id": "herdier",
+    "gender": "",
+    "pokedexNumber": "507",
+    "name": "herdier",
+    "koName": "하데리어",
+    "speciesName": "herdier",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "130",
+    "friendship": "50",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "intimidate",
+      "sand_rush"
+    ],
+    "hiddenAbilityId": "scrappy",
+    "passiveAbilityId": "fur_coat",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 370,
+    "hp": 65,
+    "attack": 80,
+    "defense": 65,
+    "specialAttack": 35,
+    "specialDefense": 65,
+    "speed": 60,
+    "height": 0.9,
+    "weight": 14.7,
+    "eggMoveIds": [
+      "close_combat",
+      "body_slam",
+      "high_horsepower",
+      "last_respects"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "bite"
+      },
+      {
+        "level": 1,
+        "moveId": "work_up"
+      },
+      {
+        "level": 12,
+        "moveId": "retaliate"
+      },
+      {
+        "level": 19,
+        "moveId": "baby_doll_eyes"
+      },
+      {
+        "level": 24,
+        "moveId": "play_rough"
+      },
+      {
+        "level": 30,
+        "moveId": "crunch"
+      },
+      {
+        "level": 36,
+        "moveId": "take_down"
+      },
+      {
+        "level": 42,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 48,
+        "moveId": "reversal"
+      },
+      {
+        "level": 54,
+        "moveId": "roar"
+      },
+      {
+        "level": 60,
+        "moveId": "last_resort"
+      },
+      {
+        "level": 66,
+        "moveId": "giga_impact"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "roar",
+      "surf",
+      "strength",
+      "thunderbolt",
+      "thunder_wave",
+      "dig",
+      "toxic",
+      "double_team",
+      "rest",
+      "substitute",
+      "snore",
+      "reversal",
+      "protect",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "shadow_ball",
+      "rock_smash",
+      "uproar",
+      "facade",
+      "helping_hand",
+      "hyper_voice",
+      "rock_tomb",
+      "aerial_ace",
+      "covet",
+      "payback",
+      "giga_impact",
+      "thunder_fang",
+      "ice_fang",
+      "fire_fang",
+      "round",
+      "retaliate",
+      "work_up",
+      "wild_charge",
+      "snarl",
+      "play_rough",
+      "confide",
+      "psychic_fangs",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "metropolis"
+    ]
+  }
+]

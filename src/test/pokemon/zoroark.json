@@ -1,0 +1,198 @@
+[
+  {
+    "_id": "zoroark",
+    "gender": "",
+    "pokedexNumber": "571",
+    "name": "zoroark",
+    "koName": "조로아크",
+    "speciesName": "zoroark",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "179",
+    "friendship": "50",
+    "types": [
+      "dark"
+    ],
+    "normalAbilityIds": [
+      "illusion"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "dark_aura",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 510,
+    "hp": 60,
+    "attack": 105,
+    "defense": 60,
+    "specialAttack": 120,
+    "specialDefense": 60,
+    "speed": 105,
+    "height": 1.6,
+    "weight": 81.1,
+    "eggMoveIds": [
+      "flamethrower",
+      "moonblast",
+      "aura_sphere",
+      "fiery_wrath"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "night_slash"
+      },
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "torment"
+      },
+      {
+        "level": 1,
+        "moveId": "u_turn"
+      },
+      {
+        "level": 1,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 1,
+        "moveId": "pursuit"
+      },
+      {
+        "level": 12,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 20,
+        "moveId": "taunt"
+      },
+      {
+        "level": 24,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 28,
+        "moveId": "fake_tears"
+      },
+      {
+        "level": 34,
+        "moveId": "agility"
+      },
+      {
+        "level": 40,
+        "moveId": "imprison"
+      },
+      {
+        "level": 46,
+        "moveId": "night_daze"
+      },
+      {
+        "level": 52,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 58,
+        "moveId": "foul_play"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "swords_dance",
+      "cut",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "roar",
+      "flamethrower",
+      "hyper_beam",
+      "low_kick",
+      "counter",
+      "dig",
+      "toxic",
+      "psychic",
+      "agility",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "spite",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "psych_up",
+      "shadow_ball",
+      "rock_smash",
+      "uproar",
+      "torment",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "trick",
+      "revenge",
+      "brick_break",
+      "knock_off",
+      "imprison",
+      "hyper_voice",
+      "fake_tears",
+      "aerial_ace",
+      "bounce",
+      "covet",
+      "calm_mind",
+      "u_turn",
+      "payback",
+      "assurance",
+      "embargo",
+      "fling",
+      "dark_pulse",
+      "focus_blast",
+      "giga_impact",
+      "nasty_plot",
+      "shadow_claw",
+      "grass_knot",
+      "hone_claws",
+      "low_sweep",
+      "foul_play",
+      "round",
+      "hex",
+      "incinerate",
+      "retaliate",
+      "snarl",
+      "confide",
+      "throat_chop",
+      "skitter_smack",
+      "burning_jealousy",
+      "lash_out",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "abyss"
+    ]
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "_id": "desert",
+    "name": "Desert",
+    "koName": "사막",
+    "types": [
+      "ground"
+    ],
+    "nextBiomes": [
+      {
+        "name": "ruins",
+        "percentage": 66.66666666666666
+      },
+      {
+        "name": "construction_site",
+        "percentage": 33.33333333333333
+      }
+    ],
+    "nativePokemons": [
+      {
+        "tier": "보통",
+        "pokemonIds": [
+          "trapinch",
+          "hippopotas",
+          "hippowdon",
+          "rellor",
+          "rabsca",
+          "cacnea",
+          "cacturne",
+          "sandile",
+          "krokorok",
+          "krookodile",
+          "sandshrew",
+          "sandslash",
+          "skorupi",
+          "drapion",
+          "silicobra",
+          "sandaconda"
+        ]
+      },
+      {
+        "tier": "드묾",
+        "pokemonIds": [
+          "sandile",
+          "krokorok",
+          "krookodile",
+          "helioptile",
+          "maractus",
+          "bramblin",
+          "brambleghast",
+          "orthworm"
+        ]
+      },
+      {
+        "tier": "레어",
+        "pokemonIds": [
+          "vibrava",
+          "flygon",
+          "darumaka",
+          "darmanitan"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어",
+        "pokemonIds": [
+          "lileep",
+          "cradily",
+          "anorith",
+          "armaldo"
+        ]
+      },
+      {
+        "tier": "울트라 레어",
+        "pokemonIds": [
+          "regirock",
+          "tapu_bulu",
+          "pheromosa"
+        ]
+      },
+      {
+        "tier": "보스",
+        "pokemonIds": [
+          "hippowdon",
+          "heliolisk",
+          "rabsca",
+          "cacturne",
+          "krookodile",
+          "sandslash",
+          "drapion",
+          "darmanitan",
+          "maractus",
+          "sandaconda",
+          "brambleghast"
+        ]
+      },
+      {
+        "tier": "레어 보스",
+        "pokemonIds": [
+          "cradily",
+          "armaldo"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어 보스",
+        "pokemonIds": [
+          "regirock",
+          "tapu_bulu",
+          "pheromosa"
+        ]
+      },
+      {
+        "tier": "슈퍼 울트라 레어 보스",
+        "pokemonIds": []
+      }
+    ],
+    "trainers": [
+      {
+        "name": "마쿠와",
+        "types": [
+          "rock"
+        ],
+        "pokemonIds": [
+          "rolycoly",
+          "stonjourner",
+          "binacle"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "_id": "shadow_bone",
+    "name": "Shadow Bone",
+    "koName": "섀도본",
+    "type": "ghost",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 85,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "영혼이 머물고 있는 뼈로 상대를 세게 때려서 공격한다. 상대의 방어를 떨어뜨릴 때가 있다.",
+    "effectChance": 20,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "honedge",
+      "doublade",
+      "aegislash",
+      "aegislash_blade",
+      "rowlet",
+      "dartrix",
+      "decidueye",
+      "dhelmise",
+      "dreepy",
+      "drakloak",
+      "dragapult",
+      "greavard",
+      "houndstone",
+      "alola_marowak",
+      "hisui_decidueye"
+    ]
+  }
+]

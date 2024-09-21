@@ -1,0 +1,104 @@
+[
+  {
+    "_id": "feebas",
+    "gender": "",
+    "pokedexNumber": "349",
+    "name": "feebas",
+    "koName": "빈티나",
+    "speciesName": "feebas",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "40",
+    "friendship": "50",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "swift_swim",
+      "oblivious"
+    ],
+    "hiddenAbilityId": "adaptability",
+    "passiveAbilityId": "magic_guard",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 200,
+    "hp": 20,
+    "attack": 15,
+    "defense": 20,
+    "specialAttack": 10,
+    "specialDefense": 55,
+    "speed": 80,
+    "height": 0.6,
+    "weight": 7.4,
+    "eggMoveIds": [
+      "calm_mind",
+      "freeze_dry",
+      "moonblast",
+      "steam_eruption"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "splash"
+      },
+      {
+        "level": 15,
+        "moveId": "tackle"
+      },
+      {
+        "level": 25,
+        "moveId": "flail"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "double_edge",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "toxic",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "haze",
+      "waterfall",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "whirlpool",
+      "hail",
+      "facade",
+      "dive",
+      "muddy_water",
+      "mud_shot",
+      "water_pulse",
+      "brine",
+      "dragon_pulse",
+      "round",
+      "scald",
+      "confide",
+      "scale_shot",
+      "tera_blast",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "seabed"
+    ]
+  }
+]

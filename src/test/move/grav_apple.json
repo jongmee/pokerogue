@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "grav_apple",
+    "name": "Grav Apple",
+    "koName": "G의힘",
+    "type": "grass",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 80,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "높은 곳에서 사과를 떨어뜨려서 데미지를 준다. 상대의 방어를 떨어뜨린다.",
+    "effectChance": 100,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "jigglypuff",
+      "wigglytuff",
+      "lickitung",
+      "snorlax",
+      "snorlax_gigantamax",
+      "igglybuff",
+      "munchlax",
+      "lickilicky",
+      "flapple"
+    ]
+  }
+]

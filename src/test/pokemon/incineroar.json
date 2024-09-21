@@ -1,0 +1,208 @@
+[
+  {
+    "_id": "incineroar",
+    "gender": "",
+    "pokedexNumber": "727",
+    "name": "incineroar",
+    "koName": "어흥염",
+    "speciesName": "incineroar",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "265",
+    "friendship": "50",
+    "types": [
+      "fire",
+      "dark"
+    ],
+    "normalAbilityIds": [
+      "blaze"
+    ],
+    "hiddenAbilityId": "intimidate",
+    "passiveAbilityId": "fur_coat",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 530,
+    "hp": 95,
+    "attack": 115,
+    "defense": 90,
+    "specialAttack": 80,
+    "specialDefense": 90,
+    "speed": 60,
+    "height": 1.8,
+    "weight": 83,
+    "eggMoveIds": [
+      "fake_out",
+      "parting_shot",
+      "morning_sun",
+      "sacred_fire"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "darkest_lariat"
+      },
+      {
+        "level": -1,
+        "moveId": "scratch"
+      },
+      {
+        "level": -1,
+        "moveId": "growl"
+      },
+      {
+        "level": -1,
+        "moveId": "throat_chop"
+      },
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 1,
+        "moveId": "lick"
+      },
+      {
+        "level": 1,
+        "moveId": "cross_chop"
+      },
+      {
+        "level": 1,
+        "moveId": "bulk_up"
+      },
+      {
+        "level": 9,
+        "moveId": "roar"
+      },
+      {
+        "level": 12,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 15,
+        "moveId": "bite"
+      },
+      {
+        "level": 20,
+        "moveId": "double_kick"
+      },
+      {
+        "level": 25,
+        "moveId": "fire_fang"
+      },
+      {
+        "level": 30,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 32,
+        "moveId": "swagger"
+      },
+      {
+        "level": 44,
+        "moveId": "flamethrower"
+      },
+      {
+        "level": 51,
+        "moveId": "thrash"
+      },
+      {
+        "level": 58,
+        "moveId": "flare_blitz"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "pay_day",
+      "fire_punch",
+      "thunder_punch",
+      "swords_dance",
+      "mega_kick",
+      "body_slam",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "hyper_beam",
+      "low_kick",
+      "fire_spin",
+      "earthquake",
+      "toxic",
+      "double_team",
+      "fire_blast",
+      "leech_life",
+      "rest",
+      "substitute",
+      "snore",
+      "reversal",
+      "protect",
+      "scary_face",
+      "outrage",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "sunny_day",
+      "crunch",
+      "heat_wave",
+      "torment",
+      "will_o_wisp",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "superpower",
+      "revenge",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "blaze_kick",
+      "blast_burn",
+      "overheat",
+      "bulk_up",
+      "covet",
+      "u_turn",
+      "close_combat",
+      "assurance",
+      "embargo",
+      "fling",
+      "flare_blitz",
+      "dark_pulse",
+      "drain_punch",
+      "focus_blast",
+      "giga_impact",
+      "nasty_plot",
+      "shadow_claw",
+      "fire_fang",
+      "iron_head",
+      "flame_charge",
+      "low_sweep",
+      "round",
+      "quash",
+      "acrobatics",
+      "fire_pledge",
+      "bulldoze",
+      "work_up",
+      "heat_crash",
+      "snarl",
+      "confide",
+      "darkest_lariat",
+      "throat_chop",
+      "brutal_swing",
+      "stomping_tantrum",
+      "burning_jealousy",
+      "lash_out",
+      "scorching_sands",
+      "tera_blast",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "volcano"
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "sand_force",
+    "name": "Sand Force",
+    "koName": "모래의힘",
+    "realased": "",
+    "description": "날씨가 모래바람일 때 바위타입과 땅타입과 강철타입의 위력이 올라간다.",
+    "generation": 5,
+    "pokemonIds": [
+      "diglett",
+      "dugtrio",
+      "steelix_mega",
+      "nosepass",
+      "garchomp_mega",
+      "hippopotas",
+      "hippowdon",
+      "probopass",
+      "roggenrola",
+      "boldore",
+      "gigalith",
+      "drilbur",
+      "excadrill",
+      "landorus_incarnate",
+      "alola_diglett",
+      "alola_dugtrio"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

@@ -1,0 +1,199 @@
+[
+  {
+    "_id": "alola_persian",
+    "gender": "",
+    "pokedexNumber": "2053",
+    "name": "alola_persian",
+    "koName": "페르시온",
+    "speciesName": "alola_persian",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "154",
+    "friendship": "50",
+    "types": [
+      "dark"
+    ],
+    "normalAbilityIds": [
+      "fur_coat",
+      "technician"
+    ],
+    "hiddenAbilityId": "rattled",
+    "passiveAbilityId": "dark_aura",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 440,
+    "hp": 65,
+    "attack": 60,
+    "defense": 60,
+    "specialAttack": 75,
+    "specialDefense": 65,
+    "speed": 115,
+    "height": 1.1,
+    "weight": 33,
+    "eggMoveIds": [
+      "baddy_bad",
+      "buzzy_buzz",
+      "parting_shot",
+      "make_it_rain"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "power_gem"
+      },
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "fake_out"
+      },
+      {
+        "level": 1,
+        "moveId": "feint"
+      },
+      {
+        "level": 1,
+        "moveId": "switcheroo"
+      },
+      {
+        "level": 1,
+        "moveId": "quash"
+      },
+      {
+        "level": 12,
+        "moveId": "pay_day"
+      },
+      {
+        "level": 16,
+        "moveId": "bite"
+      },
+      {
+        "level": 20,
+        "moveId": "taunt"
+      },
+      {
+        "level": 24,
+        "moveId": "assurance"
+      },
+      {
+        "level": 31,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 36,
+        "moveId": "screech"
+      },
+      {
+        "level": 42,
+        "moveId": "night_slash"
+      },
+      {
+        "level": 48,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 54,
+        "moveId": "play_rough"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "pay_day",
+      "cut",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "hyper_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "dig",
+      "toxic",
+      "agility",
+      "screech",
+      "double_team",
+      "confuse_ray",
+      "swift",
+      "amnesia",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "icy_wind",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "beat_up",
+      "uproar",
+      "torment",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "knock_off",
+      "endeavor",
+      "hyper_voice",
+      "fake_tears",
+      "aerial_ace",
+      "covet",
+      "water_pulse",
+      "u_turn",
+      "payback",
+      "assurance",
+      "embargo",
+      "dark_pulse",
+      "seed_bomb",
+      "power_gem",
+      "giga_impact",
+      "nasty_plot",
+      "shadow_claw",
+      "gunk_shot",
+      "smack_down",
+      "foul_play",
+      "round",
+      "echoed_voice",
+      "quash",
+      "retaliate",
+      "work_up",
+      "snarl",
+      "play_rough",
+      "confide",
+      "throat_chop",
+      "skitter_smack",
+      "burning_jealousy",
+      "lash_out",
+      "tera_blast",
+      "trailblaze",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "island"
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "dark_void",
+    "name": "Dark Void",
+    "koName": "다크홀",
+    "type": "dark",
+    "moveCategory": "status",
+    "moveTarget": "all_near_enemies",
+    "power": -1,
+    "accuracy": 80,
+    "powerPoint": 10,
+    "effect": "암흑의 세계로 끌고 가서 떨어뜨려 상대를 잠듦 상태로 만든다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 4,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "drowzee",
+      "hypno",
+      "smeargle",
+      "darkrai"
+    ]
+  }
+]

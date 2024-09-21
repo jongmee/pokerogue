@@ -1,0 +1,46 @@
+[
+  {
+    "_id": "after_you",
+    "name": "After You",
+    "koName": "당신먼저",
+    "type": "normal",
+    "moveCategory": "status",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 15,
+    "effect": "상대의 행동을 도와서 자신이 행동한 뒤에 바로 움직일 수 있도록 한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 5,
+    "realased": " (N)",
+    "flags": [
+      "ignore_protect"
+    ],
+    "pokemonIds": [
+      "clefairy",
+      "clefable",
+      "togepi",
+      "togetic",
+      "buneary",
+      "lopunny",
+      "togekiss",
+      "patrat",
+      "watchog",
+      "audino",
+      "petilil",
+      "lilligant",
+      "maractus",
+      "minccino",
+      "cinccino",
+      "scatterbug",
+      "spewpa",
+      "oranguru",
+      "orbeetle",
+      "mr_rime",
+      "indeedee",
+      "galar_moltres",
+      "hisui_lilligant"
+    ]
+  }
+]

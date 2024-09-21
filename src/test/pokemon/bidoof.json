@@ -1,0 +1,159 @@
+[
+  {
+    "_id": "bidoof",
+    "gender": "",
+    "pokedexNumber": "399",
+    "name": "bidoof",
+    "koName": "비버니",
+    "speciesName": "bidoof",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "50",
+    "friendship": "70",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "simple",
+      "unaware"
+    ],
+    "hiddenAbilityId": "moody",
+    "passiveAbilityId": "sap_sipper",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 250,
+    "hp": 59,
+    "attack": 45,
+    "defense": 40,
+    "specialAttack": 35,
+    "specialDefense": 40,
+    "speed": 31,
+    "height": 0.5,
+    "weight": 20,
+    "eggMoveIds": [
+      "extreme_speed",
+      "cosmic_power",
+      "power_trip",
+      "aqua_step"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 5,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": 9,
+        "moveId": "rollout"
+      },
+      {
+        "level": 13,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 17,
+        "moveId": "hyper_fang"
+      },
+      {
+        "level": 21,
+        "moveId": "yawn"
+      },
+      {
+        "level": 25,
+        "moveId": "crunch"
+      },
+      {
+        "level": 29,
+        "moveId": "take_down"
+      },
+      {
+        "level": 33,
+        "moveId": "super_fang"
+      },
+      {
+        "level": 37,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 41,
+        "moveId": "amnesia"
+      },
+      {
+        "level": 45,
+        "moveId": "superpower"
+      },
+      {
+        "level": 49,
+        "moveId": "curse"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "take_down",
+      "ice_beam",
+      "blizzard",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "dig",
+      "toxic",
+      "double_team",
+      "swift",
+      "amnesia",
+      "rest",
+      "super_fang",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "shadow_ball",
+      "rock_smash",
+      "facade",
+      "taunt",
+      "superpower",
+      "covet",
+      "pluck",
+      "aqua_tail",
+      "rock_climb",
+      "stealth_rock",
+      "grass_knot",
+      "charge_beam",
+      "round",
+      "echoed_voice",
+      "retaliate",
+      "work_up",
+      "confide",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "town",
+      "plains"
+    ]
+  }
+]

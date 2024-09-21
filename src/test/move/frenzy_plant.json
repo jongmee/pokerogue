@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "frenzy_plant",
+    "name": "Frenzy Plant",
+    "koName": "하드플랜트",
+    "type": "grass",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 150,
+    "accuracy": 90,
+    "powerPoint": 5,
+    "effect": "큰 나무로 상대를 힘껏 쳐서 공격한다. 다음 턴은 움직일 수 없게 된다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 3,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "venusaur",
+      "mew",
+      "meganium",
+      "sceptile",
+      "torterra",
+      "serperior",
+      "chesnaught",
+      "decidueye",
+      "rillaboom",
+      "meowscarada",
+      "hisui_decidueye"
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "solid_rock",
+    "name": "Solid Rock",
+    "koName": "하드록",
+    "realased": "",
+    "description": "효과가 굉장한 공격의 위력을 약하게 만든다.",
+    "generation": 4,
+    "pokemonIds": [
+      "camerupt",
+      "rhyperior",
+      "roggenrola",
+      "boldore",
+      "gigalith",
+      "tirtouga",
+      "carracosta",
+      "carbink",
+      "stakataka",
+      "rolycoly",
+      "carkol",
+      "coalossal",
+      "coalossal_gigantamax",
+      "nacli",
+      "naclstack",
+      "garganacl"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

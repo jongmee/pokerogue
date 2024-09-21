@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "axe_kick",
+    "name": "Axe Kick",
+    "koName": "발꿈치찍기",
+    "type": "fighting",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 120,
+    "accuracy": 90,
+    "powerPoint": 10,
+    "effect": "발꿈치를 들어 올린 뒤 내리찍어 공격한다. 상대를 혼란시킬 때가 있다. 빗나가면 자신이 데미지를 입는다.",
+    "effectChance": 30,
+    "prioirty": 0,
+    "generation": 9,
+    "realased": "",
+    "flags": [
+      "makes_contact",
+      "reckless_move"
+    ],
+    "pokemonIds": [
+      "hitmonlee",
+      "medicham",
+      "lokix",
+      "hisui_lilligant"
+    ]
+  }
+]

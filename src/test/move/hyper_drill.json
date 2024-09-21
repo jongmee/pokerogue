@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "hyper_drill",
+    "name": "Hyper Drill",
+    "koName": "하이퍼드릴",
+    "type": "normal",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 100,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "뾰족한 신체 부위를 급속도로 회전시켜 관통한다. 방어나 판별 등도 무시할 수 있다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 9,
+    "realased": "",
+    "flags": [
+      "makes_contact",
+      "ignore_protect"
+    ],
+    "pokemonIds": [
+      "dunsparce",
+      "dudunsparce"
+    ]
+  }
+]

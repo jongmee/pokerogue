@@ -1,0 +1,194 @@
+[
+  {
+    "_id": "arcanine",
+    "gender": "",
+    "pokedexNumber": "59",
+    "name": "arcanine",
+    "koName": "윈디",
+    "speciesName": "arcanine",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "194",
+    "friendship": "50",
+    "types": [
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "intimidate",
+      "flash_fire"
+    ],
+    "hiddenAbilityId": "justified",
+    "passiveAbilityId": "speed_boost",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 555,
+    "hp": 90,
+    "attack": 110,
+    "defense": 80,
+    "specialAttack": 100,
+    "specialDefense": 80,
+    "speed": 95,
+    "height": 1.9,
+    "weight": 155,
+    "eggMoveIds": [
+      "zing_zap",
+      "parting_shot",
+      "morning_sun",
+      "sacred_fire"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "extreme_speed"
+      },
+      {
+        "level": 1,
+        "moveId": "take_down"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "bite"
+      },
+      {
+        "level": 1,
+        "moveId": "roar"
+      },
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 1,
+        "moveId": "agility"
+      },
+      {
+        "level": 1,
+        "moveId": "flame_wheel"
+      },
+      {
+        "level": 1,
+        "moveId": "reversal"
+      },
+      {
+        "level": 1,
+        "moveId": "crunch"
+      },
+      {
+        "level": 1,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 1,
+        "moveId": "odor_sleuth"
+      },
+      {
+        "level": 1,
+        "moveId": "howl"
+      },
+      {
+        "level": 1,
+        "moveId": "flare_blitz"
+      },
+      {
+        "level": 1,
+        "moveId": "fire_fang"
+      },
+      {
+        "level": 1,
+        "moveId": "retaliate"
+      },
+      {
+        "level": 1,
+        "moveId": "play_rough"
+      },
+      {
+        "level": 5,
+        "moveId": "flamethrower"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "hyper_beam",
+      "strength",
+      "solar_beam",
+      "fire_spin",
+      "dig",
+      "toxic",
+      "agility",
+      "double_team",
+      "reflect",
+      "fire_blast",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "reversal",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "outrage",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "iron_tail",
+      "hidden_power",
+      "sunny_day",
+      "crunch",
+      "rock_smash",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "helping_hand",
+      "superpower",
+      "hyper_voice",
+      "overheat",
+      "aerial_ace",
+      "covet",
+      "close_combat",
+      "flare_blitz",
+      "dragon_pulse",
+      "giga_impact",
+      "thunder_fang",
+      "fire_fang",
+      "rock_climb",
+      "iron_head",
+      "flame_charge",
+      "round",
+      "incinerate",
+      "retaliate",
+      "bulldoze",
+      "wild_charge",
+      "heat_crash",
+      "snarl",
+      "play_rough",
+      "confide",
+      "psychic_fangs",
+      "scorching_sands",
+      "tera_blast",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "volcano"
+    ]
+  }
+]

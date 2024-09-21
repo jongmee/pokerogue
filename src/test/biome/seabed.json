@@ -1,0 +1,151 @@
+[
+  {
+    "_id": "seabed",
+    "name": "Seabed",
+    "koName": "해저",
+    "types": [
+      "water"
+    ],
+    "nextBiomes": [
+      {
+        "name": "cave",
+        "percentage": 75
+      },
+      {
+        "name": "volcano",
+        "percentage": 25
+      }
+    ],
+    "nativePokemons": [
+      {
+        "tier": "보통",
+        "pokemonIds": [
+          "chinchou",
+          "lanturn",
+          "remoraid",
+          "clamperl",
+          "basculin",
+          "frillish",
+          "jellicent",
+          "arrokuda",
+          "barraskewda",
+          "veluza"
+        ]
+      },
+      {
+        "tier": "드묾",
+        "pokemonIds": [
+          "tentacool",
+          "tentacruel",
+          "shellder",
+          "wailmer",
+          "wailord",
+          "luvdisc",
+          "shellos",
+          "gastrodon",
+          "skrelp",
+          "dragalge",
+          "pincurchin",
+          "dondozo"
+        ]
+      },
+      {
+        "tier": "레어",
+        "pokemonIds": [
+          "qwilfish",
+          "corsola",
+          "octillery",
+          "mantyke",
+          "mantine",
+          "alomomola",
+          "tynamo",
+          "eelektrik",
+          "dhelmise"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어",
+        "pokemonIds": [
+          "omanyte",
+          "omastar",
+          "kabuto",
+          "kabutops",
+          "relicanth",
+          "pyukumuku",
+          "galar_corsola",
+          "cursola",
+          "arctovish",
+          "hisui_qwilfish"
+        ]
+      },
+      {
+        "tier": "울트라 레어",
+        "pokemonIds": [
+          "feebas",
+          "nihilego"
+        ]
+      },
+      {
+        "tier": "보스",
+        "pokemonIds": [
+          "lanturn",
+          "qwilfish",
+          "corsola",
+          "octillery",
+          "mantine",
+          "wailord",
+          "huntail",
+          "gorebyss",
+          "luvdisc",
+          "jellicent",
+          "alomomola",
+          "dragalge",
+          "barraskewda",
+          "dondozo"
+        ]
+      },
+      {
+        "tier": "레어 보스",
+        "pokemonIds": [
+          "omastar",
+          "kabutops",
+          "relicanth",
+          "eelektross",
+          "pyukumuku",
+          "dhelmise",
+          "cursola",
+          "arctovish",
+          "basculegion",
+          "overqwil"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어 보스",
+        "pokemonIds": [
+          "milotic",
+          "nihilego"
+        ]
+      },
+      {
+        "tier": "슈퍼 울트라 레어 보스",
+        "pokemonIds": [
+          "kyogre"
+        ]
+      }
+    ],
+    "trainers": [
+      {
+        "name": "아단",
+        "types": [
+          "water"
+        ],
+        "pokemonIds": [
+          "horsea",
+          "barboach",
+          "spheal",
+          "relicanth"
+        ]
+      }
+    ]
+  }
+]

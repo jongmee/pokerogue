@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "ice_ball",
+    "name": "Ice Ball",
+    "koName": "아이스볼",
+    "type": "ice",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 30,
+    "accuracy": 90,
+    "powerPoint": 20,
+    "effect": "5턴 동안 상대를 공격한다. 기술이 맞을 때마다 위력이 올라간다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 3,
+    "realased": "",
+    "flags": [
+      "makes_contact",
+      "ballbomb_move"
+    ],
+    "pokemonIds": [
+      "glalie",
+      "alola_sandslash"
+    ]
+  }
+]

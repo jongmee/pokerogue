@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "infernal_parade",
+    "name": "Infernal Parade",
+    "koName": "백귀야행",
+    "type": "ghost",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 60,
+    "accuracy": 100,
+    "powerPoint": 15,
+    "effect": "무수히 많은 불덩이로 공격한다. 화상 상태로 만들 때가 있다. 상대가 상태 이상인 경우 위력이 2배가 된다.",
+    "effectChance": 30,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "vulpix",
+      "ninetales",
+      "yamask",
+      "cofagrigus",
+      "frillish",
+      "jellicent",
+      "cursola",
+      "galar_corsola",
+      "hisui_typhlosion"
+    ]
+  }
+]

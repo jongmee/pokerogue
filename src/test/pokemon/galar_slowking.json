@@ -1,0 +1,252 @@
+[
+  {
+    "_id": "galar_slowking",
+    "gender": "",
+    "pokedexNumber": "4199",
+    "name": "galar_slowking",
+    "koName": "야도킹",
+    "speciesName": "galar_slowking",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "172",
+    "friendship": "50",
+    "types": [
+      "poison",
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "curious_medicine",
+      "own_tempo"
+    ],
+    "hiddenAbilityId": "regenerator",
+    "passiveAbilityId": "unaware",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 490,
+    "hp": 95,
+    "attack": 65,
+    "defense": 80,
+    "specialAttack": 110,
+    "specialDefense": 110,
+    "speed": 30,
+    "height": 1.8,
+    "weight": 79.5,
+    "eggMoveIds": [
+      "trick_room",
+      "baddy_bad",
+      "moonblast",
+      "torch_song"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "eerie_spell"
+      },
+      {
+        "level": -1,
+        "moveId": "future_sight"
+      },
+      {
+        "level": -1,
+        "moveId": "chilly_reception"
+      },
+      {
+        "level": -1,
+        "moveId": "toxic"
+      },
+      {
+        "level": 1,
+        "moveId": "power_gem"
+      },
+      {
+        "level": 1,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 1,
+        "moveId": "swagger"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "curse"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "acid"
+      },
+      {
+        "level": 9,
+        "moveId": "yawn"
+      },
+      {
+        "level": 12,
+        "moveId": "confusion"
+      },
+      {
+        "level": 15,
+        "moveId": "disable"
+      },
+      {
+        "level": 18,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 21,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 24,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 27,
+        "moveId": "amnesia"
+      },
+      {
+        "level": 30,
+        "moveId": "surf"
+      },
+      {
+        "level": 33,
+        "moveId": "slack_off"
+      },
+      {
+        "level": 36,
+        "moveId": "psychic"
+      },
+      {
+        "level": 39,
+        "moveId": "psych_up"
+      },
+      {
+        "level": 42,
+        "moveId": "rain_dance"
+      },
+      {
+        "level": 45,
+        "moveId": "heal_pulse"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "pay_day",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "flamethrower",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "psybeam",
+      "hyper_beam",
+      "strength",
+      "thunder_wave",
+      "earthquake",
+      "dig",
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "metronome",
+      "fire_blast",
+      "waterfall",
+      "swift",
+      "amnesia",
+      "rest",
+      "tri_attack",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "whirlpool",
+      "hail",
+      "facade",
+      "taunt",
+      "trick",
+      "brick_break",
+      "skill_swap",
+      "imprison",
+      "dive",
+      "weather_ball",
+      "muddy_water",
+      "iron_defense",
+      "mud_shot",
+      "calm_mind",
+      "water_pulse",
+      "brine",
+      "fling",
+      "toxic_spikes",
+      "poison_jab",
+      "power_gem",
+      "drain_punch",
+      "focus_blast",
+      "giga_impact",
+      "nasty_plot",
+      "avalanche",
+      "zen_headbutt",
+      "trick_room",
+      "gunk_shot",
+      "grass_knot",
+      "wonder_room",
+      "psyshock",
+      "venoshock",
+      "sludge_wave",
+      "low_sweep",
+      "acid_spray",
+      "foul_play",
+      "round",
+      "stored_power",
+      "scald",
+      "hex",
+      "incinerate",
+      "bulldoze",
+      "razor_shell",
+      "snarl",
+      "venom_drench",
+      "psychic_terrain",
+      "stomping_tantrum",
+      "liquidation",
+      "expanding_force",
+      "tera_blast",
+      "chilling_water",
+      "psychic_noise"
+    ],
+    "biomeIds": [
+      "swamp"
+    ]
+  }
+]

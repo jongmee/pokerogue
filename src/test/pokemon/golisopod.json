@@ -1,0 +1,188 @@
+[
+  {
+    "_id": "golisopod",
+    "gender": "",
+    "pokedexNumber": "768",
+    "name": "golisopod",
+    "koName": "갑주무사",
+    "speciesName": "golisopod",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "186",
+    "friendship": "50",
+    "types": [
+      "bug",
+      "water"
+    ],
+    "normalAbilityIds": [
+      "emergency_exit"
+    ],
+    "hiddenAbilityId": "anticipation",
+    "passiveAbilityId": "regenerator",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 530,
+    "hp": 75,
+    "attack": 125,
+    "defense": 140,
+    "specialAttack": 60,
+    "specialDefense": 90,
+    "speed": 40,
+    "height": 2,
+    "weight": 108,
+    "eggMoveIds": [
+      "triple_axel",
+      "obstruct",
+      "jet_punch",
+      "surging_strikes"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "first_impression"
+      },
+      {
+        "level": 1,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": 1,
+        "moveId": "spite"
+      },
+      {
+        "level": 1,
+        "moveId": "struggle_bug"
+      },
+      {
+        "level": 4,
+        "moveId": "rock_smash"
+      },
+      {
+        "level": 8,
+        "moveId": "fury_cutter"
+      },
+      {
+        "level": 12,
+        "moveId": "mud_shot"
+      },
+      {
+        "level": 16,
+        "moveId": "bug_bite"
+      },
+      {
+        "level": 20,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 24,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 28,
+        "moveId": "slash"
+      },
+      {
+        "level": 32,
+        "moveId": "razor_shell"
+      },
+      {
+        "level": 36,
+        "moveId": "pin_missile"
+      },
+      {
+        "level": 40,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 44,
+        "moveId": "liquidation"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "pin_missile",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "toxic",
+      "screech",
+      "double_team",
+      "waterfall",
+      "swift",
+      "leech_life",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "spite",
+      "protect",
+      "sludge_bomb",
+      "spikes",
+      "icy_wind",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "psych_up",
+      "rock_smash",
+      "hail",
+      "facade",
+      "taunt",
+      "brick_break",
+      "knock_off",
+      "dive",
+      "rock_tomb",
+      "muddy_water",
+      "aerial_ace",
+      "iron_defense",
+      "bulk_up",
+      "mud_shot",
+      "water_pulse",
+      "close_combat",
+      "payback",
+      "assurance",
+      "fling",
+      "poison_jab",
+      "dark_pulse",
+      "x_scissor",
+      "bug_buzz",
+      "focus_blast",
+      "giga_impact",
+      "shadow_claw",
+      "iron_head",
+      "bug_bite",
+      "venoshock",
+      "sludge_wave",
+      "round",
+      "scald",
+      "struggle_bug",
+      "frost_breath",
+      "drill_run",
+      "razor_shell",
+      "snarl",
+      "confide",
+      "throat_chop",
+      "liquidation",
+      "skitter_smack",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "cave"
+    ]
+  }
+]

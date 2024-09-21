@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "dauntless_shield",
+    "name": "Dauntless Shield",
+    "koName": "불굴의방패",
+    "realased": "",
+    "description": "등장했을 때 방어가 올라간다.",
+    "generation": 8,
+    "pokemonIds": [
+      "chespin",
+      "quilladin",
+      "chesnaught",
+      "turtonator",
+      "jangmo_o",
+      "hakamo_o",
+      "kommo_o",
+      "zamazenta"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

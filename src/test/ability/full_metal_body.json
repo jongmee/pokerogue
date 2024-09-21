@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "full_metal_body",
+    "name": "Full Metal Body",
+    "koName": "메탈프로텍트",
+    "realased": "",
+    "description": "상대 기술이나 특성으로 능력이 떨어지지 않는다.",
+    "generation": 7,
+    "pokemonIds": [
+      "solgaleo"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

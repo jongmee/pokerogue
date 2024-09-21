@@ -1,0 +1,48 @@
+[
+  {
+    "_id": "seismic_toss",
+    "name": "Seismic Toss",
+    "koName": "지구던지기",
+    "type": "fighting",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": 100,
+    "powerPoint": 20,
+    "effect": "인력을 사용해 내던진다. 자신의 레벨과 똑같은 데미지를 상대에게 준다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 1,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "mankey",
+      "primeape",
+      "machop",
+      "machoke",
+      "machamp",
+      "chansey",
+      "kangaskhan",
+      "kangaskhan_mega",
+      "pinsir",
+      "blissey",
+      "makuhita",
+      "hariyama",
+      "starly",
+      "staravia",
+      "staraptor",
+      "cranidos",
+      "rampardos",
+      "happiny",
+      "tepig",
+      "pignite",
+      "emboar",
+      "throh",
+      "bouffalant",
+      "annihilape",
+      "iron_hands"
+    ]
+  }
+]

@@ -1,0 +1,159 @@
+[
+  {
+    "_id": "finneon",
+    "gender": "",
+    "pokedexNumber": "456",
+    "name": "finneon",
+    "koName": "형광어",
+    "speciesName": "finneon",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "66",
+    "friendship": "70",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "swift_swim",
+      "storm_drain"
+    ],
+    "hiddenAbilityId": "water_veil",
+    "passiveAbilityId": "water_bubble",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 330,
+    "hp": 49,
+    "attack": 49,
+    "defense": 56,
+    "specialAttack": 49,
+    "specialDefense": 61,
+    "speed": 66,
+    "height": 0.4,
+    "weight": 7,
+    "eggMoveIds": [
+      "quiver_dance",
+      "bouncy_bubble",
+      "freeze_dry",
+      "origin_pulse"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 6,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 13,
+        "moveId": "rain_dance"
+      },
+      {
+        "level": 17,
+        "moveId": "gust"
+      },
+      {
+        "level": 22,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 26,
+        "moveId": "attract"
+      },
+      {
+        "level": 29,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 33,
+        "moveId": "aqua_ring"
+      },
+      {
+        "level": 38,
+        "moveId": "whirlpool"
+      },
+      {
+        "level": 42,
+        "moveId": "u_turn"
+      },
+      {
+        "level": 45,
+        "moveId": "bounce"
+      },
+      {
+        "level": 49,
+        "moveId": "tailwind"
+      },
+      {
+        "level": 54,
+        "moveId": "soak"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "psybeam",
+      "toxic",
+      "agility",
+      "double_team",
+      "confuse_ray",
+      "waterfall",
+      "swift",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "icy_wind",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "rain_dance",
+      "psych_up",
+      "whirlpool",
+      "hail",
+      "facade",
+      "nature_power",
+      "helping_hand",
+      "dive",
+      "air_cutter",
+      "signal_beam",
+      "bounce",
+      "water_pulse",
+      "brine",
+      "tailwind",
+      "u_turn",
+      "payback",
+      "aqua_tail",
+      "defog",
+      "round",
+      "scald",
+      "acrobatics",
+      "confide",
+      "dazzling_gleam",
+      "flip_turn",
+      "tera_blast",
+      "chilling_water",
+      "alluring_voice"
+    ],
+    "biomeIds": [
+      "sea"
+    ]
+  }
+]

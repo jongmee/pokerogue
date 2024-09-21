@@ -1,0 +1,200 @@
+[
+  {
+    "_id": "ludicolo",
+    "gender": "",
+    "pokedexNumber": "272",
+    "name": "ludicolo",
+    "koName": "로파파",
+    "speciesName": "ludicolo",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "240",
+    "friendship": "50",
+    "types": [
+      "water",
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "swift_swim",
+      "rain_dish"
+    ],
+    "hiddenAbilityId": "own_tempo",
+    "passiveAbilityId": "drizzle",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 480,
+    "hp": 80,
+    "attack": 70,
+    "defense": 70,
+    "specialAttack": 90,
+    "specialDefense": 100,
+    "speed": 70,
+    "height": 1.5,
+    "weight": 55,
+    "eggMoveIds": [
+      "revelation_dance",
+      "apple_acid",
+      "ice_beam",
+      "quiver_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": -1,
+        "moveId": "growl"
+      },
+      {
+        "level": -1,
+        "moveId": "mist"
+      },
+      {
+        "level": -1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": -1,
+        "moveId": "hydro_pump"
+      },
+      {
+        "level": -1,
+        "moveId": "absorb"
+      },
+      {
+        "level": -1,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": -1,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": -1,
+        "moveId": "flail"
+      },
+      {
+        "level": -1,
+        "moveId": "knock_off"
+      },
+      {
+        "level": -1,
+        "moveId": "teeter_dance"
+      },
+      {
+        "level": -1,
+        "moveId": "astonish"
+      },
+      {
+        "level": -1,
+        "moveId": "energy_ball"
+      },
+      {
+        "level": -1,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 1,
+        "moveId": "fake_out"
+      },
+      {
+        "level": 1,
+        "moveId": "bubble_beam"
+      },
+      {
+        "level": 1,
+        "moveId": "rain_dance"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "swords_dance",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "counter",
+      "strength",
+      "solar_beam",
+      "toxic",
+      "double_team",
+      "metronome",
+      "waterfall",
+      "swift",
+      "amnesia",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "synthesis",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "rock_smash",
+      "whirlpool",
+      "uproar",
+      "hail",
+      "facade",
+      "focus_punch",
+      "nature_power",
+      "brick_break",
+      "knock_off",
+      "dive",
+      "hyper_voice",
+      "weather_ball",
+      "muddy_water",
+      "bullet_seed",
+      "mud_shot",
+      "magical_leaf",
+      "water_pulse",
+      "fling",
+      "seed_bomb",
+      "drain_punch",
+      "focus_blast",
+      "energy_ball",
+      "giga_impact",
+      "zen_headbutt",
+      "rock_climb",
+      "leaf_storm",
+      "grass_knot",
+      "hone_claws",
+      "round",
+      "echoed_voice",
+      "scald",
+      "disarming_voice",
+      "grassy_terrain",
+      "confide",
+      "power_up_punch",
+      "grassy_glide",
+      "tera_blast",
+      "ice_spinner",
+      "trailblaze",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "swamp"
+    ]
+  }
+]

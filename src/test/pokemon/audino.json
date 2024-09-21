@@ -1,0 +1,203 @@
+[
+  {
+    "_id": "audino",
+    "gender": "",
+    "pokedexNumber": "531",
+    "name": "audino",
+    "koName": "다부니",
+    "speciesName": "audino",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "390",
+    "friendship": "50",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "healer",
+      "regenerator"
+    ],
+    "hiddenAbilityId": "klutz",
+    "passiveAbilityId": "friend_guard",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 445,
+    "hp": 103,
+    "attack": 60,
+    "defense": 86,
+    "specialAttack": 60,
+    "specialDefense": 86,
+    "speed": 50,
+    "height": 1.1,
+    "weight": 31,
+    "eggMoveIds": [
+      "follow_me",
+      "moonblast",
+      "wish",
+      "lunar_blessing"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "play_nice"
+      },
+      {
+        "level": 4,
+        "moveId": "disarming_voice"
+      },
+      {
+        "level": 9,
+        "moveId": "baby_doll_eyes"
+      },
+      {
+        "level": 12,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 16,
+        "moveId": "growl"
+      },
+      {
+        "level": 20,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 24,
+        "moveId": "life_dew"
+      },
+      {
+        "level": 28,
+        "moveId": "after_you"
+      },
+      {
+        "level": 32,
+        "moveId": "take_down"
+      },
+      {
+        "level": 36,
+        "moveId": "simple_beam"
+      },
+      {
+        "level": 40,
+        "moveId": "hyper_voice"
+      },
+      {
+        "level": 44,
+        "moveId": "heal_pulse"
+      },
+      {
+        "level": 48,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 52,
+        "moveId": "entrainment"
+      },
+      {
+        "level": 56,
+        "moveId": "misty_terrain"
+      },
+      {
+        "level": 60,
+        "moveId": "last_resort"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "flamethrower",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "low_kick",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "dig",
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "fire_blast",
+      "amnesia",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "safeguard",
+      "pain_split",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "uproar",
+      "facade",
+      "focus_punch",
+      "helping_hand",
+      "knock_off",
+      "skill_swap",
+      "hyper_voice",
+      "signal_beam",
+      "covet",
+      "calm_mind",
+      "gravity",
+      "fling",
+      "drain_punch",
+      "giga_impact",
+      "zen_headbutt",
+      "trick_room",
+      "grass_knot",
+      "charge_beam",
+      "psyshock",
+      "round",
+      "echoed_voice",
+      "ally_switch",
+      "incinerate",
+      "retaliate",
+      "work_up",
+      "wild_charge",
+      "disarming_voice",
+      "draining_kiss",
+      "misty_terrain",
+      "confide",
+      "dazzling_gleam",
+      "power_up_punch",
+      "throat_chop",
+      "stomping_tantrum",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "fairy_cave"
+    ]
+  }
+]

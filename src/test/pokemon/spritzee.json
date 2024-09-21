@@ -1,0 +1,156 @@
+[
+  {
+    "_id": "spritzee",
+    "gender": "",
+    "pokedexNumber": "682",
+    "name": "spritzee",
+    "koName": "슈쁘",
+    "speciesName": "spritzee",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "68",
+    "friendship": "50",
+    "types": [
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "healer"
+    ],
+    "hiddenAbilityId": "aroma_veil",
+    "passiveAbilityId": "fur_coat",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 341,
+    "hp": 78,
+    "attack": 52,
+    "defense": 60,
+    "specialAttack": 63,
+    "specialDefense": 65,
+    "speed": 23,
+    "height": 0.2,
+    "weight": 0.5,
+    "eggMoveIds": [
+      "trick_room",
+      "foul_play",
+      "wish",
+      "revival_blessing"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 1,
+        "moveId": "fairy_wind"
+      },
+      {
+        "level": 3,
+        "moveId": "sweet_kiss"
+      },
+      {
+        "level": 6,
+        "moveId": "echoed_voice"
+      },
+      {
+        "level": 9,
+        "moveId": "draining_kiss"
+      },
+      {
+        "level": 12,
+        "moveId": "aromatherapy"
+      },
+      {
+        "level": 18,
+        "moveId": "attract"
+      },
+      {
+        "level": 21,
+        "moveId": "flail"
+      },
+      {
+        "level": 24,
+        "moveId": "misty_terrain"
+      },
+      {
+        "level": 27,
+        "moveId": "psychic"
+      },
+      {
+        "level": 30,
+        "moveId": "charm"
+      },
+      {
+        "level": 33,
+        "moveId": "calm_mind"
+      },
+      {
+        "level": 36,
+        "moveId": "moonblast"
+      },
+      {
+        "level": 39,
+        "moveId": "skill_swap"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "thunderbolt",
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "torment",
+      "facade",
+      "helping_hand",
+      "endeavor",
+      "skill_swap",
+      "fake_tears",
+      "covet",
+      "calm_mind",
+      "gyro_ball",
+      "energy_ball",
+      "nasty_plot",
+      "flash_cannon",
+      "trick_room",
+      "charge_beam",
+      "round",
+      "echoed_voice",
+      "ally_switch",
+      "disarming_voice",
+      "draining_kiss",
+      "misty_terrain",
+      "confide",
+      "dazzling_gleam",
+      "misty_explosion",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "fairy_cave"
+    ]
+  }
+]

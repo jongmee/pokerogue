@@ -1,0 +1,177 @@
+[
+  {
+    "_id": "gothorita",
+    "gender": "",
+    "pokedexNumber": "575",
+    "name": "gothorita",
+    "koName": "고디보미",
+    "speciesName": "gothorita",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "137",
+    "friendship": "50",
+    "types": [
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "frisk",
+      "competitive"
+    ],
+    "hiddenAbilityId": "shadow_tag",
+    "passiveAbilityId": "unnerve",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 390,
+    "hp": 60,
+    "attack": 45,
+    "defense": 70,
+    "specialAttack": 75,
+    "specialDefense": 85,
+    "speed": 55,
+    "height": 0.7,
+    "weight": 18,
+    "eggMoveIds": [
+      "recover",
+      "moonblast",
+      "aura_sphere",
+      "lumina_crash"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 1,
+        "moveId": "tickle"
+      },
+      {
+        "level": 1,
+        "moveId": "play_nice"
+      },
+      {
+        "level": 12,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 16,
+        "moveId": "charm"
+      },
+      {
+        "level": 20,
+        "moveId": "psyshock"
+      },
+      {
+        "level": 24,
+        "moveId": "hypnosis"
+      },
+      {
+        "level": 28,
+        "moveId": "fake_tears"
+      },
+      {
+        "level": 34,
+        "moveId": "heal_block"
+      },
+      {
+        "level": 35,
+        "moveId": "psych_up"
+      },
+      {
+        "level": 46,
+        "moveId": "flatter"
+      },
+      {
+        "level": 52,
+        "moveId": "future_sight"
+      },
+      {
+        "level": 58,
+        "moveId": "magic_room"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "psybeam",
+      "thunderbolt",
+      "thunder_wave",
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "metronome",
+      "swift",
+      "dream_eater",
+      "flash",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "rain_dance",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "uproar",
+      "torment",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "trick",
+      "recycle",
+      "skill_swap",
+      "imprison",
+      "fake_tears",
+      "rock_tomb",
+      "signal_beam",
+      "covet",
+      "calm_mind",
+      "gravity",
+      "payback",
+      "embargo",
+      "fling",
+      "guard_swap",
+      "dark_pulse",
+      "energy_ball",
+      "nasty_plot",
+      "zen_headbutt",
+      "trick_room",
+      "grass_knot",
+      "charge_beam",
+      "psyshock",
+      "magic_room",
+      "foul_play",
+      "round",
+      "stored_power",
+      "ally_switch",
+      "confide",
+      "psychic_terrain",
+      "expanding_force",
+      "tera_blast",
+      "psychic_noise"
+    ],
+    "biomeIds": [
+      "ruins"
+    ]
+  }
+]

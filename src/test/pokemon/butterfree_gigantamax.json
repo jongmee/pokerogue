@@ -1,0 +1,123 @@
+[
+  {
+    "_id": "butterfree_gigantamax",
+    "gender": "",
+    "pokedexNumber": "12",
+    "name": "butterfree_gigantamax",
+    "koName": "버터플_gigantamax",
+    "speciesName": "butterfree",
+    "canChangeForm": true,
+    "formName": "g_max",
+    "baseExp": "198",
+    "friendship": "50",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "compound_eyes"
+    ],
+    "hiddenAbilityId": "compound_eyes",
+    "passiveAbilityId": "magician",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 495,
+    "hp": 85,
+    "attack": 35,
+    "defense": 80,
+    "specialAttack": 120,
+    "specialDefense": 90,
+    "speed": 85,
+    "height": 17,
+    "weight": 32,
+    "eggMoveIds": [
+      "sandsear_storm",
+      "silk_trap",
+      "twin_beam",
+      "bleakwind_storm"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "gust"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "string_shot"
+      },
+      {
+        "level": 1,
+        "moveId": "harden"
+      },
+      {
+        "level": 1,
+        "moveId": "bug_bite"
+      },
+      {
+        "level": 4,
+        "moveId": "supersonic"
+      },
+      {
+        "level": 8,
+        "moveId": "confusion"
+      },
+      {
+        "level": 12,
+        "moveId": "poison_powder"
+      },
+      {
+        "level": 12,
+        "moveId": "stun_spore"
+      },
+      {
+        "level": 12,
+        "moveId": "sleep_powder"
+      },
+      {
+        "level": 16,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 20,
+        "moveId": "whirlwind"
+      },
+      {
+        "level": 24,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 28,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 32,
+        "moveId": "bug_buzz"
+      },
+      {
+        "level": 36,
+        "moveId": "tailwind"
+      },
+      {
+        "level": 40,
+        "moveId": "rage_powder"
+      },
+      {
+        "level": 44,
+        "moveId": "quiver_dance"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "forest"
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "_id": "static",
+    "name": "Static",
+    "koName": "정전기",
+    "realased": "",
+    "description": "정전기를 몸에 둘러 접촉한 상대를 마비시킬 때가 있다.",
+    "generation": 3,
+    "pokemonIds": [
+      "pikachu",
+      "pikachu_partner",
+      "pikachu_cosplay",
+      "pikachu_cool_cosplay",
+      "pikachu_beauty_cosplay",
+      "pikachu_cute_cosplay",
+      "pikachu_smart_cosplay",
+      "pikachu_tough_cosplay",
+      "raichu",
+      "voltorb",
+      "electrode",
+      "electabuzz",
+      "zapdos",
+      "pichu",
+      "mareep",
+      "flaaffy",
+      "ampharos",
+      "elekid",
+      "electrike",
+      "manectric",
+      "emolga",
+      "stunfisk",
+      "toxel",
+      "arctozolt",
+      "pawmi",
+      "tadbulb",
+      "bellibolt",
+      "hisui_voltorb",
+      "hisui_electrode"
+    ],
+    "isBypassFaint": true,
+    "isIgnorable": false
+  }
+]

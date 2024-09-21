@@ -1,0 +1,113 @@
+[
+  {
+    "_id": "deoxys_attack",
+    "gender": "",
+    "pokedexNumber": "386",
+    "name": "deoxys_attack",
+    "koName": "테오키스_attack",
+    "speciesName": "deoxys",
+    "canChangeForm": true,
+    "formName": "attack_forme",
+    "baseExp": "270",
+    "friendship": "0",
+    "types": [
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "pressure"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "protean",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": true,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 600,
+    "hp": 50,
+    "attack": 180,
+    "defense": 20,
+    "specialAttack": 180,
+    "specialDefense": 20,
+    "speed": 150,
+    "height": 1.7,
+    "weight": 60.8,
+    "eggMoveIds": [
+      "collision_course",
+      "earth_power",
+      "parting_shot",
+      "lumina_crash"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 1,
+        "moveId": "wrap"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 7,
+        "moveId": "night_shade"
+      },
+      {
+        "level": 13,
+        "moveId": "teleport"
+      },
+      {
+        "level": 19,
+        "moveId": "taunt"
+      },
+      {
+        "level": 25,
+        "moveId": "pursuit"
+      },
+      {
+        "level": 31,
+        "moveId": "psychic"
+      },
+      {
+        "level": 37,
+        "moveId": "superpower"
+      },
+      {
+        "level": 43,
+        "moveId": "psycho_shift"
+      },
+      {
+        "level": 49,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 55,
+        "moveId": "cosmic_power"
+      },
+      {
+        "level": 61,
+        "moveId": "zap_cannon"
+      },
+      {
+        "level": 67,
+        "moveId": "psycho_boost"
+      },
+      {
+        "level": 73,
+        "moveId": "hyper_beam"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "mega_kick",
+      "superpower",
+      "cosmic_power"
+    ],
+    "biomeIds": []
+  }
+]

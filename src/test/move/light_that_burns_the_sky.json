@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "light_that_burns_the_sky",
+    "name": "Light That Burns the Sky",
+    "koName": "하늘을태우는멸망의빛",
+    "type": "psychic",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 200,
+    "accuracy": -1,
+    "powerPoint": 1,
+    "effect": "네크로즈마가 상대의 특성 효과를 무시하고 공격과 특수공격 중 높은 쪽으로 데미지를 준다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": "",
+    "flags": [
+      "ignore_virtual",
+      "ignore_abilities"
+    ],
+    "pokemonIds": []
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "_id": "honedge",
+    "gender": "",
+    "pokedexNumber": "679",
+    "name": "honedge",
+    "koName": "단칼빙",
+    "speciesName": "honedge",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "65",
+    "friendship": "50",
+    "types": [
+      "steel",
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "no_guard"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "sharpness",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 325,
+    "hp": 45,
+    "attack": 80,
+    "defense": 100,
+    "specialAttack": 35,
+    "specialDefense": 37,
+    "speed": 28,
+    "height": 0.8,
+    "weight": 2,
+    "eggMoveIds": [
+      "tachyon_cutter",
+      "shadow_bone",
+      "bitter_blade",
+      "behemoth_blade"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "fury_cutter"
+      },
+      {
+        "level": 4,
+        "moveId": "shadow_sneak"
+      },
+      {
+        "level": 8,
+        "moveId": "autotomize"
+      },
+      {
+        "level": 12,
+        "moveId": "aerial_ace"
+      },
+      {
+        "level": 16,
+        "moveId": "metal_sound"
+      },
+      {
+        "level": 20,
+        "moveId": "slash"
+      },
+      {
+        "level": 24,
+        "moveId": "night_slash"
+      },
+      {
+        "level": 28,
+        "moveId": "retaliate"
+      },
+      {
+        "level": 32,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 36,
+        "moveId": "iron_head"
+      },
+      {
+        "level": 40,
+        "moveId": "power_trick"
+      },
+      {
+        "level": 44,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 48,
+        "moveId": "sacred_sword"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "toxic",
+      "screech",
+      "double_team",
+      "reflect",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "reversal",
+      "spite",
+      "protect",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "rock_smash",
+      "facade",
+      "brick_break",
+      "metal_sound",
+      "aerial_ace",
+      "iron_defense",
+      "gyro_ball",
+      "close_combat",
+      "shadow_claw",
+      "psycho_cut",
+      "flash_cannon",
+      "iron_head",
+      "round",
+      "retaliate",
+      "sacred_sword",
+      "confide",
+      "solar_blade",
+      "brutal_swing",
+      "steel_beam",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "temple"
+    ]
+  }
+]

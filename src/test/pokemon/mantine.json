@@ -1,0 +1,192 @@
+[
+  {
+    "_id": "mantine",
+    "gender": "",
+    "pokedexNumber": "226",
+    "name": "mantine",
+    "koName": "만타인",
+    "speciesName": "mantine",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "170",
+    "friendship": "50",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "swift_swim",
+      "water_absorb"
+    ],
+    "hiddenAbilityId": "water_veil",
+    "passiveAbilityId": "unaware",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 485,
+    "hp": 85,
+    "attack": 40,
+    "defense": 70,
+    "specialAttack": 80,
+    "specialDefense": 140,
+    "speed": 70,
+    "height": 2.1,
+    "weight": 220,
+    "eggMoveIds": [
+      "splishy_splash",
+      "freezy_frost",
+      "nasty_plot",
+      "oblivion_wing"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "wing_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "supersonic"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 1,
+        "moveId": "signal_beam"
+      },
+      {
+        "level": 1,
+        "moveId": "bullet_seed"
+      },
+      {
+        "level": 1,
+        "moveId": "roost"
+      },
+      {
+        "level": 12,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 16,
+        "moveId": "wide_guard"
+      },
+      {
+        "level": 20,
+        "moveId": "agility"
+      },
+      {
+        "level": 24,
+        "moveId": "bubble_beam"
+      },
+      {
+        "level": 28,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 32,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 36,
+        "moveId": "aqua_ring"
+      },
+      {
+        "level": 40,
+        "moveId": "bounce"
+      },
+      {
+        "level": 44,
+        "moveId": "take_down"
+      },
+      {
+        "level": 48,
+        "moveId": "hydro_pump"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "psybeam",
+      "hyper_beam",
+      "earthquake",
+      "toxic",
+      "agility",
+      "double_team",
+      "confuse_ray",
+      "haze",
+      "waterfall",
+      "swift",
+      "amnesia",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "whirlpool",
+      "hail",
+      "facade",
+      "helping_hand",
+      "dive",
+      "air_cutter",
+      "rock_tomb",
+      "signal_beam",
+      "bullet_seed",
+      "aerial_ace",
+      "bounce",
+      "rock_blast",
+      "water_pulse",
+      "roost",
+      "brine",
+      "tailwind",
+      "assurance",
+      "aqua_tail",
+      "seed_bomb",
+      "air_slash",
+      "giga_impact",
+      "defog",
+      "gunk_shot",
+      "iron_head",
+      "round",
+      "scald",
+      "acrobatics",
+      "bulldoze",
+      "hurricane",
+      "confide",
+      "liquidation",
+      "body_press",
+      "dual_wingbeat",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "seabed"
+    ]
+  }
+]

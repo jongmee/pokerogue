@@ -1,0 +1,111 @@
+[
+  {
+    "_id": "heracross_mega",
+    "gender": "",
+    "pokedexNumber": "214",
+    "name": "heracross_mega",
+    "koName": "헤라크로스_mega",
+    "speciesName": "heracross",
+    "canChangeForm": true,
+    "formName": "mega",
+    "baseExp": "175",
+    "friendship": "50",
+    "types": [
+      "bug",
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "skill_link"
+    ],
+    "hiddenAbilityId": "skill_link",
+    "passiveAbilityId": "technician",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 600,
+    "hp": 80,
+    "attack": 185,
+    "defense": 115,
+    "specialAttack": 40,
+    "specialDefense": 105,
+    "speed": 75,
+    "height": 1.7,
+    "weight": 62.5,
+    "eggMoveIds": [
+      "rock_blast",
+      "first_impression",
+      "icicle_spear",
+      "dragon_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "arm_thrust"
+      },
+      {
+        "level": 5,
+        "moveId": "fury_attack"
+      },
+      {
+        "level": 10,
+        "moveId": "endure"
+      },
+      {
+        "level": 15,
+        "moveId": "aerial_ace"
+      },
+      {
+        "level": 20,
+        "moveId": "horn_attack"
+      },
+      {
+        "level": 25,
+        "moveId": "counter"
+      },
+      {
+        "level": 30,
+        "moveId": "brick_break"
+      },
+      {
+        "level": 35,
+        "moveId": "pin_missile"
+      },
+      {
+        "level": 40,
+        "moveId": "throat_chop"
+      },
+      {
+        "level": 45,
+        "moveId": "thrash"
+      },
+      {
+        "level": 50,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 55,
+        "moveId": "megahorn"
+      },
+      {
+        "level": 60,
+        "moveId": "close_combat"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "forest"
+    ]
+  }
+]

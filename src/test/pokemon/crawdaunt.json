@@ -1,0 +1,196 @@
+[
+  {
+    "_id": "crawdaunt",
+    "gender": "",
+    "pokedexNumber": "342",
+    "name": "crawdaunt",
+    "koName": "가재장군",
+    "speciesName": "crawdaunt",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "164",
+    "friendship": "50",
+    "types": [
+      "water",
+      "dark"
+    ],
+    "normalAbilityIds": [
+      "hyper_cutter",
+      "shell_armor"
+    ],
+    "hiddenAbilityId": "adaptability",
+    "passiveAbilityId": "tough_claws",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 468,
+    "hp": 63,
+    "attack": 120,
+    "defense": 85,
+    "specialAttack": 90,
+    "specialDefense": 55,
+    "speed": 55,
+    "height": 1.1,
+    "weight": 32.8,
+    "eggMoveIds": [
+      "ceaseless_edge",
+      "jet_punch",
+      "sucker_punch",
+      "shell_smash"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "swift"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "harden"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "taunt"
+      },
+      {
+        "level": 12,
+        "moveId": "bubble_beam"
+      },
+      {
+        "level": 16,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 20,
+        "moveId": "double_hit"
+      },
+      {
+        "level": 24,
+        "moveId": "protect"
+      },
+      {
+        "level": 28,
+        "moveId": "night_slash"
+      },
+      {
+        "level": 34,
+        "moveId": "razor_shell"
+      },
+      {
+        "level": 40,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 46,
+        "moveId": "crunch"
+      },
+      {
+        "level": 52,
+        "moveId": "crabhammer"
+      },
+      {
+        "level": 58,
+        "moveId": "endeavor"
+      },
+      {
+        "level": 64,
+        "moveId": "guillotine"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "counter",
+      "strength",
+      "dig",
+      "toxic",
+      "double_team",
+      "waterfall",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "spite",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "crunch",
+      "rock_smash",
+      "whirlpool",
+      "hail",
+      "facade",
+      "nature_power",
+      "taunt",
+      "superpower",
+      "revenge",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "dive",
+      "rock_tomb",
+      "muddy_water",
+      "aerial_ace",
+      "iron_defense",
+      "mud_shot",
+      "dragon_dance",
+      "water_pulse",
+      "close_combat",
+      "payback",
+      "fling",
+      "dark_pulse",
+      "x_scissor",
+      "giga_impact",
+      "nasty_plot",
+      "avalanche",
+      "hone_claws",
+      "sludge_wave",
+      "round",
+      "scald",
+      "retaliate",
+      "razor_shell",
+      "snarl",
+      "confide",
+      "liquidation",
+      "lash_out",
+      "tera_blast",
+      "chilling_water",
+      "hard_press"
+    ],
+    "biomeIds": [
+      "beach"
+    ]
+  }
+]

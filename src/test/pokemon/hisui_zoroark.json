@@ -1,0 +1,184 @@
+[
+  {
+    "_id": "hisui_zoroark",
+    "gender": "",
+    "pokedexNumber": "6571",
+    "name": "hisui_zoroark",
+    "koName": "조로아크",
+    "speciesName": "hisui_zoroark",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "179",
+    "friendship": "50",
+    "types": [
+      "normal",
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "illusion"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "adaptability",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 510,
+    "hp": 55,
+    "attack": 100,
+    "defense": 60,
+    "specialAttack": 125,
+    "specialDefense": 60,
+    "speed": 110,
+    "height": 1.6,
+    "weight": 83,
+    "eggMoveIds": [
+      "moonblast",
+      "hyper_voice",
+      "parting_shot",
+      "blood_moon"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "shadow_claw"
+      },
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "torment"
+      },
+      {
+        "level": 1,
+        "moveId": "u_turn"
+      },
+      {
+        "level": 1,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 12,
+        "moveId": "shadow_sneak"
+      },
+      {
+        "level": 16,
+        "moveId": "curse"
+      },
+      {
+        "level": 20,
+        "moveId": "taunt"
+      },
+      {
+        "level": 24,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 28,
+        "moveId": "spite"
+      },
+      {
+        "level": 34,
+        "moveId": "agility"
+      },
+      {
+        "level": 40,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 46,
+        "moveId": "bitter_malice"
+      },
+      {
+        "level": 52,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 58,
+        "moveId": "foul_play"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "body_slam",
+      "take_down",
+      "roar",
+      "flamethrower",
+      "hyper_beam",
+      "low_kick",
+      "dig",
+      "psychic",
+      "agility",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "curse",
+      "spite",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "icy_wind",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "hidden_power",
+      "rain_dance",
+      "crunch",
+      "shadow_ball",
+      "rock_smash",
+      "torment",
+      "will_o_wisp",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "trick",
+      "brick_break",
+      "knock_off",
+      "imprison",
+      "hyper_voice",
+      "fake_tears",
+      "aerial_ace",
+      "calm_mind",
+      "u_turn",
+      "fling",
+      "dark_pulse",
+      "focus_blast",
+      "giga_impact",
+      "nasty_plot",
+      "shadow_claw",
+      "grass_knot",
+      "hone_claws",
+      "low_sweep",
+      "foul_play",
+      "hex",
+      "snarl",
+      "phantom_force",
+      "skitter_smack",
+      "burning_jealousy",
+      "lash_out",
+      "poltergeist",
+      "tera_blast",
+      "snowscape"
+    ],
+    "biomeIds": [
+      "snowy_forest"
+    ]
+  }
+]

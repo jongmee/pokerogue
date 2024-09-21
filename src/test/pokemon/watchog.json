@@ -1,0 +1,197 @@
+[
+  {
+    "_id": "watchog",
+    "gender": "",
+    "pokedexNumber": "505",
+    "name": "watchog",
+    "koName": "보르그",
+    "speciesName": "watchog",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "147",
+    "friendship": "70",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "illuminate",
+      "keen_eye"
+    ],
+    "hiddenAbilityId": "analytic",
+    "passiveAbilityId": "no_guard",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 420,
+    "hp": 60,
+    "attack": 85,
+    "defense": 69,
+    "specialAttack": 60,
+    "specialDefense": 69,
+    "speed": 77,
+    "height": 1.1,
+    "weight": 27,
+    "eggMoveIds": [
+      "fake_out",
+      "swords_dance",
+      "dynamic_punch",
+      "extreme_speed"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "bite"
+      },
+      {
+        "level": 1,
+        "moveId": "low_kick"
+      },
+      {
+        "level": 1,
+        "moveId": "rototiller"
+      },
+      {
+        "level": 8,
+        "moveId": "bide"
+      },
+      {
+        "level": 11,
+        "moveId": "detect"
+      },
+      {
+        "level": 13,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 16,
+        "moveId": "crunch"
+      },
+      {
+        "level": 18,
+        "moveId": "hypnosis"
+      },
+      {
+        "level": 22,
+        "moveId": "super_fang"
+      },
+      {
+        "level": 25,
+        "moveId": "after_you"
+      },
+      {
+        "level": 29,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 32,
+        "moveId": "psych_up"
+      },
+      {
+        "level": 36,
+        "moveId": "hyper_fang"
+      },
+      {
+        "level": 39,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 43,
+        "moveId": "mean_look"
+      },
+      {
+        "level": 46,
+        "moveId": "baton_pass"
+      },
+      {
+        "level": 50,
+        "moveId": "slam"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "swords_dance",
+      "cut",
+      "flamethrower",
+      "hyper_beam",
+      "low_kick",
+      "strength",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "dig",
+      "toxic",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "focus_energy",
+      "dream_eater",
+      "flash",
+      "rest",
+      "super_fang",
+      "substitute",
+      "snore",
+      "protect",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "psych_up",
+      "shadow_ball",
+      "rock_smash",
+      "facade",
+      "focus_punch",
+      "helping_hand",
+      "revenge",
+      "knock_off",
+      "endeavor",
+      "signal_beam",
+      "bullet_seed",
+      "covet",
+      "fling",
+      "aqua_tail",
+      "seed_bomb",
+      "focus_blast",
+      "giga_impact",
+      "nasty_plot",
+      "zen_headbutt",
+      "gunk_shot",
+      "grass_knot",
+      "round",
+      "retaliate",
+      "work_up",
+      "confide",
+      "power_up_punch",
+      "stomping_tantrum",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "metropolis",
+      "slum"
+    ]
+  }
+]

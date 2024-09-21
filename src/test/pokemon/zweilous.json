@@ -1,0 +1,183 @@
+[
+  {
+    "_id": "zweilous",
+    "gender": "",
+    "pokedexNumber": "634",
+    "name": "zweilous",
+    "koName": "디헤드",
+    "speciesName": "zweilous",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "147",
+    "friendship": "35",
+    "types": [
+      "dark",
+      "dragon"
+    ],
+    "normalAbilityIds": [
+      "hustle"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "parental_bond",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 420,
+    "hp": 72,
+    "attack": 85,
+    "defense": 70,
+    "specialAttack": 65,
+    "specialDefense": 70,
+    "speed": 58,
+    "height": 1.4,
+    "weight": 50,
+    "eggMoveIds": [
+      "fiery_wrath",
+      "esper_wing",
+      "sludge_bomb",
+      "fickle_beam"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "bite"
+      },
+      {
+        "level": 1,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 1,
+        "moveId": "dragon_breath"
+      },
+      {
+        "level": 1,
+        "moveId": "double_hit"
+      },
+      {
+        "level": 12,
+        "moveId": "roar"
+      },
+      {
+        "level": 16,
+        "moveId": "assurance"
+      },
+      {
+        "level": 20,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 24,
+        "moveId": "work_up"
+      },
+      {
+        "level": 28,
+        "moveId": "slam"
+      },
+      {
+        "level": 32,
+        "moveId": "crunch"
+      },
+      {
+        "level": 36,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 40,
+        "moveId": "dragon_pulse"
+      },
+      {
+        "level": 44,
+        "moveId": "body_slam"
+      },
+      {
+        "level": 48,
+        "moveId": "hyper_voice"
+      },
+      {
+        "level": 54,
+        "moveId": "dragon_rush"
+      },
+      {
+        "level": 60,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 66,
+        "moveId": "outrage"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "roar",
+      "strength",
+      "thunder_wave",
+      "toxic",
+      "screech",
+      "double_team",
+      "focus_energy",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "spite",
+      "protect",
+      "scary_face",
+      "outrage",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "psych_up",
+      "rock_smash",
+      "beat_up",
+      "uproar",
+      "torment",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "superpower",
+      "hyper_voice",
+      "assurance",
+      "dark_pulse",
+      "aqua_tail",
+      "dragon_pulse",
+      "earth_power",
+      "nasty_plot",
+      "thunder_fang",
+      "ice_fang",
+      "fire_fang",
+      "zen_headbutt",
+      "draco_meteor",
+      "round",
+      "incinerate",
+      "dragon_tail",
+      "work_up",
+      "snarl",
+      "confide",
+      "stomping_tantrum",
+      "lash_out",
+      "tera_blast",
+      "dragon_cheer"
+    ],
+    "biomeIds": [
+      "wasteland",
+      "abyss"
+    ]
+  }
+]

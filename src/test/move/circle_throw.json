@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "circle_throw",
+    "name": "Circle Throw",
+    "koName": "배대뒤치기",
+    "type": "fighting",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 60,
+    "accuracy": 90,
+    "powerPoint": 10,
+    "effect": "상대를 내던져서 교대할 포켓몬을 끌어낸다. 야생의 경우에는 배틀이 끝난다.",
+    "effectChance": -1,
+    "prioirty": -6,
+    "generation": 5,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "poliwrath",
+      "throh",
+      "pancham",
+      "pangoro",
+      "tarountula",
+      "spidops"
+    ]
+  }
+]

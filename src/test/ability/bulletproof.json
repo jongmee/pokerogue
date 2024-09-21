@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "bulletproof",
+    "name": "Bulletproof",
+    "koName": "방탄",
+    "realased": "",
+    "description": "상대 구슬이나 폭탄 등 기술을 막을 수 있다.",
+    "generation": 6,
+    "pokemonIds": [
+      "bronzor",
+      "bronzong",
+      "chespin",
+      "quilladin",
+      "chesnaught",
+      "jangmo_o",
+      "hakamo_o",
+      "kommo_o",
+      "wooloo",
+      "dubwool",
+      "applin",
+      "ursaluna"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

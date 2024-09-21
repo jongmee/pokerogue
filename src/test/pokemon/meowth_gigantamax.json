@@ -1,0 +1,103 @@
+[
+  {
+    "_id": "meowth_gigantamax",
+    "gender": "",
+    "pokedexNumber": "52",
+    "name": "meowth_gigantamax",
+    "koName": "나옹_gigantamax",
+    "speciesName": "meowth",
+    "canChangeForm": true,
+    "formName": "g_max",
+    "baseExp": "58",
+    "friendship": "50",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "technician"
+    ],
+    "hiddenAbilityId": "technician",
+    "passiveAbilityId": "tough_claws",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 540,
+    "hp": 115,
+    "attack": 110,
+    "defense": 65,
+    "specialAttack": 65,
+    "specialDefense": 70,
+    "speed": 115,
+    "height": 33,
+    "weight": 4.2,
+    "eggMoveIds": [
+      "covet",
+      "swords_dance",
+      "double_kick",
+      "tail_slap"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "fake_out"
+      },
+      {
+        "level": 4,
+        "moveId": "feint"
+      },
+      {
+        "level": 8,
+        "moveId": "scratch"
+      },
+      {
+        "level": 12,
+        "moveId": "pay_day"
+      },
+      {
+        "level": 16,
+        "moveId": "bite"
+      },
+      {
+        "level": 20,
+        "moveId": "taunt"
+      },
+      {
+        "level": 24,
+        "moveId": "assurance"
+      },
+      {
+        "level": 29,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 32,
+        "moveId": "screech"
+      },
+      {
+        "level": 36,
+        "moveId": "slash"
+      },
+      {
+        "level": 40,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 44,
+        "moveId": "play_rough"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "town",
+      "plains"
+    ]
+  }
+]

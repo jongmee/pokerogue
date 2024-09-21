@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "long_reach",
+    "name": "Long Reach",
+    "koName": "원격",
+    "realased": "",
+    "description": "모든 기술을 상대에게 접촉하지 않고 사용할 수 있다.",
+    "generation": 7,
+    "pokemonIds": [
+      "rowlet",
+      "dartrix",
+      "decidueye"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

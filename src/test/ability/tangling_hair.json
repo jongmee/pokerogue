@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "tangling_hair",
+    "name": "Tangling Hair",
+    "koName": "컬리헤어",
+    "realased": "",
+    "description": "공격으로 자신에게 접촉한 상대의 스피드를 떨어뜨린다.",
+    "generation": 7,
+    "pokemonIds": [
+      "alola_diglett",
+      "alola_dugtrio"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

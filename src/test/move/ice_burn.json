@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "ice_burn",
+    "name": "Ice Burn",
+    "koName": "콜드플레어",
+    "type": "ice",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 140,
+    "accuracy": 90,
+    "powerPoint": 5,
+    "effect": "모든 것을 얼려버리는 격렬한 냉기로 2턴째에 상대를 둘러싼다. 화상 상태로 만들 때가 있다.",
+    "effectChance": 30,
+    "prioirty": 0,
+    "generation": 5,
+    "realased": "",
+    "flags": [
+      "ignore_virtual"
+    ],
+    "pokemonIds": [
+      "kyurem_white"
+    ]
+  }
+]

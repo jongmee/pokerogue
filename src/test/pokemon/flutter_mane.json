@@ -1,0 +1,167 @@
+[
+  {
+    "_id": "flutter_mane",
+    "gender": "",
+    "pokedexNumber": "987",
+    "name": "flutter_mane",
+    "koName": "날개치는머리",
+    "speciesName": "flutter_mane",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "285",
+    "friendship": "0",
+    "types": [
+      "ghost",
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "protosynthesis"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "dazzling",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 570,
+    "hp": 55,
+    "attack": 55,
+    "defense": 55,
+    "specialAttack": 135,
+    "specialDefense": 135,
+    "speed": 135,
+    "height": 1.4,
+    "weight": 4,
+    "eggMoveIds": [
+      "moonlight",
+      "flamethrower",
+      "earth_power",
+      "astral_barrage"
+    ],
+    "levelMoves": [
+      {
+        "level": -1,
+        "moveId": "sunny_day"
+      },
+      {
+        "level": 1,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 1,
+        "moveId": "spite"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 1,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 14,
+        "moveId": "mean_look"
+      },
+      {
+        "level": 21,
+        "moveId": "memento"
+      },
+      {
+        "level": 28,
+        "moveId": "wish"
+      },
+      {
+        "level": 35,
+        "moveId": "dazzling_gleam"
+      },
+      {
+        "level": 42,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 49,
+        "moveId": "mystical_fire"
+      },
+      {
+        "level": 56,
+        "moveId": "power_gem"
+      },
+      {
+        "level": 63,
+        "moveId": "psyshock"
+      },
+      {
+        "level": 70,
+        "moveId": "phantom_force"
+      },
+      {
+        "level": 77,
+        "moveId": "pain_split"
+      },
+      {
+        "level": 84,
+        "moveId": "moonblast"
+      },
+      {
+        "level": 91,
+        "moveId": "perish_song"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "psybeam",
+      "hyper_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "swift",
+      "rest",
+      "substitute",
+      "spite",
+      "protect",
+      "icy_wind",
+      "endure",
+      "charm",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "hidden_power",
+      "sunny_day",
+      "shadow_ball",
+      "taunt",
+      "helping_hand",
+      "imprison",
+      "hyper_voice",
+      "fake_tears",
+      "magical_leaf",
+      "calm_mind",
+      "dark_pulse",
+      "power_gem",
+      "energy_ball",
+      "giga_impact",
+      "trick_room",
+      "charge_beam",
+      "psyshock",
+      "stored_power",
+      "hex",
+      "phantom_force",
+      "disarming_voice",
+      "draining_kiss",
+      "misty_terrain",
+      "mystical_fire",
+      "dazzling_gleam",
+      "poltergeist",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "end"
+    ]
+  }
+]

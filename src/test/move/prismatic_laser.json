@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "prismatic_laser",
+    "name": "Prismatic Laser",
+    "koName": "프리즘레이저",
+    "type": "psychic",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 160,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "프리즘의 힘으로 강력한 광선을 발사한다. 다음 턴은 움직일 수 없다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "necrozma"
+    ]
+  }
+]

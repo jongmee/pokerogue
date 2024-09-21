@@ -1,0 +1,201 @@
+[
+  {
+    "_id": "sandslash",
+    "gender": "",
+    "pokedexNumber": "28",
+    "name": "sandslash",
+    "koName": "고지",
+    "speciesName": "sandslash",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "158",
+    "friendship": "50",
+    "types": [
+      "ground"
+    ],
+    "normalAbilityIds": [
+      "sand_veil"
+    ],
+    "hiddenAbilityId": "sand_rush",
+    "passiveAbilityId": "tough_claws",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 450,
+    "hp": 75,
+    "attack": 100,
+    "defense": 110,
+    "specialAttack": 45,
+    "specialDefense": 55,
+    "speed": 65,
+    "height": 1,
+    "weight": 29.5,
+    "eggMoveIds": [
+      "high_horsepower",
+      "dire_claw",
+      "shore_up",
+      "mighty_cleave"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "poison_sting"
+      },
+      {
+        "level": 1,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": 1,
+        "moveId": "crush_claw"
+      },
+      {
+        "level": 9,
+        "moveId": "rollout"
+      },
+      {
+        "level": 12,
+        "moveId": "fury_cutter"
+      },
+      {
+        "level": 15,
+        "moveId": "rapid_spin"
+      },
+      {
+        "level": 18,
+        "moveId": "bulldoze"
+      },
+      {
+        "level": 21,
+        "moveId": "swift"
+      },
+      {
+        "level": 26,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 31,
+        "moveId": "sand_tomb"
+      },
+      {
+        "level": 36,
+        "moveId": "slash"
+      },
+      {
+        "level": 41,
+        "moveId": "dig"
+      },
+      {
+        "level": 46,
+        "moveId": "gyro_ball"
+      },
+      {
+        "level": 51,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 56,
+        "moveId": "sandstorm"
+      },
+      {
+        "level": 61,
+        "moveId": "earthquake"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "pin_missile",
+      "hyper_beam",
+      "low_kick",
+      "counter",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "agility",
+      "double_team",
+      "swift",
+      "amnesia",
+      "leech_life",
+      "rest",
+      "rock_slide",
+      "super_fang",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "spikes",
+      "sandstorm",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "iron_tail",
+      "metal_claw",
+      "hidden_power",
+      "sunny_day",
+      "rock_smash",
+      "facade",
+      "focus_punch",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "rock_tomb",
+      "sand_tomb",
+      "aerial_ace",
+      "mud_shot",
+      "covet",
+      "gyro_ball",
+      "fling",
+      "poison_jab",
+      "x_scissor",
+      "focus_blast",
+      "earth_power",
+      "giga_impact",
+      "shadow_claw",
+      "rock_climb",
+      "gunk_shot",
+      "stone_edge",
+      "stealth_rock",
+      "hone_claws",
+      "smack_down",
+      "round",
+      "bulldoze",
+      "work_up",
+      "drill_run",
+      "confide",
+      "high_horsepower",
+      "throat_chop",
+      "stomping_tantrum",
+      "steel_roller",
+      "scorching_sands",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "badlands",
+      "desert"
+    ]
+  }
+]

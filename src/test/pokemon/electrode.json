@@ -1,0 +1,177 @@
+[
+  {
+    "_id": "electrode",
+    "gender": "",
+    "pokedexNumber": "101",
+    "name": "electrode",
+    "koName": "붐볼",
+    "speciesName": "electrode",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "172",
+    "friendship": "70",
+    "types": [
+      "electric"
+    ],
+    "normalAbilityIds": [
+      "soundproof",
+      "static"
+    ],
+    "hiddenAbilityId": "aftermath",
+    "passiveAbilityId": "transistor",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 490,
+    "hp": 60,
+    "attack": 50,
+    "defense": 70,
+    "specialAttack": 80,
+    "specialDefense": 80,
+    "speed": 150,
+    "height": 1.2,
+    "weight": 66.6,
+    "eggMoveIds": [
+      "nasty_plot",
+      "overheat",
+      "frost_breath",
+      "electro_drift"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 1,
+        "moveId": "charge"
+      },
+      {
+        "level": 1,
+        "moveId": "eerie_impulse"
+      },
+      {
+        "level": 1,
+        "moveId": "magnetic_flux"
+      },
+      {
+        "level": 9,
+        "moveId": "spark"
+      },
+      {
+        "level": 11,
+        "moveId": "rollout"
+      },
+      {
+        "level": 13,
+        "moveId": "screech"
+      },
+      {
+        "level": 16,
+        "moveId": "charge_beam"
+      },
+      {
+        "level": 20,
+        "moveId": "swift"
+      },
+      {
+        "level": 22,
+        "moveId": "electro_ball"
+      },
+      {
+        "level": 26,
+        "moveId": "self_destruct"
+      },
+      {
+        "level": 29,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 36,
+        "moveId": "magnet_rise"
+      },
+      {
+        "level": 41,
+        "moveId": "discharge"
+      },
+      {
+        "level": 47,
+        "moveId": "explosion"
+      },
+      {
+        "level": 54,
+        "moveId": "gyro_ball"
+      },
+      {
+        "level": 58,
+        "moveId": "mirror_coat"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "agility",
+      "screech",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "self_destruct",
+      "swift",
+      "flash",
+      "explosion",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "scary_face",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "torment",
+      "facade",
+      "charge",
+      "taunt",
+      "helping_hand",
+      "recycle",
+      "metal_sound",
+      "signal_beam",
+      "gyro_ball",
+      "giga_impact",
+      "charge_beam",
+      "electro_ball",
+      "foul_play",
+      "round",
+      "volt_switch",
+      "wild_charge",
+      "confide",
+      "eerie_impulse",
+      "electric_terrain",
+      "tera_blast",
+      "supercell_slam"
+    ],
+    "biomeIds": [
+      "power_plant",
+      "factory",
+      "laboratory"
+    ]
+  }
+]

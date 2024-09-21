@@ -1,0 +1,179 @@
+[
+  {
+    "_id": "buneary",
+    "gender": "",
+    "pokedexNumber": "427",
+    "name": "buneary",
+    "koName": "이어롤",
+    "speciesName": "buneary",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "70",
+    "friendship": "0",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "run_away",
+      "klutz"
+    ],
+    "hiddenAbilityId": "limber",
+    "passiveAbilityId": "adaptability",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 350,
+    "hp": 55,
+    "attack": 66,
+    "defense": 44,
+    "specialAttack": 44,
+    "specialDefense": 56,
+    "speed": 85,
+    "height": 0.4,
+    "weight": 5.5,
+    "eggMoveIds": [
+      "triple_axel",
+      "swords_dance",
+      "thunderous_kick",
+      "multi_attack"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "frustration"
+      },
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "splash"
+      },
+      {
+        "level": 4,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": 8,
+        "moveId": "baby_doll_eyes"
+      },
+      {
+        "level": 12,
+        "moveId": "after_you"
+      },
+      {
+        "level": 16,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 20,
+        "moveId": "double_kick"
+      },
+      {
+        "level": 24,
+        "moveId": "charm"
+      },
+      {
+        "level": 28,
+        "moveId": "baton_pass"
+      },
+      {
+        "level": 32,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 36,
+        "moveId": "agility"
+      },
+      {
+        "level": 40,
+        "moveId": "entrainment"
+      },
+      {
+        "level": 44,
+        "moveId": "flatter"
+      },
+      {
+        "level": 48,
+        "moveId": "bounce"
+      },
+      {
+        "level": 52,
+        "moveId": "healing_wish"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "cut",
+      "mega_kick",
+      "ice_beam",
+      "low_kick",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "dig",
+      "toxic",
+      "agility",
+      "double_team",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "mud_slap",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "baton_pass",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "shadow_ball",
+      "rock_smash",
+      "uproar",
+      "facade",
+      "focus_punch",
+      "helping_hand",
+      "endeavor",
+      "hyper_voice",
+      "fake_tears",
+      "cosmic_power",
+      "bounce",
+      "covet",
+      "water_pulse",
+      "payback",
+      "assurance",
+      "fling",
+      "drain_punch",
+      "grass_knot",
+      "charge_beam",
+      "low_sweep",
+      "round",
+      "retaliate",
+      "work_up",
+      "play_rough",
+      "confide",
+      "power_up_punch",
+      "triple_axel",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "plains"
+    ]
+  }
+]

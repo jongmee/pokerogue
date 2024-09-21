@@ -1,0 +1,192 @@
+[
+  {
+    "_id": "suicune",
+    "gender": "",
+    "pokedexNumber": "245",
+    "name": "suicune",
+    "koName": "스이쿤",
+    "speciesName": "suicune",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "290",
+    "friendship": "35",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "pressure"
+    ],
+    "hiddenAbilityId": "inner_focus",
+    "passiveAbilityId": "unaware",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 580,
+    "hp": 100,
+    "attack": 75,
+    "defense": 115,
+    "specialAttack": 90,
+    "specialDefense": 115,
+    "speed": 85,
+    "height": 2,
+    "weight": 187,
+    "eggMoveIds": [
+      "recover",
+      "nasty_plot",
+      "freeze_dry",
+      "steam_eruption"
+    ],
+    "levelMoves": [
+      {
+        "level": -1,
+        "moveId": "extreme_speed"
+      },
+      {
+        "level": -1,
+        "moveId": "sheer_cold"
+      },
+      {
+        "level": 1,
+        "moveId": "gust"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "mist"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 6,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 12,
+        "moveId": "bite"
+      },
+      {
+        "level": 18,
+        "moveId": "calm_mind"
+      },
+      {
+        "level": 24,
+        "moveId": "roar"
+      },
+      {
+        "level": 30,
+        "moveId": "ice_fang"
+      },
+      {
+        "level": 36,
+        "moveId": "tailwind"
+      },
+      {
+        "level": 42,
+        "moveId": "crunch"
+      },
+      {
+        "level": 48,
+        "moveId": "extrasensory"
+      },
+      {
+        "level": 54,
+        "moveId": "surf"
+      },
+      {
+        "level": 60,
+        "moveId": "mirror_coat"
+      },
+      {
+        "level": 66,
+        "moveId": "rain_dance"
+      },
+      {
+        "level": 72,
+        "moveId": "hydro_pump"
+      },
+      {
+        "level": 78,
+        "moveId": "blizzard"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "cut",
+      "body_slam",
+      "double_edge",
+      "roar",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "dig",
+      "toxic",
+      "agility",
+      "double_team",
+      "reflect",
+      "waterfall",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "psych_up",
+      "shadow_ball",
+      "rock_smash",
+      "whirlpool",
+      "hail",
+      "facade",
+      "helping_hand",
+      "dive",
+      "weather_ball",
+      "signal_beam",
+      "calm_mind",
+      "water_pulse",
+      "brine",
+      "tailwind",
+      "air_slash",
+      "giga_impact",
+      "avalanche",
+      "ice_fang",
+      "rock_climb",
+      "iron_head",
+      "round",
+      "scald",
+      "quash",
+      "bulldoze",
+      "snarl",
+      "confide",
+      "liquidation",
+      "tera_blast",
+      "snowscape",
+      "trailblaze",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "lake"
+    ]
+  }
+]

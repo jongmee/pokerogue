@@ -1,0 +1,187 @@
+[
+  {
+    "_id": "ekans",
+    "gender": "",
+    "pokedexNumber": "23",
+    "name": "ekans",
+    "koName": "아보",
+    "speciesName": "ekans",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "58",
+    "friendship": "70",
+    "types": [
+      "poison"
+    ],
+    "normalAbilityIds": [
+      "intimidate",
+      "shed_skin"
+    ],
+    "hiddenAbilityId": "unnerve",
+    "passiveAbilityId": "regenerator",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 288,
+    "hp": 35,
+    "attack": 60,
+    "defense": 44,
+    "specialAttack": 40,
+    "specialDefense": 54,
+    "speed": 55,
+    "height": 2,
+    "weight": 6.9,
+    "eggMoveIds": [
+      "noxious_torque",
+      "dragon_dance",
+      "slack_off",
+      "shed_tail"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "wrap"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 4,
+        "moveId": "poison_sting"
+      },
+      {
+        "level": 9,
+        "moveId": "bite"
+      },
+      {
+        "level": 12,
+        "moveId": "glare"
+      },
+      {
+        "level": 17,
+        "moveId": "screech"
+      },
+      {
+        "level": 20,
+        "moveId": "acid"
+      },
+      {
+        "level": 25,
+        "moveId": "swallow"
+      },
+      {
+        "level": 25,
+        "moveId": "stockpile"
+      },
+      {
+        "level": 25,
+        "moveId": "spit_up"
+      },
+      {
+        "level": 28,
+        "moveId": "acid_spray"
+      },
+      {
+        "level": 33,
+        "moveId": "sludge_bomb"
+      },
+      {
+        "level": 36,
+        "moveId": "gastro_acid"
+      },
+      {
+        "level": 38,
+        "moveId": "belch"
+      },
+      {
+        "level": 41,
+        "moveId": "haze"
+      },
+      {
+        "level": 44,
+        "moveId": "coil"
+      },
+      {
+        "level": 49,
+        "moveId": "gunk_shot"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "screech",
+      "double_team",
+      "haze",
+      "leech_life",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "mud_slap",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "beat_up",
+      "torment",
+      "facade",
+      "knock_off",
+      "rock_tomb",
+      "mud_shot",
+      "poison_tail",
+      "payback",
+      "gastro_acid",
+      "toxic_spikes",
+      "poison_jab",
+      "dark_pulse",
+      "aqua_tail",
+      "seed_bomb",
+      "fire_fang",
+      "gunk_shot",
+      "venoshock",
+      "sludge_wave",
+      "acid_spray",
+      "round",
+      "bulldoze",
+      "snarl",
+      "confide",
+      "infestation",
+      "brutal_swing",
+      "psychic_fangs",
+      "scale_shot",
+      "skitter_smack",
+      "lash_out",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "town",
+      "forest",
+      "swamp"
+    ]
+  }
+]

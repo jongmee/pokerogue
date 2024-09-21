@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "heavy_metal",
+    "name": "Heavy Metal",
+    "koName": "헤비메탈",
+    "realased": "",
+    "description": "자신의 무게가 2배가 된다.",
+    "generation": 5,
+    "pokemonIds": [
+      "aron",
+      "lairon",
+      "aggron",
+      "bronzor",
+      "bronzong",
+      "cufant",
+      "copperajah",
+      "duraludon"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

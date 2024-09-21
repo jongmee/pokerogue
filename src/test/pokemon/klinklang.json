@@ -1,0 +1,165 @@
+[
+  {
+    "_id": "klinklang",
+    "gender": "",
+    "pokedexNumber": "601",
+    "name": "klinklang",
+    "koName": "기기기어르",
+    "speciesName": "klinklang",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "260",
+    "friendship": "50",
+    "types": [
+      "steel"
+    ],
+    "normalAbilityIds": [
+      "plus",
+      "minus"
+    ],
+    "hiddenAbilityId": "clear_body",
+    "passiveAbilityId": "steely_spirit",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 520,
+    "hp": 60,
+    "attack": 100,
+    "defense": 115,
+    "specialAttack": 70,
+    "specialDefense": 85,
+    "speed": 90,
+    "height": 0.6,
+    "weight": 81,
+    "eggMoveIds": [
+      "triple_axel",
+      "high_horsepower",
+      "fusion_bolt",
+      "double_iron_bash"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "vise_grip"
+      },
+      {
+        "level": 1,
+        "moveId": "bind"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 1,
+        "moveId": "charge"
+      },
+      {
+        "level": 1,
+        "moveId": "magnetic_flux"
+      },
+      {
+        "level": 1,
+        "moveId": "gear_up"
+      },
+      {
+        "level": 12,
+        "moveId": "charge_beam"
+      },
+      {
+        "level": 16,
+        "moveId": "metal_sound"
+      },
+      {
+        "level": 20,
+        "moveId": "autotomize"
+      },
+      {
+        "level": 24,
+        "moveId": "discharge"
+      },
+      {
+        "level": 28,
+        "moveId": "screech"
+      },
+      {
+        "level": 32,
+        "moveId": "gear_grind"
+      },
+      {
+        "level": 36,
+        "moveId": "lock_on"
+      },
+      {
+        "level": 42,
+        "moveId": "shift_gear"
+      },
+      {
+        "level": 48,
+        "moveId": "zap_cannon"
+      },
+      {
+        "level": 56,
+        "moveId": "hyper_beam"
+      },
+      {
+        "level": 64,
+        "moveId": "electric_terrain"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "hyper_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "screech",
+      "double_team",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rock_smash",
+      "uproar",
+      "facade",
+      "charge",
+      "recycle",
+      "metal_sound",
+      "signal_beam",
+      "iron_defense",
+      "gravity",
+      "assurance",
+      "rock_polish",
+      "power_gem",
+      "giga_impact",
+      "flash_cannon",
+      "trick_room",
+      "charge_beam",
+      "round",
+      "ally_switch",
+      "volt_switch",
+      "wild_charge",
+      "confide",
+      "electric_terrain",
+      "steel_beam",
+      "steel_roller",
+      "rising_voltage",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "factory",
+      "laboratory"
+    ]
+  }
+]

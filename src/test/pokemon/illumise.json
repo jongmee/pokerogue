@@ -1,0 +1,187 @@
+[
+  {
+    "_id": "illumise",
+    "gender": "",
+    "pokedexNumber": "314",
+    "name": "illumise",
+    "koName": "네오비트",
+    "speciesName": "illumise",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "151",
+    "friendship": "70",
+    "types": [
+      "bug"
+    ],
+    "normalAbilityIds": [
+      "oblivious",
+      "tinted_lens"
+    ],
+    "hiddenAbilityId": "prankster",
+    "passiveAbilityId": "honey_gather",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 430,
+    "hp": 65,
+    "attack": 47,
+    "defense": 75,
+    "specialAttack": 73,
+    "specialDefense": 85,
+    "speed": 85,
+    "height": 0.6,
+    "weight": 17.7,
+    "eggMoveIds": [
+      "parting_shot",
+      "glitzy_glow",
+      "powder",
+      "quiver_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "play_nice"
+      },
+      {
+        "level": 5,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 9,
+        "moveId": "charm"
+      },
+      {
+        "level": 12,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 15,
+        "moveId": "struggle_bug"
+      },
+      {
+        "level": 19,
+        "moveId": "moonlight"
+      },
+      {
+        "level": 22,
+        "moveId": "wish"
+      },
+      {
+        "level": 26,
+        "moveId": "encore"
+      },
+      {
+        "level": 29,
+        "moveId": "flatter"
+      },
+      {
+        "level": 33,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 36,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 40,
+        "moveId": "bug_buzz"
+      },
+      {
+        "level": 43,
+        "moveId": "play_rough"
+      },
+      {
+        "level": 47,
+        "moveId": "infestation"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "ice_punch",
+      "thunder_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "counter",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "metronome",
+      "swift",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "mud_slap",
+      "giga_drain",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "facade",
+      "focus_punch",
+      "helping_hand",
+      "trick",
+      "brick_break",
+      "endeavor",
+      "fake_tears",
+      "air_cutter",
+      "aerial_ace",
+      "covet",
+      "water_pulse",
+      "roost",
+      "tailwind",
+      "u_turn",
+      "fling",
+      "air_slash",
+      "bug_buzz",
+      "zen_headbutt",
+      "defog",
+      "bug_bite",
+      "charge_beam",
+      "round",
+      "acrobatics",
+      "struggle_bug",
+      "disarming_voice",
+      "draining_kiss",
+      "play_rough",
+      "confide",
+      "dazzling_gleam",
+      "infestation",
+      "power_up_punch",
+      "skitter_smack",
+      "tera_blast",
+      "pounce",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "meadow"
+    ]
+  }
+]

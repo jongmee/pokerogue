@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "freeze_shock",
+    "name": "Freeze Shock",
+    "koName": "프리즈볼트",
+    "type": "ice",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 140,
+    "accuracy": 90,
+    "powerPoint": 5,
+    "effect": "전기를 두른 얼음덩어리로 2턴째에 상대를 내리친다. 마비 상태로 만들 때가 있다.",
+    "effectChance": 30,
+    "prioirty": 0,
+    "generation": 5,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "kyurem_black"
+    ]
+  }
+]

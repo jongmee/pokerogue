@@ -1,0 +1,197 @@
+[
+  {
+    "_id": "solrock",
+    "gender": "",
+    "pokedexNumber": "338",
+    "name": "solrock",
+    "koName": "솔록",
+    "speciesName": "solrock",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "161",
+    "friendship": "50",
+    "types": [
+      "rock",
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "levitate"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "drought",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 460,
+    "hp": 90,
+    "attack": 95,
+    "defense": 85,
+    "specialAttack": 55,
+    "specialDefense": 65,
+    "speed": 70,
+    "height": 1.2,
+    "weight": 154,
+    "eggMoveIds": [
+      "psyshield_bash",
+      "mighty_cleave",
+      "shell_smash",
+      "sacred_fire"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "flare_blitz"
+      },
+      {
+        "level": 1,
+        "moveId": "morning_sun"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "harden"
+      },
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 1,
+        "moveId": "rock_throw"
+      },
+      {
+        "level": 5,
+        "moveId": "hypnosis"
+      },
+      {
+        "level": 10,
+        "moveId": "rock_polish"
+      },
+      {
+        "level": 15,
+        "moveId": "rock_slide"
+      },
+      {
+        "level": 20,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 25,
+        "moveId": "cosmic_power"
+      },
+      {
+        "level": 30,
+        "moveId": "psychic"
+      },
+      {
+        "level": 35,
+        "moveId": "stone_edge"
+      },
+      {
+        "level": 40,
+        "moveId": "solar_beam"
+      },
+      {
+        "level": 45,
+        "moveId": "wonder_room"
+      },
+      {
+        "level": 50,
+        "moveId": "explosion"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "body_slam",
+      "flamethrower",
+      "hyper_beam",
+      "solar_beam",
+      "fire_spin",
+      "earthquake",
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "self_destruct",
+      "fire_blast",
+      "swift",
+      "dream_eater",
+      "flash",
+      "explosion",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "pain_split",
+      "baton_pass",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "helping_hand",
+      "recycle",
+      "skill_swap",
+      "weather_ball",
+      "overheat",
+      "rock_tomb",
+      "cosmic_power",
+      "signal_beam",
+      "sand_tomb",
+      "iron_defense",
+      "calm_mind",
+      "rock_blast",
+      "gravity",
+      "gyro_ball",
+      "embargo",
+      "power_swap",
+      "flare_blitz",
+      "rock_polish",
+      "earth_power",
+      "giga_impact",
+      "zen_headbutt",
+      "trick_room",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "grass_knot",
+      "charge_beam",
+      "wonder_room",
+      "psyshock",
+      "smack_down",
+      "round",
+      "stored_power",
+      "ally_switch",
+      "incinerate",
+      "acrobatics",
+      "bulldoze",
+      "confide",
+      "psychic_terrain",
+      "stomping_tantrum",
+      "meteor_beam",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "space"
+    ]
+  }
+]

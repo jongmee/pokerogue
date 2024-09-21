@@ -1,0 +1,149 @@
+[
+  {
+    "_id": "karrablast",
+    "gender": "",
+    "pokedexNumber": "588",
+    "name": "karrablast",
+    "koName": "딱정곤",
+    "speciesName": "karrablast",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "63",
+    "friendship": "50",
+    "types": [
+      "bug"
+    ],
+    "normalAbilityIds": [
+      "swarm",
+      "shed_skin"
+    ],
+    "hiddenAbilityId": "no_guard",
+    "passiveAbilityId": "quick_draw",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 315,
+    "hp": 50,
+    "attack": 75,
+    "defense": 45,
+    "specialAttack": 40,
+    "specialDefense": 45,
+    "speed": 60,
+    "height": 0.5,
+    "weight": 5.9,
+    "eggMoveIds": [
+      "leech_life",
+      "heal_order",
+      "high_horsepower",
+      "double_iron_bash"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "peck"
+      },
+      {
+        "level": 4,
+        "moveId": "fury_cutter"
+      },
+      {
+        "level": 8,
+        "moveId": "endure"
+      },
+      {
+        "level": 12,
+        "moveId": "false_swipe"
+      },
+      {
+        "level": 16,
+        "moveId": "acid_spray"
+      },
+      {
+        "level": 20,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 24,
+        "moveId": "flail"
+      },
+      {
+        "level": 28,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 32,
+        "moveId": "x_scissor"
+      },
+      {
+        "level": 36,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 40,
+        "moveId": "take_down"
+      },
+      {
+        "level": 44,
+        "moveId": "bug_buzz"
+      },
+      {
+        "level": 48,
+        "moveId": "double_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "take_down",
+      "counter",
+      "toxic",
+      "screech",
+      "double_team",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "scary_face",
+      "giga_drain",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "megahorn",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "facade",
+      "knock_off",
+      "signal_beam",
+      "aerial_ace",
+      "iron_defense",
+      "poison_jab",
+      "x_scissor",
+      "bug_buzz",
+      "energy_ball",
+      "bug_bite",
+      "acid_spray",
+      "round",
+      "struggle_bug",
+      "drill_run",
+      "confide",
+      "infestation",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "forest"
+    ]
+  }
+]

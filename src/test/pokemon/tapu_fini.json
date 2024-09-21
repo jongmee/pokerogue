@@ -1,0 +1,184 @@
+[
+  {
+    "_id": "tapu_fini",
+    "gender": "",
+    "pokedexNumber": "788",
+    "name": "tapu_fini",
+    "koName": "카푸느지느",
+    "speciesName": "tapu_fini",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "285",
+    "friendship": "50",
+    "types": [
+      "water",
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "misty_surge"
+    ],
+    "hiddenAbilityId": "telepathy",
+    "passiveAbilityId": "fairy_aura",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 570,
+    "hp": 70,
+    "attack": 75,
+    "defense": 115,
+    "specialAttack": 95,
+    "specialDefense": 130,
+    "speed": 85,
+    "height": 1.3,
+    "weight": 21.2,
+    "eggMoveIds": [
+      "aura_sphere",
+      "earth_power",
+      "recover",
+      "quiver_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "disarming_voice"
+      },
+      {
+        "level": 5,
+        "moveId": "withdraw"
+      },
+      {
+        "level": 10,
+        "moveId": "mist"
+      },
+      {
+        "level": 10,
+        "moveId": "haze"
+      },
+      {
+        "level": 15,
+        "moveId": "aqua_ring"
+      },
+      {
+        "level": 20,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 25,
+        "moveId": "brine"
+      },
+      {
+        "level": 30,
+        "moveId": "defog"
+      },
+      {
+        "level": 35,
+        "moveId": "heal_pulse"
+      },
+      {
+        "level": 40,
+        "moveId": "surf"
+      },
+      {
+        "level": 45,
+        "moveId": "muddy_water"
+      },
+      {
+        "level": 50,
+        "moveId": "mean_look"
+      },
+      {
+        "level": 55,
+        "moveId": "natures_madness"
+      },
+      {
+        "level": 60,
+        "moveId": "moonblast"
+      },
+      {
+        "level": 65,
+        "moveId": "hydro_pump"
+      },
+      {
+        "level": 70,
+        "moveId": "soak"
+      },
+      {
+        "level": 75,
+        "moveId": "misty_terrain"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "ice_punch",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "toxic",
+      "double_team",
+      "light_screen",
+      "haze",
+      "reflect",
+      "waterfall",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "rain_dance",
+      "psych_up",
+      "shadow_ball",
+      "whirlpool",
+      "torment",
+      "facade",
+      "nature_power",
+      "taunt",
+      "trick",
+      "knock_off",
+      "dive",
+      "muddy_water",
+      "iron_defense",
+      "calm_mind",
+      "water_pulse",
+      "gravity",
+      "brine",
+      "fling",
+      "guard_swap",
+      "giga_impact",
+      "defog",
+      "grass_knot",
+      "wonder_room",
+      "magic_room",
+      "round",
+      "echoed_voice",
+      "stored_power",
+      "scald",
+      "disarming_voice",
+      "draining_kiss",
+      "misty_terrain",
+      "play_rough",
+      "confide",
+      "dazzling_gleam",
+      "smart_strike",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "beach"
+    ]
+  }
+]

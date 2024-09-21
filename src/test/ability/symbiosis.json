@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "symbiosis",
+    "name": "Symbiosis",
+    "koName": "공생",
+    "realased": " (N)",
+    "description": "같은 편이 도구를 쓰면 자신이 지니고 있는 도구를 같은 편에게 건넨다.",
+    "generation": 6,
+    "pokemonIds": [
+      "oranguru",
+      "eternal_floette"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

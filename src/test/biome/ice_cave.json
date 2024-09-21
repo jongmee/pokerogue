@@ -1,0 +1,163 @@
+[
+  {
+    "_id": "ice_cave",
+    "name": "Ice Cave",
+    "koName": "얼음 동굴",
+    "types": [
+      "ice"
+    ],
+    "nextBiomes": [
+      {
+        "name": "snowy_forest",
+        "percentage": 100
+      }
+    ],
+    "nativePokemons": [
+      {
+        "tier": "보통",
+        "pokemonIds": [
+          "seel",
+          "dewgong",
+          "swinub",
+          "piloswine",
+          "snover",
+          "abomasnow",
+          "vanillite",
+          "vanillish",
+          "vanilluxe",
+          "cubchoo",
+          "beartic",
+          "bergmite",
+          "avalugg",
+          "crabrawler",
+          "snom",
+          "frosmoth"
+        ]
+      },
+      {
+        "tier": "드묾",
+        "pokemonIds": [
+          "sneasel",
+          "snorunt",
+          "glalie",
+          "spheal",
+          "sealeo",
+          "walrein",
+          "eiscue",
+          "cetoddle",
+          "cetitan"
+        ]
+      },
+      {
+        "tier": "레어",
+        "pokemonIds": [
+          "jynx",
+          "lapras",
+          "froslass",
+          "cryogonal"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어",
+        "pokemonIds": [
+          "delibird",
+          "rotom",
+          "amaura",
+          "aurorus"
+        ]
+      },
+      {
+        "tier": "울트라 레어",
+        "pokemonIds": [
+          "articuno",
+          "regice"
+        ]
+      },
+      {
+        "tier": "보스",
+        "pokemonIds": [
+          "dewgong",
+          "glalie",
+          "walrein",
+          "weavile",
+          "mamoswine",
+          "froslass",
+          "vanilluxe",
+          "beartic",
+          "cryogonal",
+          "avalugg",
+          "crabominable",
+          "cetitan"
+        ]
+      },
+      {
+        "tier": "레어 보스",
+        "pokemonIds": [
+          "jynx",
+          "lapras",
+          "glaceon",
+          "aurorus"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어 보스",
+        "pokemonIds": [
+          "articuno",
+          "regice",
+          "rotom"
+        ]
+      },
+      {
+        "tier": "슈퍼 울트라 레어 보스",
+        "pokemonIds": [
+          "kyurem"
+        ]
+      }
+    ],
+    "trainers": [
+      {
+        "name": "류옹",
+        "types": [
+          "ice"
+        ],
+        "pokemonIds": [
+          "seel",
+          "swinub"
+        ]
+      },
+      {
+        "name": "담죽",
+        "types": [
+          "ice"
+        ],
+        "pokemonIds": [
+          "cryogonal",
+          "vanillite",
+          "cubchoo"
+        ]
+      },
+      {
+        "name": "우르프",
+        "types": [
+          "ice"
+        ],
+        "pokemonIds": [
+          "bergmite",
+          "snover",
+          "cryogonal"
+        ]
+      },
+      {
+        "name": "그루샤",
+        "types": [
+          "ice"
+        ],
+        "pokemonIds": [
+          "cetoddle",
+          "alola_vulpix",
+          "cubchoo"
+        ]
+      }
+    ]
+  }
+]

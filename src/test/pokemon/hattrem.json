@@ -1,0 +1,144 @@
+[
+  {
+    "_id": "hattrem",
+    "gender": "",
+    "pokedexNumber": "857",
+    "name": "hattrem",
+    "koName": "손지브림",
+    "speciesName": "hattrem",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "130",
+    "friendship": "50",
+    "types": [
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "healer",
+      "anticipation"
+    ],
+    "hiddenAbilityId": "magic_bounce",
+    "passiveAbilityId": "fairy_aura",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 370,
+    "hp": 57,
+    "attack": 40,
+    "defense": 65,
+    "specialAttack": 86,
+    "specialDefense": 73,
+    "speed": 49,
+    "height": 0.6,
+    "weight": 4.8,
+    "eggMoveIds": [
+      "recover",
+      "moonblast",
+      "buzzy_buzz",
+      "searing_shot"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "brutal_swing"
+      },
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 1,
+        "moveId": "disarming_voice"
+      },
+      {
+        "level": 1,
+        "moveId": "play_nice"
+      },
+      {
+        "level": 1,
+        "moveId": "life_dew"
+      },
+      {
+        "level": 15,
+        "moveId": "aromatic_mist"
+      },
+      {
+        "level": 20,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 25,
+        "moveId": "heal_pulse"
+      },
+      {
+        "level": 30,
+        "moveId": "dazzling_gleam"
+      },
+      {
+        "level": 37,
+        "moveId": "calm_mind"
+      },
+      {
+        "level": 44,
+        "moveId": "psychic"
+      },
+      {
+        "level": 51,
+        "moveId": "healing_wish"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "psybeam",
+      "thunder_wave",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "metronome",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "giga_drain",
+      "endure",
+      "charm",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "baton_pass",
+      "hidden_power",
+      "facade",
+      "helping_hand",
+      "trick",
+      "skill_swap",
+      "imprison",
+      "magical_leaf",
+      "calm_mind",
+      "dark_pulse",
+      "trick_room",
+      "psyshock",
+      "round",
+      "stored_power",
+      "disarming_voice",
+      "draining_kiss",
+      "misty_terrain",
+      "play_rough",
+      "mystical_fire",
+      "dazzling_gleam",
+      "psychic_terrain",
+      "brutal_swing",
+      "expanding_force",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "fairy_cave"
+    ]
+  }
+]

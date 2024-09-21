@@ -1,0 +1,175 @@
+[
+  {
+    "_id": "pansear",
+    "gender": "",
+    "pokedexNumber": "513",
+    "name": "pansear",
+    "koName": "바오프",
+    "speciesName": "pansear",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "63",
+    "friendship": "70",
+    "types": [
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "gluttony"
+    ],
+    "hiddenAbilityId": "blaze",
+    "passiveAbilityId": "water_absorb",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 316,
+    "hp": 50,
+    "attack": 53,
+    "defense": 48,
+    "specialAttack": 53,
+    "specialDefense": 48,
+    "speed": 64,
+    "height": 0.6,
+    "weight": 11,
+    "eggMoveIds": [
+      "nasty_plot",
+      "hydro_steam",
+      "scorching_sands",
+      "torch_song"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "play_nice"
+      },
+      {
+        "level": 4,
+        "moveId": "leer"
+      },
+      {
+        "level": 7,
+        "moveId": "lick"
+      },
+      {
+        "level": 10,
+        "moveId": "incinerate"
+      },
+      {
+        "level": 13,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 16,
+        "moveId": "yawn"
+      },
+      {
+        "level": 19,
+        "moveId": "bite"
+      },
+      {
+        "level": 22,
+        "moveId": "flame_burst"
+      },
+      {
+        "level": 25,
+        "moveId": "amnesia"
+      },
+      {
+        "level": 28,
+        "moveId": "fling"
+      },
+      {
+        "level": 31,
+        "moveId": "acrobatics"
+      },
+      {
+        "level": 34,
+        "moveId": "fire_blast"
+      },
+      {
+        "level": 37,
+        "moveId": "recycle"
+      },
+      {
+        "level": 40,
+        "moveId": "natural_gift"
+      },
+      {
+        "level": 43,
+        "moveId": "crunch"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fire_punch",
+      "cut",
+      "flamethrower",
+      "low_kick",
+      "solar_beam",
+      "fire_spin",
+      "dig",
+      "toxic",
+      "double_team",
+      "fire_blast",
+      "amnesia",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "sunny_day",
+      "crunch",
+      "rock_smash",
+      "uproar",
+      "heat_wave",
+      "torment",
+      "will_o_wisp",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "recycle",
+      "knock_off",
+      "endeavor",
+      "overheat",
+      "rock_tomb",
+      "covet",
+      "payback",
+      "fling",
+      "gastro_acid",
+      "flare_blitz",
+      "nasty_plot",
+      "shadow_claw",
+      "gunk_shot",
+      "grass_knot",
+      "hone_claws",
+      "flame_charge",
+      "low_sweep",
+      "round",
+      "incinerate",
+      "acrobatics",
+      "fire_pledge",
+      "work_up",
+      "disarming_voice",
+      "confide",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "volcano",
+      "jungle"
+    ]
+  }
+]

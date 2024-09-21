@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "forecast",
+    "name": "Forecast",
+    "koName": "기분파",
+    "realased": "",
+    "description": "날씨의 영향을 받아 물타입, 불꽃타입, 얼음타입 중 하나로 변화한다.",
+    "generation": 3,
+    "pokemonIds": [
+      "castform",
+      "castform_sunny",
+      "castform_rainy",
+      "castform_snowy"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

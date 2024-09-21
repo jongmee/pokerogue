@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "corrosive_gas",
+    "name": "Corrosive Gas",
+    "koName": "부식가스",
+    "type": "poison",
+    "moveCategory": "status",
+    "moveTarget": "all_near_others",
+    "power": -1,
+    "accuracy": 100,
+    "powerPoint": 40,
+    "effect": "주위에 있는 모든 것을 강력한 산성 가스로 뒤덮어서 지니고 있는 도구를 녹여버린다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": " (N)",
+    "flags": [],
+    "pokemonIds": [
+      "vileplume",
+      "tentacruel",
+      "gastly",
+      "haunter",
+      "gengar",
+      "koffing",
+      "weezing",
+      "mew",
+      "stunky",
+      "skuntank",
+      "toxicroak",
+      "trubbish",
+      "garbodor",
+      "salazzle",
+      "nihilego",
+      "guzzlord",
+      "galar_weezing"
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "aromatherapy",
+    "name": "Aromatherapy",
+    "koName": "아로마테라피",
+    "type": "grass",
+    "moveCategory": "status",
+    "moveTarget": "party",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 5,
+    "effect": "기분 좋은 평온한 향기를 맡게 하여 같은 편 모두의 상태 이상을 회복한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 3,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "vileplume",
+      "paras",
+      "parasect",
+      "roselia",
+      "roserade",
+      "spritzee",
+      "aromatisse",
+      "swirlix",
+      "slurpuff",
+      "comfey",
+      "tapu_lele",
+      "gossifleur",
+      "eldegoss",
+      "milcery",
+      "alcremie",
+      "calyrex_ice",
+      "eternal_floette"
+    ]
+  }
+]

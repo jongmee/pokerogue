@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "doom_desire",
+    "name": "Doom Desire",
+    "koName": "파멸의소원",
+    "type": "steel",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 140,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "기술을 사용한 2턴 뒤에 무수한 빛의 다발이 상대를 공격한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 3,
+    "realased": " (P)",
+    "flags": [],
+    "pokemonIds": [
+      "jirachi"
+    ]
+  }
+]

@@ -1,0 +1,175 @@
+[
+  {
+    "_id": "tangela",
+    "gender": "",
+    "pokedexNumber": "114",
+    "name": "tangela",
+    "koName": "덩쿠리",
+    "speciesName": "tangela",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "87",
+    "friendship": "50",
+    "types": [
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "chlorophyll",
+      "leaf_guard"
+    ],
+    "hiddenAbilityId": "regenerator",
+    "passiveAbilityId": "seed_sower",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 435,
+    "hp": 65,
+    "attack": 55,
+    "defense": 115,
+    "specialAttack": 100,
+    "specialDefense": 40,
+    "speed": 60,
+    "height": 1,
+    "weight": 35,
+    "eggMoveIds": [
+      "strength_sap",
+      "snap_trap",
+      "parting_shot",
+      "sappy_seed"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "bind"
+      },
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 1,
+        "moveId": "constrict"
+      },
+      {
+        "level": 4,
+        "moveId": "stun_spore"
+      },
+      {
+        "level": 8,
+        "moveId": "growth"
+      },
+      {
+        "level": 12,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 16,
+        "moveId": "vine_whip"
+      },
+      {
+        "level": 20,
+        "moveId": "poison_powder"
+      },
+      {
+        "level": 24,
+        "moveId": "double_hit"
+      },
+      {
+        "level": 28,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 32,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 34,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 36,
+        "moveId": "sleep_powder"
+      },
+      {
+        "level": 40,
+        "moveId": "slam"
+      },
+      {
+        "level": 44,
+        "moveId": "tickle"
+      },
+      {
+        "level": 48,
+        "moveId": "power_whip"
+      },
+      {
+        "level": 52,
+        "moveId": "ingrain"
+      },
+      {
+        "level": 56,
+        "moveId": "grassy_terrain"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "solar_beam",
+      "toxic",
+      "double_team",
+      "reflect",
+      "amnesia",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "sludge_bomb",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "synthesis",
+      "hidden_power",
+      "sunny_day",
+      "psych_up",
+      "rock_smash",
+      "facade",
+      "nature_power",
+      "knock_off",
+      "endeavor",
+      "bullet_seed",
+      "power_swap",
+      "worry_seed",
+      "seed_bomb",
+      "energy_ball",
+      "giga_impact",
+      "leaf_storm",
+      "power_whip",
+      "grass_knot",
+      "round",
+      "grassy_terrain",
+      "confide",
+      "infestation",
+      "grassy_glide",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "jungle"
+    ]
+  }
+]

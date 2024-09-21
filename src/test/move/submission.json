@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "submission",
+    "name": "Submission",
+    "koName": "지옥의바퀴",
+    "type": "fighting",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 80,
+    "accuracy": 80,
+    "powerPoint": 20,
+    "effect": "땅에 자신과 함께 상대를 내던져 공격한다. 자신도 조금 데미지를 입는다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 1,
+    "realased": "",
+    "flags": [
+      "makes_contact",
+      "reckless_move"
+    ],
+    "pokemonIds": [
+      "pinsir",
+      "clobbopus",
+      "grapploct",
+      "obstagoon"
+    ]
+  }
+]

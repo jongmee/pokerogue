@@ -1,0 +1,175 @@
+[
+  {
+    "_id": "dedenne",
+    "gender": "",
+    "pokedexNumber": "702",
+    "name": "dedenne",
+    "koName": "데덴네",
+    "speciesName": "dedenne",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "151",
+    "friendship": "50",
+    "types": [
+      "electric",
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "cheek_pouch",
+      "pickup"
+    ],
+    "hiddenAbilityId": "plus",
+    "passiveAbilityId": "pixilate",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 431,
+    "hp": 67,
+    "attack": 58,
+    "defense": 57,
+    "specialAttack": 81,
+    "specialDefense": 67,
+    "speed": 101,
+    "height": 0.2,
+    "weight": 2.2,
+    "eggMoveIds": [
+      "boomburst",
+      "fake_out",
+      "nasty_plot",
+      "revival_blessing"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "nuzzle"
+      },
+      {
+        "level": 5,
+        "moveId": "tackle"
+      },
+      {
+        "level": 10,
+        "moveId": "charge"
+      },
+      {
+        "level": 15,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 20,
+        "moveId": "charm"
+      },
+      {
+        "level": 25,
+        "moveId": "parabolic_charge"
+      },
+      {
+        "level": 30,
+        "moveId": "volt_switch"
+      },
+      {
+        "level": 35,
+        "moveId": "rest"
+      },
+      {
+        "level": 35,
+        "moveId": "snore"
+      },
+      {
+        "level": 40,
+        "moveId": "discharge"
+      },
+      {
+        "level": 45,
+        "moveId": "play_rough"
+      },
+      {
+        "level": 50,
+        "moveId": "super_fang"
+      },
+      {
+        "level": 55,
+        "moveId": "entrainment"
+      },
+      {
+        "level": 60,
+        "moveId": "thunder"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "thunder_punch",
+      "cut",
+      "take_down",
+      "hyper_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "dig",
+      "toxic",
+      "agility",
+      "double_team",
+      "light_screen",
+      "swift",
+      "flash",
+      "rest",
+      "super_fang",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "facade",
+      "charge",
+      "helping_hand",
+      "recycle",
+      "endeavor",
+      "signal_beam",
+      "aerial_ace",
+      "covet",
+      "u_turn",
+      "fling",
+      "seed_bomb",
+      "giga_impact",
+      "grass_knot",
+      "charge_beam",
+      "electro_ball",
+      "round",
+      "ally_switch",
+      "retaliate",
+      "volt_switch",
+      "electroweb",
+      "wild_charge",
+      "draining_kiss",
+      "misty_terrain",
+      "play_rough",
+      "confide",
+      "eerie_impulse",
+      "electric_terrain",
+      "dazzling_gleam",
+      "rising_voltage",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "power_plant"
+    ]
+  }
+]

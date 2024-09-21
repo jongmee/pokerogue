@@ -1,0 +1,190 @@
+[
+  {
+    "_id": "regigigas",
+    "gender": "",
+    "pokedexNumber": "486",
+    "name": "regigigas",
+    "koName": "레지기가스",
+    "speciesName": "regigigas",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "335",
+    "friendship": "0",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "slow_start"
+    ],
+    "hiddenAbilityId": "normalize",
+    "passiveAbilityId": "minds_eye",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 670,
+    "hp": 110,
+    "attack": 160,
+    "defense": 110,
+    "specialAttack": 80,
+    "specialDefense": 110,
+    "speed": 100,
+    "height": 3.7,
+    "weight": 420,
+    "eggMoveIds": [
+      "skill_swap",
+      "recover",
+      "extreme_speed",
+      "gigaton_hammer"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 1,
+        "moveId": "dizzy_punch"
+      },
+      {
+        "level": 1,
+        "moveId": "foresight"
+      },
+      {
+        "level": 6,
+        "moveId": "payback"
+      },
+      {
+        "level": 12,
+        "moveId": "revenge"
+      },
+      {
+        "level": 18,
+        "moveId": "stomp"
+      },
+      {
+        "level": 24,
+        "moveId": "protect"
+      },
+      {
+        "level": 30,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 36,
+        "moveId": "mega_punch"
+      },
+      {
+        "level": 42,
+        "moveId": "body_press"
+      },
+      {
+        "level": 48,
+        "moveId": "wide_guard"
+      },
+      {
+        "level": 54,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 60,
+        "moveId": "heavy_slam"
+      },
+      {
+        "level": 66,
+        "moveId": "hammer_arm"
+      },
+      {
+        "level": 72,
+        "moveId": "giga_impact"
+      },
+      {
+        "level": 78,
+        "moveId": "crush_grip"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "mega_kick",
+      "body_slam",
+      "double_edge",
+      "hyper_beam",
+      "strength",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "earthquake",
+      "toxic",
+      "double_team",
+      "confuse_ray",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "rock_smash",
+      "facade",
+      "focus_punch",
+      "nature_power",
+      "superpower",
+      "revenge",
+      "brick_break",
+      "knock_off",
+      "rock_tomb",
+      "aerial_ace",
+      "gravity",
+      "payback",
+      "fling",
+      "rock_polish",
+      "drain_punch",
+      "focus_blast",
+      "earth_power",
+      "giga_impact",
+      "avalanche",
+      "zen_headbutt",
+      "rock_climb",
+      "iron_head",
+      "stone_edge",
+      "smack_down",
+      "heavy_slam",
+      "round",
+      "retaliate",
+      "bulldoze",
+      "heat_crash",
+      "confide",
+      "power_up_punch",
+      "darkest_lariat",
+      "high_horsepower",
+      "stomping_tantrum",
+      "body_press",
+      "terrain_pulse",
+      "tera_blast",
+      "hard_press"
+    ],
+    "biomeIds": [
+      "temple"
+    ]
+  }
+]

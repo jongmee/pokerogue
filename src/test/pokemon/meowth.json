@@ -1,0 +1,182 @@
+[
+  {
+    "_id": "meowth",
+    "gender": "",
+    "pokedexNumber": "52",
+    "name": "meowth",
+    "koName": "나옹",
+    "speciesName": "meowth",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "58",
+    "friendship": "50",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "pickup",
+      "technician"
+    ],
+    "hiddenAbilityId": "unnerve",
+    "passiveAbilityId": "tough_claws",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 290,
+    "hp": 40,
+    "attack": 45,
+    "defense": 35,
+    "specialAttack": 40,
+    "specialDefense": 40,
+    "speed": 90,
+    "height": 0.4,
+    "weight": 4.2,
+    "eggMoveIds": [
+      "covet",
+      "swords_dance",
+      "double_kick",
+      "tail_slap"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "fake_out"
+      },
+      {
+        "level": 4,
+        "moveId": "feint"
+      },
+      {
+        "level": 8,
+        "moveId": "scratch"
+      },
+      {
+        "level": 12,
+        "moveId": "pay_day"
+      },
+      {
+        "level": 16,
+        "moveId": "bite"
+      },
+      {
+        "level": 20,
+        "moveId": "taunt"
+      },
+      {
+        "level": 24,
+        "moveId": "assurance"
+      },
+      {
+        "level": 29,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 32,
+        "moveId": "screech"
+      },
+      {
+        "level": 36,
+        "moveId": "slash"
+      },
+      {
+        "level": 40,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 44,
+        "moveId": "play_rough"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "pay_day",
+      "cut",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "dig",
+      "toxic",
+      "agility",
+      "screech",
+      "double_team",
+      "swift",
+      "amnesia",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "charm",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "iron_tail",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "uproar",
+      "torment",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "knock_off",
+      "endeavor",
+      "hyper_voice",
+      "fake_tears",
+      "aerial_ace",
+      "covet",
+      "water_pulse",
+      "u_turn",
+      "payback",
+      "assurance",
+      "dark_pulse",
+      "seed_bomb",
+      "power_gem",
+      "nasty_plot",
+      "shadow_claw",
+      "gunk_shot",
+      "hone_claws",
+      "foul_play",
+      "round",
+      "echoed_voice",
+      "retaliate",
+      "work_up",
+      "snarl",
+      "play_rough",
+      "confide",
+      "throat_chop",
+      "lash_out",
+      "tera_blast",
+      "trailblaze",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "town",
+      "plains"
+    ]
+  }
+]

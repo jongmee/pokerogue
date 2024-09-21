@@ -1,0 +1,33 @@
+[
+  {
+    "_id": "buzzy_buzz",
+    "name": "Buzzy Buzz",
+    "koName": "찌릿찌릿일렉",
+    "type": "electric",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 60,
+    "accuracy": 100,
+    "powerPoint": 20,
+    "effect": "전기를 상대에게 날려서 공격한다. 상대를 마비 상태로 만든다.",
+    "effectChance": 100,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "eevee_partner",
+      "eevee_gigantamax",
+      "jolteon",
+      "chimecho",
+      "chingling",
+      "celesteela",
+      "hatenna",
+      "hattrem",
+      "hatterene",
+      "hatterene_gigantamax",
+      "alola_meowth",
+      "alola_persian"
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "_id": "magic_guard",
+    "name": "Magic Guard",
+    "koName": "매직가드",
+    "realased": "",
+    "description": "공격 이외에는 데미지를 입지 않는다.",
+    "generation": 4,
+    "pokemonIds": [
+      "clefairy",
+      "clefable",
+      "abra",
+      "kadabra",
+      "alakazam",
+      "ponyta",
+      "rapidash",
+      "cleffa",
+      "ho_oh",
+      "nincada",
+      "ninjask",
+      "shedinja",
+      "feebas",
+      "milotic",
+      "drifloon",
+      "drifblim",
+      "sigilyph",
+      "solosis",
+      "duosion",
+      "reuniclus",
+      "fletchling",
+      "fletchinder",
+      "talonflame",
+      "blacephalon",
+      "eternal_floette"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "moody",
+    "name": "Moody",
+    "koName": "변덕쟁이",
+    "realased": "",
+    "description": "매 턴 능력 중 하나가 크게 오르고 하나가 떨어진다.",
+    "generation": 5,
+    "pokemonIds": [
+      "remoraid",
+      "octillery",
+      "smeargle",
+      "snorunt",
+      "glalie",
+      "bidoof",
+      "bibarel",
+      "mesprit",
+      "morpeko",
+      "scovillain"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

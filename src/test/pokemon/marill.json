@@ -1,0 +1,201 @@
+[
+  {
+    "_id": "marill",
+    "gender": "",
+    "pokedexNumber": "183",
+    "name": "marill",
+    "koName": "마릴",
+    "speciesName": "marill",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "88",
+    "friendship": "50",
+    "types": [
+      "water",
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "thick_fat",
+      "huge_power"
+    ],
+    "hiddenAbilityId": "sap_sipper",
+    "passiveAbilityId": "misty_surge",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 250,
+    "hp": 70,
+    "attack": 20,
+    "defense": 50,
+    "specialAttack": 20,
+    "specialDefense": 50,
+    "speed": 40,
+    "height": 0.4,
+    "weight": 8.5,
+    "eggMoveIds": [
+      "jet_punch",
+      "magical_torque",
+      "swords_dance",
+      "surging_strikes"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": 1,
+        "moveId": "rollout"
+      },
+      {
+        "level": 1,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 6,
+        "moveId": "bubble_beam"
+      },
+      {
+        "level": 9,
+        "moveId": "charm"
+      },
+      {
+        "level": 12,
+        "moveId": "slam"
+      },
+      {
+        "level": 15,
+        "moveId": "bounce"
+      },
+      {
+        "level": 19,
+        "moveId": "aqua_tail"
+      },
+      {
+        "level": 21,
+        "moveId": "play_rough"
+      },
+      {
+        "level": 24,
+        "moveId": "aqua_ring"
+      },
+      {
+        "level": 27,
+        "moveId": "rain_dance"
+      },
+      {
+        "level": 30,
+        "moveId": "hydro_pump"
+      },
+      {
+        "level": 33,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 36,
+        "moveId": "superpower"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "ice_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "strength",
+      "dig",
+      "toxic",
+      "double_team",
+      "light_screen",
+      "metronome",
+      "waterfall",
+      "swift",
+      "amnesia",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "future_sight",
+      "rock_smash",
+      "whirlpool",
+      "uproar",
+      "hail",
+      "facade",
+      "focus_punch",
+      "helping_hand",
+      "superpower",
+      "brick_break",
+      "knock_off",
+      "dive",
+      "hyper_voice",
+      "fake_tears",
+      "muddy_water",
+      "bounce",
+      "mud_shot",
+      "covet",
+      "water_pulse",
+      "fling",
+      "aqua_tail",
+      "grass_knot",
+      "round",
+      "scald",
+      "bulldoze",
+      "work_up",
+      "disarming_voice",
+      "draining_kiss",
+      "misty_terrain",
+      "play_rough",
+      "confide",
+      "power_up_punch",
+      "brutal_swing",
+      "liquidation",
+      "steel_roller",
+      "misty_explosion",
+      "tera_blast",
+      "ice_spinner",
+      "snowscape",
+      "trailblaze",
+      "chilling_water",
+      "alluring_voice"
+    ],
+    "biomeIds": [
+      "lake",
+      "fairy_cave"
+    ]
+  }
+]

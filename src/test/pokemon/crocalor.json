@@ -1,0 +1,150 @@
+[
+  {
+    "_id": "crocalor",
+    "gender": "",
+    "pokedexNumber": "910",
+    "name": "crocalor",
+    "koName": "악뜨거",
+    "speciesName": "crocalor",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "144",
+    "friendship": "50",
+    "types": [
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "blaze"
+    ],
+    "hiddenAbilityId": "unaware",
+    "passiveAbilityId": "punk_rock",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 411,
+    "hp": 81,
+    "attack": 55,
+    "defense": 78,
+    "specialAttack": 90,
+    "specialDefense": 58,
+    "speed": 49,
+    "height": 1,
+    "weight": 30.7,
+    "eggMoveIds": [
+      "alluring_voice",
+      "slack_off",
+      "overdrive",
+      "moongeist_beam"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 7,
+        "moveId": "lick"
+      },
+      {
+        "level": 10,
+        "moveId": "round"
+      },
+      {
+        "level": 12,
+        "moveId": "bite"
+      },
+      {
+        "level": 15,
+        "moveId": "yawn"
+      },
+      {
+        "level": 17,
+        "moveId": "incinerate"
+      },
+      {
+        "level": 24,
+        "moveId": "snarl"
+      },
+      {
+        "level": 28,
+        "moveId": "roar"
+      },
+      {
+        "level": 32,
+        "moveId": "flamethrower"
+      },
+      {
+        "level": 38,
+        "moveId": "hyper_voice"
+      },
+      {
+        "level": 42,
+        "moveId": "will_o_wisp"
+      },
+      {
+        "level": 47,
+        "moveId": "fire_blast"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "roar",
+      "flamethrower",
+      "fire_spin",
+      "dig",
+      "double_team",
+      "fire_blast",
+      "rest",
+      "substitute",
+      "curse",
+      "protect",
+      "mud_slap",
+      "outrage",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "hidden_power",
+      "sunny_day",
+      "crunch",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "helping_hand",
+      "hyper_voice",
+      "overheat",
+      "flare_blitz",
+      "seed_bomb",
+      "thunder_fang",
+      "fire_fang",
+      "zen_headbutt",
+      "flame_charge",
+      "round",
+      "incinerate",
+      "fire_pledge",
+      "snarl",
+      "disarming_voice",
+      "stomping_tantrum",
+      "tera_blast",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "graveyard"
+    ]
+  }
+]

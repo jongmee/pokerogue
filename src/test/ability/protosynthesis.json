@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "protosynthesis",
+    "name": "Protosynthesis",
+    "koName": "고대활성",
+    "realased": " (P)",
+    "description": "부스트에너지를 지니고 있거나 날씨가 맑을 때 가장 높은 능력이 올라간다.",
+    "generation": 9,
+    "pokemonIds": [
+      "bellsprout",
+      "weepinbell",
+      "victreebel",
+      "great_tusk",
+      "scream_tail",
+      "brute_bonnet",
+      "flutter_mane",
+      "slither_wing",
+      "sandy_shocks",
+      "roaring_moon",
+      "walking_wake",
+      "gouging_fire",
+      "raging_bolt"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

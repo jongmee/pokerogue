@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "chloroblast",
+    "name": "Chloroblast",
+    "koName": "클로로블라스트",
+    "type": "grass",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 150,
+    "accuracy": 95,
+    "powerPoint": 5,
+    "effect": "엽록소를 모은 뒤 발사하여 공격한다. 자신도 데미지를 입는다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "blacephalon",
+      "eternal_floette",
+      "hisui_electrode"
+    ]
+  }
+]

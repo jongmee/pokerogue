@@ -1,0 +1,106 @@
+[
+  {
+    "_id": "cinderace_gigantamax",
+    "gender": "",
+    "pokedexNumber": "815",
+    "name": "cinderace_gigantamax",
+    "koName": "에이스번_gigantamax",
+    "speciesName": "cinderace",
+    "canChangeForm": true,
+    "formName": "g_max",
+    "baseExp": "265",
+    "friendship": "50",
+    "types": [
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "libero"
+    ],
+    "hiddenAbilityId": "libero",
+    "passiveAbilityId": "no_guard",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 630,
+    "hp": 100,
+    "attack": 146,
+    "defense": 80,
+    "specialAttack": 90,
+    "specialDefense": 80,
+    "speed": 134,
+    "height": 27,
+    "weight": 33,
+    "eggMoveIds": [
+      "extreme_speed",
+      "high_jump_kick",
+      "triple_axel",
+      "bolt_strike"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "pyro_ball"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "feint"
+      },
+      {
+        "level": 12,
+        "moveId": "double_kick"
+      },
+      {
+        "level": 19,
+        "moveId": "flame_charge"
+      },
+      {
+        "level": 24,
+        "moveId": "agility"
+      },
+      {
+        "level": 30,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 38,
+        "moveId": "counter"
+      },
+      {
+        "level": 46,
+        "moveId": "bounce"
+      },
+      {
+        "level": 54,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 62,
+        "moveId": "court_change"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "volcano"
+    ]
+  }
+]

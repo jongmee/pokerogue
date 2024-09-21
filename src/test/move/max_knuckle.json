@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "max_knuckle",
+    "name": "Max Knuckle",
+    "koName": "다이너클",
+    "type": "fighting",
+    "moveCategory": "physical",
+    "moveTarget": "near_enemy",
+    "power": 10,
+    "accuracy": -1,
+    "powerPoint": 10,
+    "effect": "다이맥스한 포켓몬이 날리는 격투타입의 공격. 같은 편의 공격을 올린다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": " (N)",
+    "flags": [
+      "makes_contact",
+      "ignore_virtual"
+    ],
+    "pokemonIds": []
+  }
+]

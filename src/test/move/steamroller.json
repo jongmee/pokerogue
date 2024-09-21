@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "steamroller",
+    "name": "Steamroller",
+    "koName": "하드롤러",
+    "type": "bug",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 65,
+    "accuracy": 100,
+    "powerPoint": 20,
+    "effect": "둥글게 뭉친 몸을 회전하여 상대를 뭉개 버린다. 상대를 풀죽게 만들 때가 있다.",
+    "effectChance": 30,
+    "prioirty": 0,
+    "generation": 5,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": []
+  }
+]

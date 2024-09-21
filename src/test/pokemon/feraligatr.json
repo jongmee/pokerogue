@@ -1,0 +1,197 @@
+[
+  {
+    "_id": "feraligatr",
+    "gender": "",
+    "pokedexNumber": "160",
+    "name": "feraligatr",
+    "koName": "장크로다일",
+    "speciesName": "feraligatr",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "239",
+    "friendship": "70",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "torrent"
+    ],
+    "hiddenAbilityId": "sheer_force",
+    "passiveAbilityId": "tough_claws",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 530,
+    "hp": 85,
+    "attack": 105,
+    "defense": 100,
+    "specialAttack": 79,
+    "specialDefense": 83,
+    "speed": 78,
+    "height": 2.3,
+    "weight": 88.8,
+    "eggMoveIds": [
+      "thunder_punch",
+      "dragon_dance",
+      "triple_axel",
+      "fishious_rend"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "agility"
+      },
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 13,
+        "moveId": "bite"
+      },
+      {
+        "level": 15,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 21,
+        "moveId": "ice_fang"
+      },
+      {
+        "level": 24,
+        "moveId": "flail"
+      },
+      {
+        "level": 32,
+        "moveId": "crunch"
+      },
+      {
+        "level": 37,
+        "moveId": "slash"
+      },
+      {
+        "level": 44,
+        "moveId": "screech"
+      },
+      {
+        "level": 51,
+        "moveId": "thrash"
+      },
+      {
+        "level": 59,
+        "moveId": "aqua_tail"
+      },
+      {
+        "level": 65,
+        "moveId": "superpower"
+      },
+      {
+        "level": 70,
+        "moveId": "hydro_pump"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "ice_punch",
+      "swords_dance",
+      "cut",
+      "mega_kick",
+      "body_slam",
+      "double_edge",
+      "roar",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "low_kick",
+      "counter",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "agility",
+      "screech",
+      "double_team",
+      "waterfall",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "icy_wind",
+      "outrage",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "crunch",
+      "rock_smash",
+      "whirlpool",
+      "uproar",
+      "hail",
+      "facade",
+      "focus_punch",
+      "superpower",
+      "brick_break",
+      "endeavor",
+      "dive",
+      "hydro_cannon",
+      "rock_tomb",
+      "muddy_water",
+      "aerial_ace",
+      "dragon_claw",
+      "dragon_dance",
+      "water_pulse",
+      "fling",
+      "aqua_tail",
+      "dragon_pulse",
+      "focus_blast",
+      "giga_impact",
+      "avalanche",
+      "shadow_claw",
+      "ice_fang",
+      "rock_climb",
+      "hone_claws",
+      "round",
+      "scald",
+      "water_pledge",
+      "bulldoze",
+      "dragon_tail",
+      "work_up",
+      "confide",
+      "power_up_punch",
+      "psychic_fangs",
+      "liquidation",
+      "breaking_swipe",
+      "flip_turn",
+      "tera_blast",
+      "trailblaze",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "swamp"
+    ]
+  }
+]

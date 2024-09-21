@@ -1,0 +1,161 @@
+[
+  {
+    "_id": "bonsly",
+    "gender": "",
+    "pokedexNumber": "438",
+    "name": "bonsly",
+    "koName": "꼬지지",
+    "speciesName": "bonsly",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "58",
+    "friendship": "50",
+    "types": [
+      "rock"
+    ],
+    "normalAbilityIds": [
+      "sturdy",
+      "rock_head"
+    ],
+    "hiddenAbilityId": "rattled",
+    "passiveAbilityId": "sap_sipper",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 290,
+    "hp": 50,
+    "attack": 80,
+    "defense": 95,
+    "specialAttack": 10,
+    "specialDefense": 45,
+    "speed": 10,
+    "height": 0.5,
+    "weight": 15,
+    "eggMoveIds": [
+      "accelerock",
+      "swords_dance",
+      "strength_sap",
+      "sappy_seed"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "fake_tears"
+      },
+      {
+        "level": 1,
+        "moveId": "copycat"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 4,
+        "moveId": "flail"
+      },
+      {
+        "level": 8,
+        "moveId": "rock_throw"
+      },
+      {
+        "level": 12,
+        "moveId": "block"
+      },
+      {
+        "level": 16,
+        "moveId": "mimic"
+      },
+      {
+        "level": 20,
+        "moveId": "rock_tomb"
+      },
+      {
+        "level": 24,
+        "moveId": "tearful_look"
+      },
+      {
+        "level": 28,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 32,
+        "moveId": "rock_slide"
+      },
+      {
+        "level": 36,
+        "moveId": "low_kick"
+      },
+      {
+        "level": 40,
+        "moveId": "counter"
+      },
+      {
+        "level": 44,
+        "moveId": "double_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "low_kick",
+      "earthquake",
+      "dig",
+      "toxic",
+      "double_team",
+      "self_destruct",
+      "explosion",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "spikes",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "sunny_day",
+      "psych_up",
+      "uproar",
+      "facade",
+      "nature_power",
+      "helping_hand",
+      "brick_break",
+      "fake_tears",
+      "rock_tomb",
+      "sand_tomb",
+      "mud_shot",
+      "covet",
+      "calm_mind",
+      "rock_blast",
+      "rock_polish",
+      "power_gem",
+      "earth_power",
+      "stone_edge",
+      "stealth_rock",
+      "grass_knot",
+      "smack_down",
+      "foul_play",
+      "round",
+      "bulldoze",
+      "confide",
+      "stomping_tantrum",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": []
+  }
+]

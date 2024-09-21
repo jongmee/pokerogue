@@ -1,0 +1,40 @@
+[
+  {
+    "_id": "heal_block",
+    "name": "Heal Block",
+    "koName": "회복봉인",
+    "type": "psychic",
+    "moveCategory": "status",
+    "moveTarget": "all_near_enemies",
+    "power": -1,
+    "accuracy": 100,
+    "powerPoint": 15,
+    "effect": "5턴 동안 기술이나 특성, 지니고 있는 도구에 의한 HP 회복을 할 수 없게 한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 4,
+    "realased": " (N)",
+    "flags": [],
+    "pokemonIds": [
+      "celebi",
+      "latios",
+      "bronzor",
+      "bronzong",
+      "yamask",
+      "cofagrigus",
+      "gothita",
+      "gothorita",
+      "gothitelle",
+      "solosis",
+      "duosion",
+      "reuniclus",
+      "elgyem",
+      "beheeyem",
+      "klefki",
+      "type_null",
+      "silvally",
+      "rellor",
+      "rabsca"
+    ]
+  }
+]

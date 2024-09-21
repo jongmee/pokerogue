@@ -1,0 +1,182 @@
+[
+  {
+    "_id": "hippowdon",
+    "gender": "",
+    "pokedexNumber": "450",
+    "name": "hippowdon",
+    "koName": "하마돈",
+    "speciesName": "hippowdon",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "184",
+    "friendship": "50",
+    "types": [
+      "ground"
+    ],
+    "normalAbilityIds": [
+      "sand_stream"
+    ],
+    "hiddenAbilityId": "sand_force",
+    "passiveAbilityId": "unaware",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 525,
+    "hp": 108,
+    "attack": 112,
+    "defense": 118,
+    "specialAttack": 68,
+    "specialDefense": 72,
+    "speed": 47,
+    "height": 2,
+    "weight": 300,
+    "eggMoveIds": [
+      "shore_up",
+      "stone_axe",
+      "bulk_up",
+      "salt_cure"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "bite"
+      },
+      {
+        "level": 1,
+        "moveId": "yawn"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_fang"
+      },
+      {
+        "level": 1,
+        "moveId": "ice_fang"
+      },
+      {
+        "level": 1,
+        "moveId": "fire_fang"
+      },
+      {
+        "level": 12,
+        "moveId": "sand_tomb"
+      },
+      {
+        "level": 16,
+        "moveId": "dig"
+      },
+      {
+        "level": 20,
+        "moveId": "crunch"
+      },
+      {
+        "level": 24,
+        "moveId": "sandstorm"
+      },
+      {
+        "level": 28,
+        "moveId": "take_down"
+      },
+      {
+        "level": 32,
+        "moveId": "roar"
+      },
+      {
+        "level": 38,
+        "moveId": "rest"
+      },
+      {
+        "level": 44,
+        "moveId": "earthquake"
+      },
+      {
+        "level": 50,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 56,
+        "moveId": "fissure"
+      },
+      {
+        "level": 62,
+        "moveId": "slack_off"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "hyper_beam",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "double_team",
+      "amnesia",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "sunny_day",
+      "crunch",
+      "rock_smash",
+      "facade",
+      "helping_hand",
+      "superpower",
+      "revenge",
+      "hyper_voice",
+      "weather_ball",
+      "rock_tomb",
+      "sand_tomb",
+      "muddy_water",
+      "mud_shot",
+      "water_pulse",
+      "earth_power",
+      "giga_impact",
+      "thunder_fang",
+      "ice_fang",
+      "fire_fang",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "heavy_slam",
+      "round",
+      "bulldoze",
+      "confide",
+      "high_horsepower",
+      "stomping_tantrum",
+      "body_press",
+      "scorching_sands",
+      "tera_blast",
+      "hard_press"
+    ],
+    "biomeIds": [
+      "desert"
+    ]
+  }
+]

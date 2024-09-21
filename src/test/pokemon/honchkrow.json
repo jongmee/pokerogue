@@ -1,0 +1,176 @@
+[
+  {
+    "_id": "honchkrow",
+    "gender": "",
+    "pokedexNumber": "430",
+    "name": "honchkrow",
+    "koName": "돈크로우",
+    "speciesName": "honchkrow",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "177",
+    "friendship": "35",
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "insomnia",
+      "super_luck"
+    ],
+    "hiddenAbilityId": "moxie",
+    "passiveAbilityId": "dark_aura",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 505,
+    "hp": 100,
+    "attack": 125,
+    "defense": 52,
+    "specialAttack": 105,
+    "specialDefense": 52,
+    "speed": 71,
+    "height": 0.9,
+    "weight": 27.3,
+    "eggMoveIds": [
+      "triple_arrows",
+      "floaty_fall",
+      "tidy_up",
+      "wicked_blow"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "wing_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "haze"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 1,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 1,
+        "moveId": "night_slash"
+      },
+      {
+        "level": 1,
+        "moveId": "quash"
+      },
+      {
+        "level": 1,
+        "moveId": "pursuit"
+      },
+      {
+        "level": 25,
+        "moveId": "swagger"
+      },
+      {
+        "level": 35,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 45,
+        "moveId": "foul_play"
+      },
+      {
+        "level": 55,
+        "moveId": "dark_pulse"
+      },
+      {
+        "level": 65,
+        "moveId": "comeuppance"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fly",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "thunder_wave",
+      "toxic",
+      "psychic",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "haze",
+      "swift",
+      "dream_eater",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "uproar",
+      "heat_wave",
+      "torment",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "superpower",
+      "endeavor",
+      "feather_dance",
+      "air_cutter",
+      "aerial_ace",
+      "calm_mind",
+      "roost",
+      "pluck",
+      "tailwind",
+      "u_turn",
+      "payback",
+      "assurance",
+      "embargo",
+      "dark_pulse",
+      "air_slash",
+      "brave_bird",
+      "giga_impact",
+      "nasty_plot",
+      "defog",
+      "foul_play",
+      "round",
+      "hex",
+      "incinerate",
+      "quash",
+      "acrobatics",
+      "retaliate",
+      "hurricane",
+      "snarl",
+      "confide",
+      "lash_out",
+      "dual_wingbeat",
+      "tera_blast",
+      "chilling_water",
+      "psychic_noise"
+    ],
+    "biomeIds": [
+      "abyss"
+    ]
+  }
+]

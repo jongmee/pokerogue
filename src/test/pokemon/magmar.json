@@ -1,0 +1,178 @@
+[
+  {
+    "_id": "magmar",
+    "gender": "",
+    "pokedexNumber": "126",
+    "name": "magmar",
+    "koName": "마그마",
+    "speciesName": "magmar",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "173",
+    "friendship": "50",
+    "types": [
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "flame_body"
+    ],
+    "hiddenAbilityId": "vital_spirit",
+    "passiveAbilityId": "contrary",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 495,
+    "hp": 65,
+    "attack": 95,
+    "defense": 57,
+    "specialAttack": 100,
+    "specialDefense": 85,
+    "speed": 93,
+    "height": 1.3,
+    "weight": 44.5,
+    "eggMoveIds": [
+      "thunderclap",
+      "earth_power",
+      "armor_cannon",
+      "fleur_cannon"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 1,
+        "moveId": "smokescreen"
+      },
+      {
+        "level": 1,
+        "moveId": "smog"
+      },
+      {
+        "level": 12,
+        "moveId": "clear_smog"
+      },
+      {
+        "level": 16,
+        "moveId": "flame_wheel"
+      },
+      {
+        "level": 20,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 24,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 28,
+        "moveId": "fire_punch"
+      },
+      {
+        "level": 34,
+        "moveId": "lava_plume"
+      },
+      {
+        "level": 40,
+        "moveId": "low_kick"
+      },
+      {
+        "level": 46,
+        "moveId": "flamethrower"
+      },
+      {
+        "level": 52,
+        "moveId": "sunny_day"
+      },
+      {
+        "level": 58,
+        "moveId": "fire_blast"
+      },
+      {
+        "level": 64,
+        "moveId": "hyper_beam"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "thunder_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "flamethrower",
+      "hyper_beam",
+      "low_kick",
+      "counter",
+      "strength",
+      "fire_spin",
+      "toxic",
+      "psychic",
+      "screech",
+      "double_team",
+      "confuse_ray",
+      "focus_energy",
+      "metronome",
+      "fire_blast",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "sunny_day",
+      "rock_smash",
+      "uproar",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "brick_break",
+      "knock_off",
+      "overheat",
+      "covet",
+      "fling",
+      "power_swap",
+      "flare_blitz",
+      "focus_blast",
+      "giga_impact",
+      "rock_climb",
+      "flame_charge",
+      "low_sweep",
+      "acid_spray",
+      "round",
+      "incinerate",
+      "confide",
+      "power_up_punch",
+      "burning_jealousy",
+      "scorching_sands",
+      "tera_blast",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "volcano"
+    ]
+  }
+]

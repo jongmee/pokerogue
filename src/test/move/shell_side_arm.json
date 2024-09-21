@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "shell_side_arm",
+    "name": "Shell Side Arm",
+    "koName": "셸암즈",
+    "type": "poison",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 90,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "물리와 특수 중 더 많은 데미지를 줄 수 있는 능력으로 공격한다. 독 상태로 만들 때가 있다.",
+    "effectChance": 20,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": " (P)",
+    "flags": [],
+    "pokemonIds": [
+      "remoraid",
+      "octillery",
+      "clamperl",
+      "huntail",
+      "gorebyss",
+      "oshawott",
+      "dewott",
+      "samurott",
+      "froakie",
+      "frogadier",
+      "greninja",
+      "yveltal",
+      "jangmo_o",
+      "hakamo_o",
+      "kommo_o",
+      "galar_slowbro",
+      "hisui_samurott"
+    ]
+  }
+]

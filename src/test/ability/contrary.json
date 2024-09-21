@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "contrary",
+    "name": "Contrary",
+    "koName": "심술꾸러기",
+    "realased": "",
+    "description": "능력의 변화가 역전해서 올라갈 때 떨어지고 떨어질 때 올라간다.",
+    "generation": 5,
+    "pokemonIds": [
+      "magmar",
+      "shuckle",
+      "magby",
+      "spinda",
+      "magmortar",
+      "snivy",
+      "servine",
+      "serperior",
+      "heatmor",
+      "inkay",
+      "malamar",
+      "fomantis",
+      "lurantis",
+      "enamorus_incarnate"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

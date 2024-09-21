@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "soul_heart",
+    "name": "Soul-Heart",
+    "koName": "소울하트",
+    "realased": "",
+    "description": "포켓몬이 기절할 때마다 특수공격이 올라간다.",
+    "generation": 7,
+    "pokemonIds": [
+      "litwick",
+      "lampent",
+      "chandelure",
+      "yveltal",
+      "magearna",
+      "terapagos"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

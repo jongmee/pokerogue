@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "mold_breaker",
+    "name": "Mold Breaker",
+    "koName": "틀깨기",
+    "realased": "",
+    "description": "상대 특성에 방해받지 않고 상대에게 기술을 쓸 수 있다.",
+    "generation": 4,
+    "pokemonIds": [
+      "pinsir",
+      "gyarados_mega",
+      "ampharos_mega",
+      "kyogre",
+      "kyogre_primal",
+      "cranidos",
+      "rampardos",
+      "drilbur",
+      "excadrill",
+      "throh",
+      "sawk",
+      "axew",
+      "fraxure",
+      "haxorus",
+      "druddigon",
+      "pancham",
+      "pangoro",
+      "hawlucha",
+      "copperajah_gigantamax",
+      "basculegion",
+      "tinkatink",
+      "tinkatuff",
+      "tinkaton",
+      "veluza"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

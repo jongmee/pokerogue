@@ -1,0 +1,115 @@
+[
+  {
+    "_id": "hoopa_unbound",
+    "gender": "",
+    "pokedexNumber": "720",
+    "name": "hoopa_unbound",
+    "koName": "후파_unbound",
+    "speciesName": "hoopa",
+    "canChangeForm": true,
+    "formName": "hoopa_unbound",
+    "baseExp": "270",
+    "friendship": "100",
+    "types": [
+      "psychic",
+      "dark"
+    ],
+    "normalAbilityIds": [
+      "magician"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "opportunist",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": true,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 680,
+    "hp": 80,
+    "attack": 160,
+    "defense": 60,
+    "specialAttack": 170,
+    "specialDefense": 130,
+    "speed": 80,
+    "height": 6.5,
+    "weight": 490,
+    "eggMoveIds": [
+      "photon_geyser",
+      "secret_sword",
+      "fiery_wrath",
+      "shell_smash"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 1,
+        "moveId": "destiny_bond"
+      },
+      {
+        "level": 1,
+        "moveId": "ally_switch"
+      },
+      {
+        "level": 6,
+        "moveId": "astonish"
+      },
+      {
+        "level": 10,
+        "moveId": "trick"
+      },
+      {
+        "level": 15,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 19,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 25,
+        "moveId": "skill_swap"
+      },
+      {
+        "level": 29,
+        "moveId": "guard_split"
+      },
+      {
+        "level": 29,
+        "moveId": "power_split"
+      },
+      {
+        "level": 46,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 50,
+        "moveId": "trick_room"
+      },
+      {
+        "level": 50,
+        "moveId": "wonder_room"
+      },
+      {
+        "level": 55,
+        "moveId": "dark_pulse"
+      },
+      {
+        "level": 75,
+        "moveId": "psychic"
+      },
+      {
+        "level": 85,
+        "moveId": "hyperspace_fury"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "temple"
+    ]
+  }
+]

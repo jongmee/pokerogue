@@ -1,0 +1,170 @@
+[
+  {
+    "_id": "charmeleon",
+    "gender": "",
+    "pokedexNumber": "5",
+    "name": "charmeleon",
+    "koName": "리자드",
+    "speciesName": "charmeleon",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "142",
+    "friendship": "50",
+    "types": [
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "blaze"
+    ],
+    "hiddenAbilityId": "solar_power",
+    "passiveAbilityId": "beast_boost",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 405,
+    "hp": 58,
+    "attack": 64,
+    "defense": 58,
+    "specialAttack": 80,
+    "specialDefense": 65,
+    "speed": 80,
+    "height": 1.1,
+    "weight": 19,
+    "eggMoveIds": [
+      "dragon_dance",
+      "bitter_blade",
+      "earth_power",
+      "oblivion_wing"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 1,
+        "moveId": "smokescreen"
+      },
+      {
+        "level": 12,
+        "moveId": "dragon_breath"
+      },
+      {
+        "level": 19,
+        "moveId": "fire_fang"
+      },
+      {
+        "level": 24,
+        "moveId": "slash"
+      },
+      {
+        "level": 30,
+        "moveId": "flamethrower"
+      },
+      {
+        "level": 37,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 48,
+        "moveId": "inferno"
+      },
+      {
+        "level": 54,
+        "moveId": "flare_blitz"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "thunder_punch",
+      "swords_dance",
+      "cut",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "counter",
+      "strength",
+      "fire_spin",
+      "dig",
+      "toxic",
+      "double_team",
+      "reflect",
+      "fire_blast",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "outrage",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "metal_claw",
+      "hidden_power",
+      "sunny_day",
+      "crunch",
+      "rock_smash",
+      "beat_up",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "focus_punch",
+      "helping_hand",
+      "brick_break",
+      "weather_ball",
+      "air_cutter",
+      "overheat",
+      "rock_tomb",
+      "aerial_ace",
+      "dragon_claw",
+      "dragon_dance",
+      "fling",
+      "flare_blitz",
+      "dragon_pulse",
+      "shadow_claw",
+      "fire_fang",
+      "hone_claws",
+      "flame_charge",
+      "round",
+      "echoed_voice",
+      "incinerate",
+      "acrobatics",
+      "fire_pledge",
+      "dragon_tail",
+      "work_up",
+      "confide",
+      "power_up_punch",
+      "breaking_swipe",
+      "tera_blast",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "volcano"
+    ]
+  }
+]

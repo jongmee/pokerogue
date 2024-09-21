@@ -1,0 +1,201 @@
+[
+  {
+    "_id": "sudowoodo",
+    "gender": "",
+    "pokedexNumber": "185",
+    "name": "sudowoodo",
+    "koName": "꼬지모",
+    "speciesName": "sudowoodo",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "144",
+    "friendship": "50",
+    "types": [
+      "rock"
+    ],
+    "normalAbilityIds": [
+      "sturdy",
+      "rock_head"
+    ],
+    "hiddenAbilityId": "rattled",
+    "passiveAbilityId": "sap_sipper",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 410,
+    "hp": 70,
+    "attack": 100,
+    "defense": 115,
+    "specialAttack": 30,
+    "specialDefense": 65,
+    "speed": 30,
+    "height": 1.2,
+    "weight": 38,
+    "eggMoveIds": [
+      "accelerock",
+      "swords_dance",
+      "strength_sap",
+      "sappy_seed"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "slam"
+      },
+      {
+        "level": 1,
+        "moveId": "rock_throw"
+      },
+      {
+        "level": 1,
+        "moveId": "flail"
+      },
+      {
+        "level": 1,
+        "moveId": "fake_tears"
+      },
+      {
+        "level": 1,
+        "moveId": "hammer_arm"
+      },
+      {
+        "level": 1,
+        "moveId": "copycat"
+      },
+      {
+        "level": 1,
+        "moveId": "stone_edge"
+      },
+      {
+        "level": 1,
+        "moveId": "wood_hammer"
+      },
+      {
+        "level": 12,
+        "moveId": "block"
+      },
+      {
+        "level": 16,
+        "moveId": "mimic"
+      },
+      {
+        "level": 20,
+        "moveId": "rock_tomb"
+      },
+      {
+        "level": 24,
+        "moveId": "tearful_look"
+      },
+      {
+        "level": 28,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 32,
+        "moveId": "rock_slide"
+      },
+      {
+        "level": 36,
+        "moveId": "low_kick"
+      },
+      {
+        "level": 40,
+        "moveId": "counter"
+      },
+      {
+        "level": 44,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 48,
+        "moveId": "head_smash"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "low_kick",
+      "counter",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "double_team",
+      "self_destruct",
+      "explosion",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "spikes",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "sunny_day",
+      "psych_up",
+      "rock_smash",
+      "uproar",
+      "torment",
+      "facade",
+      "focus_punch",
+      "nature_power",
+      "taunt",
+      "helping_hand",
+      "brick_break",
+      "endeavor",
+      "fake_tears",
+      "rock_tomb",
+      "sand_tomb",
+      "iron_defense",
+      "mud_shot",
+      "covet",
+      "calm_mind",
+      "rock_blast",
+      "fling",
+      "rock_polish",
+      "power_gem",
+      "drain_punch",
+      "earth_power",
+      "giga_impact",
+      "stone_edge",
+      "stealth_rock",
+      "grass_knot",
+      "smack_down",
+      "low_sweep",
+      "foul_play",
+      "round",
+      "bulldoze",
+      "confide",
+      "power_up_punch",
+      "high_horsepower",
+      "stomping_tantrum",
+      "body_press",
+      "meteor_beam",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "grass"
+    ]
+  }
+]

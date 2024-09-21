@@ -1,0 +1,164 @@
+[
+  {
+    "_id": "rattata",
+    "gender": "",
+    "pokedexNumber": "19",
+    "name": "rattata",
+    "koName": "꼬렛",
+    "speciesName": "rattata",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "51",
+    "friendship": "70",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "run_away",
+      "guts"
+    ],
+    "hiddenAbilityId": "hustle",
+    "passiveAbilityId": "strong_jaw",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 253,
+    "hp": 30,
+    "attack": 56,
+    "defense": 35,
+    "specialAttack": 25,
+    "specialDefense": 35,
+    "speed": 72,
+    "height": 0.3,
+    "weight": 3.5,
+    "eggMoveIds": [
+      "hyper_fang",
+      "psychic_fangs",
+      "fire_fang",
+      "extreme_speed"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 4,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 7,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 10,
+        "moveId": "bite"
+      },
+      {
+        "level": 13,
+        "moveId": "laser_focus"
+      },
+      {
+        "level": 16,
+        "moveId": "take_down"
+      },
+      {
+        "level": 19,
+        "moveId": "assurance"
+      },
+      {
+        "level": 22,
+        "moveId": "crunch"
+      },
+      {
+        "level": 25,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 28,
+        "moveId": "super_fang"
+      },
+      {
+        "level": 31,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 34,
+        "moveId": "endeavor"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "cut",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "ice_beam",
+      "blizzard",
+      "counter",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "dig",
+      "toxic",
+      "screech",
+      "double_team",
+      "focus_energy",
+      "swift",
+      "rest",
+      "super_fang",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "reversal",
+      "protect",
+      "sludge_bomb",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "shadow_ball",
+      "rock_smash",
+      "uproar",
+      "facade",
+      "taunt",
+      "revenge",
+      "endeavor",
+      "covet",
+      "pluck",
+      "u_turn",
+      "assurance",
+      "zen_headbutt",
+      "grass_knot",
+      "charge_beam",
+      "round",
+      "retaliate",
+      "work_up",
+      "wild_charge",
+      "confide",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "town",
+      "metropolis",
+      "slum"
+    ]
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "_id": "garganacl",
+    "gender": "",
+    "pokedexNumber": "934",
+    "name": "garganacl",
+    "koName": "콜로솔트",
+    "speciesName": "garganacl",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "250",
+    "friendship": "50",
+    "types": [
+      "rock"
+    ],
+    "normalAbilityIds": [
+      "purifying_salt",
+      "sturdy"
+    ],
+    "hiddenAbilityId": "clear_body",
+    "passiveAbilityId": "solid_rock",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 500,
+    "hp": 100,
+    "attack": 100,
+    "defense": 130,
+    "specialAttack": 45,
+    "specialDefense": 90,
+    "speed": 35,
+    "height": 2.3,
+    "weight": 240,
+    "eggMoveIds": [
+      "body_press",
+      "toxic",
+      "curse",
+      "diamond_storm"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "hammer_arm"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "harden"
+      },
+      {
+        "level": 1,
+        "moveId": "block"
+      },
+      {
+        "level": 1,
+        "moveId": "rock_blast"
+      },
+      {
+        "level": 1,
+        "moveId": "wide_guard"
+      },
+      {
+        "level": 5,
+        "moveId": "rock_throw"
+      },
+      {
+        "level": 7,
+        "moveId": "mud_shot"
+      },
+      {
+        "level": 10,
+        "moveId": "rock_tomb"
+      },
+      {
+        "level": 13,
+        "moveId": "rock_polish"
+      },
+      {
+        "level": 16,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 24,
+        "moveId": "salt_cure"
+      },
+      {
+        "level": 30,
+        "moveId": "recover"
+      },
+      {
+        "level": 34,
+        "moveId": "rock_slide"
+      },
+      {
+        "level": 40,
+        "moveId": "stealth_rock"
+      },
+      {
+        "level": 44,
+        "moveId": "heavy_slam"
+      },
+      {
+        "level": 49,
+        "moveId": "earthquake"
+      },
+      {
+        "level": 54,
+        "moveId": "stone_edge"
+      },
+      {
+        "level": 60,
+        "moveId": "explosion"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "earthquake",
+      "dig",
+      "double_team",
+      "explosion",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "curse",
+      "protect",
+      "sandstorm",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "facade",
+      "focus_punch",
+      "helping_hand",
+      "brick_break",
+      "rock_tomb",
+      "iron_defense",
+      "mud_shot",
+      "rock_blast",
+      "gravity",
+      "fling",
+      "rock_polish",
+      "power_gem",
+      "earth_power",
+      "giga_impact",
+      "avalanche",
+      "zen_headbutt",
+      "flash_cannon",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "smack_down",
+      "heavy_slam",
+      "bulldoze",
+      "stomping_tantrum",
+      "body_press",
+      "meteor_beam",
+      "tera_blast",
+      "hard_press"
+    ],
+    "biomeIds": [
+      "mountain",
+      "cave"
+    ]
+  }
+]

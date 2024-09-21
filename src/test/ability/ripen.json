@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "ripen",
+    "name": "Ripen",
+    "koName": "숙성",
+    "realased": "",
+    "description": "나무열매를 숙성시켜서 효과가 2배가 된다.",
+    "generation": 8,
+    "pokemonIds": [
+      "exeggcute",
+      "exeggutor",
+      "snorlax",
+      "snorlax_gigantamax",
+      "tropius",
+      "munchlax",
+      "applin",
+      "flapple",
+      "appletun",
+      "smoliv",
+      "dolliv",
+      "arboliva",
+      "alola_exeggutor"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

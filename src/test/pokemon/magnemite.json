@@ -1,0 +1,169 @@
+[
+  {
+    "_id": "magnemite",
+    "gender": "",
+    "pokedexNumber": "81",
+    "name": "magnemite",
+    "koName": "코일",
+    "speciesName": "magnemite",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "65",
+    "friendship": "50",
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "normalAbilityIds": [
+      "magnet_pull",
+      "sturdy"
+    ],
+    "hiddenAbilityId": "analytic",
+    "passiveAbilityId": "levitate",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 325,
+    "hp": 25,
+    "attack": 35,
+    "defense": 70,
+    "specialAttack": 95,
+    "specialDefense": 55,
+    "speed": 45,
+    "height": 0.3,
+    "weight": 6,
+    "eggMoveIds": [
+      "parabolic_charge",
+      "body_press",
+      "ice_beam",
+      "thunderclap"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 4,
+        "moveId": "supersonic"
+      },
+      {
+        "level": 8,
+        "moveId": "thunder_wave"
+      },
+      {
+        "level": 12,
+        "moveId": "electro_ball"
+      },
+      {
+        "level": 16,
+        "moveId": "gyro_ball"
+      },
+      {
+        "level": 20,
+        "moveId": "spark"
+      },
+      {
+        "level": 24,
+        "moveId": "screech"
+      },
+      {
+        "level": 28,
+        "moveId": "magnet_rise"
+      },
+      {
+        "level": 32,
+        "moveId": "flash_cannon"
+      },
+      {
+        "level": 36,
+        "moveId": "discharge"
+      },
+      {
+        "level": 40,
+        "moveId": "metal_sound"
+      },
+      {
+        "level": 44,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 48,
+        "moveId": "lock_on"
+      },
+      {
+        "level": 52,
+        "moveId": "zap_cannon"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "double_edge",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "screech",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "swift",
+      "flash",
+      "explosion",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "facade",
+      "charge",
+      "helping_hand",
+      "recycle",
+      "metal_sound",
+      "signal_beam",
+      "iron_defense",
+      "gravity",
+      "gyro_ball",
+      "flash_cannon",
+      "iron_head",
+      "charge_beam",
+      "heavy_slam",
+      "electro_ball",
+      "round",
+      "volt_switch",
+      "electroweb",
+      "wild_charge",
+      "confide",
+      "eerie_impulse",
+      "electric_terrain",
+      "steel_beam",
+      "rising_voltage",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "power_plant",
+      "factory",
+      "construction_site",
+      "laboratory"
+    ]
+  }
+]

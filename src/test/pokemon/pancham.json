@@ -1,0 +1,177 @@
+[
+  {
+    "_id": "pancham",
+    "gender": "",
+    "pokedexNumber": "674",
+    "name": "pancham",
+    "koName": "판짱",
+    "speciesName": "pancham",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "70",
+    "friendship": "50",
+    "types": [
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "iron_fist",
+      "mold_breaker"
+    ],
+    "hiddenAbilityId": "scrappy",
+    "passiveAbilityId": "fur_coat",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 348,
+    "hp": 67,
+    "attack": 82,
+    "defense": 62,
+    "specialAttack": 46,
+    "specialDefense": 48,
+    "speed": 43,
+    "height": 0.6,
+    "weight": 8,
+    "eggMoveIds": [
+      "drain_punch",
+      "sucker_punch",
+      "meteor_mash",
+      "wicked_blow"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 4,
+        "moveId": "arm_thrust"
+      },
+      {
+        "level": 8,
+        "moveId": "taunt"
+      },
+      {
+        "level": 12,
+        "moveId": "circle_throw"
+      },
+      {
+        "level": 16,
+        "moveId": "low_sweep"
+      },
+      {
+        "level": 20,
+        "moveId": "work_up"
+      },
+      {
+        "level": 24,
+        "moveId": "slash"
+      },
+      {
+        "level": 28,
+        "moveId": "vital_throw"
+      },
+      {
+        "level": 33,
+        "moveId": "crunch"
+      },
+      {
+        "level": 36,
+        "moveId": "body_slam"
+      },
+      {
+        "level": 40,
+        "moveId": "parting_shot"
+      },
+      {
+        "level": 44,
+        "moveId": "entrainment"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "swords_dance",
+      "cut",
+      "mega_kick",
+      "body_slam",
+      "roar",
+      "surf",
+      "low_kick",
+      "strength",
+      "dig",
+      "toxic",
+      "double_team",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "spite",
+      "protect",
+      "sludge_bomb",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "rock_smash",
+      "uproar",
+      "torment",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "superpower",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "hyper_voice",
+      "rock_tomb",
+      "aerial_ace",
+      "bulk_up",
+      "covet",
+      "payback",
+      "fling",
+      "dark_pulse",
+      "drain_punch",
+      "shadow_claw",
+      "zen_headbutt",
+      "gunk_shot",
+      "iron_head",
+      "stone_edge",
+      "grass_knot",
+      "low_sweep",
+      "foul_play",
+      "round",
+      "echoed_voice",
+      "quash",
+      "retaliate",
+      "bulldoze",
+      "work_up",
+      "confide",
+      "power_up_punch",
+      "lash_out",
+      "coaching",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "dojo",
+      "jungle"
+    ]
+  }
+]

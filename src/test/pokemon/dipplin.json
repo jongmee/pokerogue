@@ -1,0 +1,155 @@
+[
+  {
+    "_id": "dipplin",
+    "gender": "",
+    "pokedexNumber": "1011",
+    "name": "dipplin",
+    "koName": "과미르",
+    "speciesName": "dipplin",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "170",
+    "friendship": "50",
+    "types": [
+      "grass",
+      "dragon"
+    ],
+    "normalAbilityIds": [
+      "supersweet_syrup",
+      "gluttony"
+    ],
+    "hiddenAbilityId": "sticky_hold",
+    "passiveAbilityId": "dragons_maw",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 485,
+    "hp": 80,
+    "attack": 80,
+    "defense": 110,
+    "specialAttack": 95,
+    "specialDefense": 80,
+    "speed": 40,
+    "height": 0.4,
+    "weight": 9.7,
+    "eggMoveIds": [
+      "matcha_gotcha",
+      "dragon_hammer",
+      "flower_trick",
+      "strength_sap"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "double_hit"
+      },
+      {
+        "level": -1,
+        "moveId": "dragon_cheer"
+      },
+      {
+        "level": 1,
+        "moveId": "withdraw"
+      },
+      {
+        "level": 1,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 1,
+        "moveId": "recycle"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 4,
+        "moveId": "dragon_tail"
+      },
+      {
+        "level": 8,
+        "moveId": "growth"
+      },
+      {
+        "level": 12,
+        "moveId": "dragon_breath"
+      },
+      {
+        "level": 16,
+        "moveId": "protect"
+      },
+      {
+        "level": 20,
+        "moveId": "bullet_seed"
+      },
+      {
+        "level": 28,
+        "moveId": "syrup_bomb"
+      },
+      {
+        "level": 32,
+        "moveId": "dragon_pulse"
+      },
+      {
+        "level": 36,
+        "moveId": "recover"
+      },
+      {
+        "level": 40,
+        "moveId": "energy_ball"
+      },
+      {
+        "level": 44,
+        "moveId": "substitute"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "hyper_beam",
+      "solar_beam",
+      "double_team",
+      "reflect",
+      "rest",
+      "substitute",
+      "protect",
+      "outrage",
+      "giga_drain",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "sunny_day",
+      "facade",
+      "recycle",
+      "bullet_seed",
+      "gyro_ball",
+      "seed_bomb",
+      "dragon_pulse",
+      "energy_ball",
+      "giga_impact",
+      "draco_meteor",
+      "leaf_storm",
+      "grass_knot",
+      "bug_bite",
+      "dragon_tail",
+      "grassy_terrain",
+      "infestation",
+      "pollen_puff",
+      "grassy_glide",
+      "tera_blast",
+      "pounce",
+      "dragon_cheer"
+    ],
+    "biomeIds": [
+      "meadow"
+    ]
+  }
+]

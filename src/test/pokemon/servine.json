@@ -1,0 +1,154 @@
+[
+  {
+    "_id": "servine",
+    "gender": "",
+    "pokedexNumber": "496",
+    "name": "servine",
+    "koName": "샤비",
+    "speciesName": "servine",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "145",
+    "friendship": "70",
+    "types": [
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "overgrow"
+    ],
+    "hiddenAbilityId": "contrary",
+    "passiveAbilityId": "multiscale",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 413,
+    "hp": 60,
+    "attack": 60,
+    "defense": 75,
+    "specialAttack": 60,
+    "specialDefense": 75,
+    "speed": 83,
+    "height": 0.8,
+    "weight": 16,
+    "eggMoveIds": [
+      "flamethrower",
+      "clanging_scales",
+      "make_it_rain",
+      "fleur_cannon"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "vine_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "wrap"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 13,
+        "moveId": "growth"
+      },
+      {
+        "level": 16,
+        "moveId": "magical_leaf"
+      },
+      {
+        "level": 20,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 24,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 28,
+        "moveId": "slam"
+      },
+      {
+        "level": 32,
+        "moveId": "leaf_blade"
+      },
+      {
+        "level": 36,
+        "moveId": "coil"
+      },
+      {
+        "level": 40,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 44,
+        "moveId": "gastro_acid"
+      },
+      {
+        "level": 48,
+        "moveId": "leaf_storm"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "double_edge",
+      "solar_beam",
+      "toxic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "giga_drain",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "iron_tail",
+      "synthesis",
+      "hidden_power",
+      "sunny_day",
+      "torment",
+      "facade",
+      "nature_power",
+      "taunt",
+      "knock_off",
+      "aerial_ace",
+      "calm_mind",
+      "leaf_blade",
+      "gastro_acid",
+      "worry_seed",
+      "aqua_tail",
+      "seed_bomb",
+      "energy_ball",
+      "defog",
+      "leaf_storm",
+      "grass_knot",
+      "round",
+      "grass_pledge",
+      "work_up",
+      "petal_blizzard",
+      "confide",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "jungle"
+    ]
+  }
+]

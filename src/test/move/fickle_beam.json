@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "fickle_beam",
+    "name": "Fickle Beam",
+    "koName": "변덕레이저",
+    "type": "dragon",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 80,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "광선을 발사해서 공격한다. 가끔 다른 머리도 협력해서 레이저를 발사하여 위력이 2배가 된다.",
+    "effectChance": 30,
+    "prioirty": 0,
+    "generation": 9,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "exeggcute",
+      "exeggutor",
+      "deino",
+      "zweilous",
+      "hydreigon",
+      "reshiram",
+      "hydrapple",
+      "alola_exeggutor"
+    ]
+  }
+]

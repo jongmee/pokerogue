@@ -1,0 +1,33 @@
+[
+  {
+    "_id": "clear_body",
+    "name": "Clear Body",
+    "koName": "클리어바디",
+    "realased": "",
+    "description": "상대 기술이나 특성으로 능력이 떨어지지 않는다.",
+    "generation": 3,
+    "pokemonIds": [
+      "tentacool",
+      "tentacruel",
+      "beldum",
+      "metang",
+      "metagross",
+      "regirock",
+      "regice",
+      "registeel",
+      "klink",
+      "klang",
+      "klinklang",
+      "carbink",
+      "diancie",
+      "dreepy",
+      "drakloak",
+      "dragapult",
+      "nacli",
+      "naclstack",
+      "garganacl"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

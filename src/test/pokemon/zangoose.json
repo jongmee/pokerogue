@@ -1,0 +1,254 @@
+[
+  {
+    "_id": "zangoose",
+    "gender": "",
+    "pokedexNumber": "335",
+    "name": "zangoose",
+    "koName": "쟝고",
+    "speciesName": "zangoose",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "160",
+    "friendship": "70",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "immunity"
+    ],
+    "hiddenAbilityId": "toxic_boost",
+    "passiveAbilityId": "poison_heal",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 458,
+    "hp": 73,
+    "attack": 115,
+    "defense": 60,
+    "specialAttack": 60,
+    "specialDefense": 60,
+    "speed": 90,
+    "height": 1.3,
+    "weight": 40.3,
+    "eggMoveIds": [
+      "facade",
+      "high_horsepower",
+      "extreme_speed",
+      "tidy_up"
+    ],
+    "levelMoves": [
+      {
+        "level": -1,
+        "moveId": "double_kick"
+      },
+      {
+        "level": -1,
+        "moveId": "disable"
+      },
+      {
+        "level": -1,
+        "moveId": "counter"
+      },
+      {
+        "level": -1,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": -1,
+        "moveId": "curse"
+      },
+      {
+        "level": -1,
+        "moveId": "flail"
+      },
+      {
+        "level": -1,
+        "moveId": "belly_drum"
+      },
+      {
+        "level": -1,
+        "moveId": "feint"
+      },
+      {
+        "level": -1,
+        "moveId": "night_slash"
+      },
+      {
+        "level": -1,
+        "moveId": "double_hit"
+      },
+      {
+        "level": -1,
+        "moveId": "quick_guard"
+      },
+      {
+        "level": -1,
+        "moveId": "final_gambit"
+      },
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 5,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 8,
+        "moveId": "fury_cutter"
+      },
+      {
+        "level": 12,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 15,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 19,
+        "moveId": "slash"
+      },
+      {
+        "level": 22,
+        "moveId": "power_trip"
+      },
+      {
+        "level": 26,
+        "moveId": "crush_claw"
+      },
+      {
+        "level": 29,
+        "moveId": "false_swipe"
+      },
+      {
+        "level": 33,
+        "moveId": "switcheroo"
+      },
+      {
+        "level": 36,
+        "moveId": "detect"
+      },
+      {
+        "level": 40,
+        "moveId": "x_scissor"
+      },
+      {
+        "level": 43,
+        "moveId": "taunt"
+      },
+      {
+        "level": 47,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 50,
+        "moveId": "close_combat"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "swords_dance",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "low_kick",
+      "counter",
+      "strength",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "dig",
+      "toxic",
+      "agility",
+      "double_team",
+      "fire_blast",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "reversal",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "giga_drain",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "iron_tail",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "shadow_ball",
+      "rock_smash",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "revenge",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "rock_tomb",
+      "aerial_ace",
+      "water_pulse",
+      "close_combat",
+      "payback",
+      "embargo",
+      "fling",
+      "aura_sphere",
+      "poison_jab",
+      "seed_bomb",
+      "x_scissor",
+      "focus_blast",
+      "giga_impact",
+      "shadow_claw",
+      "zen_headbutt",
+      "rock_climb",
+      "gunk_shot",
+      "grass_knot",
+      "hone_claws",
+      "low_sweep",
+      "round",
+      "incinerate",
+      "retaliate",
+      "work_up",
+      "confide",
+      "power_up_punch",
+      "throat_chop",
+      "tera_blast",
+      "upper_hand"
+    ],
+    "biomeIds": [
+      "tall_grass"
+    ]
+  }
+]

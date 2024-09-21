@@ -1,0 +1,111 @@
+[
+  {
+    "_id": "charizard_mega_y",
+    "gender": "",
+    "pokedexNumber": "6",
+    "name": "charizard_mega_y",
+    "koName": "리자몽_mega_y",
+    "speciesName": "charizard",
+    "canChangeForm": true,
+    "formName": "mega_y",
+    "baseExp": "267",
+    "friendship": "50",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "drought"
+    ],
+    "hiddenAbilityId": "drought",
+    "passiveAbilityId": "beast_boost",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 634,
+    "hp": 78,
+    "attack": 104,
+    "defense": 78,
+    "specialAttack": 159,
+    "specialDefense": 115,
+    "speed": 100,
+    "height": 1.7,
+    "weight": 100.5,
+    "eggMoveIds": [
+      "dragon_dance",
+      "bitter_blade",
+      "earth_power",
+      "oblivion_wing"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 1,
+        "moveId": "smokescreen"
+      },
+      {
+        "level": 1,
+        "moveId": "heat_wave"
+      },
+      {
+        "level": 1,
+        "moveId": "dragon_claw"
+      },
+      {
+        "level": 12,
+        "moveId": "dragon_breath"
+      },
+      {
+        "level": 19,
+        "moveId": "fire_fang"
+      },
+      {
+        "level": 24,
+        "moveId": "slash"
+      },
+      {
+        "level": 30,
+        "moveId": "flamethrower"
+      },
+      {
+        "level": 39,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 46,
+        "moveId": "fire_spin"
+      },
+      {
+        "level": 54,
+        "moveId": "inferno"
+      },
+      {
+        "level": 62,
+        "moveId": "flare_blitz"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "volcano"
+    ]
+  }
+]

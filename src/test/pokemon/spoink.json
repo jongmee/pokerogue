@@ -1,0 +1,176 @@
+[
+  {
+    "_id": "spoink",
+    "gender": "",
+    "pokedexNumber": "325",
+    "name": "spoink",
+    "koName": "피그점프",
+    "speciesName": "spoink",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "66",
+    "friendship": "70",
+    "types": [
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "thick_fat",
+      "own_tempo"
+    ],
+    "hiddenAbilityId": "gluttony",
+    "passiveAbilityId": "psychic_surge",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 330,
+    "hp": 60,
+    "attack": 25,
+    "defense": 35,
+    "specialAttack": 70,
+    "specialDefense": 80,
+    "speed": 60,
+    "height": 0.7,
+    "weight": 30.6,
+    "eggMoveIds": [
+      "aura_sphere",
+      "milk_drink",
+      "expanding_force",
+      "tail_glow"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "splash"
+      },
+      {
+        "level": 5,
+        "moveId": "confusion"
+      },
+      {
+        "level": 10,
+        "moveId": "growl"
+      },
+      {
+        "level": 14,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 18,
+        "moveId": "psych_up"
+      },
+      {
+        "level": 22,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 29,
+        "moveId": "rest"
+      },
+      {
+        "level": 29,
+        "moveId": "power_gem"
+      },
+      {
+        "level": 33,
+        "moveId": "snore"
+      },
+      {
+        "level": 38,
+        "moveId": "psyshock"
+      },
+      {
+        "level": 40,
+        "moveId": "payback"
+      },
+      {
+        "level": 44,
+        "moveId": "psychic"
+      },
+      {
+        "level": 50,
+        "moveId": "bounce"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "psybeam",
+      "thunder_wave",
+      "toxic",
+      "psychic",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "swift",
+      "amnesia",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "uproar",
+      "torment",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "trick",
+      "recycle",
+      "endeavor",
+      "skill_swap",
+      "imprison",
+      "signal_beam",
+      "bounce",
+      "covet",
+      "calm_mind",
+      "payback",
+      "power_gem",
+      "zen_headbutt",
+      "flash_cannon",
+      "trick_room",
+      "grass_knot",
+      "charge_beam",
+      "psyshock",
+      "round",
+      "stored_power",
+      "ally_switch",
+      "snarl",
+      "confide",
+      "dazzling_gleam",
+      "psychic_terrain",
+      "lunge",
+      "expanding_force",
+      "tera_blast",
+      "snowscape",
+      "trailblaze",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "mountain",
+      "ruins"
+    ]
+  }
+]

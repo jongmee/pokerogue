@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "weak_armor",
+    "name": "Weak Armor",
+    "koName": "깨어진갑옷",
+    "realased": "",
+    "description": "물리 기술로 데미지를 받으면 방어가 떨어지고 스피드가 크게 올라간다.",
+    "generation": 5,
+    "pokemonIds": [
+      "onix",
+      "omanyte",
+      "omastar",
+      "kabuto",
+      "kabutops",
+      "slugma",
+      "magcargo",
+      "skarmory",
+      "roggenrola",
+      "boldore",
+      "dwebble",
+      "crustle",
+      "garbodor",
+      "vanillite",
+      "vanillish",
+      "vanilluxe",
+      "vullaby",
+      "mandibuzz",
+      "sinistea",
+      "polteageist",
+      "cursola",
+      "armarouge",
+      "ceruledge",
+      "galar_corsola"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

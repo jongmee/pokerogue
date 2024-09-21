@@ -1,0 +1,31 @@
+[
+  {
+    "_id": "last_respects",
+    "name": "Last Respects",
+    "koName": "성묘",
+    "type": "ghost",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 50,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "동료의 한을 풀어 주기 위해 공격한다. 쓰러진 같은 편 포켓몬이 많을수록 기술의 위력이 올라간다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 9,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "lillipup",
+      "herdier",
+      "stoutland",
+      "pawniard",
+      "bisharp",
+      "basculegion",
+      "bramblin",
+      "brambleghast",
+      "houndstone",
+      "kingambit"
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "_id": "soundproof",
+    "name": "Soundproof",
+    "koName": "방음",
+    "realased": "",
+    "description": "소리를 차단하는 것으로 소리 공격을 받지 않는다.",
+    "generation": 3,
+    "pokemonIds": [
+      "voltorb",
+      "electrode",
+      "mr_mime",
+      "whismur",
+      "loudred",
+      "exploud",
+      "shieldon",
+      "bastiodon",
+      "mime_jr",
+      "snover",
+      "abomasnow",
+      "bouffalant",
+      "jangmo_o",
+      "hakamo_o",
+      "kommo_o",
+      "hisui_voltorb",
+      "hisui_electrode"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

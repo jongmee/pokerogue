@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "drum_beating",
+    "name": "Drum Beating",
+    "koName": "드럼어택",
+    "type": "grass",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 80,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "드럼의 뿌리를 연주로 조종해서 공격하는 것으로 상대의 스피드를 떨어뜨린다.",
+    "effectChance": 100,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "rillaboom"
+    ]
+  }
+]

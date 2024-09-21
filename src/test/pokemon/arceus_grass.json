@@ -1,0 +1,100 @@
+[
+  {
+    "_id": "arceus_grass",
+    "gender": "",
+    "pokedexNumber": "493",
+    "name": "arceus_grass",
+    "koName": "아르세우스_grass",
+    "speciesName": "arceus",
+    "canChangeForm": true,
+    "formName": "grass",
+    "baseExp": "324",
+    "friendship": "0",
+    "types": [
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "multitype"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "adaptability",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": true,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 720,
+    "hp": 120,
+    "attack": 120,
+    "defense": 120,
+    "specialAttack": 120,
+    "specialDefense": 120,
+    "speed": 120,
+    "height": 3.2,
+    "weight": 320,
+    "eggMoveIds": [
+      "no_retreat",
+      "collision_course",
+      "astral_barrage",
+      "multi_attack"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "seismic_toss"
+      },
+      {
+        "level": 1,
+        "moveId": "cosmic_power"
+      },
+      {
+        "level": 1,
+        "moveId": "punishment"
+      },
+      {
+        "level": 10,
+        "moveId": "gravity"
+      },
+      {
+        "level": 20,
+        "moveId": "earth_power"
+      },
+      {
+        "level": 30,
+        "moveId": "hyper_voice"
+      },
+      {
+        "level": 40,
+        "moveId": "extreme_speed"
+      },
+      {
+        "level": 50,
+        "moveId": "healing_wish"
+      },
+      {
+        "level": 60,
+        "moveId": "future_sight"
+      },
+      {
+        "level": 70,
+        "moveId": "recover"
+      },
+      {
+        "level": 80,
+        "moveId": "hyper_beam"
+      },
+      {
+        "level": 90,
+        "moveId": "perish_song"
+      },
+      {
+        "level": 100,
+        "moveId": "judgment"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": []
+  }
+]

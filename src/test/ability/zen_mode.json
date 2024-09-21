@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "zen_mode",
+    "name": "Zen Mode",
+    "koName": "달마모드",
+    "realased": "",
+    "description": "HP가 절반 이하가 되면 모습이 변화한다.",
+    "generation": 5,
+    "pokemonIds": [
+      "darmanitan",
+      "darmanitan_zen",
+      "galar_darmanitan",
+      "galar_darmanitan_zen"
+    ],
+    "isBypassFaint": true,
+    "isIgnorable": false
+  }
+]

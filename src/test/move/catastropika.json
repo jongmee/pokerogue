@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "catastropika",
+    "name": "Catastropika",
+    "koName": "필살피카슛",
+    "type": "electric",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 210,
+    "accuracy": -1,
+    "powerPoint": 1,
+    "effect": "Z파워로 최대 전력을 몸에 두른 피카츄가 전력으로 상대에게 덤벼든다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": " (N)",
+    "flags": [
+      "makes_contact",
+      "ignore_virtual"
+    ],
+    "pokemonIds": []
+  }
+]

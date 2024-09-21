@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "slow_start",
+    "name": "Slow Start",
+    "koName": "슬로스타트",
+    "realased": "",
+    "description": "5턴 동안 공격과 스피드가 절반이 된다.",
+    "generation": 4,
+    "pokemonIds": [
+      "regigigas",
+      "varoom"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

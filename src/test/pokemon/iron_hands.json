@@ -1,0 +1,174 @@
+[
+  {
+    "_id": "iron_hands",
+    "gender": "",
+    "pokedexNumber": "992",
+    "name": "iron_hands",
+    "koName": "무쇠손",
+    "speciesName": "iron_hands",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "285",
+    "friendship": "0",
+    "types": [
+      "fighting",
+      "electric"
+    ],
+    "normalAbilityIds": [
+      "quark_drive"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "iron_fist",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 570,
+    "hp": 154,
+    "attack": 140,
+    "defense": 108,
+    "specialAttack": 50,
+    "specialDefense": 68,
+    "speed": 50,
+    "height": 1.8,
+    "weight": 380.7,
+    "eggMoveIds": [
+      "drain_punch",
+      "bulk_up",
+      "plasma_fists",
+      "ice_hammer"
+    ],
+    "levelMoves": [
+      {
+        "level": -1,
+        "moveId": "electric_terrain"
+      },
+      {
+        "level": 1,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 1,
+        "moveId": "arm_thrust"
+      },
+      {
+        "level": 7,
+        "moveId": "fake_out"
+      },
+      {
+        "level": 14,
+        "moveId": "whirlwind"
+      },
+      {
+        "level": 21,
+        "moveId": "thunder_punch"
+      },
+      {
+        "level": 28,
+        "moveId": "slam"
+      },
+      {
+        "level": 35,
+        "moveId": "force_palm"
+      },
+      {
+        "level": 42,
+        "moveId": "seismic_toss"
+      },
+      {
+        "level": 49,
+        "moveId": "charge"
+      },
+      {
+        "level": 56,
+        "moveId": "wild_charge"
+      },
+      {
+        "level": 63,
+        "moveId": "close_combat"
+      },
+      {
+        "level": 70,
+        "moveId": "detect"
+      },
+      {
+        "level": 77,
+        "moveId": "heavy_slam"
+      },
+      {
+        "level": 84,
+        "moveId": "belly_drum"
+      },
+      {
+        "level": 91,
+        "moveId": "focus_punch"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "swords_dance",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "low_kick",
+      "thunderbolt",
+      "thunder",
+      "earthquake",
+      "double_team",
+      "focus_energy",
+      "metronome",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "reversal",
+      "protect",
+      "scary_face",
+      "endure",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "facade",
+      "focus_punch",
+      "charge",
+      "brick_break",
+      "rock_tomb",
+      "iron_defense",
+      "close_combat",
+      "fling",
+      "drain_punch",
+      "focus_blast",
+      "giga_impact",
+      "iron_head",
+      "heavy_slam",
+      "low_sweep",
+      "volt_switch",
+      "bulldoze",
+      "wild_charge",
+      "play_rough",
+      "electric_terrain",
+      "stomping_tantrum",
+      "body_press",
+      "tera_blast",
+      "hard_press",
+      "supercell_slam"
+    ],
+    "biomeIds": [
+      "end"
+    ]
+  }
+]

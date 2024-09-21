@@ -1,0 +1,185 @@
+[
+  {
+    "_id": "heatran",
+    "gender": "",
+    "pokedexNumber": "485",
+    "name": "heatran",
+    "koName": "히드런",
+    "speciesName": "heatran",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "300",
+    "friendship": "100",
+    "types": [
+      "fire",
+      "steel"
+    ],
+    "normalAbilityIds": [
+      "flash_fire"
+    ],
+    "hiddenAbilityId": "flame_body",
+    "passiveAbilityId": "earth_eater",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 600,
+    "hp": 91,
+    "attack": 90,
+    "defense": 106,
+    "specialAttack": 130,
+    "specialDefense": 106,
+    "speed": 77,
+    "height": 1.7,
+    "weight": 430,
+    "eggMoveIds": [
+      "torch_song",
+      "recover",
+      "tachyon_cutter",
+      "matcha_gotcha"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "fire_spin"
+      },
+      {
+        "level": 6,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 12,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 18,
+        "moveId": "fire_fang"
+      },
+      {
+        "level": 24,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 30,
+        "moveId": "iron_head"
+      },
+      {
+        "level": 36,
+        "moveId": "crunch"
+      },
+      {
+        "level": 42,
+        "moveId": "lava_plume"
+      },
+      {
+        "level": 48,
+        "moveId": "metal_sound"
+      },
+      {
+        "level": 54,
+        "moveId": "earth_power"
+      },
+      {
+        "level": 60,
+        "moveId": "heat_wave"
+      },
+      {
+        "level": 66,
+        "moveId": "stone_edge"
+      },
+      {
+        "level": 72,
+        "moveId": "magma_storm"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "roar",
+      "flamethrower",
+      "hyper_beam",
+      "strength",
+      "solar_beam",
+      "fire_spin",
+      "earthquake",
+      "dig",
+      "toxic",
+      "double_team",
+      "self_destruct",
+      "fire_blast",
+      "explosion",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "metal_claw",
+      "hidden_power",
+      "sunny_day",
+      "crunch",
+      "rock_smash",
+      "uproar",
+      "heat_wave",
+      "torment",
+      "will_o_wisp",
+      "facade",
+      "nature_power",
+      "taunt",
+      "overheat",
+      "rock_tomb",
+      "metal_sound",
+      "iron_defense",
+      "rock_blast",
+      "payback",
+      "flare_blitz",
+      "dark_pulse",
+      "dragon_pulse",
+      "power_gem",
+      "earth_power",
+      "giga_impact",
+      "fire_fang",
+      "flash_cannon",
+      "rock_climb",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "bug_bite",
+      "heavy_slam",
+      "flame_charge",
+      "round",
+      "incinerate",
+      "bulldoze",
+      "heat_crash",
+      "confide",
+      "lunge",
+      "stomping_tantrum",
+      "body_press",
+      "steel_beam",
+      "steel_roller",
+      "burning_jealousy",
+      "scorching_sands",
+      "tera_blast",
+      "pounce",
+      "hard_press"
+    ],
+    "biomeIds": [
+      "volcano"
+    ]
+  }
+]

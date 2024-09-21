@@ -1,0 +1,33 @@
+[
+  {
+    "_id": "wildbolt_storm",
+    "name": "Wildbolt Storm",
+    "koName": "번개폭풍",
+    "type": "electric",
+    "moveCategory": "special",
+    "moveTarget": "all_near_enemies",
+    "power": 100,
+    "accuracy": 80,
+    "powerPoint": 10,
+    "effect": "폭풍을 일으키고 뇌운을 불러서 번개와 바람으로 매섭게 공격한다. 상대를 마비 상태로 만들 때가 있다.",
+    "effectChance": 20,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [
+      "wind_move"
+    ],
+    "pokemonIds": [
+      "pidgey",
+      "pidgeotto",
+      "pidgeot",
+      "pidgeot_mega",
+      "poliwag",
+      "poliwhirl",
+      "poliwrath",
+      "politoed",
+      "ducklett",
+      "swanna"
+    ]
+  }
+]

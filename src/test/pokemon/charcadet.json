@@ -1,0 +1,117 @@
+[
+  {
+    "_id": "charcadet",
+    "gender": "",
+    "pokedexNumber": "935",
+    "name": "charcadet",
+    "koName": "카르본",
+    "speciesName": "charcadet",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "51",
+    "friendship": "50",
+    "types": [
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "flash_fire"
+    ],
+    "hiddenAbilityId": "flame_body",
+    "passiveAbilityId": "prism_armor",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 255,
+    "hp": 40,
+    "attack": 50,
+    "defense": 40,
+    "specialAttack": 50,
+    "specialDefense": 40,
+    "speed": 35,
+    "height": 0.6,
+    "weight": 10.5,
+    "eggMoveIds": [
+      "sacred_sword",
+      "photon_geyser",
+      "moonblast",
+      "spectral_thief"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 8,
+        "moveId": "clear_smog"
+      },
+      {
+        "level": 12,
+        "moveId": "fire_spin"
+      },
+      {
+        "level": 16,
+        "moveId": "will_o_wisp"
+      },
+      {
+        "level": 20,
+        "moveId": "night_shade"
+      },
+      {
+        "level": 24,
+        "moveId": "flame_charge"
+      },
+      {
+        "level": 28,
+        "moveId": "incinerate"
+      },
+      {
+        "level": 32,
+        "moveId": "lava_plume"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "flamethrower",
+      "fire_spin",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "fire_blast",
+      "substitute",
+      "spite",
+      "protect",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "sunny_day",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "helping_hand",
+      "overheat",
+      "flare_blitz",
+      "flame_charge",
+      "incinerate",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "volcano"
+    ]
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "_id": "darmanitan",
+    "gender": "",
+    "pokedexNumber": "555",
+    "name": "darmanitan",
+    "koName": "불비달마",
+    "speciesName": "darmanitan",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "168",
+    "friendship": "50",
+    "types": [
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "sheer_force"
+    ],
+    "hiddenAbilityId": "zen_mode",
+    "passiveAbilityId": "gorilla_tactics",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 480,
+    "hp": 105,
+    "attack": 140,
+    "defense": 55,
+    "specialAttack": 30,
+    "specialDefense": 55,
+    "speed": 95,
+    "height": 1.3,
+    "weight": 92.9,
+    "eggMoveIds": [
+      "drain_punch",
+      "zippy_zap",
+      "earthquake",
+      "pyro_ball"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "hammer_arm"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "bite"
+      },
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 1,
+        "moveId": "taunt"
+      },
+      {
+        "level": 12,
+        "moveId": "incinerate"
+      },
+      {
+        "level": 16,
+        "moveId": "work_up"
+      },
+      {
+        "level": 20,
+        "moveId": "fire_fang"
+      },
+      {
+        "level": 24,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 28,
+        "moveId": "fire_punch"
+      },
+      {
+        "level": 32,
+        "moveId": "uproar"
+      },
+      {
+        "level": 38,
+        "moveId": "belly_drum"
+      },
+      {
+        "level": 44,
+        "moveId": "flare_blitz"
+      },
+      {
+        "level": 50,
+        "moveId": "thrash"
+      },
+      {
+        "level": 56,
+        "moveId": "superpower"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "mega_kick",
+      "body_slam",
+      "roar",
+      "flamethrower",
+      "hyper_beam",
+      "strength",
+      "solar_beam",
+      "fire_spin",
+      "earthquake",
+      "dig",
+      "toxic",
+      "psychic",
+      "double_team",
+      "focus_energy",
+      "fire_blast",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "reversal",
+      "protect",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "hidden_power",
+      "sunny_day",
+      "future_sight",
+      "rock_smash",
+      "uproar",
+      "heat_wave",
+      "torment",
+      "will_o_wisp",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "trick",
+      "superpower",
+      "brick_break",
+      "endeavor",
+      "overheat",
+      "rock_tomb",
+      "iron_defense",
+      "bulk_up",
+      "gyro_ball",
+      "u_turn",
+      "payback",
+      "fling",
+      "power_swap",
+      "guard_swap",
+      "flare_blitz",
+      "focus_blast",
+      "giga_impact",
+      "fire_fang",
+      "zen_headbutt",
+      "iron_head",
+      "stone_edge",
+      "grass_knot",
+      "smack_down",
+      "flame_charge",
+      "round",
+      "incinerate",
+      "bulldoze",
+      "work_up",
+      "confide",
+      "mystical_fire",
+      "power_up_punch",
+      "body_press",
+      "expanding_force",
+      "burning_jealousy",
+      "lash_out",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "desert"
+    ]
+  }
+]

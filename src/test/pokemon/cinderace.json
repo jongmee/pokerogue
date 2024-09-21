@@ -1,0 +1,177 @@
+[
+  {
+    "_id": "cinderace",
+    "gender": "",
+    "pokedexNumber": "815",
+    "name": "cinderace",
+    "koName": "에이스번",
+    "speciesName": "cinderace",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "265",
+    "friendship": "50",
+    "types": [
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "blaze"
+    ],
+    "hiddenAbilityId": "libero",
+    "passiveAbilityId": "no_guard",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 530,
+    "hp": 80,
+    "attack": 116,
+    "defense": 75,
+    "specialAttack": 65,
+    "specialDefense": 75,
+    "speed": 119,
+    "height": 1.4,
+    "weight": 33,
+    "eggMoveIds": [
+      "extreme_speed",
+      "high_jump_kick",
+      "triple_axel",
+      "bolt_strike"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "pyro_ball"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "feint"
+      },
+      {
+        "level": 12,
+        "moveId": "double_kick"
+      },
+      {
+        "level": 19,
+        "moveId": "flame_charge"
+      },
+      {
+        "level": 24,
+        "moveId": "agility"
+      },
+      {
+        "level": 30,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 38,
+        "moveId": "counter"
+      },
+      {
+        "level": 46,
+        "moveId": "bounce"
+      },
+      {
+        "level": 54,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 62,
+        "moveId": "court_change"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fire_punch",
+      "swords_dance",
+      "mega_kick",
+      "take_down",
+      "double_edge",
+      "flamethrower",
+      "hyper_beam",
+      "low_kick",
+      "counter",
+      "fire_spin",
+      "agility",
+      "double_team",
+      "focus_energy",
+      "fire_blast",
+      "swift",
+      "rest",
+      "super_fang",
+      "substitute",
+      "snore",
+      "reversal",
+      "protect",
+      "mud_slap",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "hidden_power",
+      "sunny_day",
+      "shadow_ball",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "revenge",
+      "blaze_kick",
+      "blast_burn",
+      "weather_ball",
+      "overheat",
+      "bulk_up",
+      "bounce",
+      "mud_shot",
+      "u_turn",
+      "assurance",
+      "fling",
+      "flare_blitz",
+      "focus_blast",
+      "giga_impact",
+      "fire_fang",
+      "zen_headbutt",
+      "gunk_shot",
+      "iron_head",
+      "smack_down",
+      "electro_ball",
+      "flame_charge",
+      "low_sweep",
+      "round",
+      "ally_switch",
+      "acrobatics",
+      "fire_pledge",
+      "work_up",
+      "snarl",
+      "burning_jealousy",
+      "coaching",
+      "scorching_sands",
+      "tera_blast",
+      "trailblaze",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "volcano"
+    ]
+  }
+]

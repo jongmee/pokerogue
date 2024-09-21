@@ -1,0 +1,119 @@
+[
+  {
+    "_id": "gengar_mega",
+    "gender": "",
+    "pokedexNumber": "94",
+    "name": "gengar_mega",
+    "koName": "팬텀_mega",
+    "speciesName": "gengar",
+    "canChangeForm": true,
+    "formName": "mega",
+    "baseExp": "250",
+    "friendship": "50",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "normalAbilityIds": [
+      "shadow_tag"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "shadow_shield",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 600,
+    "hp": 60,
+    "attack": 65,
+    "defense": 80,
+    "specialAttack": 170,
+    "specialDefense": 95,
+    "speed": 130,
+    "height": 1.4,
+    "weight": 40.5,
+    "eggMoveIds": [
+      "sludge_bomb",
+      "aura_sphere",
+      "nasty_plot",
+      "astral_barrage"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "hypnosis"
+      },
+      {
+        "level": 1,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 1,
+        "moveId": "lick"
+      },
+      {
+        "level": 1,
+        "moveId": "perish_song"
+      },
+      {
+        "level": 1,
+        "moveId": "mean_look"
+      },
+      {
+        "level": 1,
+        "moveId": "shadow_punch"
+      },
+      {
+        "level": 1,
+        "moveId": "reflect_type"
+      },
+      {
+        "level": 12,
+        "moveId": "payback"
+      },
+      {
+        "level": 16,
+        "moveId": "spite"
+      },
+      {
+        "level": 20,
+        "moveId": "curse"
+      },
+      {
+        "level": 24,
+        "moveId": "hex"
+      },
+      {
+        "level": 30,
+        "moveId": "night_shade"
+      },
+      {
+        "level": 36,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 42,
+        "moveId": "dark_pulse"
+      },
+      {
+        "level": 48,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 54,
+        "moveId": "destiny_bond"
+      },
+      {
+        "level": 60,
+        "moveId": "dream_eater"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "graveyard"
+    ]
+  }
+]

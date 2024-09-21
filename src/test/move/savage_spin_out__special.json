@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "savage_spin_out__special",
+    "name": "Savage Spin-Out",
+    "koName": "절대포식회전참",
+    "type": "bug",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 1,
+    "effect": "Dummy Data",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": " (N)",
+    "flags": [
+      "ignore_virtual"
+    ],
+    "pokemonIds": []
+  }
+]

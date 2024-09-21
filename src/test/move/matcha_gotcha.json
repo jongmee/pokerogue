@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "matcha_gotcha",
+    "name": "Matcha Gotcha",
+    "koName": "휘적휘적포",
+    "type": "grass",
+    "moveCategory": "special",
+    "moveTarget": "all_near_enemies",
+    "power": 80,
+    "accuracy": 90,
+    "powerPoint": 15,
+    "effect": "휘저은 차를 대포처럼 발사해 준 데미지의 절반을 HP로 회복한다. 화상 상태로 만들 때도 있다.",
+    "effectChance": 20,
+    "prioirty": 0,
+    "generation": 9,
+    "realased": "",
+    "flags": [
+      "triage_move"
+    ],
+    "pokemonIds": [
+      "bulbasaur",
+      "ivysaur",
+      "venusaur",
+      "venusaur_mega",
+      "venusaur_gigantamax",
+      "celebi",
+      "snover",
+      "abomasnow",
+      "abomasnow_mega",
+      "heatran",
+      "shaymin_land",
+      "shaymin_sky",
+      "larvesta",
+      "volcarona",
+      "morelull",
+      "shiinotic",
+      "comfey",
+      "applin",
+      "flapple",
+      "flapple_gigantamax",
+      "appletun",
+      "appletun_gigantamax",
+      "sinistea",
+      "polteageist",
+      "indeedee",
+      "dipplin",
+      "hydrapple"
+    ]
+  }
+]

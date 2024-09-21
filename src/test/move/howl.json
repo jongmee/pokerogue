@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "howl",
+    "name": "Howl",
+    "koName": "멀리짖기",
+    "type": "normal",
+    "moveCategory": "status",
+    "moveTarget": "user_and_allies",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 40,
+    "effect": "큰 소리로 짖고 기합을 높여 자신과 같은 편의 공격을 올린다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 3,
+    "realased": "",
+    "flags": [
+      "sound_based"
+    ],
+    "pokemonIds": [
+      "growlithe",
+      "arcanine",
+      "houndour",
+      "houndoom",
+      "raikou",
+      "poochyena",
+      "mightyena",
+      "whismur",
+      "loudred",
+      "exploud",
+      "electrike",
+      "manectric",
+      "fennekin",
+      "braixen",
+      "delphox",
+      "rockruff",
+      "lycanroc",
+      "zacian",
+      "zamazenta",
+      "scream_tail",
+      "okidogi",
+      "gouging_fire",
+      "hisui_growlithe",
+      "hisui_arcanine"
+    ]
+  }
+]

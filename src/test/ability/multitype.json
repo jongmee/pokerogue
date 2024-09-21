@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "multitype",
+    "name": "Multitype",
+    "koName": "멀티타입",
+    "realased": "",
+    "description": "지니고 있는 플레이트나 Z크리스탈 타입에 따라 자신의 타입이 바뀐다.",
+    "generation": 4,
+    "pokemonIds": [
+      "arceus_normal",
+      "arceus_fighting",
+      "arceus_flying",
+      "arceus_poison",
+      "arceus_ground",
+      "arceus_rock",
+      "arceus_bug",
+      "arceus_ghost",
+      "arceus_steel",
+      "arceus_fire",
+      "arceus_water",
+      "arceus_grass",
+      "arceus_electric",
+      "arceus_psychic",
+      "arceus_ice",
+      "arceus_dragon",
+      "arceus_dark",
+      "arceus_fairy"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

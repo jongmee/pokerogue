@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "truant",
+    "name": "Truant",
+    "koName": "게으름",
+    "realased": "",
+    "description": "기술을 사용하면 다음 턴은 쉰다.",
+    "generation": 3,
+    "pokemonIds": [
+      "slakoth",
+      "slaking",
+      "durant"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

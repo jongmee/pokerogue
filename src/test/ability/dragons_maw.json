@@ -1,0 +1,36 @@
+[
+  {
+    "_id": "dragons_maw",
+    "name": "Dragon's Maw",
+    "koName": "용의턱",
+    "realased": "",
+    "description": "드래곤타입 기술의 위력이 올라간다.",
+    "generation": 8,
+    "pokemonIds": [
+      "horsea",
+      "seadra",
+      "kingdra",
+      "bagon",
+      "shelgon",
+      "salamence",
+      "salamence_mega",
+      "axew",
+      "fraxure",
+      "haxorus",
+      "skrelp",
+      "dragalge",
+      "salandit",
+      "salazzle",
+      "applin",
+      "flapple",
+      "flapple_gigantamax",
+      "appletun",
+      "appletun_gigantamax",
+      "regidrago",
+      "dipplin",
+      "hydrapple"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

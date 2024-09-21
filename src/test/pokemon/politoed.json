@@ -1,0 +1,184 @@
+[
+  {
+    "_id": "politoed",
+    "gender": "",
+    "pokedexNumber": "186",
+    "name": "politoed",
+    "koName": "왕구리",
+    "speciesName": "politoed",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "250",
+    "friendship": "50",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "water_absorb",
+      "damp"
+    ],
+    "hiddenAbilityId": "drizzle",
+    "passiveAbilityId": "no_guard",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 500,
+    "hp": 90,
+    "attack": 75,
+    "defense": 75,
+    "specialAttack": 90,
+    "specialDefense": 100,
+    "speed": 70,
+    "height": 1.1,
+    "weight": 33.9,
+    "eggMoveIds": [
+      "slack_off",
+      "wildbolt_storm",
+      "drain_punch",
+      "surging_strikes"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "bounce"
+      },
+      {
+        "level": -1,
+        "moveId": "body_slam"
+      },
+      {
+        "level": -1,
+        "moveId": "double_edge"
+      },
+      {
+        "level": -1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": -1,
+        "moveId": "bubble_beam"
+      },
+      {
+        "level": -1,
+        "moveId": "hypnosis"
+      },
+      {
+        "level": -1,
+        "moveId": "perish_song"
+      },
+      {
+        "level": -1,
+        "moveId": "swagger"
+      },
+      {
+        "level": -1,
+        "moveId": "hyper_voice"
+      },
+      {
+        "level": -1,
+        "moveId": "mud_shot"
+      },
+      {
+        "level": -1,
+        "moveId": "earth_power"
+      },
+      {
+        "level": 1,
+        "moveId": "rain_dance"
+      },
+      {
+        "level": 1,
+        "moveId": "hydro_pump"
+      },
+      {
+        "level": 1,
+        "moveId": "belly_drum"
+      },
+      {
+        "level": 1,
+        "moveId": "pound"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "ice_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "low_kick",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "psychic",
+      "screech",
+      "double_team",
+      "haze",
+      "metronome",
+      "waterfall",
+      "swift",
+      "amnesia",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "rock_smash",
+      "whirlpool",
+      "uproar",
+      "hail",
+      "facade",
+      "focus_punch",
+      "helping_hand",
+      "brick_break",
+      "endeavor",
+      "dive",
+      "hyper_voice",
+      "weather_ball",
+      "muddy_water",
+      "bounce",
+      "mud_shot",
+      "water_pulse",
+      "payback",
+      "fling",
+      "focus_blast",
+      "earth_power",
+      "giga_impact",
+      "low_sweep",
+      "round",
+      "echoed_voice",
+      "scald",
+      "bulldoze",
+      "confide",
+      "power_up_punch",
+      "liquidation",
+      "tera_blast",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "swamp"
+    ]
+  }
+]

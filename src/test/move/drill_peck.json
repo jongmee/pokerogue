@@ -1,0 +1,43 @@
+[
+  {
+    "_id": "drill_peck",
+    "name": "Drill Peck",
+    "koName": "회전부리",
+    "type": "flying",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 80,
+    "accuracy": 100,
+    "powerPoint": 20,
+    "effect": "회전하면서 뾰족한 부리를 상대에게 꿰찔러 공격한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 1,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "spearow",
+      "fearow",
+      "doduo",
+      "dodrio",
+      "zapdos",
+      "delibird",
+      "skarmory",
+      "piplup",
+      "prinplup",
+      "empoleon",
+      "pikipek",
+      "trumbeak",
+      "toucannon",
+      "rookidee",
+      "corvisquire",
+      "corviknight",
+      "cramorant",
+      "espathra",
+      "iron_bundle",
+      "galar_zapdos"
+    ]
+  }
+]

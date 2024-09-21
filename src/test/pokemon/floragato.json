@@ -1,0 +1,153 @@
+[
+  {
+    "_id": "floragato",
+    "gender": "",
+    "pokedexNumber": "907",
+    "name": "floragato",
+    "koName": "나로테",
+    "speciesName": "floragato",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "144",
+    "friendship": "50",
+    "types": [
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "overgrow"
+    ],
+    "hiddenAbilityId": "protean",
+    "passiveAbilityId": "magician",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 410,
+    "hp": 61,
+    "attack": 80,
+    "defense": 63,
+    "specialAttack": 60,
+    "specialDefense": 63,
+    "speed": 83,
+    "height": 0.9,
+    "weight": 12.2,
+    "eggMoveIds": [
+      "fire_lash",
+      "triple_axel",
+      "sucker_punch",
+      "wicked_blow"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "leafage"
+      },
+      {
+        "level": 7,
+        "moveId": "bite"
+      },
+      {
+        "level": 10,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 13,
+        "moveId": "magical_leaf"
+      },
+      {
+        "level": 15,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 20,
+        "moveId": "seed_bomb"
+      },
+      {
+        "level": 24,
+        "moveId": "u_turn"
+      },
+      {
+        "level": 28,
+        "moveId": "worry_seed"
+      },
+      {
+        "level": 33,
+        "moveId": "slash"
+      },
+      {
+        "level": 38,
+        "moveId": "energy_ball"
+      },
+      {
+        "level": 42,
+        "moveId": "play_rough"
+      },
+      {
+        "level": 46,
+        "moveId": "leaf_storm"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "thunder_punch",
+      "take_down",
+      "low_kick",
+      "solar_beam",
+      "agility",
+      "double_team",
+      "swift",
+      "rest",
+      "substitute",
+      "protect",
+      "mud_slap",
+      "giga_drain",
+      "endure",
+      "charm",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "fake_tears",
+      "bullet_seed",
+      "aerial_ace",
+      "magical_leaf",
+      "u_turn",
+      "fling",
+      "worry_seed",
+      "seed_bomb",
+      "energy_ball",
+      "nasty_plot",
+      "shadow_claw",
+      "leaf_storm",
+      "grass_knot",
+      "hone_claws",
+      "low_sweep",
+      "acrobatics",
+      "grass_pledge",
+      "petal_blizzard",
+      "disarming_voice",
+      "grassy_terrain",
+      "play_rough",
+      "grassy_glide",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "meadow"
+    ]
+  }
+]

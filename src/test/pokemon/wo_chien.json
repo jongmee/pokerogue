@@ -1,0 +1,174 @@
+[
+  {
+    "_id": "wo_chien",
+    "gender": "",
+    "pokedexNumber": "1001",
+    "name": "wo_chien",
+    "koName": "총지엔",
+    "speciesName": "wo_chien",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "285",
+    "friendship": "0",
+    "types": [
+      "dark",
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "tablets_of_ruin"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "vessel_of_ruin",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 570,
+    "hp": 85,
+    "attack": 85,
+    "defense": 100,
+    "specialAttack": 95,
+    "specialDefense": 135,
+    "speed": 70,
+    "height": 1.5,
+    "weight": 74.2,
+    "eggMoveIds": [
+      "spore",
+      "fiery_wrath",
+      "sappy_seed",
+      "strength_sap"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 1,
+        "moveId": "spite"
+      },
+      {
+        "level": 1,
+        "moveId": "mean_look"
+      },
+      {
+        "level": 5,
+        "moveId": "tickle"
+      },
+      {
+        "level": 10,
+        "moveId": "payback"
+      },
+      {
+        "level": 15,
+        "moveId": "poison_powder"
+      },
+      {
+        "level": 15,
+        "moveId": "stun_spore"
+      },
+      {
+        "level": 20,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 25,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 30,
+        "moveId": "growth"
+      },
+      {
+        "level": 35,
+        "moveId": "ingrain"
+      },
+      {
+        "level": 40,
+        "moveId": "dark_pulse"
+      },
+      {
+        "level": 45,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 50,
+        "moveId": "ruination"
+      },
+      {
+        "level": 55,
+        "moveId": "foul_play"
+      },
+      {
+        "level": 60,
+        "moveId": "power_whip"
+      },
+      {
+        "level": 65,
+        "moveId": "grassy_terrain"
+      },
+      {
+        "level": 70,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 75,
+        "moveId": "leaf_storm"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "hyper_beam",
+      "solar_beam",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "rest",
+      "substitute",
+      "spite",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "giga_drain",
+      "endure",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "facade",
+      "taunt",
+      "knock_off",
+      "bullet_seed",
+      "mud_shot",
+      "magical_leaf",
+      "payback",
+      "dark_pulse",
+      "seed_bomb",
+      "energy_ball",
+      "giga_impact",
+      "zen_headbutt",
+      "leaf_storm",
+      "power_whip",
+      "grass_knot",
+      "foul_play",
+      "hex",
+      "snarl",
+      "grassy_terrain",
+      "solar_blade",
+      "pollen_puff",
+      "body_press",
+      "lash_out",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "forest"
+    ]
+  }
+]

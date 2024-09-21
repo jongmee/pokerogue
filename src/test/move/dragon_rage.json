@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "dragon_rage",
+    "name": "Dragon Rage",
+    "koName": "용의분노",
+    "type": "dragon",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "분노의 충격파를 상대에게 부딪쳐서 공격한다. 언제나 40의 데미지를 준다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 1,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": []
+  }
+]

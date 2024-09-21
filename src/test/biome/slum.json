@@ -1,0 +1,110 @@
+[
+  {
+    "_id": "slum",
+    "name": "Slum",
+    "koName": "슬럼",
+    "types": [
+      "poison"
+    ],
+    "nextBiomes": [
+      {
+        "name": "construction_site",
+        "percentage": 66.66666666666666
+      },
+      {
+        "name": "swamp",
+        "percentage": 33.33333333333333
+      }
+    ],
+    "nativePokemons": [
+      {
+        "tier": "보통",
+        "pokemonIds": [
+          "patrat",
+          "watchog",
+          "rattata",
+          "raticate",
+          "grimer",
+          "muk",
+          "koffing",
+          "weezing",
+          "trubbish",
+          "garbodor"
+        ]
+      },
+      {
+        "tier": "드묾",
+        "pokemonIds": [
+          "stunky",
+          "skuntank",
+          "burmy",
+          "wormadam"
+        ]
+      },
+      {
+        "tier": "레어",
+        "pokemonIds": [
+          "toxtricity",
+          "galar_linoone",
+          "obstagoon",
+          "galar_zigzagoon",
+          "varoom",
+          "revavroom"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어",
+        "pokemonIds": []
+      },
+      {
+        "tier": "울트라 레어",
+        "pokemonIds": [
+          "guzzlord"
+        ]
+      },
+      {
+        "tier": "보스",
+        "pokemonIds": [
+          "skuntank",
+          "watchog",
+          "muk",
+          "weezing",
+          "wormadam",
+          "garbodor"
+        ]
+      },
+      {
+        "tier": "레어 보스",
+        "pokemonIds": [
+          "toxtricity",
+          "obstagoon",
+          "revavroom",
+          "galar_weezing"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어 보스",
+        "pokemonIds": [
+          "guzzlord"
+        ]
+      },
+      {
+        "tier": "슈퍼 울트라 레어 보스",
+        "pokemonIds": []
+      }
+    ],
+    "trainers": [
+      {
+        "name": "두송",
+        "types": [
+          "dark"
+        ],
+        "pokemonIds": [
+          "galar_zigzagoon",
+          "scraggy",
+          "inkay"
+        ]
+      }
+    ]
+  }
+]

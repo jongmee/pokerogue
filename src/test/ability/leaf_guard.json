@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "leaf_guard",
+    "name": "Leaf Guard",
+    "koName": "리프가드",
+    "realased": "",
+    "description": "날씨가 맑을 때는 상태 이상이 되지 않는다.",
+    "generation": 4,
+    "pokemonIds": [
+      "tangela",
+      "chikorita",
+      "bayleef",
+      "meganium",
+      "hoppip",
+      "skiploom",
+      "jumpluff",
+      "roselia",
+      "budew",
+      "tangrowth",
+      "leafeon",
+      "swadloon",
+      "petilil",
+      "lilligant",
+      "fomantis",
+      "lurantis",
+      "bounsweet",
+      "steenee",
+      "tsareena",
+      "zarude",
+      "hisui_lilligant"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

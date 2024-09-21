@@ -1,0 +1,222 @@
+[
+  {
+    "_id": "delphox",
+    "gender": "",
+    "pokedexNumber": "655",
+    "name": "delphox",
+    "koName": "마폭시",
+    "speciesName": "delphox",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "240",
+    "friendship": "70",
+    "types": [
+      "fire",
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "blaze"
+    ],
+    "hiddenAbilityId": "magician",
+    "passiveAbilityId": "psychic_surge",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 534,
+    "hp": 75,
+    "attack": 69,
+    "defense": 72,
+    "specialAttack": 114,
+    "specialDefense": 100,
+    "speed": 104,
+    "height": 1.5,
+    "weight": 39,
+    "eggMoveIds": [
+      "expanding_force",
+      "moonblast",
+      "thunderbolt",
+      "torch_song"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "mystical_fire"
+      },
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 1,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 1,
+        "moveId": "future_sight"
+      },
+      {
+        "level": 1,
+        "moveId": "role_play"
+      },
+      {
+        "level": 1,
+        "moveId": "howl"
+      },
+      {
+        "level": 1,
+        "moveId": "switcheroo"
+      },
+      {
+        "level": 14,
+        "moveId": "flame_charge"
+      },
+      {
+        "level": 18,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 22,
+        "moveId": "fire_spin"
+      },
+      {
+        "level": 28,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 38,
+        "moveId": "psyshock"
+      },
+      {
+        "level": 45,
+        "moveId": "flamethrower"
+      },
+      {
+        "level": 51,
+        "moveId": "will_o_wisp"
+      },
+      {
+        "level": 57,
+        "moveId": "psychic"
+      },
+      {
+        "level": 62,
+        "moveId": "sunny_day"
+      },
+      {
+        "level": 68,
+        "moveId": "magic_room"
+      },
+      {
+        "level": 74,
+        "moveId": "fire_blast"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fire_punch",
+      "thunder_punch",
+      "cut",
+      "take_down",
+      "flamethrower",
+      "psybeam",
+      "hyper_beam",
+      "low_kick",
+      "solar_beam",
+      "fire_spin",
+      "toxic",
+      "psychic",
+      "agility",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "metronome",
+      "fire_blast",
+      "swift",
+      "dream_eater",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "mud_slap",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "helping_hand",
+      "trick",
+      "recycle",
+      "skill_swap",
+      "imprison",
+      "hyper_voice",
+      "blast_burn",
+      "overheat",
+      "signal_beam",
+      "mud_shot",
+      "covet",
+      "calm_mind",
+      "embargo",
+      "flare_blitz",
+      "focus_blast",
+      "giga_impact",
+      "nasty_plot",
+      "zen_headbutt",
+      "trick_room",
+      "grass_knot",
+      "wonder_room",
+      "psyshock",
+      "magic_room",
+      "flame_charge",
+      "foul_play",
+      "round",
+      "echoed_voice",
+      "stored_power",
+      "ally_switch",
+      "hex",
+      "incinerate",
+      "fire_pledge",
+      "work_up",
+      "confide",
+      "mystical_fire",
+      "dazzling_gleam",
+      "power_up_punch",
+      "psychic_terrain",
+      "expanding_force",
+      "burning_jealousy",
+      "scorching_sands",
+      "tera_blast",
+      "psychic_noise"
+    ],
+    "biomeIds": [
+      "volcano"
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "_id": "thousand_waves",
+    "name": "Thousand Waves",
+    "koName": "사우전드웨이브",
+    "type": "ground",
+    "moveCategory": "physical",
+    "moveTarget": "all_near_enemies",
+    "power": 90,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "땅 위를 뻗어 나가는 파도로 공격한다. 파도에 휩쓸린 상대는 전투에서 도망칠 수 없게 된다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 6,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "gligar",
+      "gliscor",
+      "zygarde",
+      "mudbray",
+      "mudsdale",
+      "runerigus",
+      "alola_diglett",
+      "alola_dugtrio",
+      "alola_geodude",
+      "alola_graveler",
+      "alola_golem",
+      "galar_yamask"
+    ]
+  }
+]

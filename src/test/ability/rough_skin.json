@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "rough_skin",
+    "name": "Rough Skin",
+    "koName": "까칠한피부",
+    "realased": "",
+    "description": "공격을 받았을 때 자신에게 접촉한 상대를 까칠까칠한 피부로 상처를 입힌다.",
+    "generation": 3,
+    "pokemonIds": [
+      "carvanha",
+      "sharpedo",
+      "gible",
+      "gabite",
+      "garchomp",
+      "ferroseed",
+      "ferrothorn",
+      "druddigon",
+      "togedemaru"
+    ],
+    "isBypassFaint": true,
+    "isIgnorable": false
+  }
+]

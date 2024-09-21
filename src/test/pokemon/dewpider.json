@@ -1,0 +1,157 @@
+[
+  {
+    "_id": "dewpider",
+    "gender": "",
+    "pokedexNumber": "751",
+    "name": "dewpider",
+    "koName": "물거미",
+    "speciesName": "dewpider",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "54",
+    "friendship": "50",
+    "types": [
+      "water",
+      "bug"
+    ],
+    "normalAbilityIds": [
+      "water_bubble"
+    ],
+    "hiddenAbilityId": "water_absorb",
+    "passiveAbilityId": "tinted_lens",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 269,
+    "hp": 38,
+    "attack": 40,
+    "defense": 52,
+    "specialAttack": 40,
+    "specialDefense": 72,
+    "speed": 27,
+    "height": 0.3,
+    "weight": 4,
+    "eggMoveIds": [
+      "jet_punch",
+      "silk_trap",
+      "swords_dance",
+      "aqua_step"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "infestation"
+      },
+      {
+        "level": 1,
+        "moveId": "water_sport"
+      },
+      {
+        "level": 4,
+        "moveId": "bug_bite"
+      },
+      {
+        "level": 8,
+        "moveId": "bite"
+      },
+      {
+        "level": 12,
+        "moveId": "bubble_beam"
+      },
+      {
+        "level": 16,
+        "moveId": "aqua_ring"
+      },
+      {
+        "level": 20,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 24,
+        "moveId": "crunch"
+      },
+      {
+        "level": 28,
+        "moveId": "soak"
+      },
+      {
+        "level": 32,
+        "moveId": "entrainment"
+      },
+      {
+        "level": 36,
+        "moveId": "lunge"
+      },
+      {
+        "level": 40,
+        "moveId": "liquidation"
+      },
+      {
+        "level": 44,
+        "moveId": "leech_life"
+      },
+      {
+        "level": 48,
+        "moveId": "mirror_coat"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "toxic",
+      "double_team",
+      "waterfall",
+      "leech_life",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "icy_wind",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "crunch",
+      "facade",
+      "endeavor",
+      "signal_beam",
+      "iron_defense",
+      "water_pulse",
+      "poison_jab",
+      "x_scissor",
+      "bug_buzz",
+      "bug_bite",
+      "wonder_room",
+      "magic_room",
+      "round",
+      "scald",
+      "frost_breath",
+      "confide",
+      "infestation",
+      "lunge",
+      "liquidation",
+      "skitter_smack",
+      "tera_blast",
+      "trailblaze",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "lake"
+    ]
+  }
+]

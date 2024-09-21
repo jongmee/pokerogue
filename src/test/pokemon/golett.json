@@ -1,0 +1,187 @@
+[
+  {
+    "_id": "golett",
+    "gender": "",
+    "pokedexNumber": "622",
+    "name": "golett",
+    "koName": "골비람",
+    "speciesName": "golett",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "61",
+    "friendship": "50",
+    "types": [
+      "ground",
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "iron_fist",
+      "klutz"
+    ],
+    "hiddenAbilityId": "no_guard",
+    "passiveAbilityId": "shadow_shield",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 303,
+    "hp": 59,
+    "attack": 74,
+    "defense": 50,
+    "specialAttack": 35,
+    "specialDefense": 50,
+    "speed": 35,
+    "height": 1,
+    "weight": 92,
+    "eggMoveIds": [
+      "shift_gear",
+      "drain_punch",
+      "headlong_rush",
+      "rage_fist"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "mud_slap"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 4,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": 8,
+        "moveId": "pound"
+      },
+      {
+        "level": 12,
+        "moveId": "shadow_punch"
+      },
+      {
+        "level": 16,
+        "moveId": "curse"
+      },
+      {
+        "level": 20,
+        "moveId": "night_shade"
+      },
+      {
+        "level": 24,
+        "moveId": "stomping_tantrum"
+      },
+      {
+        "level": 28,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 32,
+        "moveId": "mega_punch"
+      },
+      {
+        "level": 36,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 40,
+        "moveId": "heavy_slam"
+      },
+      {
+        "level": 44,
+        "moveId": "phantom_force"
+      },
+      {
+        "level": 48,
+        "moveId": "hammer_arm"
+      },
+      {
+        "level": 52,
+        "moveId": "earthquake"
+      },
+      {
+        "level": 56,
+        "moveId": "dynamic_punch"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "mega_kick",
+      "body_slam",
+      "double_edge",
+      "ice_beam",
+      "low_kick",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "psychic",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "self_destruct",
+      "flash",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "rain_dance",
+      "shadow_ball",
+      "rock_smash",
+      "facade",
+      "focus_punch",
+      "helping_hand",
+      "superpower",
+      "brick_break",
+      "knock_off",
+      "imprison",
+      "rock_tomb",
+      "signal_beam",
+      "iron_defense",
+      "gravity",
+      "gyro_ball",
+      "fling",
+      "rock_polish",
+      "drain_punch",
+      "focus_blast",
+      "earth_power",
+      "flash_cannon",
+      "stealth_rock",
+      "grass_knot",
+      "heavy_slam",
+      "low_sweep",
+      "round",
+      "ally_switch",
+      "bulldoze",
+      "phantom_force",
+      "confide",
+      "power_up_punch",
+      "stomping_tantrum",
+      "poltergeist",
+      "scorching_sands",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "temple"
+    ]
+  }
+]

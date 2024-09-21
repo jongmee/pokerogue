@@ -1,0 +1,174 @@
+[
+  {
+    "_id": "iron_moth",
+    "gender": "",
+    "pokedexNumber": "994",
+    "name": "iron_moth",
+    "koName": "무쇠독나방",
+    "speciesName": "iron_moth",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "285",
+    "friendship": "0",
+    "types": [
+      "fire",
+      "poison"
+    ],
+    "normalAbilityIds": [
+      "quark_drive"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "levitate",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 570,
+    "hp": 80,
+    "attack": 70,
+    "defense": 60,
+    "specialAttack": 140,
+    "specialDefense": 110,
+    "speed": 110,
+    "height": 1.2,
+    "weight": 36,
+    "eggMoveIds": [
+      "earth_power",
+      "searing_shot",
+      "quiver_dance",
+      "malignant_chain"
+    ],
+    "levelMoves": [
+      {
+        "level": -1,
+        "moveId": "electric_terrain"
+      },
+      {
+        "level": 1,
+        "moveId": "gust"
+      },
+      {
+        "level": 1,
+        "moveId": "whirlwind"
+      },
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 1,
+        "moveId": "acid_spray"
+      },
+      {
+        "level": 7,
+        "moveId": "struggle_bug"
+      },
+      {
+        "level": 14,
+        "moveId": "fire_spin"
+      },
+      {
+        "level": 21,
+        "moveId": "take_down"
+      },
+      {
+        "level": 28,
+        "moveId": "lunge"
+      },
+      {
+        "level": 35,
+        "moveId": "screech"
+      },
+      {
+        "level": 42,
+        "moveId": "discharge"
+      },
+      {
+        "level": 49,
+        "moveId": "sludge_wave"
+      },
+      {
+        "level": 56,
+        "moveId": "fiery_dance"
+      },
+      {
+        "level": 63,
+        "moveId": "metal_sound"
+      },
+      {
+        "level": 70,
+        "moveId": "morning_sun"
+      },
+      {
+        "level": 77,
+        "moveId": "hurricane"
+      },
+      {
+        "level": 84,
+        "moveId": "bug_buzz"
+      },
+      {
+        "level": 91,
+        "moveId": "overheat"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "flamethrower",
+      "hyper_beam",
+      "solar_beam",
+      "fire_spin",
+      "toxic",
+      "psychic",
+      "agility",
+      "screech",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "fire_blast",
+      "swift",
+      "rest",
+      "substitute",
+      "protect",
+      "endure",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "sunny_day",
+      "heat_wave",
+      "facade",
+      "helping_hand",
+      "overheat",
+      "metal_sound",
+      "u_turn",
+      "toxic_spikes",
+      "flare_blitz",
+      "air_slash",
+      "bug_buzz",
+      "energy_ball",
+      "giga_impact",
+      "flash_cannon",
+      "charge_beam",
+      "venoshock",
+      "sludge_wave",
+      "flame_charge",
+      "acid_spray",
+      "acrobatics",
+      "struggle_bug",
+      "hurricane",
+      "electric_terrain",
+      "dazzling_gleam",
+      "lunge",
+      "meteor_beam",
+      "tera_blast",
+      "pounce"
+    ],
+    "biomeIds": [
+      "end"
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "seed_flare",
+    "name": "Seed Flare",
+    "koName": "시드플레어",
+    "type": "grass",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 120,
+    "accuracy": 85,
+    "powerPoint": 5,
+    "effect": "몸속에서 충격파를 발생시킨다. 상대의 특수방어를 크게 떨어뜨릴 때가 있다.",
+    "effectChance": 40,
+    "prioirty": 0,
+    "generation": 4,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "shaymin_sky",
+      "cottonee",
+      "whimsicott",
+      "maractus",
+      "gossifleur",
+      "eldegoss"
+    ]
+  }
+]

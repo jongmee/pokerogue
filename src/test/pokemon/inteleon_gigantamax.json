@@ -1,0 +1,106 @@
+[
+  {
+    "_id": "inteleon_gigantamax",
+    "gender": "",
+    "pokedexNumber": "818",
+    "name": "inteleon_gigantamax",
+    "koName": "인텔리레온_gigantamax",
+    "speciesName": "inteleon",
+    "canChangeForm": true,
+    "formName": "g_max",
+    "baseExp": "265",
+    "friendship": "50",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "sniper"
+    ],
+    "hiddenAbilityId": "sniper",
+    "passiveAbilityId": "super_luck",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 630,
+    "hp": 95,
+    "attack": 97,
+    "defense": 77,
+    "specialAttack": 147,
+    "specialDefense": 77,
+    "speed": 137,
+    "height": 40,
+    "weight": 45.2,
+    "eggMoveIds": [
+      "aeroblast",
+      "frost_breath",
+      "scorching_sands",
+      "nasty_plot"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "snipe_shot"
+      },
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "bind"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "acrobatics"
+      },
+      {
+        "level": 12,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 19,
+        "moveId": "tearful_look"
+      },
+      {
+        "level": 24,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 30,
+        "moveId": "u_turn"
+      },
+      {
+        "level": 38,
+        "moveId": "liquidation"
+      },
+      {
+        "level": 46,
+        "moveId": "soak"
+      },
+      {
+        "level": 54,
+        "moveId": "rain_dance"
+      },
+      {
+        "level": 62,
+        "moveId": "hydro_pump"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "lake"
+    ]
+  }
+]

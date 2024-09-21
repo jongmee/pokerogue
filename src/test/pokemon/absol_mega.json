@@ -1,0 +1,102 @@
+[
+  {
+    "_id": "absol_mega",
+    "gender": "",
+    "pokedexNumber": "359",
+    "name": "absol_mega",
+    "koName": "앱솔_mega",
+    "speciesName": "absol",
+    "canChangeForm": true,
+    "formName": "mega",
+    "baseExp": "163",
+    "friendship": "35",
+    "types": [
+      "dark"
+    ],
+    "normalAbilityIds": [
+      "magic_bounce"
+    ],
+    "hiddenAbilityId": "magic_bounce",
+    "passiveAbilityId": "sharpness",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 565,
+    "hp": 65,
+    "attack": 150,
+    "defense": 60,
+    "specialAttack": 115,
+    "specialDefense": 60,
+    "speed": 115,
+    "height": 1.2,
+    "weight": 49,
+    "eggMoveIds": [
+      "kowtow_cleave",
+      "sacred_sword",
+      "psyblade",
+      "bitter_blade"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 5,
+        "moveId": "double_team"
+      },
+      {
+        "level": 10,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 15,
+        "moveId": "detect"
+      },
+      {
+        "level": 20,
+        "moveId": "taunt"
+      },
+      {
+        "level": 25,
+        "moveId": "slash"
+      },
+      {
+        "level": 30,
+        "moveId": "night_slash"
+      },
+      {
+        "level": 35,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 40,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 45,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 50,
+        "moveId": "future_sight"
+      },
+      {
+        "level": 55,
+        "moveId": "perish_song"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "abyss"
+    ]
+  }
+]

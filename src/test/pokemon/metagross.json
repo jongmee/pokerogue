@@ -1,0 +1,205 @@
+[
+  {
+    "_id": "metagross",
+    "gender": "",
+    "pokedexNumber": "376",
+    "name": "metagross",
+    "koName": "메타그로스",
+    "speciesName": "metagross",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "300",
+    "friendship": "35",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "clear_body"
+    ],
+    "hiddenAbilityId": "light_metal",
+    "passiveAbilityId": "levitate",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 600,
+    "hp": 80,
+    "attack": 135,
+    "defense": 130,
+    "specialAttack": 95,
+    "specialDefense": 90,
+    "speed": 70,
+    "height": 1.6,
+    "weight": 550,
+    "eggMoveIds": [
+      "high_horsepower",
+      "recover",
+      "triple_axel",
+      "shift_gear"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "hammer_arm"
+      },
+      {
+        "level": -1,
+        "moveId": "explosion"
+      },
+      {
+        "level": -1,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 1,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 1,
+        "moveId": "bullet_punch"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 6,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 12,
+        "moveId": "magnet_rise"
+      },
+      {
+        "level": 16,
+        "moveId": "flash_cannon"
+      },
+      {
+        "level": 26,
+        "moveId": "take_down"
+      },
+      {
+        "level": 34,
+        "moveId": "psychic"
+      },
+      {
+        "level": 42,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 52,
+        "moveId": "meteor_mash"
+      },
+      {
+        "level": 62,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 72,
+        "moveId": "agility"
+      },
+      {
+        "level": 82,
+        "moveId": "hyper_beam"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "ice_punch",
+      "thunder_punch",
+      "cut",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "strength",
+      "earthquake",
+      "toxic",
+      "psychic",
+      "agility",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "self_destruct",
+      "swift",
+      "flash",
+      "explosion",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "mud_slap",
+      "icy_wind",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "rock_smash",
+      "facade",
+      "focus_punch",
+      "trick",
+      "brick_break",
+      "knock_off",
+      "rock_tomb",
+      "cosmic_power",
+      "signal_beam",
+      "aerial_ace",
+      "iron_defense",
+      "gravity",
+      "gyro_ball",
+      "rock_polish",
+      "giga_impact",
+      "shadow_claw",
+      "psycho_cut",
+      "zen_headbutt",
+      "flash_cannon",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "grass_knot",
+      "hone_claws",
+      "psyshock",
+      "heavy_slam",
+      "round",
+      "ally_switch",
+      "bulldoze",
+      "confide",
+      "power_up_punch",
+      "brutal_swing",
+      "psychic_fangs",
+      "stomping_tantrum",
+      "body_press",
+      "steel_beam",
+      "expanding_force",
+      "steel_roller",
+      "meteor_beam",
+      "tera_blast",
+      "trailblaze",
+      "hard_press",
+      "psychic_noise"
+    ],
+    "biomeIds": [
+      "factory",
+      "space"
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "_id": "battle_bond",
+    "name": "Battle Bond",
+    "koName": "유대변화",
+    "realased": "",
+    "description": "상대를 쓰러뜨리면 트레이너와의 유대감이 깊어져서 지우개굴닌자로 변한다. 물수리검이 강해진다.",
+    "generation": 7,
+    "pokemonIds": [],
+    "isBypassFaint": true,
+    "isIgnorable": false
+  }
+]

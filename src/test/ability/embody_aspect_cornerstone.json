@@ -1,0 +1,13 @@
+[
+  {
+    "_id": "embody_aspect_cornerstone",
+    "name": "Embody Aspect",
+    "koName": "초상투영",
+    "realased": " (P)",
+    "description": "마음속에 깃든 추억의 힘으로 주춧돌의가면을 빛나게 하여 자신의 방어력을 올린다.",
+    "generation": 9,
+    "pokemonIds": [],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

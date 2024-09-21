@@ -1,0 +1,171 @@
+[
+  {
+    "_id": "fennekin",
+    "gender": "",
+    "pokedexNumber": "653",
+    "name": "fennekin",
+    "koName": "푸호꼬",
+    "speciesName": "fennekin",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "61",
+    "friendship": "70",
+    "types": [
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "blaze"
+    ],
+    "hiddenAbilityId": "magician",
+    "passiveAbilityId": "psychic_surge",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 307,
+    "hp": 40,
+    "attack": 45,
+    "defense": 40,
+    "specialAttack": 62,
+    "specialDefense": 60,
+    "speed": 60,
+    "height": 0.4,
+    "weight": 9.4,
+    "eggMoveIds": [
+      "expanding_force",
+      "moonblast",
+      "thunderbolt",
+      "torch_song"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 5,
+        "moveId": "ember"
+      },
+      {
+        "level": 11,
+        "moveId": "howl"
+      },
+      {
+        "level": 14,
+        "moveId": "flame_charge"
+      },
+      {
+        "level": 17,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 20,
+        "moveId": "fire_spin"
+      },
+      {
+        "level": 25,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 31,
+        "moveId": "psyshock"
+      },
+      {
+        "level": 35,
+        "moveId": "flamethrower"
+      },
+      {
+        "level": 38,
+        "moveId": "will_o_wisp"
+      },
+      {
+        "level": 41,
+        "moveId": "psychic"
+      },
+      {
+        "level": 43,
+        "moveId": "sunny_day"
+      },
+      {
+        "level": 48,
+        "moveId": "fire_blast"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "cut",
+      "take_down",
+      "flamethrower",
+      "psybeam",
+      "solar_beam",
+      "fire_spin",
+      "toxic",
+      "psychic",
+      "agility",
+      "double_team",
+      "light_screen",
+      "fire_blast",
+      "swift",
+      "dream_eater",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "mud_slap",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "helping_hand",
+      "trick",
+      "skill_swap",
+      "imprison",
+      "overheat",
+      "mud_shot",
+      "covet",
+      "calm_mind",
+      "embargo",
+      "flare_blitz",
+      "trick_room",
+      "grass_knot",
+      "psyshock",
+      "magic_room",
+      "flame_charge",
+      "foul_play",
+      "round",
+      "echoed_voice",
+      "stored_power",
+      "incinerate",
+      "fire_pledge",
+      "work_up",
+      "confide",
+      "power_up_punch",
+      "psychic_terrain",
+      "burning_jealousy",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "volcano"
+    ]
+  }
+]

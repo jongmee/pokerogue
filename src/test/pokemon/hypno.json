@@ -1,0 +1,205 @@
+[
+  {
+    "_id": "hypno",
+    "gender": "",
+    "pokedexNumber": "97",
+    "name": "hypno",
+    "koName": "슬리퍼",
+    "speciesName": "hypno",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "169",
+    "friendship": "70",
+    "types": [
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "insomnia",
+      "forewarn"
+    ],
+    "hiddenAbilityId": "inner_focus",
+    "passiveAbilityId": "magician",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 483,
+    "hp": 85,
+    "attack": 73,
+    "defense": 70,
+    "specialAttack": 73,
+    "specialDefense": 115,
+    "speed": 67,
+    "height": 1.6,
+    "weight": 75.6,
+    "eggMoveIds": [
+      "baddy_bad",
+      "strength_sap",
+      "lumina_crash",
+      "dark_void"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "disable"
+      },
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 1,
+        "moveId": "hypnosis"
+      },
+      {
+        "level": 1,
+        "moveId": "switcheroo"
+      },
+      {
+        "level": 1,
+        "moveId": "nightmare"
+      },
+      {
+        "level": 13,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 17,
+        "moveId": "poison_gas"
+      },
+      {
+        "level": 21,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 25,
+        "moveId": "psych_up"
+      },
+      {
+        "level": 32,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 37,
+        "moveId": "swagger"
+      },
+      {
+        "level": 42,
+        "moveId": "psychic"
+      },
+      {
+        "level": 47,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 51,
+        "moveId": "psyshock"
+      },
+      {
+        "level": 56,
+        "moveId": "future_sight"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "psybeam",
+      "hyper_beam",
+      "low_kick",
+      "counter",
+      "thunder_wave",
+      "toxic",
+      "psychic",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "haze",
+      "reflect",
+      "metronome",
+      "swift",
+      "dream_eater",
+      "flash",
+      "rest",
+      "tri_attack",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "scary_face",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "baton_pass",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "torment",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "trick",
+      "recycle",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "skill_swap",
+      "imprison",
+      "signal_beam",
+      "calm_mind",
+      "fling",
+      "drain_punch",
+      "focus_blast",
+      "giga_impact",
+      "nasty_plot",
+      "psycho_cut",
+      "zen_headbutt",
+      "trick_room",
+      "grass_knot",
+      "psyshock",
+      "magic_room",
+      "low_sweep",
+      "foul_play",
+      "round",
+      "stored_power",
+      "ally_switch",
+      "hex",
+      "draining_kiss",
+      "confide",
+      "dazzling_gleam",
+      "power_up_punch",
+      "psychic_terrain",
+      "body_press",
+      "expanding_force",
+      "tera_blast",
+      "trailblaze",
+      "psychic_noise"
+    ],
+    "biomeIds": [
+      "ruins"
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "_id": "sacred_fire",
+    "name": "Sacred Fire",
+    "koName": "성스러운불꽃",
+    "type": "fire",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 100,
+    "accuracy": 95,
+    "powerPoint": 5,
+    "effect": "신비한 불꽃으로 상대를 태워서 공격한다. 화상 상태로 만들 때가 있다.",
+    "effectChance": 50,
+    "prioirty": 0,
+    "generation": 2,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "growlithe",
+      "arcanine",
+      "entei",
+      "ho_oh",
+      "solrock",
+      "groudon",
+      "groudon_primal",
+      "chimchar",
+      "monferno",
+      "infernape",
+      "litten",
+      "torracat",
+      "incineroar",
+      "cosmog",
+      "cosmoem",
+      "solgaleo",
+      "lunala",
+      "necrozma",
+      "gouging_fire"
+    ]
+  }
+]

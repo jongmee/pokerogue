@@ -1,0 +1,52 @@
+[
+  {
+    "_id": "destiny_bond",
+    "name": "Destiny Bond",
+    "koName": "길동무",
+    "type": "ghost",
+    "moveCategory": "status",
+    "moveTarget": "user",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 5,
+    "effect": "기술을 쓴 뒤 상대의 공격으로 기절했을 때 공격 상대도 기절하게 한다. 연속으로 쓰면 실패한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 2,
+    "realased": "",
+    "flags": [
+      "ignore_protect"
+    ],
+    "pokemonIds": [
+      "gastly",
+      "haunter",
+      "gengar",
+      "koffing",
+      "weezing",
+      "wobbuffet",
+      "qwilfish",
+      "cacnea",
+      "cacturne",
+      "wynaut",
+      "vespiquen",
+      "drifloon",
+      "drifblim",
+      "dusknoir",
+      "froslass",
+      "yamask",
+      "cofagrigus",
+      "frillish",
+      "jellicent",
+      "phantump",
+      "trevenant",
+      "hoopa",
+      "runerigus",
+      "overqwil",
+      "iron_valiant",
+      "pecharunt",
+      "galar_weezing",
+      "galar_yamask",
+      "hisui_qwilfish"
+    ]
+  }
+]

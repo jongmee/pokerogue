@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "poison_point",
+    "name": "Poison Point",
+    "koName": "독가시",
+    "realased": "",
+    "description": "자신과 접촉한 상대를 독 상태로 만들 때가 있다.",
+    "generation": 3,
+    "pokemonIds": [
+      "nidoran_f",
+      "nidorina",
+      "nidoqueen",
+      "nidoran_m",
+      "nidorino",
+      "nidoking",
+      "seadra",
+      "qwilfish",
+      "roselia",
+      "budew",
+      "roserade",
+      "venipede",
+      "whirlipede",
+      "scolipede",
+      "skrelp",
+      "dragalge",
+      "overqwil",
+      "clodsire",
+      "hisui_qwilfish",
+      "paldea_wooper"
+    ],
+    "isBypassFaint": true,
+    "isIgnorable": false
+  }
+]

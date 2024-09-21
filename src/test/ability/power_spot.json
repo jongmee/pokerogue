@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "power_spot",
+    "name": "Power Spot",
+    "koName": "파워스폿",
+    "realased": "",
+    "description": "옆에 있기만 해도 기술의 위력이 올라간다.",
+    "generation": 8,
+    "pokemonIds": [
+      "plusle",
+      "minun",
+      "oranguru",
+      "stonjourner"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

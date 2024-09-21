@@ -1,0 +1,108 @@
+[
+  {
+    "_id": "melmetal_gigantamax",
+    "gender": "",
+    "pokedexNumber": "809",
+    "name": "melmetal_gigantamax",
+    "koName": "멜메탈_gigantamax",
+    "speciesName": "melmetal",
+    "canChangeForm": true,
+    "formName": "g_max",
+    "baseExp": "300",
+    "friendship": "0",
+    "types": [
+      "steel"
+    ],
+    "normalAbilityIds": [
+      "iron_fist"
+    ],
+    "hiddenAbilityId": "iron_fist",
+    "passiveAbilityId": "steely_spirit",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": true,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 700,
+    "hp": 175,
+    "attack": 165,
+    "defense": 155,
+    "specialAttack": 85,
+    "specialDefense": 75,
+    "speed": 45,
+    "height": 25,
+    "weight": 800,
+    "eggMoveIds": [
+      "bullet_punch",
+      "drain_punch",
+      "bulk_up",
+      "plasma_fists"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "thunder_punch"
+      },
+      {
+        "level": 1,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 1,
+        "moveId": "harden"
+      },
+      {
+        "level": 24,
+        "moveId": "thunder_wave"
+      },
+      {
+        "level": 32,
+        "moveId": "acid_armor"
+      },
+      {
+        "level": 40,
+        "moveId": "flash_cannon"
+      },
+      {
+        "level": 48,
+        "moveId": "mega_punch"
+      },
+      {
+        "level": 56,
+        "moveId": "protect"
+      },
+      {
+        "level": 64,
+        "moveId": "discharge"
+      },
+      {
+        "level": 72,
+        "moveId": "dynamic_punch"
+      },
+      {
+        "level": 80,
+        "moveId": "superpower"
+      },
+      {
+        "level": 88,
+        "moveId": "double_iron_bash"
+      },
+      {
+        "level": 96,
+        "moveId": "hyper_beam"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": []
+  }
+]

@@ -1,0 +1,246 @@
+[
+  {
+    "_id": "azelf",
+    "gender": "",
+    "pokedexNumber": "482",
+    "name": "azelf",
+    "koName": "아그놈",
+    "speciesName": "azelf",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "290",
+    "friendship": "140",
+    "types": [
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "levitate"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "neuroforce",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 580,
+    "hp": 75,
+    "attack": 125,
+    "defense": 70,
+    "specialAttack": 125,
+    "specialDefense": 70,
+    "speed": 115,
+    "height": 0.3,
+    "weight": 0.3,
+    "eggMoveIds": [
+      "psystrike",
+      "ice_beam",
+      "moonblast",
+      "tail_glow"
+    ],
+    "levelMoves": [
+      {
+        "level": -1,
+        "moveId": "self_destruct"
+      },
+      {
+        "level": -1,
+        "moveId": "tri_attack"
+      },
+      {
+        "level": -1,
+        "moveId": "snore"
+      },
+      {
+        "level": -1,
+        "moveId": "safeguard"
+      },
+      {
+        "level": -1,
+        "moveId": "iron_tail"
+      },
+      {
+        "level": -1,
+        "moveId": "payback"
+      },
+      {
+        "level": -1,
+        "moveId": "assurance"
+      },
+      {
+        "level": -1,
+        "moveId": "psycho_cut"
+      },
+      {
+        "level": -1,
+        "moveId": "wonder_room"
+      },
+      {
+        "level": -1,
+        "moveId": "magic_room"
+      },
+      {
+        "level": -1,
+        "moveId": "round"
+      },
+      {
+        "level": -1,
+        "moveId": "ally_switch"
+      },
+      {
+        "level": -1,
+        "moveId": "expanding_force"
+      },
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 1,
+        "moveId": "rest"
+      },
+      {
+        "level": 7,
+        "moveId": "swift"
+      },
+      {
+        "level": 14,
+        "moveId": "detect"
+      },
+      {
+        "level": 21,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 28,
+        "moveId": "imprison"
+      },
+      {
+        "level": 35,
+        "moveId": "extrasensory"
+      },
+      {
+        "level": 42,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 49,
+        "moveId": "psychic"
+      },
+      {
+        "level": 56,
+        "moveId": "uproar"
+      },
+      {
+        "level": 63,
+        "moveId": "future_sight"
+      },
+      {
+        "level": 70,
+        "moveId": "last_resort"
+      },
+      {
+        "level": 77,
+        "moveId": "explosion"
+      },
+      {
+        "level": 84,
+        "moveId": "mystical_power"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "double_edge",
+      "flamethrower",
+      "psybeam",
+      "hyper_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "metronome",
+      "self_destruct",
+      "fire_blast",
+      "swift",
+      "dream_eater",
+      "flash",
+      "explosion",
+      "rest",
+      "tri_attack",
+      "substitute",
+      "snore",
+      "protect",
+      "mud_slap",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "baton_pass",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "uproar",
+      "torment",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "trick",
+      "recycle",
+      "knock_off",
+      "endeavor",
+      "skill_swap",
+      "imprison",
+      "signal_beam",
+      "calm_mind",
+      "water_pulse",
+      "u_turn",
+      "payback",
+      "assurance",
+      "fling",
+      "drain_punch",
+      "energy_ball",
+      "giga_impact",
+      "nasty_plot",
+      "psycho_cut",
+      "zen_headbutt",
+      "trick_room",
+      "stealth_rock",
+      "grass_knot",
+      "charge_beam",
+      "wonder_room",
+      "psyshock",
+      "magic_room",
+      "round",
+      "stored_power",
+      "ally_switch",
+      "incinerate",
+      "acrobatics",
+      "draining_kiss",
+      "play_rough",
+      "confide",
+      "dazzling_gleam",
+      "power_up_punch",
+      "expanding_force",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "swamp"
+    ]
+  }
+]

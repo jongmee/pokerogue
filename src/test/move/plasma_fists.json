@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "plasma_fists",
+    "name": "Plasma Fists",
+    "koName": "플라스마피스트",
+    "type": "electric",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 100,
+    "accuracy": 100,
+    "powerPoint": 15,
+    "effect": "전기를 두른 주먹으로 공격한다. 노말타입 기술을 전기타입으로 바꿔버린다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": " (P)",
+    "flags": [
+      "makes_contact",
+      "punching_move"
+    ],
+    "pokemonIds": [
+      "tynamo",
+      "eelektrik",
+      "eelektross",
+      "tapu_koko",
+      "zeraora",
+      "meltan",
+      "melmetal",
+      "melmetal_gigantamax",
+      "pawmi",
+      "pawmo",
+      "pawmot",
+      "iron_hands",
+      "iron_thorns",
+      "iron_valiant"
+    ]
+  }
+]

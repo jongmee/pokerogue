@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "leaf_tornado",
+    "name": "Leaf Tornado",
+    "koName": "그래스믹서",
+    "type": "grass",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 65,
+    "accuracy": 90,
+    "powerPoint": 10,
+    "effect": "날카로운 잎사귀로 상대를 둘러싸서 공격한다. 명중률을 떨어뜨릴 때가 있다.",
+    "effectChance": 50,
+    "prioirty": 0,
+    "generation": 5,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "carnivine",
+      "gossifleur",
+      "eldegoss"
+    ]
+  }
+]

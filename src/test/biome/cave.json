@@ -1,0 +1,159 @@
+[
+  {
+    "_id": "cave",
+    "name": "Cave",
+    "koName": "동굴",
+    "types": [
+      "rock"
+    ],
+    "nextBiomes": [
+      {
+        "name": "badlands",
+        "percentage": 40
+      },
+      {
+        "name": "lake",
+        "percentage": 40
+      },
+      {
+        "name": "laboratory",
+        "percentage": 20
+      }
+    ],
+    "nativePokemons": [
+      {
+        "tier": "보통",
+        "pokemonIds": [
+          "zubat",
+          "golbat",
+          "paras",
+          "parasect",
+          "teddiursa",
+          "ursaring",
+          "whismur",
+          "loudred",
+          "exploud",
+          "roggenrola",
+          "boldore",
+          "woobat",
+          "swoobat",
+          "bunnelby",
+          "diggersby",
+          "nacli",
+          "naclstack",
+          "garganacl"
+        ]
+      },
+      {
+        "tier": "드묾",
+        "pokemonIds": [
+          "rockruff",
+          "lycanroc",
+          "geodude",
+          "graveler",
+          "makuhita",
+          "hariyama",
+          "nosepass",
+          "noibat",
+          "noivern",
+          "wimpod",
+          "golisopod"
+        ]
+      },
+      {
+        "tier": "레어",
+        "pokemonIds": [
+          "onix",
+          "ferroseed",
+          "ferrothorn",
+          "carbink",
+          "glimmet",
+          "glimmora"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어",
+        "pokemonIds": [
+          "shuckle"
+        ]
+      },
+      {
+        "tier": "울트라 레어",
+        "pokemonIds": [
+          "uxie"
+        ]
+      },
+      {
+        "tier": "보스",
+        "pokemonIds": [
+          "parasect",
+          "onix",
+          "crobat",
+          "ursaring",
+          "exploud",
+          "probopass",
+          "gigalith",
+          "swoobat",
+          "diggersby",
+          "noivern",
+          "golisopod",
+          "garganacl"
+        ]
+      },
+      {
+        "tier": "레어 보스",
+        "pokemonIds": [
+          "lycanroc",
+          "shuckle",
+          "ferrothorn",
+          "glimmora"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어 보스",
+        "pokemonIds": [
+          "uxie"
+        ]
+      },
+      {
+        "tier": "슈퍼 울트라 레어 보스",
+        "pokemonIds": [
+          "terapagos"
+        ]
+      }
+    ],
+    "trainers": [
+      {
+        "name": "웅",
+        "types": [
+          "rock"
+        ],
+        "pokemonIds": [
+          "geodude",
+          "onix"
+        ]
+      },
+      {
+        "name": "원규",
+        "types": [
+          "rock"
+        ],
+        "pokemonIds": [
+          "geodude",
+          "nosepass"
+        ]
+      },
+      {
+        "name": "강석",
+        "types": [
+          "rock"
+        ],
+        "pokemonIds": [
+          "cranidos",
+          "larvitar",
+          "geodude"
+        ]
+      }
+    ]
+  }
+]

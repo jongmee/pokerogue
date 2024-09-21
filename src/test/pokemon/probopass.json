@@ -1,0 +1,201 @@
+[
+  {
+    "_id": "probopass",
+    "gender": "",
+    "pokedexNumber": "476",
+    "name": "probopass",
+    "koName": "대코파스",
+    "speciesName": "probopass",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "184",
+    "friendship": "70",
+    "types": [
+      "rock",
+      "steel"
+    ],
+    "normalAbilityIds": [
+      "sturdy",
+      "magnet_pull"
+    ],
+    "hiddenAbilityId": "sand_force",
+    "passiveAbilityId": "levitate",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 525,
+    "hp": 60,
+    "attack": 55,
+    "defense": 145,
+    "specialAttack": 75,
+    "specialDefense": 150,
+    "speed": 40,
+    "height": 1.4,
+    "weight": 340,
+    "eggMoveIds": [
+      "shore_up",
+      "body_press",
+      "calm_mind",
+      "tachyon_cutter"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "tri_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 1,
+        "moveId": "block"
+      },
+      {
+        "level": 1,
+        "moveId": "gravity"
+      },
+      {
+        "level": 1,
+        "moveId": "magnet_rise"
+      },
+      {
+        "level": 1,
+        "moveId": "wide_guard"
+      },
+      {
+        "level": 1,
+        "moveId": "magnetic_flux"
+      },
+      {
+        "level": 13,
+        "moveId": "thunder_wave"
+      },
+      {
+        "level": 16,
+        "moveId": "rest"
+      },
+      {
+        "level": 19,
+        "moveId": "spark"
+      },
+      {
+        "level": 22,
+        "moveId": "rock_slide"
+      },
+      {
+        "level": 25,
+        "moveId": "power_gem"
+      },
+      {
+        "level": 28,
+        "moveId": "rock_blast"
+      },
+      {
+        "level": 31,
+        "moveId": "discharge"
+      },
+      {
+        "level": 34,
+        "moveId": "sandstorm"
+      },
+      {
+        "level": 37,
+        "moveId": "earth_power"
+      },
+      {
+        "level": 40,
+        "moveId": "stone_edge"
+      },
+      {
+        "level": 43,
+        "moveId": "zap_cannon"
+      },
+      {
+        "level": 43,
+        "moveId": "lock_on"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "strength",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "earthquake",
+      "toxic",
+      "double_team",
+      "explosion",
+      "rest",
+      "rock_slide",
+      "tri_attack",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "hidden_power",
+      "sunny_day",
+      "rock_smash",
+      "torment",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "rock_tomb",
+      "metal_sound",
+      "sand_tomb",
+      "iron_defense",
+      "rock_blast",
+      "gravity",
+      "rock_polish",
+      "power_gem",
+      "earth_power",
+      "giga_impact",
+      "flash_cannon",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "smack_down",
+      "heavy_slam",
+      "round",
+      "ally_switch",
+      "volt_switch",
+      "bulldoze",
+      "confide",
+      "dazzling_gleam",
+      "high_horsepower",
+      "stomping_tantrum",
+      "body_press",
+      "steel_beam",
+      "meteor_beam",
+      "tera_blast",
+      "hard_press",
+      "supercell_slam"
+    ],
+    "biomeIds": [
+      "cave"
+    ]
+  }
+]

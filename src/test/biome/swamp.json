@@ -1,0 +1,155 @@
+[
+  {
+    "_id": "swamp",
+    "name": "Swamp",
+    "koName": "늪지",
+    "types": [
+      "poison",
+      "water"
+    ],
+    "nextBiomes": [
+      {
+        "name": "graveyard",
+        "percentage": 50
+      },
+      {
+        "name": "tall_grass",
+        "percentage": 50
+      }
+    ],
+    "nativePokemons": [
+      {
+        "tier": "보통",
+        "pokemonIds": [
+          "wooper",
+          "quagsire",
+          "lotad",
+          "lombre",
+          "ekans",
+          "arbok",
+          "paldea_wooper",
+          "clodsire",
+          "poliwag",
+          "poliwhirl",
+          "gulpin",
+          "swalot",
+          "shellos",
+          "gastrodon",
+          "tympole",
+          "palpitoad",
+          "seismitoad"
+        ]
+      },
+      {
+        "tier": "드묾",
+        "pokemonIds": [
+          "ekans",
+          "arbok",
+          "croagunk",
+          "toxicroak",
+          "psyduck",
+          "golduck",
+          "barboach",
+          "whiscash",
+          "skorupi",
+          "drapion",
+          "stunfisk",
+          "mareanie",
+          "toxapex"
+        ]
+      },
+      {
+        "tier": "레어",
+        "pokemonIds": [
+          "totodile",
+          "croconaw",
+          "feraligatr",
+          "mudkip",
+          "marshtomp",
+          "swampert"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어",
+        "pokemonIds": [
+          "galar_slowpoke",
+          "galar_slowbro",
+          "hisui_sliggoo",
+          "hisui_goodra",
+          "politoed",
+          "galar_stunfisk"
+        ]
+      },
+      {
+        "tier": "울트라 레어",
+        "pokemonIds": [
+          "azelf",
+          "poipole"
+        ]
+      },
+      {
+        "tier": "보스",
+        "pokemonIds": [
+          "quagsire",
+          "ludicolo",
+          "arbok",
+          "clodsire",
+          "poliwrath",
+          "swalot",
+          "whiscash",
+          "gastrodon",
+          "seismitoad",
+          "stunfisk",
+          "toxapex"
+        ]
+      },
+      {
+        "tier": "레어 보스",
+        "pokemonIds": [
+          "galar_slowbro",
+          "galar_slowking",
+          "hisui_goodra",
+          "feraligatr",
+          "politoed",
+          "swampert",
+          "galar_stunfisk"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어 보스",
+        "pokemonIds": [
+          "azelf",
+          "naganadel"
+        ]
+      },
+      {
+        "tier": "슈퍼 울트라 레어 보스",
+        "pokemonIds": []
+      }
+    ],
+    "trainers": [
+      {
+        "name": "도희",
+        "types": [
+          "poison"
+        ],
+        "pokemonIds": [
+          "venonat",
+          "spinarak",
+          "zubat"
+        ]
+      },
+      {
+        "name": "보미카",
+        "types": [
+          "poison"
+        ],
+        "pokemonIds": [
+          "venipede",
+          "trubbish",
+          "skorupi"
+        ]
+      }
+    ]
+  }
+]

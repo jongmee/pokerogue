@@ -1,0 +1,111 @@
+[
+  {
+    "_id": "mimikyu_disguised",
+    "gender": "",
+    "pokedexNumber": "778",
+    "name": "mimikyu_disguised",
+    "koName": "따라큐_disguised",
+    "speciesName": "mimikyu",
+    "canChangeForm": true,
+    "formName": "disguised_form",
+    "baseExp": "167",
+    "friendship": "50",
+    "types": [
+      "ghost",
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "disguise"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "tough_claws",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 476,
+    "hp": 55,
+    "attack": 90,
+    "defense": 80,
+    "specialAttack": 50,
+    "specialDefense": 105,
+    "speed": 96,
+    "height": 0.2,
+    "weight": 0.7,
+    "eggMoveIds": [
+      "spirit_break",
+      "tidy_up",
+      "bitter_blade",
+      "spectral_thief"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "splash"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 1,
+        "moveId": "copycat"
+      },
+      {
+        "level": 1,
+        "moveId": "wood_hammer"
+      },
+      {
+        "level": 6,
+        "moveId": "shadow_sneak"
+      },
+      {
+        "level": 12,
+        "moveId": "double_team"
+      },
+      {
+        "level": 18,
+        "moveId": "baby_doll_eyes"
+      },
+      {
+        "level": 24,
+        "moveId": "mimic"
+      },
+      {
+        "level": 30,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 36,
+        "moveId": "slash"
+      },
+      {
+        "level": 42,
+        "moveId": "shadow_claw"
+      },
+      {
+        "level": 48,
+        "moveId": "charm"
+      },
+      {
+        "level": 54,
+        "moveId": "play_rough"
+      },
+      {
+        "level": 60,
+        "moveId": "pain_split"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "graveyard"
+    ]
+  }
+]

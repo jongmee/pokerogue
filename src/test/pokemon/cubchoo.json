@@ -1,0 +1,187 @@
+[
+  {
+    "_id": "cubchoo",
+    "gender": "",
+    "pokedexNumber": "613",
+    "name": "cubchoo",
+    "koName": "코고미",
+    "speciesName": "cubchoo",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "61",
+    "friendship": "50",
+    "types": [
+      "ice"
+    ],
+    "normalAbilityIds": [
+      "snow_cloak",
+      "slush_rush"
+    ],
+    "hiddenAbilityId": "rattled",
+    "passiveAbilityId": "tough_claws",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 305,
+    "hp": 55,
+    "attack": 70,
+    "defense": 40,
+    "specialAttack": 60,
+    "specialDefense": 40,
+    "speed": 40,
+    "height": 0.5,
+    "weight": 8.5,
+    "eggMoveIds": [
+      "triple_axel",
+      "liquidation",
+      "swords_dance",
+      "collision_course"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "powder_snow"
+      },
+      {
+        "level": 3,
+        "moveId": "endure"
+      },
+      {
+        "level": 6,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 9,
+        "moveId": "icy_wind"
+      },
+      {
+        "level": 12,
+        "moveId": "play_nice"
+      },
+      {
+        "level": 15,
+        "moveId": "brine"
+      },
+      {
+        "level": 18,
+        "moveId": "frost_breath"
+      },
+      {
+        "level": 21,
+        "moveId": "slash"
+      },
+      {
+        "level": 24,
+        "moveId": "flail"
+      },
+      {
+        "level": 27,
+        "moveId": "charm"
+      },
+      {
+        "level": 30,
+        "moveId": "snowscape"
+      },
+      {
+        "level": 33,
+        "moveId": "thrash"
+      },
+      {
+        "level": 36,
+        "moveId": "rest"
+      },
+      {
+        "level": 39,
+        "moveId": "blizzard"
+      },
+      {
+        "level": 42,
+        "moveId": "sheer_cold"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "ice_punch",
+      "cut",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "low_kick",
+      "strength",
+      "dig",
+      "toxic",
+      "double_team",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "crunch",
+      "rock_smash",
+      "hail",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "superpower",
+      "endeavor",
+      "rock_tomb",
+      "aerial_ace",
+      "icicle_spear",
+      "mud_shot",
+      "covet",
+      "water_pulse",
+      "brine",
+      "assurance",
+      "fling",
+      "x_scissor",
+      "avalanche",
+      "shadow_claw",
+      "ice_fang",
+      "grass_knot",
+      "hone_claws",
+      "heavy_slam",
+      "round",
+      "echoed_voice",
+      "bulldoze",
+      "frost_breath",
+      "snarl",
+      "play_rough",
+      "confide",
+      "power_up_punch",
+      "liquidation",
+      "body_press",
+      "tera_blast",
+      "snowscape",
+      "trailblaze",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "ice_cave"
+    ]
+  }
+]

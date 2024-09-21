@@ -1,0 +1,214 @@
+[
+  {
+    "_id": "toxtricity",
+    "gender": "",
+    "pokedexNumber": "849",
+    "name": "toxtricity",
+    "koName": "스트린더",
+    "speciesName": "toxtricity",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "176",
+    "friendship": "50",
+    "types": [
+      "electric",
+      "poison"
+    ],
+    "normalAbilityIds": [
+      "punk_rock",
+      "plus"
+    ],
+    "hiddenAbilityId": "technician",
+    "passiveAbilityId": "electric_surge",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 502,
+    "hp": 75,
+    "attack": 98,
+    "defense": 70,
+    "specialAttack": 114,
+    "specialDefense": 70,
+    "speed": 75,
+    "height": 1.6,
+    "weight": 40,
+    "eggMoveIds": [
+      "nasty_plot",
+      "bug_buzz",
+      "sparkling_aria",
+      "torch_song"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "spark"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "acid"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 1,
+        "moveId": "flail"
+      },
+      {
+        "level": 1,
+        "moveId": "acid_spray"
+      },
+      {
+        "level": 1,
+        "moveId": "belch"
+      },
+      {
+        "level": 1,
+        "moveId": "noble_roar"
+      },
+      {
+        "level": 1,
+        "moveId": "nuzzle"
+      },
+      {
+        "level": 1,
+        "moveId": "tearful_look"
+      },
+      {
+        "level": 4,
+        "moveId": "charge"
+      },
+      {
+        "level": 8,
+        "moveId": "shock_wave"
+      },
+      {
+        "level": 12,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 16,
+        "moveId": "taunt"
+      },
+      {
+        "level": 24,
+        "moveId": "screech"
+      },
+      {
+        "level": 28,
+        "moveId": "swagger"
+      },
+      {
+        "level": 32,
+        "moveId": "toxic"
+      },
+      {
+        "level": 36,
+        "moveId": "discharge"
+      },
+      {
+        "level": 40,
+        "moveId": "poison_jab"
+      },
+      {
+        "level": 44,
+        "moveId": "overdrive"
+      },
+      {
+        "level": 48,
+        "moveId": "boomburst"
+      },
+      {
+        "level": 52,
+        "moveId": "shift_gear"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "thunder_punch",
+      "mega_kick",
+      "take_down",
+      "hyper_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "screech",
+      "double_team",
+      "metronome",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "uproar",
+      "facade",
+      "charge",
+      "taunt",
+      "helping_hand",
+      "brick_break",
+      "endeavor",
+      "hyper_voice",
+      "metal_sound",
+      "poison_tail",
+      "payback",
+      "fling",
+      "toxic_spikes",
+      "poison_jab",
+      "drain_punch",
+      "giga_impact",
+      "thunder_fang",
+      "gunk_shot",
+      "charge_beam",
+      "venoshock",
+      "sludge_wave",
+      "electro_ball",
+      "acid_spray",
+      "round",
+      "stored_power",
+      "hex",
+      "volt_switch",
+      "wild_charge",
+      "snarl",
+      "eerie_impulse",
+      "electric_terrain",
+      "power_up_punch",
+      "throat_chop",
+      "rising_voltage",
+      "tera_blast",
+      "trailblaze",
+      "psychic_noise"
+    ],
+    "biomeIds": [
+      "slum"
+    ]
+  }
+]

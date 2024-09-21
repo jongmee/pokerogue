@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "origin_pulse",
+    "name": "Origin Pulse",
+    "koName": "근원의파동",
+    "type": "water",
+    "moveCategory": "special",
+    "moveTarget": "all_near_enemies",
+    "power": 110,
+    "accuracy": 85,
+    "powerPoint": 10,
+    "effect": "파랗게 빛나는 무수한 광선으로 상대를 공격한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 6,
+    "realased": "",
+    "flags": [
+      "pulse_move"
+    ],
+    "pokemonIds": [
+      "squirtle",
+      "wartortle",
+      "blastoise",
+      "blastoise_mega",
+      "blastoise_gigantamax",
+      "kyogre",
+      "finneon",
+      "lumineon",
+      "palkia",
+      "cryogonal",
+      "clauncher",
+      "clawitzer"
+    ]
+  }
+]

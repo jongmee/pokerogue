@@ -1,0 +1,123 @@
+[
+  {
+    "_id": "necrozma_dusk_mane",
+    "gender": "",
+    "pokedexNumber": "800",
+    "name": "necrozma_dusk_mane",
+    "koName": "네크로즈마_dusk_mane",
+    "speciesName": "necrozma",
+    "canChangeForm": true,
+    "formName": "dusk_mane",
+    "baseExp": "300",
+    "friendship": "0",
+    "types": [
+      "psychic",
+      "steel"
+    ],
+    "normalAbilityIds": [
+      "prism_armor"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "beast_boost",
+    "generation": 7,
+    "legendary": true,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 680,
+    "hp": 97,
+    "attack": 157,
+    "defense": 127,
+    "specialAttack": 113,
+    "specialDefense": 109,
+    "speed": 77,
+    "height": 3.8,
+    "weight": 460,
+    "eggMoveIds": [
+      "clangorous_soul",
+      "sacred_fire",
+      "astral_barrage",
+      "dynamax_cannon"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "sunsteel_strike"
+      },
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 1,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 1,
+        "moveId": "morning_sun"
+      },
+      {
+        "level": 1,
+        "moveId": "moonlight"
+      },
+      {
+        "level": 1,
+        "moveId": "gravity"
+      },
+      {
+        "level": 1,
+        "moveId": "charge_beam"
+      },
+      {
+        "level": 8,
+        "moveId": "stealth_rock"
+      },
+      {
+        "level": 16,
+        "moveId": "slash"
+      },
+      {
+        "level": 24,
+        "moveId": "night_slash"
+      },
+      {
+        "level": 32,
+        "moveId": "psycho_cut"
+      },
+      {
+        "level": 40,
+        "moveId": "stored_power"
+      },
+      {
+        "level": 48,
+        "moveId": "rock_blast"
+      },
+      {
+        "level": 56,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 64,
+        "moveId": "power_gem"
+      },
+      {
+        "level": 72,
+        "moveId": "photon_geyser"
+      },
+      {
+        "level": 80,
+        "moveId": "autotomize"
+      },
+      {
+        "level": 88,
+        "moveId": "prismatic_laser"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "space"
+    ]
+  }
+]

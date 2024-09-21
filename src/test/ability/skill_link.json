@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "skill_link",
+    "name": "Skill Link",
+    "koName": "스킬링크",
+    "realased": "",
+    "description": "연속 기술을 사용하면 항상 최고 횟수를 사용할 수 있다.",
+    "generation": 4,
+    "pokemonIds": [
+      "shellder",
+      "cloyster",
+      "aipom",
+      "heracross_mega",
+      "ambipom",
+      "minccino",
+      "cinccino",
+      "pikipek",
+      "trumbeak",
+      "toucannon"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

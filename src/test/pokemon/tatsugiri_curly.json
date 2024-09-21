@@ -1,0 +1,99 @@
+[
+  {
+    "_id": "tatsugiri_curly",
+    "gender": "",
+    "pokedexNumber": "978",
+    "name": "tatsugiri_curly",
+    "koName": "싸리용_curly",
+    "speciesName": "tatsugiri",
+    "canChangeForm": true,
+    "formName": "curly_form",
+    "baseExp": "166",
+    "friendship": "50",
+    "types": [
+      "dragon",
+      "water"
+    ],
+    "normalAbilityIds": [
+      "commander"
+    ],
+    "hiddenAbilityId": "storm_drain",
+    "passiveAbilityId": "adaptability",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 475,
+    "hp": 68,
+    "attack": 50,
+    "defense": 60,
+    "specialAttack": 120,
+    "specialDefense": 95,
+    "speed": 82,
+    "height": 0.3,
+    "weight": 8,
+    "eggMoveIds": [
+      "ice_beam",
+      "fillet_away",
+      "core_enforcer",
+      "steam_eruption"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "splash"
+      },
+      {
+        "level": 6,
+        "moveId": "harden"
+      },
+      {
+        "level": 12,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 17,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 23,
+        "moveId": "soak"
+      },
+      {
+        "level": 28,
+        "moveId": "taunt"
+      },
+      {
+        "level": 34,
+        "moveId": "memento"
+      },
+      {
+        "level": 39,
+        "moveId": "muddy_water"
+      },
+      {
+        "level": 43,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 47,
+        "moveId": "mirror_coat"
+      },
+      {
+        "level": 52,
+        "moveId": "dragon_pulse"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "beach"
+    ]
+  }
+]

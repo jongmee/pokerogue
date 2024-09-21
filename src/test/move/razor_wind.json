@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "razor_wind",
+    "name": "Razor Wind",
+    "koName": "칼바람",
+    "type": "normal",
+    "moveCategory": "special",
+    "moveTarget": "all_near_enemies",
+    "power": 80,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "바람의 칼날을 만들어 2턴째에 상대를 공격한다. 급소에 맞기 쉽다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 1,
+    "realased": "",
+    "flags": [
+      "ignore_virtual",
+      "wind_move"
+    ],
+    "pokemonIds": [
+      "heliolisk",
+      "yveltal"
+    ]
+  }
+]

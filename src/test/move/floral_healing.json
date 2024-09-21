@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "floral_healing",
+    "name": "Floral Healing",
+    "koName": "플라워힐",
+    "type": "fairy",
+    "moveCategory": "status",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 10,
+    "effect": "최대 HP의 절반만큼 상대의 HP를 회복한다. 그래스필드일 때 효과가 올라간다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": "",
+    "flags": [
+      "triage_move"
+    ],
+    "pokemonIds": [
+      "comfey"
+    ]
+  }
+]

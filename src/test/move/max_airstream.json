@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "max_airstream",
+    "name": "Max Airstream",
+    "koName": "다이제트",
+    "type": "flying",
+    "moveCategory": "physical",
+    "moveTarget": "near_enemy",
+    "power": 10,
+    "accuracy": -1,
+    "powerPoint": 10,
+    "effect": "다이맥스한 포켓몬이 날리는 비행타입의 공격. 같은 편의 스피드를 올린다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": " (N)",
+    "flags": [
+      "makes_contact",
+      "ignore_virtual"
+    ],
+    "pokemonIds": []
+  }
+]

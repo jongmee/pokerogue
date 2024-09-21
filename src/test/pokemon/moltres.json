@@ -1,0 +1,178 @@
+[
+  {
+    "_id": "moltres",
+    "gender": "",
+    "pokedexNumber": "146",
+    "name": "moltres",
+    "koName": "파이어",
+    "speciesName": "moltres",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "290",
+    "friendship": "35",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "pressure"
+    ],
+    "hiddenAbilityId": "flame_body",
+    "passiveAbilityId": "drought",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 580,
+    "hp": 90,
+    "attack": 100,
+    "defense": 90,
+    "specialAttack": 125,
+    "specialDefense": 85,
+    "speed": 90,
+    "height": 2,
+    "weight": 60,
+    "eggMoveIds": [
+      "scorching_sands",
+      "calm_mind",
+      "aeroblast",
+      "torch_song"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "gust"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 5,
+        "moveId": "ember"
+      },
+      {
+        "level": 10,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 15,
+        "moveId": "wing_attack"
+      },
+      {
+        "level": 20,
+        "moveId": "agility"
+      },
+      {
+        "level": 25,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 30,
+        "moveId": "incinerate"
+      },
+      {
+        "level": 35,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 40,
+        "moveId": "roost"
+      },
+      {
+        "level": 45,
+        "moveId": "heat_wave"
+      },
+      {
+        "level": 50,
+        "moveId": "sunny_day"
+      },
+      {
+        "level": 55,
+        "moveId": "hurricane"
+      },
+      {
+        "level": 60,
+        "moveId": "endure"
+      },
+      {
+        "level": 65,
+        "moveId": "overheat"
+      },
+      {
+        "level": 70,
+        "moveId": "sky_attack"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fly",
+      "take_down",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "hyper_beam",
+      "solar_beam",
+      "fire_spin",
+      "toxic",
+      "agility",
+      "double_team",
+      "reflect",
+      "fire_blast",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "steel_wing",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "rock_smash",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "helping_hand",
+      "weather_ball",
+      "air_cutter",
+      "overheat",
+      "aerial_ace",
+      "roost",
+      "pluck",
+      "tailwind",
+      "u_turn",
+      "flare_blitz",
+      "air_slash",
+      "brave_bird",
+      "giga_impact",
+      "defog",
+      "flame_charge",
+      "round",
+      "sky_drop",
+      "incinerate",
+      "acrobatics",
+      "hurricane",
+      "confide",
+      "mystical_fire",
+      "burning_jealousy",
+      "dual_wingbeat",
+      "scorching_sands",
+      "tera_blast",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "volcano"
+    ]
+  }
+]

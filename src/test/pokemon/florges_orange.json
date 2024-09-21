@@ -1,0 +1,102 @@
+[
+  {
+    "_id": "florges_orange",
+    "gender": "",
+    "pokedexNumber": "671",
+    "name": "florges_orange",
+    "koName": "플라제스_orange",
+    "speciesName": "florges",
+    "canChangeForm": true,
+    "formName": "orange_flower",
+    "baseExp": "248",
+    "friendship": "70",
+    "types": [
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "flower_veil"
+    ],
+    "hiddenAbilityId": "symbiosis",
+    "passiveAbilityId": "grassy_surge",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 552,
+    "hp": 78,
+    "attack": 65,
+    "defense": 68,
+    "specialAttack": 112,
+    "specialDefense": 154,
+    "speed": 75,
+    "height": 1.1,
+    "weight": 10,
+    "eggMoveIds": [
+      "glitzy_glow",
+      "mystical_fire",
+      "take_heart",
+      "seed_flare"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "solar_beam"
+      },
+      {
+        "level": 1,
+        "moveId": "petal_dance"
+      },
+      {
+        "level": 1,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 1,
+        "moveId": "synthesis"
+      },
+      {
+        "level": 1,
+        "moveId": "wish"
+      },
+      {
+        "level": 1,
+        "moveId": "lucky_chant"
+      },
+      {
+        "level": 1,
+        "moveId": "magical_leaf"
+      },
+      {
+        "level": 1,
+        "moveId": "grass_knot"
+      },
+      {
+        "level": 1,
+        "moveId": "petal_blizzard"
+      },
+      {
+        "level": 1,
+        "moveId": "disarming_voice"
+      },
+      {
+        "level": 1,
+        "moveId": "grassy_terrain"
+      },
+      {
+        "level": 1,
+        "moveId": "misty_terrain"
+      },
+      {
+        "level": 5,
+        "moveId": "moonblast"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "meadow"
+    ]
+  }
+]

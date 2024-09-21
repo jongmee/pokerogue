@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "shadow_punch",
+    "name": "Shadow Punch",
+    "koName": "섀도펀치",
+    "type": "ghost",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 60,
+    "accuracy": -1,
+    "powerPoint": 20,
+    "effect": "그림자에 섞여 펀치를 날린다. 공격은 반드시 명중한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 3,
+    "realased": "",
+    "flags": [
+      "makes_contact",
+      "punching_move"
+    ],
+    "pokemonIds": [
+      "haunter",
+      "gengar",
+      "dusclops",
+      "dusknoir",
+      "golett",
+      "golurk",
+      "marshadow",
+      "annihilape"
+    ]
+  }
+]

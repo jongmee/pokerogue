@@ -1,0 +1,186 @@
+[
+  {
+    "_id": "stantler",
+    "gender": "",
+    "pokedexNumber": "234",
+    "name": "stantler",
+    "koName": "노라키",
+    "speciesName": "stantler",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "163",
+    "friendship": "70",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "intimidate",
+      "frisk"
+    ],
+    "hiddenAbilityId": "sap_sipper",
+    "passiveAbilityId": "analytic",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 465,
+    "hp": 73,
+    "attack": 95,
+    "defense": 62,
+    "specialAttack": 85,
+    "specialDefense": 65,
+    "speed": 85,
+    "height": 1.4,
+    "weight": 71.2,
+    "eggMoveIds": [
+      "thunderous_kick",
+      "hyper_voice",
+      "bulk_up",
+      "photon_geyser"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "me_first"
+      },
+      {
+        "level": 3,
+        "moveId": "leer"
+      },
+      {
+        "level": 7,
+        "moveId": "astonish"
+      },
+      {
+        "level": 10,
+        "moveId": "hypnosis"
+      },
+      {
+        "level": 13,
+        "moveId": "stomp"
+      },
+      {
+        "level": 16,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 21,
+        "moveId": "take_down"
+      },
+      {
+        "level": 23,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 25,
+        "moveId": "psyshield_bash"
+      },
+      {
+        "level": 27,
+        "moveId": "calm_mind"
+      },
+      {
+        "level": 32,
+        "moveId": "role_play"
+      },
+      {
+        "level": 37,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 49,
+        "moveId": "imprison"
+      },
+      {
+        "level": 55,
+        "moveId": "double_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "psybeam",
+      "hyper_beam",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "earthquake",
+      "dig",
+      "toxic",
+      "psychic",
+      "agility",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "swift",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "megahorn",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "uproar",
+      "facade",
+      "helping_hand",
+      "trick",
+      "skill_swap",
+      "imprison",
+      "signal_beam",
+      "bounce",
+      "calm_mind",
+      "gravity",
+      "energy_ball",
+      "earth_power",
+      "giga_impact",
+      "zen_headbutt",
+      "trick_room",
+      "charge_beam",
+      "psyshock",
+      "magic_room",
+      "round",
+      "stored_power",
+      "retaliate",
+      "bulldoze",
+      "work_up",
+      "wild_charge",
+      "confide",
+      "throat_chop",
+      "lunge",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "forest",
+      "snowy_forest"
+    ]
+  }
+]

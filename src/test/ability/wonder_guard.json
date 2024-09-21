@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "wonder_guard",
+    "name": "Wonder Guard",
+    "koName": "불가사의부적",
+    "realased": "",
+    "description": "효과가 굉장한 기술만 맞는 불가사의한 힘.",
+    "generation": 3,
+    "pokemonIds": [
+      "shedinja"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

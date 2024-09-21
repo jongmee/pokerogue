@@ -1,0 +1,107 @@
+[
+  {
+    "_id": "aerodactyl_mega",
+    "gender": "",
+    "pokedexNumber": "142",
+    "name": "aerodactyl_mega",
+    "koName": "프테라_mega",
+    "speciesName": "aerodactyl",
+    "canChangeForm": true,
+    "formName": "mega",
+    "baseExp": "180",
+    "friendship": "50",
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "tough_claws"
+    ],
+    "hiddenAbilityId": "tough_claws",
+    "passiveAbilityId": "orichalcum_pulse",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 615,
+    "hp": 80,
+    "attack": 135,
+    "defense": 85,
+    "specialAttack": 70,
+    "specialDefense": 95,
+    "speed": 150,
+    "height": 2.1,
+    "weight": 79,
+    "eggMoveIds": [
+      "floaty_fall",
+      "flare_blitz",
+      "swords_dance",
+      "mighty_cleave"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "bite"
+      },
+      {
+        "level": 1,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 5,
+        "moveId": "supersonic"
+      },
+      {
+        "level": 10,
+        "moveId": "wing_attack"
+      },
+      {
+        "level": 15,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 20,
+        "moveId": "rock_slide"
+      },
+      {
+        "level": 25,
+        "moveId": "roar"
+      },
+      {
+        "level": 30,
+        "moveId": "crunch"
+      },
+      {
+        "level": 35,
+        "moveId": "iron_head"
+      },
+      {
+        "level": 40,
+        "moveId": "take_down"
+      },
+      {
+        "level": 45,
+        "moveId": "stone_edge"
+      },
+      {
+        "level": 50,
+        "moveId": "agility"
+      },
+      {
+        "level": 55,
+        "moveId": "hyper_beam"
+      },
+      {
+        "level": 60,
+        "moveId": "giga_impact"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "wasteland"
+    ]
+  }
+]

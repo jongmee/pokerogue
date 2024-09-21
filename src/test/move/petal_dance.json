@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "petal_dance",
+    "name": "Petal Dance",
+    "koName": "꽃잎댄스",
+    "type": "grass",
+    "moveCategory": "special",
+    "moveTarget": "random_near_enemy",
+    "power": 120,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "2-3턴 동안 꽃을 흩뿌려서 상대를 공격한다. 흩뿌린 뒤에는 혼란에 빠진다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 1,
+    "realased": "",
+    "flags": [
+      "makes_contact",
+      "dance_move"
+    ],
+    "pokemonIds": [
+      "venusaur",
+      "oddish",
+      "gloom",
+      "vileplume",
+      "meganium",
+      "bellossom",
+      "sunflora",
+      "roselia",
+      "roserade",
+      "lilligant",
+      "maractus",
+      "comfey",
+      "arboliva",
+      "eternal_floette"
+    ]
+  }
+]

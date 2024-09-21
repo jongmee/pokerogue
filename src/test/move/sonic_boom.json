@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "sonic_boom",
+    "name": "Sonic Boom",
+    "koName": "소닉붐",
+    "type": "normal",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": 90,
+    "powerPoint": 20,
+    "effect": "충격파를 상대에 부딪쳐서 공격한다. 언제나 20의 데미지를 준다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 1,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": []
+  }
+]

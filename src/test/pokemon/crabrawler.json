@@ -1,0 +1,170 @@
+[
+  {
+    "_id": "crabrawler",
+    "gender": "",
+    "pokedexNumber": "739",
+    "name": "crabrawler",
+    "koName": "오기지게",
+    "speciesName": "crabrawler",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "68",
+    "friendship": "70",
+    "types": [
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "hyper_cutter",
+      "iron_fist"
+    ],
+    "hiddenAbilityId": "anger_point",
+    "passiveAbilityId": "water_bubble",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 338,
+    "hp": 47,
+    "attack": 82,
+    "defense": 57,
+    "specialAttack": 42,
+    "specialDefense": 47,
+    "speed": 63,
+    "height": 0.6,
+    "weight": 7,
+    "eggMoveIds": [
+      "jet_punch",
+      "shore_up",
+      "sucker_punch",
+      "surging_strikes"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "bubble"
+      },
+      {
+        "level": 1,
+        "moveId": "vise_grip"
+      },
+      {
+        "level": 5,
+        "moveId": "rock_smash"
+      },
+      {
+        "level": 9,
+        "moveId": "leer"
+      },
+      {
+        "level": 13,
+        "moveId": "bubble_beam"
+      },
+      {
+        "level": 17,
+        "moveId": "protect"
+      },
+      {
+        "level": 22,
+        "moveId": "brick_break"
+      },
+      {
+        "level": 25,
+        "moveId": "slam"
+      },
+      {
+        "level": 29,
+        "moveId": "payback"
+      },
+      {
+        "level": 33,
+        "moveId": "reversal"
+      },
+      {
+        "level": 37,
+        "moveId": "crabhammer"
+      },
+      {
+        "level": 42,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 45,
+        "moveId": "dynamic_punch"
+      },
+      {
+        "level": 49,
+        "moveId": "close_combat"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "ice_punch",
+      "thunder_punch",
+      "body_slam",
+      "take_down",
+      "earthquake",
+      "dig",
+      "toxic",
+      "double_team",
+      "swift",
+      "amnesia",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "reversal",
+      "protect",
+      "mud_slap",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "rock_smash",
+      "facade",
+      "focus_punch",
+      "helping_hand",
+      "superpower",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "rock_tomb",
+      "iron_defense",
+      "bulk_up",
+      "mud_shot",
+      "close_combat",
+      "payback",
+      "fling",
+      "drain_punch",
+      "focus_blast",
+      "zen_headbutt",
+      "gunk_shot",
+      "iron_head",
+      "stone_edge",
+      "round",
+      "scald",
+      "bulldoze",
+      "frost_breath",
+      "work_up",
+      "confide",
+      "power_up_punch",
+      "brutal_swing",
+      "stomping_tantrum",
+      "liquidation",
+      "coaching",
+      "tera_blast",
+      "chilling_water",
+      "upper_hand"
+    ],
+    "biomeIds": [
+      "ice_cave"
+    ]
+  }
+]

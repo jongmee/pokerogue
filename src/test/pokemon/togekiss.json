@@ -1,0 +1,226 @@
+[
+  {
+    "_id": "togekiss",
+    "gender": "",
+    "pokedexNumber": "468",
+    "name": "togekiss",
+    "koName": "토게키스",
+    "speciesName": "togekiss",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "273",
+    "friendship": "50",
+    "types": [
+      "fairy",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "hustle",
+      "serene_grace"
+    ],
+    "hiddenAbilityId": "super_luck",
+    "passiveAbilityId": "pixilate",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 545,
+    "hp": 85,
+    "attack": 50,
+    "defense": 95,
+    "specialAttack": 120,
+    "specialDefense": 115,
+    "speed": 80,
+    "height": 1.5,
+    "weight": 38,
+    "eggMoveIds": [
+      "scorching_sands",
+      "roost",
+      "relic_song",
+      "fiery_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "metronome"
+      },
+      {
+        "level": 1,
+        "moveId": "sky_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "tri_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "sweet_kiss"
+      },
+      {
+        "level": 1,
+        "moveId": "charm"
+      },
+      {
+        "level": 1,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 1,
+        "moveId": "baton_pass"
+      },
+      {
+        "level": 1,
+        "moveId": "extreme_speed"
+      },
+      {
+        "level": 1,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 1,
+        "moveId": "follow_me"
+      },
+      {
+        "level": 1,
+        "moveId": "wish"
+      },
+      {
+        "level": 1,
+        "moveId": "yawn"
+      },
+      {
+        "level": 1,
+        "moveId": "last_resort"
+      },
+      {
+        "level": 1,
+        "moveId": "aura_sphere"
+      },
+      {
+        "level": 1,
+        "moveId": "after_you"
+      },
+      {
+        "level": 1,
+        "moveId": "fairy_wind"
+      },
+      {
+        "level": 1,
+        "moveId": "life_dew"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fly",
+      "mega_kick",
+      "body_slam",
+      "flamethrower",
+      "hyper_beam",
+      "solar_beam",
+      "thunder_wave",
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "metronome",
+      "fire_blast",
+      "swift",
+      "amnesia",
+      "dream_eater",
+      "flash",
+      "rest",
+      "tri_attack",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "endure",
+      "charm",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "safeguard",
+      "baton_pass",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "rock_smash",
+      "uproar",
+      "heat_wave",
+      "facade",
+      "focus_punch",
+      "helping_hand",
+      "trick",
+      "brick_break",
+      "endeavor",
+      "imprison",
+      "hyper_voice",
+      "air_cutter",
+      "signal_beam",
+      "aerial_ace",
+      "covet",
+      "magical_leaf",
+      "water_pulse",
+      "roost",
+      "pluck",
+      "tailwind",
+      "fling",
+      "aura_sphere",
+      "air_slash",
+      "drain_punch",
+      "giga_impact",
+      "nasty_plot",
+      "zen_headbutt",
+      "defog",
+      "grass_knot",
+      "psyshock",
+      "round",
+      "echoed_voice",
+      "stored_power",
+      "ally_switch",
+      "incinerate",
+      "retaliate",
+      "work_up",
+      "draining_kiss",
+      "play_rough",
+      "confide",
+      "mystical_fire",
+      "dazzling_gleam",
+      "smart_strike",
+      "dual_wingbeat",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "fairy_cave"
+    ]
+  }
+]

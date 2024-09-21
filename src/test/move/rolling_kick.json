@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "rolling_kick",
+    "name": "Rolling Kick",
+    "koName": "돌려차기",
+    "type": "fighting",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 60,
+    "accuracy": 85,
+    "powerPoint": 15,
+    "effect": "몸을 재빨리 회전시키며 걷어차서 공격한다. 상대를 풀죽게 만들 때가 있다.",
+    "effectChance": 30,
+    "prioirty": 0,
+    "generation": 1,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "hitmonlee",
+      "hitmontop"
+    ]
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "_id": "terapagos",
+    "gender": "",
+    "pokedexNumber": "1024",
+    "name": "terapagos",
+    "koName": "테라파고스",
+    "speciesName": "terapagos",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "90",
+    "friendship": "50",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "tera_shift"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "soul_heart",
+    "generation": 9,
+    "legendary": true,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 450,
+    "hp": 90,
+    "attack": 65,
+    "defense": 85,
+    "specialAttack": 65,
+    "specialDefense": 85,
+    "speed": 60,
+    "height": 0.2,
+    "weight": 6.5,
+    "eggMoveIds": [
+      "moonblast",
+      "recover",
+      "ice_beam",
+      "shell_smash"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "withdraw"
+      },
+      {
+        "level": 1,
+        "moveId": "tri_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "rapid_spin"
+      },
+      {
+        "level": 10,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 20,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 30,
+        "moveId": "protect"
+      },
+      {
+        "level": 40,
+        "moveId": "earth_power"
+      },
+      {
+        "level": 50,
+        "moveId": "heavy_slam"
+      },
+      {
+        "level": 60,
+        "moveId": "tera_starstorm"
+      },
+      {
+        "level": 70,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 80,
+        "moveId": "rock_polish"
+      },
+      {
+        "level": 90,
+        "moveId": "gyro_ball"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "surf",
+      "ice_beam",
+      "solar_beam",
+      "thunderbolt",
+      "thunder",
+      "earthquake",
+      "toxic",
+      "double_team",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "protect",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "facade",
+      "weather_ball",
+      "calm_mind",
+      "water_pulse",
+      "gravity",
+      "gyro_ball",
+      "flare_blitz",
+      "aura_sphere",
+      "dark_pulse",
+      "bug_buzz",
+      "dragon_pulse",
+      "power_gem",
+      "energy_ball",
+      "earth_power",
+      "giga_impact",
+      "zen_headbutt",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "heavy_slam",
+      "stored_power",
+      "wild_charge",
+      "heat_crash",
+      "dazzling_gleam",
+      "body_press",
+      "meteor_beam",
+      "scorching_sands",
+      "ice_spinner",
+      "supercell_slam"
+    ],
+    "biomeIds": [
+      "cave"
+    ]
+  }
+]

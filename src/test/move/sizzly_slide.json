@@ -1,0 +1,45 @@
+[
+  {
+    "_id": "sizzly_slide",
+    "name": "Sizzly Slide",
+    "koName": "이글이글번",
+    "type": "fire",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 60,
+    "accuracy": 100,
+    "powerPoint": 20,
+    "effect": "불꽃을 두른 몸으로 기세 좋게 상대에게 부딪친다. 상대를 화상 상태로 만든다.",
+    "effectChance": 100,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "chansey",
+      "mr_mime",
+      "eevee_partner",
+      "eevee_gigantamax",
+      "flareon",
+      "wooper",
+      "quagsire",
+      "miltank",
+      "blissey",
+      "registeel",
+      "pachirisu",
+      "mime_jr",
+      "happiny",
+      "cresselia",
+      "mareanie",
+      "toxapex",
+      "mr_rime",
+      "tandemaus",
+      "fidough",
+      "dachsbun",
+      "orthworm",
+      "galar_mr_mime"
+    ]
+  }
+]

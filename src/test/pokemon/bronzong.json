@@ -1,0 +1,212 @@
+[
+  {
+    "_id": "bronzong",
+    "gender": "",
+    "pokedexNumber": "437",
+    "name": "bronzong",
+    "koName": "동탁군",
+    "speciesName": "bronzong",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "175",
+    "friendship": "50",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "levitate",
+      "heatproof"
+    ],
+    "hiddenAbilityId": "heavy_metal",
+    "passiveAbilityId": "bulletproof",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 500,
+    "hp": 67,
+    "attack": 89,
+    "defense": 116,
+    "specialAttack": 79,
+    "specialDefense": 116,
+    "speed": 33,
+    "height": 1.3,
+    "weight": 187,
+    "eggMoveIds": [
+      "recover",
+      "tachyon_cutter",
+      "glare",
+      "lumina_crash"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "block"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 1,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 1,
+        "moveId": "sunny_day"
+      },
+      {
+        "level": 1,
+        "moveId": "weather_ball"
+      },
+      {
+        "level": 1,
+        "moveId": "payback"
+      },
+      {
+        "level": 12,
+        "moveId": "imprison"
+      },
+      {
+        "level": 16,
+        "moveId": "gyro_ball"
+      },
+      {
+        "level": 20,
+        "moveId": "hypnosis"
+      },
+      {
+        "level": 24,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 28,
+        "moveId": "extrasensory"
+      },
+      {
+        "level": 32,
+        "moveId": "heavy_slam"
+      },
+      {
+        "level": 38,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 44,
+        "moveId": "metal_sound"
+      },
+      {
+        "level": 50,
+        "moveId": "future_sight"
+      },
+      {
+        "level": 52,
+        "moveId": "heal_block"
+      },
+      {
+        "level": 56,
+        "moveId": "rain_dance"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "psybeam",
+      "hyper_beam",
+      "strength",
+      "solar_beam",
+      "earthquake",
+      "toxic",
+      "psychic",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "dream_eater",
+      "flash",
+      "explosion",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "rock_smash",
+      "facade",
+      "helping_hand",
+      "trick",
+      "recycle",
+      "skill_swap",
+      "imprison",
+      "weather_ball",
+      "rock_tomb",
+      "metal_sound",
+      "signal_beam",
+      "iron_defense",
+      "calm_mind",
+      "rock_blast",
+      "gravity",
+      "gyro_ball",
+      "payback",
+      "power_swap",
+      "guard_swap",
+      "rock_polish",
+      "power_gem",
+      "giga_impact",
+      "zen_headbutt",
+      "flash_cannon",
+      "trick_room",
+      "iron_head",
+      "stealth_rock",
+      "grass_knot",
+      "charge_beam",
+      "wonder_room",
+      "psyshock",
+      "heavy_slam",
+      "round",
+      "stored_power",
+      "ally_switch",
+      "hex",
+      "bulldoze",
+      "confide",
+      "psychic_terrain",
+      "speed_swap",
+      "stomping_tantrum",
+      "body_press",
+      "steel_beam",
+      "expanding_force",
+      "steel_roller",
+      "meteor_beam",
+      "tera_blast",
+      "ice_spinner",
+      "hard_press",
+      "psychic_noise"
+    ],
+    "biomeIds": [
+      "factory",
+      "space",
+      "laboratory"
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "_id": "wind_rider",
+    "name": "Wind Rider",
+    "koName": "바람타기",
+    "realased": "",
+    "description": "순풍이 불거나 바람 기술로 공격받으면 데미지를 받지 않고 공격이 올라간다.",
+    "generation": 9,
+    "pokemonIds": [
+      "shiftry",
+      "shaymin_land",
+      "shaymin_sky",
+      "bramblin",
+      "brambleghast"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "_id": "pawmot",
+    "gender": "",
+    "pokedexNumber": "923",
+    "name": "pawmot",
+    "koName": "빠르모트",
+    "speciesName": "pawmot",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "245",
+    "friendship": "50",
+    "types": [
+      "electric",
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "volt_absorb",
+      "natural_cure"
+    ],
+    "hiddenAbilityId": "iron_fist",
+    "passiveAbilityId": "transistor",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 490,
+    "hp": 70,
+    "attack": 115,
+    "defense": 70,
+    "specialAttack": 70,
+    "specialDefense": 60,
+    "speed": 105,
+    "height": 0.9,
+    "weight": 41,
+    "eggMoveIds": [
+      "drain_punch",
+      "ice_punch",
+      "mach_punch",
+      "plasma_fists"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "revival_blessing"
+      },
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "wild_charge"
+      },
+      {
+        "level": 3,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 6,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 8,
+        "moveId": "charge"
+      },
+      {
+        "level": 12,
+        "moveId": "nuzzle"
+      },
+      {
+        "level": 15,
+        "moveId": "dig"
+      },
+      {
+        "level": 19,
+        "moveId": "bite"
+      },
+      {
+        "level": 23,
+        "moveId": "spark"
+      },
+      {
+        "level": 25,
+        "moveId": "arm_thrust"
+      },
+      {
+        "level": 29,
+        "moveId": "thunder_wave"
+      },
+      {
+        "level": 33,
+        "moveId": "slam"
+      },
+      {
+        "level": 39,
+        "moveId": "entrainment"
+      },
+      {
+        "level": 44,
+        "moveId": "close_combat"
+      },
+      {
+        "level": 49,
+        "moveId": "discharge"
+      },
+      {
+        "level": 54,
+        "moveId": "agility"
+      },
+      {
+        "level": 60,
+        "moveId": "double_shock"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "low_kick",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "dig",
+      "agility",
+      "double_team",
+      "metronome",
+      "swift",
+      "rest",
+      "super_fang",
+      "substitute",
+      "thief",
+      "protect",
+      "endure",
+      "charm",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "encore",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "facade",
+      "focus_punch",
+      "charge",
+      "helping_hand",
+      "brick_break",
+      "knock_off",
+      "rock_tomb",
+      "bulk_up",
+      "close_combat",
+      "fling",
+      "seed_bomb",
+      "focus_blast",
+      "giga_impact",
+      "thunder_fang",
+      "grass_knot",
+      "charge_beam",
+      "electro_ball",
+      "low_sweep",
+      "volt_switch",
+      "electroweb",
+      "wild_charge",
+      "play_rough",
+      "eerie_impulse",
+      "electric_terrain",
+      "body_press",
+      "coaching",
+      "tera_blast",
+      "supercell_slam",
+      "upper_hand"
+    ],
+    "biomeIds": [
+      "plains",
+      "power_plant"
+    ]
+  }
+]

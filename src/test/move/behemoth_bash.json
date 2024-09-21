@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "behemoth_bash",
+    "name": "Behemoth Bash",
+    "koName": "거수탄",
+    "type": "steel",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 100,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "온몸을 강하고 튼튼한 방패로 바꾼 다음 기세 좋게 부딪혀서 공격한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "durant",
+      "rookidee",
+      "corvisquire",
+      "corviknight",
+      "corviknight_gigantamax",
+      "perrserker",
+      "galar_meowth"
+    ]
+  }
+]

@@ -1,0 +1,160 @@
+[
+  {
+    "_id": "carvanha",
+    "gender": "",
+    "pokedexNumber": "318",
+    "name": "carvanha",
+    "koName": "샤프니아",
+    "speciesName": "carvanha",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "61",
+    "friendship": "35",
+    "types": [
+      "water",
+      "dark"
+    ],
+    "normalAbilityIds": [
+      "rough_skin"
+    ],
+    "hiddenAbilityId": "speed_boost",
+    "passiveAbilityId": "sheer_force",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 305,
+    "hp": 45,
+    "attack": 90,
+    "defense": 20,
+    "specialAttack": 65,
+    "specialDefense": 20,
+    "speed": 65,
+    "height": 0.8,
+    "weight": 20.8,
+    "eggMoveIds": [
+      "thunder_fang",
+      "swords_dance",
+      "obstruct",
+      "surging_strikes"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "aqua_jet"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 4,
+        "moveId": "poison_fang"
+      },
+      {
+        "level": 8,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 12,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 16,
+        "moveId": "bite"
+      },
+      {
+        "level": 20,
+        "moveId": "ice_fang"
+      },
+      {
+        "level": 24,
+        "moveId": "screech"
+      },
+      {
+        "level": 28,
+        "moveId": "swagger"
+      },
+      {
+        "level": 32,
+        "moveId": "crunch"
+      },
+      {
+        "level": 36,
+        "moveId": "agility"
+      },
+      {
+        "level": 40,
+        "moveId": "liquidation"
+      },
+      {
+        "level": 44,
+        "moveId": "take_down"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "toxic",
+      "agility",
+      "screech",
+      "double_team",
+      "focus_energy",
+      "waterfall",
+      "swift",
+      "rest",
+      "super_fang",
+      "substitute",
+      "thief",
+      "snore",
+      "spite",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "crunch",
+      "whirlpool",
+      "uproar",
+      "hail",
+      "torment",
+      "facade",
+      "taunt",
+      "dive",
+      "bounce",
+      "water_pulse",
+      "brine",
+      "payback",
+      "assurance",
+      "dark_pulse",
+      "ice_fang",
+      "zen_headbutt",
+      "round",
+      "scald",
+      "retaliate",
+      "snarl",
+      "confide",
+      "psychic_fangs",
+      "liquidation",
+      "scale_shot",
+      "flip_turn",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "sea"
+    ]
+  }
+]

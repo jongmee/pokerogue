@@ -1,0 +1,36 @@
+[
+  {
+    "_id": "bolt_strike",
+    "name": "Bolt Strike",
+    "koName": "뇌격",
+    "type": "electric",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 130,
+    "accuracy": 85,
+    "powerPoint": 5,
+    "effect": "방대한 전기를 몸에 둘러 상대에게 돌진해서 공격한다. 마비 상태로 만들 때가 있다.",
+    "effectChance": 20,
+    "prioirty": 0,
+    "generation": 5,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "shinx",
+      "luxio",
+      "luxray",
+      "victini",
+      "zekrom",
+      "togedemaru",
+      "zeraora",
+      "scorbunny",
+      "raboot",
+      "cinderace",
+      "cinderace_gigantamax",
+      "yamper",
+      "boltund"
+    ]
+  }
+]

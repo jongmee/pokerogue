@@ -1,0 +1,160 @@
+[
+  {
+    "_id": "remoraid",
+    "gender": "",
+    "pokedexNumber": "223",
+    "name": "remoraid",
+    "koName": "총어",
+    "speciesName": "remoraid",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "60",
+    "friendship": "50",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "hustle",
+      "sniper"
+    ],
+    "hiddenAbilityId": "moody",
+    "passiveAbilityId": "simple",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 300,
+    "hp": 35,
+    "attack": 65,
+    "defense": 35,
+    "specialAttack": 65,
+    "specialDefense": 35,
+    "speed": 65,
+    "height": 0.6,
+    "weight": 12,
+    "eggMoveIds": [
+      "water_shuriken",
+      "take_heart",
+      "shell_side_arm",
+      "bouncy_bubble"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 4,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 8,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 12,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 16,
+        "moveId": "aurora_beam"
+      },
+      {
+        "level": 20,
+        "moveId": "bubble_beam"
+      },
+      {
+        "level": 24,
+        "moveId": "lock_on"
+      },
+      {
+        "level": 28,
+        "moveId": "bullet_seed"
+      },
+      {
+        "level": 32,
+        "moveId": "ice_beam"
+      },
+      {
+        "level": 36,
+        "moveId": "hydro_pump"
+      },
+      {
+        "level": 40,
+        "moveId": "soak"
+      },
+      {
+        "level": 44,
+        "moveId": "hyper_beam"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "flamethrower",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "psybeam",
+      "hyper_beam",
+      "thunder_wave",
+      "toxic",
+      "psychic",
+      "screech",
+      "double_team",
+      "haze",
+      "focus_energy",
+      "fire_blast",
+      "waterfall",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "whirlpool",
+      "facade",
+      "helping_hand",
+      "dive",
+      "signal_beam",
+      "bullet_seed",
+      "bounce",
+      "mud_shot",
+      "rock_blast",
+      "water_pulse",
+      "brine",
+      "assurance",
+      "seed_bomb",
+      "gunk_shot",
+      "charge_beam",
+      "smack_down",
+      "acid_spray",
+      "round",
+      "scald",
+      "incinerate",
+      "confide",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "seabed"
+    ]
+  }
+]

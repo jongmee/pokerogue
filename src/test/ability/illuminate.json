@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "illuminate",
+    "name": "Illuminate",
+    "koName": "발광",
+    "realased": "",
+    "description": "주변을 밝게 하여 명중률이 떨어지지 않는다.",
+    "generation": 3,
+    "pokemonIds": [
+      "staryu",
+      "starmie",
+      "chinchou",
+      "lanturn",
+      "volbeat",
+      "watchog",
+      "morelull",
+      "shiinotic"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

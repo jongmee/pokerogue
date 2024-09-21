@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "neutralizing_gas",
+    "name": "Neutralizing Gas",
+    "koName": "화학변화가스",
+    "realased": " (P)",
+    "description": "화학변화가스를 가진 포켓몬이 배틀에 나와 있으면 모든 포켓몬이 가진 특성의 효과가 사라지거나 발동하지 않게 된다.",
+    "generation": 8,
+    "pokemonIds": [
+      "koffing",
+      "weezing",
+      "stunky",
+      "skuntank",
+      "munna",
+      "musharna",
+      "trubbish",
+      "garbodor",
+      "garbodor_gigantamax",
+      "eternatus",
+      "eternatus_eternamax",
+      "galar_weezing"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "ditto",
+    "gender": "",
+    "pokedexNumber": "132",
+    "name": "ditto",
+    "koName": "메타몽",
+    "speciesName": "ditto",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "101",
+    "friendship": "50",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "limber"
+    ],
+    "hiddenAbilityId": "imposter",
+    "passiveAbilityId": "adaptability",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 288,
+    "hp": 48,
+    "attack": 48,
+    "defense": 48,
+    "specialAttack": 48,
+    "specialDefense": 48,
+    "speed": 48,
+    "height": 0.3,
+    "weight": 4,
+    "eggMoveIds": [
+      "mimic",
+      "sketch",
+      "metronome",
+      "imprison"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "transform"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "town",
+      "plains",
+      "metropolis",
+      "construction_site",
+      "laboratory"
+    ]
+  }
+]

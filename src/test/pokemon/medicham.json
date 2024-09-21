@@ -1,0 +1,217 @@
+[
+  {
+    "_id": "medicham",
+    "gender": "",
+    "pokedexNumber": "308",
+    "name": "medicham",
+    "koName": "요가램",
+    "speciesName": "medicham",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "144",
+    "friendship": "70",
+    "types": [
+      "fighting",
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "pure_power"
+    ],
+    "hiddenAbilityId": "telepathy",
+    "passiveAbilityId": "minds_eye",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 410,
+    "hp": 60,
+    "attack": 60,
+    "defense": 75,
+    "specialAttack": 60,
+    "specialDefense": 75,
+    "speed": 80,
+    "height": 1.3,
+    "weight": 31.5,
+    "eggMoveIds": [
+      "thunderous_kick",
+      "sucker_punch",
+      "bullet_punch",
+      "photon_geyser"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "fire_punch"
+      },
+      {
+        "level": 1,
+        "moveId": "ice_punch"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_punch"
+      },
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 1,
+        "moveId": "detect"
+      },
+      {
+        "level": 1,
+        "moveId": "work_up"
+      },
+      {
+        "level": 1,
+        "moveId": "bide"
+      },
+      {
+        "level": 12,
+        "moveId": "endure"
+      },
+      {
+        "level": 15,
+        "moveId": "feint"
+      },
+      {
+        "level": 17,
+        "moveId": "force_palm"
+      },
+      {
+        "level": 20,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 23,
+        "moveId": "calm_mind"
+      },
+      {
+        "level": 25,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 28,
+        "moveId": "high_jump_kick"
+      },
+      {
+        "level": 31,
+        "moveId": "psych_up"
+      },
+      {
+        "level": 33,
+        "moveId": "acupressure"
+      },
+      {
+        "level": 36,
+        "moveId": "power_trick"
+      },
+      {
+        "level": 47,
+        "moveId": "recover"
+      },
+      {
+        "level": 53,
+        "moveId": "counter"
+      },
+      {
+        "level": 53,
+        "moveId": "axe_kick"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "psybeam",
+      "hyper_beam",
+      "low_kick",
+      "counter",
+      "strength",
+      "toxic",
+      "psychic",
+      "night_shade",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "metronome",
+      "swift",
+      "dream_eater",
+      "flash",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "reversal",
+      "protect",
+      "mud_slap",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "baton_pass",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "rock_smash",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "trick",
+      "recycle",
+      "brick_break",
+      "skill_swap",
+      "imprison",
+      "rock_tomb",
+      "signal_beam",
+      "aerial_ace",
+      "bulk_up",
+      "calm_mind",
+      "gravity",
+      "close_combat",
+      "fling",
+      "aura_sphere",
+      "poison_jab",
+      "drain_punch",
+      "vacuum_wave",
+      "focus_blast",
+      "energy_ball",
+      "giga_impact",
+      "psycho_cut",
+      "zen_headbutt",
+      "trick_room",
+      "grass_knot",
+      "psyshock",
+      "low_sweep",
+      "round",
+      "stored_power",
+      "retaliate",
+      "work_up",
+      "confide",
+      "power_up_punch",
+      "psychic_terrain",
+      "expanding_force",
+      "tera_blast",
+      "trailblaze",
+      "upper_hand"
+    ],
+    "biomeIds": [
+      "dojo"
+    ]
+  }
+]

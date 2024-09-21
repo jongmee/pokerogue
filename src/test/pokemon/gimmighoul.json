@@ -1,0 +1,79 @@
+[
+  {
+    "_id": "gimmighoul",
+    "gender": "",
+    "pokedexNumber": "999",
+    "name": "gimmighoul",
+    "koName": "모으령",
+    "speciesName": "gimmighoul",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "60",
+    "friendship": "50",
+    "types": [
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "rattled"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "honey_gather",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 300,
+    "hp": 45,
+    "attack": 30,
+    "defense": 70,
+    "specialAttack": 75,
+    "specialDefense": 70,
+    "speed": 10,
+    "height": 0.3,
+    "weight": 5,
+    "eggMoveIds": [
+      "happy_hour",
+      "aura_sphere",
+      "surf",
+      "astral_barrage"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "rest",
+      "substitute",
+      "thief",
+      "protect",
+      "endure",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "shadow_ball",
+      "power_gem",
+      "nasty_plot",
+      "hex",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "temple"
+    ]
+  }
+]

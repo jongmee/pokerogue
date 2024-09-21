@@ -1,0 +1,45 @@
+[
+  {
+    "_id": "double_iron_bash",
+    "name": "Double Iron Bash",
+    "koName": "더블펀처",
+    "type": "steel",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 60,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "가슴의 너트를 축으로 회전시켜 2번 연속 팔로 힘껏 친다. 상대를 풀죽게 만들 때가 있다.",
+    "effectChance": 30,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": "",
+    "flags": [
+      "makes_contact",
+      "punching_move"
+    ],
+    "pokemonIds": [
+      "scyther",
+      "scizor",
+      "scizor_mega",
+      "makuhita",
+      "hariyama",
+      "riolu",
+      "lucario",
+      "lucario_mega",
+      "timburr",
+      "gurdurr",
+      "conkeldurr",
+      "karrablast",
+      "escavalier",
+      "klink",
+      "klang",
+      "klinklang",
+      "zygarde",
+      "buzzwole",
+      "melmetal",
+      "kleavor",
+      "galar_stunfisk"
+    ]
+  }
+]

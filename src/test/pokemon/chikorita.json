@@ -1,0 +1,153 @@
+[
+  {
+    "_id": "chikorita",
+    "gender": "",
+    "pokedexNumber": "152",
+    "name": "chikorita",
+    "koName": "치코리타",
+    "speciesName": "chikorita",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "64",
+    "friendship": "70",
+    "types": [
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "overgrow"
+    ],
+    "hiddenAbilityId": "leaf_guard",
+    "passiveAbilityId": "thick_fat",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 318,
+    "hp": 45,
+    "attack": 49,
+    "defense": 65,
+    "specialAttack": 49,
+    "specialDefense": 65,
+    "speed": 45,
+    "height": 0.9,
+    "weight": 6.4,
+    "eggMoveIds": [
+      "sappy_seed",
+      "stone_axe",
+      "dragon_dance",
+      "spore"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 5,
+        "moveId": "razor_leaf"
+      },
+      {
+        "level": 9,
+        "moveId": "poison_powder"
+      },
+      {
+        "level": 12,
+        "moveId": "synthesis"
+      },
+      {
+        "level": 17,
+        "moveId": "reflect"
+      },
+      {
+        "level": 20,
+        "moveId": "magical_leaf"
+      },
+      {
+        "level": 23,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 28,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 31,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 34,
+        "moveId": "body_slam"
+      },
+      {
+        "level": 39,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 42,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 45,
+        "moveId": "solar_beam"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "body_slam",
+      "double_edge",
+      "counter",
+      "solar_beam",
+      "toxic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "iron_tail",
+      "synthesis",
+      "hidden_power",
+      "sunny_day",
+      "facade",
+      "nature_power",
+      "bullet_seed",
+      "magical_leaf",
+      "worry_seed",
+      "seed_bomb",
+      "energy_ball",
+      "leaf_storm",
+      "grass_knot",
+      "round",
+      "echoed_voice",
+      "grass_pledge",
+      "work_up",
+      "grassy_terrain",
+      "confide",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "tall_grass"
+    ]
+  }
+]

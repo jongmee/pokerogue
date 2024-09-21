@@ -1,0 +1,40 @@
+[
+  {
+    "_id": "sniper",
+    "name": "Sniper",
+    "koName": "스나이퍼",
+    "realased": "",
+    "description": "공격을 급소에 맞혔을 때 위력이 더욱 올라간다.",
+    "generation": 4,
+    "pokemonIds": [
+      "beedrill",
+      "spearow",
+      "fearow",
+      "farfetchd",
+      "horsea",
+      "seadra",
+      "spinarak",
+      "ariados",
+      "remoraid",
+      "octillery",
+      "kingdra",
+      "skorupi",
+      "drapion",
+      "pidove",
+      "tranquill",
+      "unfezant",
+      "binacle",
+      "barbaracle",
+      "rowlet",
+      "dartrix",
+      "decidueye",
+      "sobble",
+      "drizzile",
+      "inteleon",
+      "inteleon_gigantamax",
+      "hisui_decidueye"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

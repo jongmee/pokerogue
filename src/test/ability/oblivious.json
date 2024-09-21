@@ -1,0 +1,39 @@
+[
+  {
+    "_id": "oblivious",
+    "name": "Oblivious",
+    "koName": "둔감",
+    "realased": "",
+    "description": "둔감해서 헤롱헤롱이나 도발 상태가 되지 않는다.",
+    "generation": 3,
+    "pokemonIds": [
+      "slowpoke",
+      "slowbro",
+      "lickitung",
+      "jynx",
+      "slowking",
+      "swinub",
+      "piloswine",
+      "smoochum",
+      "illumise",
+      "wailmer",
+      "wailord",
+      "numel",
+      "barboach",
+      "whiscash",
+      "feebas",
+      "spheal",
+      "sealeo",
+      "walrein",
+      "lickilicky",
+      "mamoswine",
+      "salandit",
+      "salazzle",
+      "bounsweet",
+      "steenee",
+      "dondozo"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

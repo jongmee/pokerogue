@@ -1,0 +1,70 @@
+[
+  {
+    "_id": "wurmple",
+    "gender": "",
+    "pokedexNumber": "265",
+    "name": "wurmple",
+    "koName": "개무소",
+    "speciesName": "wurmple",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "56",
+    "friendship": "70",
+    "types": [
+      "bug"
+    ],
+    "normalAbilityIds": [
+      "shield_dust"
+    ],
+    "hiddenAbilityId": "run_away",
+    "passiveAbilityId": "simple",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 195,
+    "hp": 45,
+    "attack": 45,
+    "defense": 35,
+    "specialAttack": 20,
+    "specialDefense": 30,
+    "speed": 20,
+    "height": 0.3,
+    "weight": 3.6,
+    "eggMoveIds": [
+      "baton_pass",
+      "bleakwind_storm",
+      "stored_power",
+      "malignant_chain"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "string_shot"
+      },
+      {
+        "level": 5,
+        "moveId": "poison_sting"
+      },
+      {
+        "level": 15,
+        "moveId": "bug_bite"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "snore",
+      "bug_bite",
+      "electroweb"
+    ],
+    "biomeIds": [
+      "town"
+    ]
+  }
+]

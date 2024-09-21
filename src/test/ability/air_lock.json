@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "air_lock",
+    "name": "Air Lock",
+    "koName": "에어록",
+    "realased": "",
+    "description": "모든 날씨의 영향이 없어진다.",
+    "generation": 3,
+    "pokemonIds": [
+      "rayquaza"
+    ],
+    "isBypassFaint": true,
+    "isIgnorable": false
+  }
+]

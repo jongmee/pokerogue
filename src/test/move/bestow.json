@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "bestow",
+    "name": "Bestow",
+    "koName": "기프트패스",
+    "type": "normal",
+    "moveCategory": "status",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 15,
+    "effect": "상대가 도구를 지니고 있지 않을 때 자신이 지니고 있는 도구를 상대에게 건넨다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 5,
+    "realased": " (N)",
+    "flags": [
+      "ignore_protect"
+    ],
+    "pokemonIds": []
+  }
+]

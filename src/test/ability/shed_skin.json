@@ -1,0 +1,36 @@
+[
+  {
+    "_id": "shed_skin",
+    "name": "Shed Skin",
+    "koName": "탈피",
+    "realased": "",
+    "description": "몸의 껍질을 벗어 던져 상태 이상을 회복할 때가 있다.",
+    "generation": 3,
+    "pokemonIds": [
+      "metapod",
+      "kakuna",
+      "ekans",
+      "arbok",
+      "dratini",
+      "dragonair",
+      "pupitar",
+      "silcoon",
+      "cascoon",
+      "seviper",
+      "kricketot",
+      "burmy_plant",
+      "burmy_sandy",
+      "burmy_trash",
+      "scraggy",
+      "scrafty",
+      "karrablast",
+      "spewpa",
+      "silicobra",
+      "sandaconda",
+      "rellor",
+      "cyclizar"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

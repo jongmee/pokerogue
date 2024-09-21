@@ -1,0 +1,206 @@
+[
+  {
+    "_id": "rayquaza",
+    "gender": "",
+    "pokedexNumber": "384",
+    "name": "rayquaza",
+    "koName": "레쿠쟈",
+    "speciesName": "rayquaza",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "340",
+    "friendship": "0",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "air_lock"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "unnerve",
+    "generation": 3,
+    "legendary": true,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 680,
+    "hp": 105,
+    "attack": 150,
+    "defense": 90,
+    "specialAttack": 150,
+    "specialDefense": 90,
+    "speed": 95,
+    "height": 7,
+    "weight": 206.5,
+    "eggMoveIds": [
+      "v_create",
+      "dragon_darts",
+      "core_enforcer",
+      "oblivion_wing"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "dragon_ascent"
+      },
+      {
+        "level": 1,
+        "moveId": "twister"
+      },
+      {
+        "level": 1,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 1,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 1,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 9,
+        "moveId": "crunch"
+      },
+      {
+        "level": 18,
+        "moveId": "dragon_dance"
+      },
+      {
+        "level": 27,
+        "moveId": "extreme_speed"
+      },
+      {
+        "level": 36,
+        "moveId": "dragon_pulse"
+      },
+      {
+        "level": 45,
+        "moveId": "hyper_voice"
+      },
+      {
+        "level": 54,
+        "moveId": "rest"
+      },
+      {
+        "level": 63,
+        "moveId": "fly"
+      },
+      {
+        "level": 72,
+        "moveId": "hurricane"
+      },
+      {
+        "level": 81,
+        "moveId": "outrage"
+      },
+      {
+        "level": 90,
+        "moveId": "hyper_beam"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "fly",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "strength",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "earthquake",
+      "toxic",
+      "double_team",
+      "fire_blast",
+      "waterfall",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "icy_wind",
+      "outrage",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "psych_up",
+      "rock_smash",
+      "whirlpool",
+      "uproar",
+      "facade",
+      "helping_hand",
+      "brick_break",
+      "dive",
+      "hyper_voice",
+      "overheat",
+      "rock_tomb",
+      "cosmic_power",
+      "aerial_ace",
+      "dragon_claw",
+      "bulk_up",
+      "dragon_dance",
+      "water_pulse",
+      "gyro_ball",
+      "tailwind",
+      "u_turn",
+      "fling",
+      "aqua_tail",
+      "air_slash",
+      "dragon_pulse",
+      "focus_blast",
+      "energy_ball",
+      "earth_power",
+      "giga_impact",
+      "avalanche",
+      "shadow_claw",
+      "defog",
+      "draco_meteor",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "hone_claws",
+      "round",
+      "echoed_voice",
+      "sky_drop",
+      "incinerate",
+      "bulldoze",
+      "dragon_tail",
+      "wild_charge",
+      "hurricane",
+      "confide",
+      "brutal_swing",
+      "breaking_swipe",
+      "scale_shot",
+      "meteor_beam",
+      "tera_blast",
+      "dragon_cheer"
+    ],
+    "biomeIds": [
+      "space"
+    ]
+  }
+]

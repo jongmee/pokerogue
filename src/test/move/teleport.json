@@ -1,0 +1,43 @@
+[
+  {
+    "_id": "teleport",
+    "name": "Teleport",
+    "koName": "순간이동",
+    "type": "psychic",
+    "moveCategory": "status",
+    "moveTarget": "user",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 20,
+    "effect": "교대할 포켓몬이 있을 때 사용하면 교체한다. 야생 포켓몬은 도망가 버린다.",
+    "effectChance": -1,
+    "prioirty": -6,
+    "generation": 1,
+    "realased": "",
+    "flags": [
+      "ignore_protect",
+      "hide_user"
+    ],
+    "pokemonIds": [
+      "abra",
+      "kadabra",
+      "alakazam",
+      "natu",
+      "xatu",
+      "ralts",
+      "kirlia",
+      "gardevoir",
+      "claydol",
+      "deoxys",
+      "deoxys_attack",
+      "deoxys_defense",
+      "gallade",
+      "elgyem",
+      "beheeyem",
+      "cosmog",
+      "cosmoem",
+      "solgaleo",
+      "lunala"
+    ]
+  }
+]

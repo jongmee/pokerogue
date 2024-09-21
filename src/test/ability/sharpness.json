@@ -1,0 +1,40 @@
+[
+  {
+    "_id": "sharpness",
+    "name": "Sharpness",
+    "koName": "예리함",
+    "realased": "",
+    "description": "상대를 베는 기술의 위력이 올라간다.",
+    "generation": 9,
+    "pokemonIds": [
+      "seedot",
+      "nuzleaf",
+      "shiftry",
+      "absol",
+      "absol_mega",
+      "kricketot",
+      "kricketune",
+      "gallade",
+      "gallade_mega",
+      "sewaddle",
+      "swadloon",
+      "leavanny",
+      "virizion",
+      "honedge",
+      "doublade",
+      "aegislash",
+      "aegislash_blade",
+      "fomantis",
+      "lurantis",
+      "kartana",
+      "kleavor",
+      "veluza",
+      "iron_leaves",
+      "iron_boulder",
+      "iron_crown",
+      "hisui_samurott"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

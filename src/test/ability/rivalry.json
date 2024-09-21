@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "rivalry",
+    "name": "Rivalry",
+    "koName": "투쟁심",
+    "realased": "",
+    "description": "성별이 같으면 투쟁심을 불태워 강해진다. 성별이 다르면 약해진다.",
+    "generation": 4,
+    "pokemonIds": [
+      "nidoran_f",
+      "nidorina",
+      "nidoqueen",
+      "nidoran_m",
+      "nidorino",
+      "nidoking",
+      "beautifly",
+      "shinx",
+      "luxio",
+      "luxray",
+      "pidove",
+      "tranquill",
+      "unfezant",
+      "axew",
+      "fraxure",
+      "haxorus",
+      "litleo",
+      "pyroar"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

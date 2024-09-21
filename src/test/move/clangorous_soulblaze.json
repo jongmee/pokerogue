@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "clangorous_soulblaze",
+    "name": "Clangorous Soulblaze",
+    "koName": "브레이징소울비트",
+    "type": "dragon",
+    "moveCategory": "special",
+    "moveTarget": "all_near_enemies",
+    "power": 185,
+    "accuracy": -1,
+    "powerPoint": 1,
+    "effect": "Z파워를 얻은 짜랑고우거가 전력으로 상대를 공격한다. 추가로 자신의 능력이 올라간다.",
+    "effectChance": 100,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": " (P)",
+    "flags": [
+      "ignore_virtual",
+      "sound_based"
+    ],
+    "pokemonIds": []
+  }
+]

@@ -1,0 +1,175 @@
+[
+  {
+    "_id": "blacephalon",
+    "gender": "",
+    "pokedexNumber": "806",
+    "name": "blacephalon",
+    "koName": "두파팡",
+    "speciesName": "blacephalon",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "285",
+    "friendship": "0",
+    "types": [
+      "fire",
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "beast_boost"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "magic_guard",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 570,
+    "hp": 53,
+    "attack": 127,
+    "defense": 53,
+    "specialAttack": 151,
+    "specialDefense": 79,
+    "speed": 107,
+    "height": 1.8,
+    "weight": 13,
+    "eggMoveIds": [
+      "nasty_plot",
+      "aura_sphere",
+      "chloroblast",
+      "astral_barrage"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "fire_spin"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 5,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 10,
+        "moveId": "ember"
+      },
+      {
+        "level": 15,
+        "moveId": "night_shade"
+      },
+      {
+        "level": 20,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 25,
+        "moveId": "magic_coat"
+      },
+      {
+        "level": 30,
+        "moveId": "incinerate"
+      },
+      {
+        "level": 35,
+        "moveId": "hypnosis"
+      },
+      {
+        "level": 40,
+        "moveId": "mystical_fire"
+      },
+      {
+        "level": 45,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 50,
+        "moveId": "calm_mind"
+      },
+      {
+        "level": 55,
+        "moveId": "will_o_wisp"
+      },
+      {
+        "level": 60,
+        "moveId": "trick"
+      },
+      {
+        "level": 65,
+        "moveId": "fire_blast"
+      },
+      {
+        "level": 70,
+        "moveId": "mind_blown"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fire_punch",
+      "flamethrower",
+      "hyper_beam",
+      "solar_beam",
+      "fire_spin",
+      "toxic",
+      "psychic",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "self_destruct",
+      "fire_blast",
+      "explosion",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "spite",
+      "protect",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "encore",
+      "hidden_power",
+      "sunny_day",
+      "shadow_ball",
+      "uproar",
+      "heat_wave",
+      "torment",
+      "will_o_wisp",
+      "facade",
+      "taunt",
+      "trick",
+      "recycle",
+      "knock_off",
+      "overheat",
+      "calm_mind",
+      "rock_blast",
+      "payback",
+      "fling",
+      "dark_pulse",
+      "shadow_claw",
+      "zen_headbutt",
+      "psyshock",
+      "smack_down",
+      "flame_charge",
+      "foul_play",
+      "round",
+      "stored_power",
+      "incinerate",
+      "quash",
+      "confide",
+      "mystical_fire",
+      "expanding_force",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "island"
+    ]
+  }
+]

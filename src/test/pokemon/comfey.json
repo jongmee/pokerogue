@@ -1,0 +1,186 @@
+[
+  {
+    "_id": "comfey",
+    "gender": "",
+    "pokedexNumber": "764",
+    "name": "comfey",
+    "koName": "큐아링",
+    "speciesName": "comfey",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "170",
+    "friendship": "50",
+    "types": [
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "flower_veil",
+      "triage"
+    ],
+    "hiddenAbilityId": "natural_cure",
+    "passiveAbilityId": "friend_guard",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 485,
+    "hp": 51,
+    "attack": 52,
+    "defense": 90,
+    "specialAttack": 82,
+    "specialDefense": 110,
+    "speed": 100,
+    "height": 0.1,
+    "weight": 0.3,
+    "eggMoveIds": [
+      "revival_blessing",
+      "take_heart",
+      "strength_sap",
+      "matcha_gotcha"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "wrap"
+      },
+      {
+        "level": 1,
+        "moveId": "growth"
+      },
+      {
+        "level": 3,
+        "moveId": "vine_whip"
+      },
+      {
+        "level": 6,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 9,
+        "moveId": "draining_kiss"
+      },
+      {
+        "level": 12,
+        "moveId": "flower_shield"
+      },
+      {
+        "level": 15,
+        "moveId": "magical_leaf"
+      },
+      {
+        "level": 18,
+        "moveId": "synthesis"
+      },
+      {
+        "level": 21,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 24,
+        "moveId": "grass_knot"
+      },
+      {
+        "level": 27,
+        "moveId": "sweet_kiss"
+      },
+      {
+        "level": 30,
+        "moveId": "floral_healing"
+      },
+      {
+        "level": 33,
+        "moveId": "petal_blizzard"
+      },
+      {
+        "level": 36,
+        "moveId": "aromatherapy"
+      },
+      {
+        "level": 39,
+        "moveId": "play_rough"
+      },
+      {
+        "level": 42,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 45,
+        "moveId": "petal_dance"
+      },
+      {
+        "level": 48,
+        "moveId": "grassy_terrain"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "hyper_beam",
+      "solar_beam",
+      "toxic",
+      "double_team",
+      "light_screen",
+      "amnesia",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "giga_drain",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "safeguard",
+      "pain_split",
+      "encore",
+      "synthesis",
+      "hidden_power",
+      "sunny_day",
+      "psych_up",
+      "facade",
+      "nature_power",
+      "taunt",
+      "helping_hand",
+      "trick",
+      "knock_off",
+      "bullet_seed",
+      "covet",
+      "magical_leaf",
+      "calm_mind",
+      "tailwind",
+      "u_turn",
+      "fling",
+      "worry_seed",
+      "seed_bomb",
+      "energy_ball",
+      "defog",
+      "trick_room",
+      "grass_knot",
+      "round",
+      "echoed_voice",
+      "stored_power",
+      "ally_switch",
+      "acrobatics",
+      "petal_blizzard",
+      "draining_kiss",
+      "grassy_terrain",
+      "play_rough",
+      "confide",
+      "dazzling_gleam",
+      "pollen_puff",
+      "grassy_glide",
+      "tera_blast",
+      "trailblaze",
+      "alluring_voice"
+    ],
+    "biomeIds": [
+      "fairy_cave"
+    ]
+  }
+]

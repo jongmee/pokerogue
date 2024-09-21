@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "sand_stream",
+    "name": "Sand Stream",
+    "koName": "모래날림",
+    "realased": "",
+    "description": "등장했을 때 날씨를 모래바람으로 만든다.",
+    "generation": 3,
+    "pokemonIds": [
+      "tyranitar",
+      "tyranitar_mega",
+      "regirock",
+      "gible",
+      "gabite",
+      "garchomp",
+      "garchomp_mega",
+      "hippopotas",
+      "hippowdon",
+      "gigalith",
+      "drilbur",
+      "excadrill",
+      "iron_thorns"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

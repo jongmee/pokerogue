@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "fusion_flare",
+    "name": "Fusion Flare",
+    "koName": "크로스플레임",
+    "type": "fire",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 100,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "거대한 불꽃을 내리친다. 거대한 천둥의 영향을 받아 기술의 위력이 올라간다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 5,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "latias",
+      "latias_mega",
+      "reshiram",
+      "kyurem_white"
+    ]
+  }
+]

@@ -1,0 +1,159 @@
+[
+  {
+    "_id": "emolga",
+    "gender": "",
+    "pokedexNumber": "587",
+    "name": "emolga",
+    "koName": "에몽가",
+    "speciesName": "emolga",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "150",
+    "friendship": "50",
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "static"
+    ],
+    "hiddenAbilityId": "motor_drive",
+    "passiveAbilityId": "transistor",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 428,
+    "hp": 55,
+    "attack": 75,
+    "defense": 60,
+    "specialAttack": 75,
+    "specialDefense": 60,
+    "speed": 103,
+    "height": 0.4,
+    "weight": 5,
+    "eggMoveIds": [
+      "triple_axel",
+      "splishy_splash",
+      "tailwind",
+      "zippy_zap"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "nuzzle"
+      },
+      {
+        "level": 5,
+        "moveId": "double_team"
+      },
+      {
+        "level": 10,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 15,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 20,
+        "moveId": "charge"
+      },
+      {
+        "level": 25,
+        "moveId": "acrobatics"
+      },
+      {
+        "level": 30,
+        "moveId": "spark"
+      },
+      {
+        "level": 35,
+        "moveId": "encore"
+      },
+      {
+        "level": 40,
+        "moveId": "volt_switch"
+      },
+      {
+        "level": 45,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 50,
+        "moveId": "discharge"
+      },
+      {
+        "level": 55,
+        "moveId": "agility"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "cut",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "agility",
+      "double_team",
+      "light_screen",
+      "swift",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "facade",
+      "charge",
+      "taunt",
+      "helping_hand",
+      "knock_off",
+      "signal_beam",
+      "aerial_ace",
+      "covet",
+      "roost",
+      "tailwind",
+      "u_turn",
+      "fling",
+      "air_slash",
+      "energy_ball",
+      "defog",
+      "charge_beam",
+      "electro_ball",
+      "round",
+      "acrobatics",
+      "volt_switch",
+      "electroweb",
+      "wild_charge",
+      "confide",
+      "eerie_impulse",
+      "speed_swap",
+      "rising_voltage",
+      "dual_wingbeat",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "power_plant"
+    ]
+  }
+]

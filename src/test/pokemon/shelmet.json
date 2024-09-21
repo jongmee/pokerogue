@@ -1,0 +1,146 @@
+[
+  {
+    "_id": "shelmet",
+    "gender": "",
+    "pokedexNumber": "616",
+    "name": "shelmet",
+    "koName": "쪼마리",
+    "speciesName": "shelmet",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "61",
+    "friendship": "50",
+    "types": [
+      "bug"
+    ],
+    "normalAbilityIds": [
+      "hydration",
+      "shell_armor"
+    ],
+    "hiddenAbilityId": "overcoat",
+    "passiveAbilityId": "protean",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 305,
+    "hp": 50,
+    "attack": 40,
+    "defense": 85,
+    "specialAttack": 40,
+    "specialDefense": 65,
+    "speed": 25,
+    "height": 0.4,
+    "weight": 7.7,
+    "eggMoveIds": [
+      "power_gem",
+      "nasty_plot",
+      "earth_power",
+      "steam_eruption"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 1,
+        "moveId": "protect"
+      },
+      {
+        "level": 4,
+        "moveId": "acid"
+      },
+      {
+        "level": 8,
+        "moveId": "curse"
+      },
+      {
+        "level": 12,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 16,
+        "moveId": "struggle_bug"
+      },
+      {
+        "level": 20,
+        "moveId": "yawn"
+      },
+      {
+        "level": 24,
+        "moveId": "acid_armor"
+      },
+      {
+        "level": 28,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 32,
+        "moveId": "guard_swap"
+      },
+      {
+        "level": 36,
+        "moveId": "body_slam"
+      },
+      {
+        "level": 40,
+        "moveId": "recover"
+      },
+      {
+        "level": 44,
+        "moveId": "bug_buzz"
+      },
+      {
+        "level": 48,
+        "moveId": "final_gambit"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "toxic",
+      "double_team",
+      "leech_life",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "sludge_bomb",
+      "mud_slap",
+      "spikes",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "facade",
+      "signal_beam",
+      "mud_shot",
+      "gastro_acid",
+      "guard_swap",
+      "toxic_spikes",
+      "bug_buzz",
+      "energy_ball",
+      "bug_bite",
+      "venoshock",
+      "round",
+      "struggle_bug",
+      "confide",
+      "infestation",
+      "skitter_smack",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "forest"
+    ]
+  }
+]

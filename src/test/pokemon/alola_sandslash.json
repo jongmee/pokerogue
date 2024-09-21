@@ -1,0 +1,217 @@
+[
+  {
+    "_id": "alola_sandslash",
+    "gender": "",
+    "pokedexNumber": "2028",
+    "name": "alola_sandslash",
+    "koName": "고지",
+    "speciesName": "alola_sandslash",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "158",
+    "friendship": "50",
+    "types": [
+      "ice",
+      "steel"
+    ],
+    "normalAbilityIds": [
+      "snow_cloak"
+    ],
+    "hiddenAbilityId": "slush_rush",
+    "passiveAbilityId": "tough_claws",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 450,
+    "hp": 75,
+    "attack": 100,
+    "defense": 120,
+    "specialAttack": 25,
+    "specialDefense": 65,
+    "speed": 65,
+    "height": 1.2,
+    "weight": 55,
+    "eggMoveIds": [
+      "spiky_shield",
+      "aqua_cutter",
+      "shift_gear",
+      "glacial_lance"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "icicle_spear"
+      },
+      {
+        "level": -1,
+        "moveId": "scratch"
+      },
+      {
+        "level": -1,
+        "moveId": "mist"
+      },
+      {
+        "level": -1,
+        "moveId": "blizzard"
+      },
+      {
+        "level": -1,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": -1,
+        "moveId": "swift"
+      },
+      {
+        "level": -1,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": -1,
+        "moveId": "powder_snow"
+      },
+      {
+        "level": -1,
+        "moveId": "rollout"
+      },
+      {
+        "level": -1,
+        "moveId": "fury_cutter"
+      },
+      {
+        "level": -1,
+        "moveId": "rapid_spin"
+      },
+      {
+        "level": -1,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": -1,
+        "moveId": "gyro_ball"
+      },
+      {
+        "level": -1,
+        "moveId": "metal_burst"
+      },
+      {
+        "level": -1,
+        "moveId": "iron_head"
+      },
+      {
+        "level": -1,
+        "moveId": "snowscape"
+      },
+      {
+        "level": 1,
+        "moveId": "icicle_crash"
+      },
+      {
+        "level": 1,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 1,
+        "moveId": "slash"
+      },
+      {
+        "level": 1,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 1,
+        "moveId": "ice_ball"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "ice_punch",
+      "swords_dance",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "pin_missile",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "low_kick",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "agility",
+      "double_team",
+      "swift",
+      "amnesia",
+      "leech_life",
+      "rest",
+      "rock_slide",
+      "super_fang",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "spikes",
+      "icy_wind",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "iron_tail",
+      "metal_claw",
+      "hidden_power",
+      "sunny_day",
+      "rock_smash",
+      "hail",
+      "facade",
+      "focus_punch",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "rock_tomb",
+      "aerial_ace",
+      "icicle_spear",
+      "iron_defense",
+      "covet",
+      "gyro_ball",
+      "fling",
+      "poison_jab",
+      "aqua_tail",
+      "x_scissor",
+      "focus_blast",
+      "giga_impact",
+      "avalanche",
+      "shadow_claw",
+      "flash_cannon",
+      "iron_head",
+      "stealth_rock",
+      "hone_claws",
+      "round",
+      "bulldoze",
+      "frost_breath",
+      "work_up",
+      "drill_run",
+      "confide",
+      "throat_chop",
+      "aurora_veil",
+      "steel_beam",
+      "steel_roller",
+      "triple_axel",
+      "tera_blast",
+      "ice_spinner",
+      "snowscape"
+    ],
+    "biomeIds": [
+      "island",
+      "snowy_forest"
+    ]
+  }
+]

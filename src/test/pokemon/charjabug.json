@@ -1,0 +1,151 @@
+[
+  {
+    "_id": "charjabug",
+    "gender": "",
+    "pokedexNumber": "737",
+    "name": "charjabug",
+    "koName": "전지충이",
+    "speciesName": "charjabug",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "140",
+    "friendship": "50",
+    "types": [
+      "bug",
+      "electric"
+    ],
+    "normalAbilityIds": [
+      "battery"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "speed_boost",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 400,
+    "hp": 57,
+    "attack": 82,
+    "defense": 95,
+    "specialAttack": 55,
+    "specialDefense": 75,
+    "speed": 36,
+    "height": 0.5,
+    "weight": 10.5,
+    "eggMoveIds": [
+      "ice_beam",
+      "earth_power",
+      "thunderclap",
+      "quiver_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "charge"
+      },
+      {
+        "level": 1,
+        "moveId": "vise_grip"
+      },
+      {
+        "level": 1,
+        "moveId": "string_shot"
+      },
+      {
+        "level": 1,
+        "moveId": "mud_slap"
+      },
+      {
+        "level": 1,
+        "moveId": "bug_bite"
+      },
+      {
+        "level": 15,
+        "moveId": "bite"
+      },
+      {
+        "level": 23,
+        "moveId": "spark"
+      },
+      {
+        "level": 29,
+        "moveId": "sticky_web"
+      },
+      {
+        "level": 36,
+        "moveId": "x_scissor"
+      },
+      {
+        "level": 43,
+        "moveId": "crunch"
+      },
+      {
+        "level": 50,
+        "moveId": "dig"
+      },
+      {
+        "level": 57,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 64,
+        "moveId": "discharge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "dig",
+      "toxic",
+      "screech",
+      "double_team",
+      "light_screen",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "mud_slap",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "hidden_power",
+      "rain_dance",
+      "crunch",
+      "facade",
+      "charge",
+      "iron_defense",
+      "mud_shot",
+      "poison_jab",
+      "x_scissor",
+      "bug_bite",
+      "charge_beam",
+      "electro_ball",
+      "round",
+      "acrobatics",
+      "volt_switch",
+      "struggle_bug",
+      "electroweb",
+      "wild_charge",
+      "confide",
+      "eerie_impulse",
+      "electric_terrain",
+      "lunge",
+      "rising_voltage",
+      "skitter_smack",
+      "tera_blast",
+      "pounce"
+    ],
+    "biomeIds": [
+      "power_plant"
+    ]
+  }
+]

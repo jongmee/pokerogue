@@ -1,0 +1,127 @@
+[
+  {
+    "_id": "abyss",
+    "name": "Abyss",
+    "koName": "심연",
+    "types": [
+      "dark"
+    ],
+    "nextBiomes": [
+      {
+        "name": "cave",
+        "percentage": 50
+      },
+      {
+        "name": "space",
+        "percentage": 25
+      },
+      {
+        "name": "wasteland",
+        "percentage": 25
+      }
+    ],
+    "nativePokemons": [
+      {
+        "tier": "보통",
+        "pokemonIds": [
+          "murkrow",
+          "houndour",
+          "houndoom",
+          "sableye",
+          "purrloin",
+          "liepard",
+          "pawniard",
+          "bisharp",
+          "kingambit",
+          "nickit",
+          "thievul",
+          "impidimp",
+          "morgrem",
+          "grimmsnarl",
+          "maschiff",
+          "mabosstiff"
+        ]
+      },
+      {
+        "tier": "드묾",
+        "pokemonIds": []
+      },
+      {
+        "tier": "레어",
+        "pokemonIds": [
+          "absol",
+          "spiritomb",
+          "zorua",
+          "zoroark",
+          "deino",
+          "zweilous",
+          "hydreigon"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어",
+        "pokemonIds": [
+          "umbreon"
+        ]
+      },
+      {
+        "tier": "울트라 레어",
+        "pokemonIds": [
+          "darkrai",
+          "galar_moltres"
+        ]
+      },
+      {
+        "tier": "보스",
+        "pokemonIds": [
+          "houndoom",
+          "sableye",
+          "absol",
+          "honchkrow",
+          "spiritomb",
+          "liepard",
+          "zoroark",
+          "hydreigon",
+          "thievul",
+          "grimmsnarl",
+          "mabosstiff",
+          "kingambit"
+        ]
+      },
+      {
+        "tier": "레어 보스",
+        "pokemonIds": [
+          "umbreon",
+          "hisui_samurott"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어 보스",
+        "pokemonIds": [
+          "darkrai"
+        ]
+      },
+      {
+        "tier": "슈퍼 울트라 레어 보스",
+        "pokemonIds": [
+          "palkia",
+          "yveltal",
+          "galar_moltres"
+        ]
+      }
+    ],
+    "trainers": [
+      {
+        "name": "마리",
+        "types": [
+          "dark"
+        ],
+        "pokemonIds": [
+          "impidimp",
+          "purrloin",
+          "morpeko"
+        ]
+      }
+    ]
+  }
+]

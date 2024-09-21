@@ -1,0 +1,166 @@
+[
+  {
+    "_id": "coalossal",
+    "gender": "",
+    "pokedexNumber": "839",
+    "name": "coalossal",
+    "koName": "석탄산",
+    "speciesName": "coalossal",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "255",
+    "friendship": "50",
+    "types": [
+      "rock",
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "steam_engine",
+      "flame_body"
+    ],
+    "hiddenAbilityId": "flash_fire",
+    "passiveAbilityId": "solid_rock",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 510,
+    "hp": 110,
+    "attack": 80,
+    "defense": 120,
+    "specialAttack": 80,
+    "specialDefense": 90,
+    "speed": 30,
+    "height": 2.8,
+    "weight": 310.5,
+    "eggMoveIds": [
+      "bitter_blade",
+      "body_press",
+      "bulk_up",
+      "diamond_storm"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "tar_shot"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "smokescreen"
+      },
+      {
+        "level": 1,
+        "moveId": "rapid_spin"
+      },
+      {
+        "level": 1,
+        "moveId": "smack_down"
+      },
+      {
+        "level": 1,
+        "moveId": "flame_charge"
+      },
+      {
+        "level": 15,
+        "moveId": "rock_polish"
+      },
+      {
+        "level": 20,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 27,
+        "moveId": "incinerate"
+      },
+      {
+        "level": 37,
+        "moveId": "stealth_rock"
+      },
+      {
+        "level": 45,
+        "moveId": "heat_crash"
+      },
+      {
+        "level": 54,
+        "moveId": "rock_blast"
+      },
+      {
+        "level": 63,
+        "moveId": "stone_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "flamethrower",
+      "hyper_beam",
+      "solar_beam",
+      "fire_spin",
+      "earthquake",
+      "dig",
+      "double_team",
+      "reflect",
+      "self_destruct",
+      "fire_blast",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "spikes",
+      "sandstorm",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "sunny_day",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "overheat",
+      "rock_tomb",
+      "sand_tomb",
+      "iron_defense",
+      "rock_blast",
+      "gyro_ball",
+      "flare_blitz",
+      "rock_polish",
+      "power_gem",
+      "earth_power",
+      "giga_impact",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "smack_down",
+      "heavy_slam",
+      "flame_charge",
+      "round",
+      "scald",
+      "incinerate",
+      "bulldoze",
+      "heat_crash",
+      "high_horsepower",
+      "body_press",
+      "meteor_beam",
+      "scorching_sands",
+      "tera_blast",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "volcano"
+    ]
+  }
+]

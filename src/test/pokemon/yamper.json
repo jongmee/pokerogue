@@ -1,0 +1,128 @@
+[
+  {
+    "_id": "yamper",
+    "gender": "",
+    "pokedexNumber": "835",
+    "name": "yamper",
+    "koName": "멍파치",
+    "speciesName": "yamper",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "54",
+    "friendship": "50",
+    "types": [
+      "electric"
+    ],
+    "normalAbilityIds": [
+      "ball_fetch"
+    ],
+    "hiddenAbilityId": "rattled",
+    "passiveAbilityId": "sheer_force",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 270,
+    "hp": 59,
+    "attack": 45,
+    "defense": 50,
+    "specialAttack": 40,
+    "specialDefense": 50,
+    "speed": 26,
+    "height": 0.3,
+    "weight": 13.5,
+    "eggMoveIds": [
+      "ice_fang",
+      "swords_dance",
+      "thunder_fang",
+      "bolt_strike"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 5,
+        "moveId": "nuzzle"
+      },
+      {
+        "level": 10,
+        "moveId": "bite"
+      },
+      {
+        "level": 15,
+        "moveId": "roar"
+      },
+      {
+        "level": 20,
+        "moveId": "spark"
+      },
+      {
+        "level": 26,
+        "moveId": "charm"
+      },
+      {
+        "level": 30,
+        "moveId": "crunch"
+      },
+      {
+        "level": 35,
+        "moveId": "charge"
+      },
+      {
+        "level": 40,
+        "moveId": "wild_charge"
+      },
+      {
+        "level": 45,
+        "moveId": "play_rough"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "roar",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "dig",
+      "double_team",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "endure",
+      "charm",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "crunch",
+      "uproar",
+      "facade",
+      "charge",
+      "helping_hand",
+      "thunder_fang",
+      "fire_fang",
+      "electro_ball",
+      "flame_charge",
+      "round",
+      "volt_switch",
+      "wild_charge",
+      "snarl",
+      "play_rough",
+      "rising_voltage"
+    ],
+    "biomeIds": [
+      "metropolis"
+    ]
+  }
+]

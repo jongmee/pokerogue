@@ -1,0 +1,148 @@
+[
+  {
+    "_id": "klink",
+    "gender": "",
+    "pokedexNumber": "599",
+    "name": "klink",
+    "koName": "기어르",
+    "speciesName": "klink",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "60",
+    "friendship": "50",
+    "types": [
+      "steel"
+    ],
+    "normalAbilityIds": [
+      "plus",
+      "minus"
+    ],
+    "hiddenAbilityId": "clear_body",
+    "passiveAbilityId": "steely_spirit",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 300,
+    "hp": 40,
+    "attack": 55,
+    "defense": 70,
+    "specialAttack": 45,
+    "specialDefense": 60,
+    "speed": 30,
+    "height": 0.3,
+    "weight": 21,
+    "eggMoveIds": [
+      "triple_axel",
+      "high_horsepower",
+      "fusion_bolt",
+      "double_iron_bash"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "vise_grip"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 4,
+        "moveId": "bind"
+      },
+      {
+        "level": 8,
+        "moveId": "charge"
+      },
+      {
+        "level": 12,
+        "moveId": "charge_beam"
+      },
+      {
+        "level": 16,
+        "moveId": "metal_sound"
+      },
+      {
+        "level": 20,
+        "moveId": "autotomize"
+      },
+      {
+        "level": 24,
+        "moveId": "discharge"
+      },
+      {
+        "level": 28,
+        "moveId": "screech"
+      },
+      {
+        "level": 32,
+        "moveId": "gear_grind"
+      },
+      {
+        "level": 36,
+        "moveId": "lock_on"
+      },
+      {
+        "level": 40,
+        "moveId": "shift_gear"
+      },
+      {
+        "level": 44,
+        "moveId": "zap_cannon"
+      },
+      {
+        "level": 48,
+        "moveId": "hyper_beam"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "hyper_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "toxic",
+      "screech",
+      "double_team",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rock_smash",
+      "uproar",
+      "facade",
+      "charge",
+      "recycle",
+      "metal_sound",
+      "signal_beam",
+      "iron_defense",
+      "gravity",
+      "assurance",
+      "rock_polish",
+      "power_gem",
+      "flash_cannon",
+      "charge_beam",
+      "round",
+      "volt_switch",
+      "wild_charge",
+      "confide",
+      "steel_beam",
+      "steel_roller",
+      "rising_voltage",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "factory",
+      "laboratory"
+    ]
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "_id": "lechonk",
+    "gender": "",
+    "pokedexNumber": "915",
+    "name": "lechonk",
+    "koName": "맛보돈",
+    "speciesName": "lechonk",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "51",
+    "friendship": "50",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "aroma_veil",
+      "gluttony"
+    ],
+    "hiddenAbilityId": "thick_fat",
+    "passiveAbilityId": "simple",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 254,
+    "hp": 54,
+    "attack": 45,
+    "defense": 40,
+    "specialAttack": 35,
+    "specialDefense": 45,
+    "speed": 35,
+    "height": 0.5,
+    "weight": 10.2,
+    "eggMoveIds": [
+      "milk_drink",
+      "psyshield_bash",
+      "fillet_away",
+      "multi_attack"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 5,
+        "moveId": "disarming_voice"
+      },
+      {
+        "level": 8,
+        "moveId": "echoed_voice"
+      },
+      {
+        "level": 12,
+        "moveId": "mud_shot"
+      },
+      {
+        "level": 15,
+        "moveId": "covet"
+      },
+      {
+        "level": 17,
+        "moveId": "dig"
+      },
+      {
+        "level": 21,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 24,
+        "moveId": "yawn"
+      },
+      {
+        "level": 27,
+        "moveId": "take_down"
+      },
+      {
+        "level": 30,
+        "moveId": "work_up"
+      },
+      {
+        "level": 32,
+        "moveId": "uproar"
+      },
+      {
+        "level": 35,
+        "moveId": "double_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "dig",
+      "double_team",
+      "rest",
+      "super_fang",
+      "substitute",
+      "thief",
+      "curse",
+      "protect",
+      "mud_slap",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "uproar",
+      "facade",
+      "helping_hand",
+      "endeavor",
+      "hyper_voice",
+      "bullet_seed",
+      "mud_shot",
+      "covet",
+      "seed_bomb",
+      "zen_headbutt",
+      "iron_head",
+      "echoed_voice",
+      "bulldoze",
+      "work_up",
+      "disarming_voice",
+      "play_rough",
+      "tera_blast",
+      "trailblaze",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "town",
+      "plains"
+    ]
+  }
+]

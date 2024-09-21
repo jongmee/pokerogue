@@ -1,0 +1,191 @@
+[
+  {
+    "_id": "axew",
+    "gender": "",
+    "pokedexNumber": "610",
+    "name": "axew",
+    "koName": "터검니",
+    "speciesName": "axew",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "64",
+    "friendship": "35",
+    "types": [
+      "dragon"
+    ],
+    "normalAbilityIds": [
+      "rivalry",
+      "mold_breaker"
+    ],
+    "hiddenAbilityId": "unnerve",
+    "passiveAbilityId": "dragons_maw",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 320,
+    "hp": 46,
+    "attack": 87,
+    "defense": 60,
+    "specialAttack": 30,
+    "specialDefense": 40,
+    "speed": 57,
+    "height": 0.6,
+    "weight": 18,
+    "eggMoveIds": [
+      "stone_axe",
+      "dire_claw",
+      "bitter_blade",
+      "glaive_rush"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 3,
+        "moveId": "bite"
+      },
+      {
+        "level": 6,
+        "moveId": "false_swipe"
+      },
+      {
+        "level": 9,
+        "moveId": "assurance"
+      },
+      {
+        "level": 12,
+        "moveId": "taunt"
+      },
+      {
+        "level": 15,
+        "moveId": "slash"
+      },
+      {
+        "level": 18,
+        "moveId": "dragon_claw"
+      },
+      {
+        "level": 21,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 24,
+        "moveId": "crunch"
+      },
+      {
+        "level": 27,
+        "moveId": "dragon_dance"
+      },
+      {
+        "level": 30,
+        "moveId": "dual_chop"
+      },
+      {
+        "level": 33,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 36,
+        "moveId": "dragon_pulse"
+      },
+      {
+        "level": 39,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 42,
+        "moveId": "outrage"
+      },
+      {
+        "level": 45,
+        "moveId": "guillotine"
+      },
+      {
+        "level": 48,
+        "moveId": "giga_impact"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "take_down",
+      "double_edge",
+      "roar",
+      "surf",
+      "counter",
+      "strength",
+      "dig",
+      "toxic",
+      "double_team",
+      "focus_energy",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "reversal",
+      "protect",
+      "scary_face",
+      "outrage",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "rock_smash",
+      "facade",
+      "taunt",
+      "superpower",
+      "brick_break",
+      "endeavor",
+      "rock_tomb",
+      "aerial_ace",
+      "dragon_claw",
+      "dragon_dance",
+      "payback",
+      "assurance",
+      "fling",
+      "poison_jab",
+      "aqua_tail",
+      "x_scissor",
+      "dragon_pulse",
+      "giga_impact",
+      "shadow_claw",
+      "draco_meteor",
+      "iron_head",
+      "hone_claws",
+      "round",
+      "incinerate",
+      "bulldoze",
+      "dragon_tail",
+      "snarl",
+      "confide",
+      "stomping_tantrum",
+      "breaking_swipe",
+      "scale_shot",
+      "tera_blast",
+      "trailblaze",
+      "dragon_cheer"
+    ],
+    "biomeIds": [
+      "mountain",
+      "wasteland"
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "hydro_vortex__special",
+    "name": "Hydro Vortex",
+    "koName": "슈퍼아쿠아토네이도",
+    "type": "water",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 1,
+    "effect": "Dummy Data",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": " (N)",
+    "flags": [
+      "ignore_virtual"
+    ],
+    "pokemonIds": []
+  }
+]

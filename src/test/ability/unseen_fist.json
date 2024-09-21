@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "unseen_fist",
+    "name": "Unseen Fist",
+    "koName": "보이지않는주먹",
+    "realased": "",
+    "description": "상대에게 접촉하는 기술을 사용하면 방어의 효과를 무시하고 공격할 수 있다.",
+    "generation": 8,
+    "pokemonIds": [
+      "urshifu",
+      "urshifu_rapid_strike",
+      "urshifu_gigantamax_single",
+      "urshifu_gigantamax_rapid"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

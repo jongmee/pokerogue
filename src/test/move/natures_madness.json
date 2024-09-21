@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "natures_madness",
+    "name": "Nature's Madness",
+    "koName": "자연의분노",
+    "type": "fairy",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": 90,
+    "powerPoint": 10,
+    "effect": "자연의 분노를 상대에게 부딪친다. 상대의 HP는 절반이 된다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "tapu_koko",
+      "tapu_lele",
+      "tapu_bulu",
+      "tapu_fini"
+    ]
+  }
+]

@@ -1,0 +1,181 @@
+[
+  {
+    "_id": "kingambit",
+    "gender": "",
+    "pokedexNumber": "983",
+    "name": "kingambit",
+    "koName": "대도각참",
+    "speciesName": "kingambit",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "275",
+    "friendship": "50",
+    "types": [
+      "dark",
+      "steel"
+    ],
+    "normalAbilityIds": [
+      "defiant",
+      "supreme_overlord"
+    ],
+    "hiddenAbilityId": "pressure",
+    "passiveAbilityId": "sword_of_ruin",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 550,
+    "hp": 100,
+    "attack": 135,
+    "defense": 120,
+    "specialAttack": 60,
+    "specialDefense": 85,
+    "speed": 50,
+    "height": 2,
+    "weight": 120,
+    "eggMoveIds": [
+      "sucker_punch",
+      "ceaseless_edge",
+      "bitter_blade",
+      "last_respects"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "kowtow_cleave"
+      },
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "fury_cutter"
+      },
+      {
+        "level": 1,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 1,
+        "moveId": "metal_burst"
+      },
+      {
+        "level": 15,
+        "moveId": "torment"
+      },
+      {
+        "level": 20,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 25,
+        "moveId": "assurance"
+      },
+      {
+        "level": 30,
+        "moveId": "metal_sound"
+      },
+      {
+        "level": 35,
+        "moveId": "slash"
+      },
+      {
+        "level": 40,
+        "moveId": "night_slash"
+      },
+      {
+        "level": 45,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 50,
+        "moveId": "retaliate"
+      },
+      {
+        "level": 57,
+        "moveId": "iron_head"
+      },
+      {
+        "level": 64,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 71,
+        "moveId": "guillotine"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "take_down",
+      "hyper_beam",
+      "low_kick",
+      "thunder_wave",
+      "dig",
+      "double_team",
+      "rest",
+      "substitute",
+      "thief",
+      "reversal",
+      "spite",
+      "protect",
+      "scary_face",
+      "sandstorm",
+      "endure",
+      "false_swipe",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "rock_smash",
+      "beat_up",
+      "torment",
+      "facade",
+      "taunt",
+      "revenge",
+      "brick_break",
+      "rock_tomb",
+      "metal_sound",
+      "aerial_ace",
+      "iron_defense",
+      "assurance",
+      "fling",
+      "poison_jab",
+      "dark_pulse",
+      "air_slash",
+      "x_scissor",
+      "focus_blast",
+      "giga_impact",
+      "shadow_claw",
+      "zen_headbutt",
+      "flash_cannon",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "grass_knot",
+      "hone_claws",
+      "low_sweep",
+      "foul_play",
+      "retaliate",
+      "snarl",
+      "power_up_punch",
+      "steel_beam",
+      "lash_out",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "abyss"
+    ]
+  }
+]

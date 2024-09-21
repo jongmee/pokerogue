@@ -1,0 +1,148 @@
+[
+  {
+    "_id": "foongus",
+    "gender": "",
+    "pokedexNumber": "590",
+    "name": "foongus",
+    "koName": "깜놀버슬",
+    "speciesName": "foongus",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "59",
+    "friendship": "50",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "normalAbilityIds": [
+      "effect_spore"
+    ],
+    "hiddenAbilityId": "regenerator",
+    "passiveAbilityId": "thick_fat",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 294,
+    "hp": 69,
+    "attack": 55,
+    "defense": 45,
+    "specialAttack": 55,
+    "specialDefense": 55,
+    "speed": 15,
+    "height": 0.2,
+    "weight": 1,
+    "eggMoveIds": [
+      "pollen_puff",
+      "parting_shot",
+      "foul_play",
+      "sappy_seed"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 4,
+        "moveId": "growth"
+      },
+      {
+        "level": 8,
+        "moveId": "stun_spore"
+      },
+      {
+        "level": 12,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 16,
+        "moveId": "synthesis"
+      },
+      {
+        "level": 20,
+        "moveId": "clear_smog"
+      },
+      {
+        "level": 24,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 28,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 32,
+        "moveId": "ingrain"
+      },
+      {
+        "level": 36,
+        "moveId": "toxic"
+      },
+      {
+        "level": 40,
+        "moveId": "rage_powder"
+      },
+      {
+        "level": 44,
+        "moveId": "solar_beam"
+      },
+      {
+        "level": 48,
+        "moveId": "spore"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "solar_beam",
+      "toxic",
+      "double_team",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "sludge_bomb",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "synthesis",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "facade",
+      "nature_power",
+      "bullet_seed",
+      "magical_leaf",
+      "payback",
+      "gastro_acid",
+      "worry_seed",
+      "seed_bomb",
+      "energy_ball",
+      "leaf_storm",
+      "grass_knot",
+      "venoshock",
+      "foul_play",
+      "round",
+      "grassy_terrain",
+      "confide",
+      "pollen_puff",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "grass",
+      "jungle"
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "compound_eyes",
+    "name": "Compound Eyes",
+    "koName": "복안",
+    "realased": "",
+    "description": "복안을 가지고 있어 기술의 명중률이 올라간다.",
+    "generation": 3,
+    "pokemonIds": [
+      "butterfree",
+      "butterfree_gigantamax",
+      "venonat",
+      "yanma",
+      "dustox",
+      "nincada",
+      "joltik",
+      "galvantula",
+      "durant",
+      "scatterbug",
+      "blipbug",
+      "dottler",
+      "rellor"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

@@ -1,0 +1,196 @@
+[
+  {
+    "_id": "lombre",
+    "gender": "",
+    "pokedexNumber": "271",
+    "name": "lombre",
+    "koName": "로토스",
+    "speciesName": "lombre",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "119",
+    "friendship": "50",
+    "types": [
+      "water",
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "swift_swim",
+      "rain_dish"
+    ],
+    "hiddenAbilityId": "own_tempo",
+    "passiveAbilityId": "drizzle",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 340,
+    "hp": 60,
+    "attack": 50,
+    "defense": 50,
+    "specialAttack": 60,
+    "specialDefense": 70,
+    "speed": 50,
+    "height": 1.2,
+    "weight": 32.5,
+    "eggMoveIds": [
+      "revelation_dance",
+      "apple_acid",
+      "ice_beam",
+      "quiver_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 1,
+        "moveId": "flail"
+      },
+      {
+        "level": 1,
+        "moveId": "fake_out"
+      },
+      {
+        "level": 1,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 1,
+        "moveId": "teeter_dance"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 9,
+        "moveId": "mist"
+      },
+      {
+        "level": 12,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 18,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 24,
+        "moveId": "bubble_beam"
+      },
+      {
+        "level": 30,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 36,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 50,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 57,
+        "moveId": "energy_ball"
+      },
+      {
+        "level": 64,
+        "moveId": "hydro_pump"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "swords_dance",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "counter",
+      "strength",
+      "solar_beam",
+      "toxic",
+      "double_team",
+      "metronome",
+      "waterfall",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "synthesis",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "rock_smash",
+      "whirlpool",
+      "uproar",
+      "hail",
+      "facade",
+      "nature_power",
+      "brick_break",
+      "knock_off",
+      "dive",
+      "hyper_voice",
+      "weather_ball",
+      "muddy_water",
+      "bullet_seed",
+      "mud_shot",
+      "magical_leaf",
+      "water_pulse",
+      "fling",
+      "seed_bomb",
+      "drain_punch",
+      "energy_ball",
+      "zen_headbutt",
+      "grass_knot",
+      "hone_claws",
+      "round",
+      "echoed_voice",
+      "scald",
+      "disarming_voice",
+      "grassy_terrain",
+      "confide",
+      "power_up_punch",
+      "grassy_glide",
+      "tera_blast",
+      "trailblaze",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "lake",
+      "swamp"
+    ]
+  }
+]

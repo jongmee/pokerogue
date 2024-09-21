@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "eruption",
+    "name": "Eruption",
+    "koName": "분화",
+    "type": "fire",
+    "moveCategory": "special",
+    "moveTarget": "all_near_enemies",
+    "power": 150,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "분노를 폭발시켜 상대를 공격한다. 자신의 HP가 적을수록 기술의 위력이 떨어진다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 3,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "cyndaquil",
+      "quilava",
+      "typhlosion",
+      "entei",
+      "camerupt",
+      "torkoal",
+      "castform",
+      "castform_sunny",
+      "castform_rainy",
+      "castform_snowy",
+      "groudon",
+      "spiritomb",
+      "reshiram",
+      "salandit",
+      "salazzle",
+      "wo_chien",
+      "hisui_typhlosion"
+    ]
+  }
+]

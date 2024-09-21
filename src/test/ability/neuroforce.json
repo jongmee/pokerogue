@@ -1,0 +1,19 @@
+[
+  {
+    "_id": "neuroforce",
+    "name": "Neuroforce",
+    "koName": "브레인포스",
+    "realased": "",
+    "description": "효과가 굉장한 공격의 위력이 더욱 올라간다.",
+    "generation": 7,
+    "pokemonIds": [
+      "mewtwo",
+      "mewtwo_mega_x",
+      "mewtwo_mega_y",
+      "azelf",
+      "munkidori"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

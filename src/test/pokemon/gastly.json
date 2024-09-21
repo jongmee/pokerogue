@@ -1,0 +1,182 @@
+[
+  {
+    "_id": "gastly",
+    "gender": "",
+    "pokedexNumber": "92",
+    "name": "gastly",
+    "koName": "고오스",
+    "speciesName": "gastly",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "62",
+    "friendship": "50",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "normalAbilityIds": [
+      "levitate"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "shadow_shield",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 310,
+    "hp": 30,
+    "attack": 35,
+    "defense": 30,
+    "specialAttack": 100,
+    "specialDefense": 35,
+    "speed": 80,
+    "height": 1.3,
+    "weight": 0.1,
+    "eggMoveIds": [
+      "sludge_bomb",
+      "aura_sphere",
+      "nasty_plot",
+      "astral_barrage"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 1,
+        "moveId": "lick"
+      },
+      {
+        "level": 1,
+        "moveId": "acid"
+      },
+      {
+        "level": 4,
+        "moveId": "hypnosis"
+      },
+      {
+        "level": 8,
+        "moveId": "mean_look"
+      },
+      {
+        "level": 12,
+        "moveId": "payback"
+      },
+      {
+        "level": 16,
+        "moveId": "spite"
+      },
+      {
+        "level": 20,
+        "moveId": "curse"
+      },
+      {
+        "level": 24,
+        "moveId": "hex"
+      },
+      {
+        "level": 28,
+        "moveId": "night_shade"
+      },
+      {
+        "level": 32,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 36,
+        "moveId": "dark_pulse"
+      },
+      {
+        "level": 40,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 44,
+        "moveId": "destiny_bond"
+      },
+      {
+        "level": 48,
+        "moveId": "dream_eater"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "thunderbolt",
+      "thunder",
+      "toxic",
+      "psychic",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "haze",
+      "self_destruct",
+      "dream_eater",
+      "explosion",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "icy_wind",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "uproar",
+      "torment",
+      "will_o_wisp",
+      "facade",
+      "taunt",
+      "trick",
+      "knock_off",
+      "skill_swap",
+      "imprison",
+      "payback",
+      "embargo",
+      "poison_jab",
+      "dark_pulse",
+      "energy_ball",
+      "nasty_plot",
+      "trick_room",
+      "gunk_shot",
+      "wonder_room",
+      "venoshock",
+      "sludge_wave",
+      "acid_spray",
+      "foul_play",
+      "round",
+      "ally_switch",
+      "hex",
+      "confide",
+      "dazzling_gleam",
+      "infestation",
+      "skitter_smack",
+      "poltergeist",
+      "corrosive_gas",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "graveyard",
+      "temple"
+    ]
+  }
+]

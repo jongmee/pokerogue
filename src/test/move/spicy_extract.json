@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "spicy_extract",
+    "name": "Spicy Extract",
+    "koName": "하바네로엑기스",
+    "type": "grass",
+    "moveCategory": "status",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 15,
+    "effect": "어마어마하게 매운 엑기스를 발사한다. 상대의 공격이 크게 오르고 방어는 크게 떨어진다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 9,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "scovillain"
+    ]
+  }
+]

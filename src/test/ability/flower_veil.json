@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "flower_veil",
+    "name": "Flower Veil",
+    "koName": "플라워베일",
+    "realased": " (N)",
+    "description": "같은 편의 풀타입 포켓몬은 능력이 떨어지지 않고 상태 이상도 되지 않는다.",
+    "generation": 6,
+    "pokemonIds": [
+      "comfey",
+      "eternal_floette"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

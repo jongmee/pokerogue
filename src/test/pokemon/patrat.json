@@ -1,0 +1,167 @@
+[
+  {
+    "_id": "patrat",
+    "gender": "",
+    "pokedexNumber": "504",
+    "name": "patrat",
+    "koName": "보르쥐",
+    "speciesName": "patrat",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "51",
+    "friendship": "70",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "run_away",
+      "keen_eye"
+    ],
+    "hiddenAbilityId": "analytic",
+    "passiveAbilityId": "no_guard",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 255,
+    "hp": 45,
+    "attack": 55,
+    "defense": 39,
+    "specialAttack": 35,
+    "specialDefense": 39,
+    "speed": 42,
+    "height": 0.5,
+    "weight": 11.6,
+    "eggMoveIds": [
+      "fake_out",
+      "swords_dance",
+      "dynamic_punch",
+      "extreme_speed"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 3,
+        "moveId": "leer"
+      },
+      {
+        "level": 6,
+        "moveId": "bite"
+      },
+      {
+        "level": 8,
+        "moveId": "bide"
+      },
+      {
+        "level": 11,
+        "moveId": "detect"
+      },
+      {
+        "level": 13,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 16,
+        "moveId": "crunch"
+      },
+      {
+        "level": 18,
+        "moveId": "hypnosis"
+      },
+      {
+        "level": 21,
+        "moveId": "super_fang"
+      },
+      {
+        "level": 23,
+        "moveId": "after_you"
+      },
+      {
+        "level": 26,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 28,
+        "moveId": "work_up"
+      },
+      {
+        "level": 31,
+        "moveId": "hyper_fang"
+      },
+      {
+        "level": 33,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 36,
+        "moveId": "mean_look"
+      },
+      {
+        "level": 38,
+        "moveId": "baton_pass"
+      },
+      {
+        "level": 41,
+        "moveId": "slam"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "low_kick",
+      "thunderbolt",
+      "dig",
+      "toxic",
+      "screech",
+      "double_team",
+      "focus_energy",
+      "rest",
+      "super_fang",
+      "substitute",
+      "snore",
+      "protect",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "shadow_ball",
+      "facade",
+      "helping_hand",
+      "revenge",
+      "endeavor",
+      "bullet_seed",
+      "covet",
+      "assurance",
+      "fling",
+      "aqua_tail",
+      "seed_bomb",
+      "nasty_plot",
+      "zen_headbutt",
+      "gunk_shot",
+      "grass_knot",
+      "round",
+      "retaliate",
+      "work_up",
+      "confide",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "town",
+      "metropolis",
+      "slum"
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "costar",
+    "name": "Costar",
+    "koName": "협연",
+    "realased": "",
+    "description": "등장했을 때 같은 편의 능력 변화를 복사한다.",
+    "generation": 9,
+    "pokemonIds": [
+      "flamigo"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

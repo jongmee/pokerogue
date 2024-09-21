@@ -1,0 +1,132 @@
+[
+  {
+    "_id": "clobbopus",
+    "gender": "",
+    "pokedexNumber": "852",
+    "name": "clobbopus",
+    "koName": "때때무노",
+    "speciesName": "clobbopus",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "62",
+    "friendship": "50",
+    "types": [
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "limber"
+    ],
+    "hiddenAbilityId": "technician",
+    "passiveAbilityId": "water_bubble",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 310,
+    "hp": 50,
+    "attack": 68,
+    "defense": 60,
+    "specialAttack": 50,
+    "specialDefense": 50,
+    "speed": 32,
+    "height": 0.6,
+    "weight": 4,
+    "eggMoveIds": [
+      "storm_throw",
+      "jet_punch",
+      "mach_punch",
+      "surging_strikes"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "rock_smash"
+      },
+      {
+        "level": 5,
+        "moveId": "feint"
+      },
+      {
+        "level": 10,
+        "moveId": "bind"
+      },
+      {
+        "level": 15,
+        "moveId": "detect"
+      },
+      {
+        "level": 20,
+        "moveId": "brick_break"
+      },
+      {
+        "level": 25,
+        "moveId": "bulk_up"
+      },
+      {
+        "level": 30,
+        "moveId": "submission"
+      },
+      {
+        "level": 35,
+        "moveId": "taunt"
+      },
+      {
+        "level": 40,
+        "moveId": "reversal"
+      },
+      {
+        "level": 45,
+        "moveId": "superpower"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "ice_punch",
+      "body_slam",
+      "double_team",
+      "waterfall",
+      "rest",
+      "substitute",
+      "snore",
+      "reversal",
+      "protect",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "hidden_power",
+      "rock_smash",
+      "facade",
+      "taunt",
+      "superpower",
+      "revenge",
+      "brick_break",
+      "dive",
+      "muddy_water",
+      "bulk_up",
+      "mud_shot",
+      "brine",
+      "close_combat",
+      "payback",
+      "focus_blast",
+      "round",
+      "retaliate",
+      "work_up",
+      "power_up_punch",
+      "liquidation",
+      "coaching"
+    ],
+    "biomeIds": [
+      "dojo"
+    ]
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "_id": "shedinja",
+    "gender": "",
+    "pokedexNumber": "292",
+    "name": "shedinja",
+    "koName": "껍질몬",
+    "speciesName": "shedinja",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "83",
+    "friendship": "50",
+    "types": [
+      "bug",
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "wonder_guard"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "magic_guard",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 236,
+    "hp": 1,
+    "attack": 90,
+    "defense": 45,
+    "specialAttack": 30,
+    "specialDefense": 30,
+    "speed": 40,
+    "height": 0.8,
+    "weight": 1.2,
+    "eggMoveIds": [
+      "attack_order",
+      "sticky_web",
+      "spirit_shackle",
+      "shell_smash"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "shadow_claw"
+      },
+      {
+        "level": 1,
+        "moveId": "grudge"
+      },
+      {
+        "level": 1,
+        "moveId": "mud_slap"
+      },
+      {
+        "level": 1,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 1,
+        "moveId": "dig"
+      },
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "harden"
+      },
+      {
+        "level": 1,
+        "moveId": "false_swipe"
+      },
+      {
+        "level": 15,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 23,
+        "moveId": "absorb"
+      },
+      {
+        "level": 29,
+        "moveId": "shadow_sneak"
+      },
+      {
+        "level": 36,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 43,
+        "moveId": "mind_reader"
+      },
+      {
+        "level": 50,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 57,
+        "moveId": "spite"
+      },
+      {
+        "level": 64,
+        "moveId": "phantom_force"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "cut",
+      "hyper_beam",
+      "solar_beam",
+      "dig",
+      "toxic",
+      "agility",
+      "double_team",
+      "confuse_ray",
+      "dream_eater",
+      "leech_life",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "spite",
+      "protect",
+      "mud_slap",
+      "sandstorm",
+      "giga_drain",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "metal_claw",
+      "hidden_power",
+      "sunny_day",
+      "shadow_ball",
+      "will_o_wisp",
+      "facade",
+      "trick",
+      "aerial_ace",
+      "x_scissor",
+      "bug_buzz",
+      "giga_impact",
+      "shadow_claw",
+      "bug_bite",
+      "hone_claws",
+      "round",
+      "ally_switch",
+      "hex",
+      "struggle_bug",
+      "phantom_force",
+      "confide",
+      "skitter_smack",
+      "poltergeist",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "tall_grass"
+    ]
+  }
+]

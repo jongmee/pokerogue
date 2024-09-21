@@ -1,0 +1,189 @@
+[
+  {
+    "_id": "yveltal",
+    "gender": "",
+    "pokedexNumber": "717",
+    "name": "yveltal",
+    "koName": "이벨타르",
+    "speciesName": "yveltal",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "340",
+    "friendship": "0",
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "dark_aura"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "soul_heart",
+    "generation": 6,
+    "legendary": true,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 680,
+    "hp": 126,
+    "attack": 131,
+    "defense": 95,
+    "specialAttack": 131,
+    "specialDefense": 98,
+    "speed": 99,
+    "height": 5.8,
+    "weight": 203,
+    "eggMoveIds": [
+      "shell_side_arm",
+      "power_trip",
+      "fiery_wrath",
+      "clangorous_soul"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "gust"
+      },
+      {
+        "level": 1,
+        "moveId": "double_team"
+      },
+      {
+        "level": 1,
+        "moveId": "razor_wind"
+      },
+      {
+        "level": 5,
+        "moveId": "taunt"
+      },
+      {
+        "level": 10,
+        "moveId": "snarl"
+      },
+      {
+        "level": 15,
+        "moveId": "disable"
+      },
+      {
+        "level": 20,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 25,
+        "moveId": "tailwind"
+      },
+      {
+        "level": 30,
+        "moveId": "roost"
+      },
+      {
+        "level": 35,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 40,
+        "moveId": "dark_pulse"
+      },
+      {
+        "level": 45,
+        "moveId": "psychic"
+      },
+      {
+        "level": 50,
+        "moveId": "oblivion_wing"
+      },
+      {
+        "level": 55,
+        "moveId": "phantom_force"
+      },
+      {
+        "level": 60,
+        "moveId": "foul_play"
+      },
+      {
+        "level": 65,
+        "moveId": "dragon_rush"
+      },
+      {
+        "level": 70,
+        "moveId": "hurricane"
+      },
+      {
+        "level": 75,
+        "moveId": "focus_blast"
+      },
+      {
+        "level": 80,
+        "moveId": "sky_attack"
+      },
+      {
+        "level": 85,
+        "moveId": "hyper_beam"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "cut",
+      "fly",
+      "body_slam",
+      "hyper_beam",
+      "toxic",
+      "psychic",
+      "double_team",
+      "swift",
+      "dream_eater",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "endure",
+      "swagger",
+      "steel_wing",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "shadow_ball",
+      "heat_wave",
+      "torment",
+      "facade",
+      "taunt",
+      "knock_off",
+      "hyper_voice",
+      "aerial_ace",
+      "dragon_claw",
+      "roost",
+      "tailwind",
+      "u_turn",
+      "payback",
+      "embargo",
+      "dark_pulse",
+      "air_slash",
+      "focus_blast",
+      "giga_impact",
+      "shadow_claw",
+      "zen_headbutt",
+      "defog",
+      "hone_claws",
+      "foul_play",
+      "round",
+      "sky_drop",
+      "acrobatics",
+      "hurricane",
+      "snarl",
+      "phantom_force",
+      "confide",
+      "lash_out",
+      "dual_wingbeat",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "abyss"
+    ]
+  }
+]

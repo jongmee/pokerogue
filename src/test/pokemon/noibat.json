@@ -1,0 +1,172 @@
+[
+  {
+    "_id": "noibat",
+    "gender": "",
+    "pokedexNumber": "714",
+    "name": "noibat",
+    "koName": "음뱃",
+    "speciesName": "noibat",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "49",
+    "friendship": "50",
+    "types": [
+      "flying",
+      "dragon"
+    ],
+    "normalAbilityIds": [
+      "frisk",
+      "infiltrator"
+    ],
+    "hiddenAbilityId": "telepathy",
+    "passiveAbilityId": "punk_rock",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 245,
+    "hp": 40,
+    "attack": 30,
+    "defense": 35,
+    "specialAttack": 45,
+    "specialDefense": 40,
+    "speed": 55,
+    "height": 0.5,
+    "weight": 8,
+    "eggMoveIds": [
+      "aeroblast",
+      "overdrive",
+      "nasty_plot",
+      "clanging_scales"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 4,
+        "moveId": "gust"
+      },
+      {
+        "level": 8,
+        "moveId": "supersonic"
+      },
+      {
+        "level": 12,
+        "moveId": "double_team"
+      },
+      {
+        "level": 16,
+        "moveId": "wing_attack"
+      },
+      {
+        "level": 20,
+        "moveId": "bite"
+      },
+      {
+        "level": 24,
+        "moveId": "air_cutter"
+      },
+      {
+        "level": 28,
+        "moveId": "whirlwind"
+      },
+      {
+        "level": 32,
+        "moveId": "super_fang"
+      },
+      {
+        "level": 36,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 40,
+        "moveId": "screech"
+      },
+      {
+        "level": 44,
+        "moveId": "roost"
+      },
+      {
+        "level": 49,
+        "moveId": "tailwind"
+      },
+      {
+        "level": 52,
+        "moveId": "hurricane"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "cut",
+      "fly",
+      "take_down",
+      "solar_beam",
+      "toxic",
+      "psychic",
+      "agility",
+      "screech",
+      "double_team",
+      "swift",
+      "dream_eater",
+      "leech_life",
+      "rest",
+      "super_fang",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "outrage",
+      "endure",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "sunny_day",
+      "shadow_ball",
+      "uproar",
+      "heat_wave",
+      "torment",
+      "facade",
+      "taunt",
+      "brick_break",
+      "hyper_voice",
+      "air_cutter",
+      "aerial_ace",
+      "dragon_claw",
+      "water_pulse",
+      "roost",
+      "tailwind",
+      "u_turn",
+      "dark_pulse",
+      "air_slash",
+      "x_scissor",
+      "dragon_pulse",
+      "shadow_claw",
+      "defog",
+      "draco_meteor",
+      "round",
+      "echoed_voice",
+      "acrobatics",
+      "wild_charge",
+      "hurricane",
+      "confide",
+      "dual_wingbeat",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "cave"
+    ]
+  }
+]

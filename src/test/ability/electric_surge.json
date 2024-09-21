@@ -1,0 +1,36 @@
+[
+  {
+    "_id": "electric_surge",
+    "name": "Electric Surge",
+    "koName": "일렉트릭메이커",
+    "realased": "",
+    "description": "등장했을 때 일렉트릭필드를 사용한다.",
+    "generation": 7,
+    "pokemonIds": [
+      "pikachu",
+      "pikachu_partner",
+      "pikachu_cosplay",
+      "pikachu_cool_cosplay",
+      "pikachu_beauty_cosplay",
+      "pikachu_cute_cosplay",
+      "pikachu_smart_cosplay",
+      "pikachu_tough_cosplay",
+      "pikachu_gigantamax",
+      "raichu",
+      "pichu",
+      "electrike",
+      "manectric",
+      "manectric_mega",
+      "tapu_koko",
+      "toxel",
+      "toxtricity",
+      "toxtricity_lowkey",
+      "toxtricity_gigantamax",
+      "pincurchin",
+      "regieleki",
+      "alola_raichu"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

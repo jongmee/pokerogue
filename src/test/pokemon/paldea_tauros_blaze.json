@@ -1,0 +1,118 @@
+[
+  {
+    "_id": "paldea_tauros_blaze",
+    "gender": "",
+    "pokedexNumber": "8128",
+    "name": "paldea_tauros_blaze",
+    "koName": "켄타로스_blaze",
+    "speciesName": "paldea_tauros",
+    "canChangeForm": true,
+    "formName": "blaze_breed",
+    "baseExp": "172",
+    "friendship": "50",
+    "types": [
+      "fighting",
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "intimidate",
+      "anger_point"
+    ],
+    "hiddenAbilityId": "cud_chew",
+    "passiveAbilityId": "adaptability",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 490,
+    "hp": 75,
+    "attack": 110,
+    "defense": 105,
+    "specialAttack": 30,
+    "specialDefense": 70,
+    "speed": 100,
+    "height": 1.4,
+    "weight": 85,
+    "eggMoveIds": [
+      "no_retreat",
+      "blazing_torque",
+      "aqua_step",
+      "thunderous_kick"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 5,
+        "moveId": "work_up"
+      },
+      {
+        "level": 10,
+        "moveId": "double_kick"
+      },
+      {
+        "level": 15,
+        "moveId": "flame_charge"
+      },
+      {
+        "level": 20,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 25,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 30,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 35,
+        "moveId": "raging_bull"
+      },
+      {
+        "level": 40,
+        "moveId": "rest"
+      },
+      {
+        "level": 45,
+        "moveId": "swagger"
+      },
+      {
+        "level": 50,
+        "moveId": "thrash"
+      },
+      {
+        "level": 55,
+        "moveId": "flare_blitz"
+      },
+      {
+        "level": 60,
+        "moveId": "close_combat"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "flamethrower",
+      "fire_spin",
+      "fire_blast",
+      "sunny_day",
+      "will_o_wisp",
+      "overheat",
+      "flare_blitz",
+      "flame_charge",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "plains"
+    ]
+  }
+]

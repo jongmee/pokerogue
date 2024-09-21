@@ -1,0 +1,164 @@
+[
+  {
+    "_id": "joltik",
+    "gender": "",
+    "pokedexNumber": "595",
+    "name": "joltik",
+    "koName": "파쪼옥",
+    "speciesName": "joltik",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "64",
+    "friendship": "50",
+    "types": [
+      "bug",
+      "electric"
+    ],
+    "normalAbilityIds": [
+      "compound_eyes",
+      "unnerve"
+    ],
+    "hiddenAbilityId": "swarm",
+    "passiveAbilityId": "transistor",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 319,
+    "hp": 50,
+    "attack": 47,
+    "defense": 50,
+    "specialAttack": 57,
+    "specialDefense": 50,
+    "speed": 65,
+    "height": 0.1,
+    "weight": 0.6,
+    "eggMoveIds": [
+      "thunder",
+      "parabolic_charge",
+      "earth_power",
+      "quiver_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 1,
+        "moveId": "fury_cutter"
+      },
+      {
+        "level": 1,
+        "moveId": "spider_web"
+      },
+      {
+        "level": 4,
+        "moveId": "electroweb"
+      },
+      {
+        "level": 8,
+        "moveId": "bug_bite"
+      },
+      {
+        "level": 12,
+        "moveId": "string_shot"
+      },
+      {
+        "level": 16,
+        "moveId": "thunder_wave"
+      },
+      {
+        "level": 20,
+        "moveId": "electro_ball"
+      },
+      {
+        "level": 24,
+        "moveId": "agility"
+      },
+      {
+        "level": 28,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 32,
+        "moveId": "slash"
+      },
+      {
+        "level": 37,
+        "moveId": "discharge"
+      },
+      {
+        "level": 40,
+        "moveId": "screech"
+      },
+      {
+        "level": 44,
+        "moveId": "gastro_acid"
+      },
+      {
+        "level": 48,
+        "moveId": "bug_buzz"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "cut",
+      "pin_missile",
+      "thunderbolt",
+      "thunder_wave",
+      "toxic",
+      "agility",
+      "screech",
+      "double_team",
+      "light_screen",
+      "swift",
+      "leech_life",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "facade",
+      "signal_beam",
+      "bounce",
+      "gastro_acid",
+      "poison_jab",
+      "x_scissor",
+      "bug_buzz",
+      "energy_ball",
+      "rock_climb",
+      "cross_poison",
+      "bug_bite",
+      "charge_beam",
+      "electro_ball",
+      "round",
+      "volt_switch",
+      "struggle_bug",
+      "electroweb",
+      "wild_charge",
+      "confide",
+      "infestation",
+      "lunge",
+      "speed_swap",
+      "rising_voltage",
+      "skitter_smack",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "jungle"
+    ]
+  }
+]

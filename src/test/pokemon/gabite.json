@@ -1,0 +1,171 @@
+[
+  {
+    "_id": "gabite",
+    "gender": "",
+    "pokedexNumber": "444",
+    "name": "gabite",
+    "koName": "한바이트",
+    "speciesName": "gabite",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "144",
+    "friendship": "50",
+    "types": [
+      "dragon",
+      "ground"
+    ],
+    "normalAbilityIds": [
+      "sand_veil"
+    ],
+    "hiddenAbilityId": "rough_skin",
+    "passiveAbilityId": "sand_stream",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 410,
+    "hp": 68,
+    "attack": 90,
+    "defense": 65,
+    "specialAttack": 50,
+    "specialDefense": 55,
+    "speed": 82,
+    "height": 1.4,
+    "weight": 56,
+    "eggMoveIds": [
+      "dragon_dance",
+      "bitter_blade",
+      "shore_up",
+      "thousand_arrows"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "dragon_breath"
+      },
+      {
+        "level": 1,
+        "moveId": "sand_tomb"
+      },
+      {
+        "level": 1,
+        "moveId": "dual_chop"
+      },
+      {
+        "level": 18,
+        "moveId": "bulldoze"
+      },
+      {
+        "level": 27,
+        "moveId": "bite"
+      },
+      {
+        "level": 34,
+        "moveId": "slash"
+      },
+      {
+        "level": 42,
+        "moveId": "dragon_claw"
+      },
+      {
+        "level": 50,
+        "moveId": "dig"
+      },
+      {
+        "level": 58,
+        "moveId": "sandstorm"
+      },
+      {
+        "level": 66,
+        "moveId": "take_down"
+      },
+      {
+        "level": 74,
+        "moveId": "dragon_rush"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "double_team",
+      "fire_blast",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "outrage",
+      "sandstorm",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "rock_smash",
+      "facade",
+      "helping_hand",
+      "rock_tomb",
+      "sand_tomb",
+      "aerial_ace",
+      "dragon_claw",
+      "mud_shot",
+      "dragon_pulse",
+      "power_gem",
+      "earth_power",
+      "shadow_claw",
+      "thunder_fang",
+      "fire_fang",
+      "rock_climb",
+      "draco_meteor",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "hone_claws",
+      "round",
+      "incinerate",
+      "bulldoze",
+      "dragon_tail",
+      "confide",
+      "breaking_swipe",
+      "scale_shot",
+      "scorching_sands",
+      "tera_blast",
+      "dragon_cheer"
+    ],
+    "biomeIds": [
+      "mountain",
+      "wasteland"
+    ]
+  }
+]

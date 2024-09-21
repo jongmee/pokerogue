@@ -1,0 +1,177 @@
+[
+  {
+    "_id": "jellicent",
+    "gender": "",
+    "pokedexNumber": "593",
+    "name": "jellicent",
+    "koName": "탱탱겔",
+    "speciesName": "jellicent",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "168",
+    "friendship": "50",
+    "types": [
+      "water",
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "water_absorb",
+      "cursed_body"
+    ],
+    "hiddenAbilityId": "damp",
+    "passiveAbilityId": "unaware",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 480,
+    "hp": 100,
+    "attack": 60,
+    "defense": 70,
+    "specialAttack": 85,
+    "specialDefense": 105,
+    "speed": 60,
+    "height": 2.2,
+    "weight": 135,
+    "eggMoveIds": [
+      "strength_sap",
+      "infernal_parade",
+      "freeze_dry",
+      "steam_eruption"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "poison_sting"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "water_sport"
+      },
+      {
+        "level": 1,
+        "moveId": "wring_out"
+      },
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 1,
+        "moveId": "night_shade"
+      },
+      {
+        "level": 1,
+        "moveId": "acid_armor"
+      },
+      {
+        "level": 12,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 16,
+        "moveId": "rain_dance"
+      },
+      {
+        "level": 20,
+        "moveId": "hex"
+      },
+      {
+        "level": 24,
+        "moveId": "brine"
+      },
+      {
+        "level": 28,
+        "moveId": "recover"
+      },
+      {
+        "level": 32,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 36,
+        "moveId": "whirlpool"
+      },
+      {
+        "level": 43,
+        "moveId": "hydro_pump"
+      },
+      {
+        "level": 48,
+        "moveId": "destiny_bond"
+      },
+      {
+        "level": 54,
+        "moveId": "water_spout"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "toxic",
+      "psychic",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "waterfall",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "spite",
+      "protect",
+      "sludge_bomb",
+      "icy_wind",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "pain_split",
+      "hidden_power",
+      "rain_dance",
+      "psych_up",
+      "shadow_ball",
+      "whirlpool",
+      "hail",
+      "will_o_wisp",
+      "facade",
+      "taunt",
+      "trick",
+      "imprison",
+      "dive",
+      "muddy_water",
+      "water_pulse",
+      "brine",
+      "dark_pulse",
+      "energy_ball",
+      "giga_impact",
+      "trick_room",
+      "sludge_wave",
+      "round",
+      "scald",
+      "hex",
+      "confide",
+      "dazzling_gleam",
+      "poltergeist",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "seabed"
+    ]
+  }
+]

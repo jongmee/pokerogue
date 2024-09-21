@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "night_daze",
+    "name": "Night Daze",
+    "koName": "나이트버스트",
+    "type": "dark",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 85,
+    "accuracy": 95,
+    "powerPoint": 10,
+    "effect": "암흑의 충격파를 날려서 상대를 공격한다. 명중률을 떨어뜨릴 때가 있다.",
+    "effectChance": 40,
+    "prioirty": 0,
+    "generation": 5,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "girafarig",
+      "cacnea",
+      "cacturne",
+      "lunatone",
+      "zorua",
+      "zoroark",
+      "lunala",
+      "farigiraf",
+      "galar_articuno"
+    ]
+  }
+]

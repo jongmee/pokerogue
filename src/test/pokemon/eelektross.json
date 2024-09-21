@@ -1,0 +1,175 @@
+[
+  {
+    "_id": "eelektross",
+    "gender": "",
+    "pokedexNumber": "604",
+    "name": "eelektross",
+    "koName": "저리더프",
+    "speciesName": "eelektross",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "232",
+    "friendship": "70",
+    "types": [
+      "electric"
+    ],
+    "normalAbilityIds": [
+      "levitate"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "poison_heal",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 515,
+    "hp": 85,
+    "attack": 115,
+    "defense": 80,
+    "specialAttack": 105,
+    "specialDefense": 80,
+    "speed": 50,
+    "height": 2.1,
+    "weight": 80.5,
+    "eggMoveIds": [
+      "scald",
+      "strength_sap",
+      "fire_lash",
+      "plasma_fists"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 1,
+        "moveId": "thrash"
+      },
+      {
+        "level": 1,
+        "moveId": "acid"
+      },
+      {
+        "level": 1,
+        "moveId": "zap_cannon"
+      },
+      {
+        "level": 1,
+        "moveId": "crunch"
+      },
+      {
+        "level": 1,
+        "moveId": "crush_claw"
+      },
+      {
+        "level": 1,
+        "moveId": "gastro_acid"
+      },
+      {
+        "level": 1,
+        "moveId": "discharge"
+      },
+      {
+        "level": 1,
+        "moveId": "coil"
+      },
+      {
+        "level": 5,
+        "moveId": "wild_charge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fire_punch",
+      "thunder_punch",
+      "cut",
+      "body_slam",
+      "take_down",
+      "roar",
+      "flamethrower",
+      "hyper_beam",
+      "strength",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "swift",
+      "flash",
+      "rest",
+      "rock_slide",
+      "super_fang",
+      "substitute",
+      "snore",
+      "protect",
+      "scary_face",
+      "outrage",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "rock_smash",
+      "facade",
+      "focus_punch",
+      "charge",
+      "superpower",
+      "brick_break",
+      "knock_off",
+      "rock_tomb",
+      "signal_beam",
+      "dragon_claw",
+      "bulk_up",
+      "bounce",
+      "u_turn",
+      "close_combat",
+      "gastro_acid",
+      "aqua_tail",
+      "dragon_pulse",
+      "drain_punch",
+      "giga_impact",
+      "thunder_fang",
+      "zen_headbutt",
+      "flash_cannon",
+      "grass_knot",
+      "charge_beam",
+      "hone_claws",
+      "heavy_slam",
+      "electro_ball",
+      "acid_spray",
+      "round",
+      "hex",
+      "acrobatics",
+      "volt_switch",
+      "bulldoze",
+      "dragon_tail",
+      "wild_charge",
+      "confide",
+      "eerie_impulse",
+      "electric_terrain",
+      "power_up_punch",
+      "throat_chop",
+      "lunge",
+      "stomping_tantrum",
+      "liquidation",
+      "body_press",
+      "tera_blast",
+      "supercell_slam"
+    ],
+    "biomeIds": [
+      "seabed"
+    ]
+  }
+]

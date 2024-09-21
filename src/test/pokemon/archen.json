@@ -1,0 +1,184 @@
+[
+  {
+    "_id": "archen",
+    "gender": "",
+    "pokedexNumber": "566",
+    "name": "archen",
+    "koName": "아켄",
+    "speciesName": "archen",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "71",
+    "friendship": "50",
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "defeatist"
+    ],
+    "hiddenAbilityId": "emergency_exit",
+    "passiveAbilityId": "multiscale",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 401,
+    "hp": 55,
+    "attack": 112,
+    "defense": 45,
+    "specialAttack": 74,
+    "specialDefense": 45,
+    "speed": 70,
+    "height": 0.5,
+    "weight": 9.5,
+    "eggMoveIds": [
+      "roost",
+      "earthquake",
+      "floaty_fall",
+      "mighty_cleave"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 3,
+        "moveId": "rock_throw"
+      },
+      {
+        "level": 6,
+        "moveId": "wing_attack"
+      },
+      {
+        "level": 9,
+        "moveId": "dragon_breath"
+      },
+      {
+        "level": 12,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 15,
+        "moveId": "pluck"
+      },
+      {
+        "level": 18,
+        "moveId": "quick_guard"
+      },
+      {
+        "level": 21,
+        "moveId": "u_turn"
+      },
+      {
+        "level": 24,
+        "moveId": "rock_slide"
+      },
+      {
+        "level": 27,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 30,
+        "moveId": "crunch"
+      },
+      {
+        "level": 33,
+        "moveId": "agility"
+      },
+      {
+        "level": 36,
+        "moveId": "tailwind"
+      },
+      {
+        "level": 39,
+        "moveId": "dragon_claw"
+      },
+      {
+        "level": 42,
+        "moveId": "thrash"
+      },
+      {
+        "level": 45,
+        "moveId": "endeavor"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "cut",
+      "roar",
+      "earthquake",
+      "dig",
+      "toxic",
+      "agility",
+      "double_team",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "scary_face",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "crunch",
+      "rock_smash",
+      "uproar",
+      "heat_wave",
+      "torment",
+      "facade",
+      "taunt",
+      "knock_off",
+      "endeavor",
+      "rock_tomb",
+      "aerial_ace",
+      "iron_defense",
+      "dragon_claw",
+      "bounce",
+      "rock_blast",
+      "roost",
+      "pluck",
+      "tailwind",
+      "u_turn",
+      "assurance",
+      "rock_polish",
+      "aqua_tail",
+      "dragon_pulse",
+      "earth_power",
+      "shadow_claw",
+      "zen_headbutt",
+      "defog",
+      "stone_edge",
+      "stealth_rock",
+      "hone_claws",
+      "smack_down",
+      "round",
+      "ally_switch",
+      "acrobatics",
+      "bulldoze",
+      "confide",
+      "meteor_beam",
+      "lash_out",
+      "dual_wingbeat",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "ruins"
+    ]
+  }
+]

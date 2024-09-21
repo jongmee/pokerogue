@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "hyper_cutter",
+    "name": "Hyper Cutter",
+    "koName": "괴력집게",
+    "realased": "",
+    "description": "힘이 자랑인 집게를 가지고 있어 상대가 공격을 떨어뜨리지 못한다.",
+    "generation": 3,
+    "pokemonIds": [
+      "krabby",
+      "kingler",
+      "pinsir",
+      "gligar",
+      "mawile",
+      "trapinch",
+      "corphish",
+      "crawdaunt",
+      "gliscor",
+      "crabrawler",
+      "crabominable"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "storm_throw",
+    "name": "Storm Throw",
+    "koName": "업어후리기",
+    "type": "fighting",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 60,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "강렬한 일격을 상대에게 날린다. 공격은 반드시 급소에 맞는다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 5,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "scyther",
+      "pinsir",
+      "aipom",
+      "scizor",
+      "scizor_mega",
+      "sneasel",
+      "shroomish",
+      "breloom",
+      "shuppet",
+      "banette",
+      "banette_mega",
+      "ambipom",
+      "weavile",
+      "throh",
+      "marshadow",
+      "marshadow_zenith",
+      "clobbopus",
+      "grapploct",
+      "kleavor"
+    ]
+  }
+]

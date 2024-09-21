@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "attack_order",
+    "name": "Attack Order",
+    "koName": "공격지령",
+    "type": "bug",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 90,
+    "accuracy": 100,
+    "powerPoint": 15,
+    "effect": "부하를 불러내어 상대를 향해서 공격시킨다. 급소에 맞기 쉽다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 4,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "weedle",
+      "kakuna",
+      "beedrill",
+      "beedrill_mega",
+      "spinarak",
+      "ariados",
+      "nincada",
+      "ninjask",
+      "shedinja",
+      "vespiquen",
+      "pheromosa",
+      "nymble",
+      "lokix"
+    ]
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "_id": "cacnea",
+    "gender": "",
+    "pokedexNumber": "331",
+    "name": "cacnea",
+    "koName": "선인왕",
+    "speciesName": "cacnea",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "67",
+    "friendship": "35",
+    "types": [
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "sand_veil"
+    ],
+    "hiddenAbilityId": "water_absorb",
+    "passiveAbilityId": "sand_rush",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 335,
+    "hp": 50,
+    "attack": 85,
+    "defense": 40,
+    "specialAttack": 85,
+    "specialDefense": 40,
+    "speed": 35,
+    "height": 0.4,
+    "weight": 51.3,
+    "eggMoveIds": [
+      "earth_power",
+      "ceaseless_edge",
+      "night_daze",
+      "ivy_cudgel"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "poison_sting"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 4,
+        "moveId": "absorb"
+      },
+      {
+        "level": 7,
+        "moveId": "growth"
+      },
+      {
+        "level": 10,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 13,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 16,
+        "moveId": "bullet_seed"
+      },
+      {
+        "level": 19,
+        "moveId": "power_trip"
+      },
+      {
+        "level": 22,
+        "moveId": "ingrain"
+      },
+      {
+        "level": 26,
+        "moveId": "payback"
+      },
+      {
+        "level": 30,
+        "moveId": "spikes"
+      },
+      {
+        "level": 34,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 38,
+        "moveId": "pin_missile"
+      },
+      {
+        "level": 42,
+        "moveId": "energy_ball"
+      },
+      {
+        "level": 46,
+        "moveId": "cotton_spore"
+      },
+      {
+        "level": 50,
+        "moveId": "sandstorm"
+      },
+      {
+        "level": 54,
+        "moveId": "destiny_bond"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "thunder_punch",
+      "swords_dance",
+      "cut",
+      "body_slam",
+      "take_down",
+      "pin_missile",
+      "low_kick",
+      "counter",
+      "solar_beam",
+      "dig",
+      "toxic",
+      "double_team",
+      "swift",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "spikes",
+      "sandstorm",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "synthesis",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "facade",
+      "focus_punch",
+      "nature_power",
+      "helping_hand",
+      "brick_break",
+      "endeavor",
+      "bullet_seed",
+      "magical_leaf",
+      "payback",
+      "assurance",
+      "fling",
+      "worry_seed",
+      "toxic_spikes",
+      "poison_jab",
+      "dark_pulse",
+      "seed_bomb",
+      "drain_punch",
+      "energy_ball",
+      "nasty_plot",
+      "leaf_storm",
+      "grass_knot",
+      "venoshock",
+      "foul_play",
+      "round",
+      "bulldoze",
+      "grassy_terrain",
+      "confide",
+      "power_up_punch",
+      "grassy_glide",
+      "skitter_smack",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "desert"
+    ]
+  }
+]

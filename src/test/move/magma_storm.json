@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "magma_storm",
+    "name": "Magma Storm",
+    "koName": "마그마스톰",
+    "type": "fire",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 100,
+    "accuracy": 75,
+    "powerPoint": 5,
+    "effect": "세차게 타오르는 불꽃 속에 4-5턴 동안 상대를 가두어 공격한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 4,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "slugma",
+      "magcargo",
+      "heatran",
+      "volcanion"
+    ]
+  }
+]

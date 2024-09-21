@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "klutz",
+    "name": "Klutz",
+    "koName": "서투름",
+    "realased": " (N)",
+    "description": "지니고 있는 도구를 쓸 수 없다.",
+    "generation": 4,
+    "pokemonIds": [
+      "buneary",
+      "lopunny",
+      "woobat",
+      "swoobat",
+      "audino",
+      "golett",
+      "golurk",
+      "stufful",
+      "bewear",
+      "toxel",
+      "fidough",
+      "capsakid"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

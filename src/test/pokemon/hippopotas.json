@@ -1,0 +1,164 @@
+[
+  {
+    "_id": "hippopotas",
+    "gender": "",
+    "pokedexNumber": "449",
+    "name": "hippopotas",
+    "koName": "히포포타스",
+    "speciesName": "hippopotas",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "66",
+    "friendship": "50",
+    "types": [
+      "ground"
+    ],
+    "normalAbilityIds": [
+      "sand_stream"
+    ],
+    "hiddenAbilityId": "sand_force",
+    "passiveAbilityId": "unaware",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 330,
+    "hp": 68,
+    "attack": 72,
+    "defense": 78,
+    "specialAttack": 38,
+    "specialDefense": 42,
+    "speed": 32,
+    "height": 0.8,
+    "weight": 49.5,
+    "eggMoveIds": [
+      "shore_up",
+      "stone_axe",
+      "bulk_up",
+      "salt_cure"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 4,
+        "moveId": "bite"
+      },
+      {
+        "level": 8,
+        "moveId": "yawn"
+      },
+      {
+        "level": 12,
+        "moveId": "sand_tomb"
+      },
+      {
+        "level": 16,
+        "moveId": "dig"
+      },
+      {
+        "level": 20,
+        "moveId": "crunch"
+      },
+      {
+        "level": 24,
+        "moveId": "sandstorm"
+      },
+      {
+        "level": 28,
+        "moveId": "take_down"
+      },
+      {
+        "level": 32,
+        "moveId": "roar"
+      },
+      {
+        "level": 36,
+        "moveId": "rest"
+      },
+      {
+        "level": 40,
+        "moveId": "earthquake"
+      },
+      {
+        "level": 44,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 48,
+        "moveId": "fissure"
+      },
+      {
+        "level": 52,
+        "moveId": "slack_off"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "double_team",
+      "amnesia",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "sunny_day",
+      "crunch",
+      "rock_smash",
+      "facade",
+      "helping_hand",
+      "superpower",
+      "revenge",
+      "weather_ball",
+      "rock_tomb",
+      "sand_tomb",
+      "muddy_water",
+      "mud_shot",
+      "water_pulse",
+      "earth_power",
+      "thunder_fang",
+      "ice_fang",
+      "fire_fang",
+      "stone_edge",
+      "stealth_rock",
+      "round",
+      "bulldoze",
+      "confide",
+      "high_horsepower",
+      "stomping_tantrum",
+      "body_press",
+      "scorching_sands",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "desert"
+    ]
+  }
+]

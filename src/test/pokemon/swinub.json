@@ -1,0 +1,164 @@
+[
+  {
+    "_id": "swinub",
+    "gender": "",
+    "pokedexNumber": "220",
+    "name": "swinub",
+    "koName": "꾸꾸리",
+    "speciesName": "swinub",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "50",
+    "friendship": "50",
+    "types": [
+      "ice",
+      "ground"
+    ],
+    "normalAbilityIds": [
+      "oblivious",
+      "snow_cloak"
+    ],
+    "hiddenAbilityId": "thick_fat",
+    "passiveAbilityId": "slush_rush",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 250,
+    "hp": 50,
+    "attack": 50,
+    "defense": 40,
+    "specialAttack": 30,
+    "specialDefense": 30,
+    "speed": 50,
+    "height": 0.4,
+    "weight": 6.5,
+    "eggMoveIds": [
+      "slack_off",
+      "lands_wrath",
+      "mighty_cleave",
+      "glacial_lance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "mud_slap"
+      },
+      {
+        "level": 1,
+        "moveId": "odor_sleuth"
+      },
+      {
+        "level": 5,
+        "moveId": "powder_snow"
+      },
+      {
+        "level": 10,
+        "moveId": "flail"
+      },
+      {
+        "level": 15,
+        "moveId": "ice_shard"
+      },
+      {
+        "level": 20,
+        "moveId": "mist"
+      },
+      {
+        "level": 25,
+        "moveId": "endure"
+      },
+      {
+        "level": 30,
+        "moveId": "icy_wind"
+      },
+      {
+        "level": 35,
+        "moveId": "amnesia"
+      },
+      {
+        "level": 40,
+        "moveId": "take_down"
+      },
+      {
+        "level": 45,
+        "moveId": "earthquake"
+      },
+      {
+        "level": 50,
+        "moveId": "blizzard"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "ice_beam",
+      "blizzard",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "double_team",
+      "light_screen",
+      "haze",
+      "reflect",
+      "amnesia",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "curse",
+      "reversal",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "icy_wind",
+      "sandstorm",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "rock_smash",
+      "hail",
+      "facade",
+      "superpower",
+      "endeavor",
+      "rock_tomb",
+      "sand_tomb",
+      "icicle_spear",
+      "mud_shot",
+      "earth_power",
+      "avalanche",
+      "ice_fang",
+      "stone_edge",
+      "stealth_rock",
+      "smack_down",
+      "round",
+      "bulldoze",
+      "confide",
+      "high_horsepower",
+      "stomping_tantrum",
+      "tera_blast",
+      "snowscape",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "ice_cave",
+      "snowy_forest"
+    ]
+  }
+]

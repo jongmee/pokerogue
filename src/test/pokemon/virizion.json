@@ -1,0 +1,182 @@
+[
+  {
+    "_id": "virizion",
+    "gender": "",
+    "pokedexNumber": "640",
+    "name": "virizion",
+    "koName": "비리디온",
+    "speciesName": "virizion",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "290",
+    "friendship": "35",
+    "types": [
+      "grass",
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "justified"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "sharpness",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 580,
+    "hp": 91,
+    "attack": 90,
+    "defense": 72,
+    "specialAttack": 90,
+    "specialDefense": 129,
+    "speed": 108,
+    "height": 2,
+    "weight": 200,
+    "eggMoveIds": [
+      "psyblade",
+      "sappy_seed",
+      "ceaseless_edge",
+      "victory_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": -1,
+        "moveId": "take_down"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 1,
+        "moveId": "work_up"
+      },
+      {
+        "level": 7,
+        "moveId": "magical_leaf"
+      },
+      {
+        "level": 14,
+        "moveId": "quick_guard"
+      },
+      {
+        "level": 21,
+        "moveId": "double_kick"
+      },
+      {
+        "level": 28,
+        "moveId": "retaliate"
+      },
+      {
+        "level": 35,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 42,
+        "moveId": "take_down"
+      },
+      {
+        "level": 49,
+        "moveId": "sacred_sword"
+      },
+      {
+        "level": 56,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 63,
+        "moveId": "leaf_blade"
+      },
+      {
+        "level": 70,
+        "moveId": "close_combat"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "hyper_beam",
+      "strength",
+      "solar_beam",
+      "toxic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "swift",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "reversal",
+      "protect",
+      "giga_drain",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "megahorn",
+      "synthesis",
+      "hidden_power",
+      "sunny_day",
+      "psych_up",
+      "rock_smash",
+      "facade",
+      "nature_power",
+      "taunt",
+      "helping_hand",
+      "superpower",
+      "revenge",
+      "brick_break",
+      "aerial_ace",
+      "bounce",
+      "magical_leaf",
+      "calm_mind",
+      "leaf_blade",
+      "close_combat",
+      "worry_seed",
+      "seed_bomb",
+      "air_slash",
+      "x_scissor",
+      "vacuum_wave",
+      "focus_blast",
+      "energy_ball",
+      "giga_impact",
+      "zen_headbutt",
+      "leaf_storm",
+      "stone_edge",
+      "grass_knot",
+      "round",
+      "retaliate",
+      "work_up",
+      "sacred_sword",
+      "confide",
+      "solar_blade",
+      "smart_strike",
+      "grassy_glide",
+      "coaching",
+      "tera_blast",
+      "upper_hand"
+    ],
+    "biomeIds": [
+      "grass"
+    ]
+  }
+]

@@ -1,0 +1,196 @@
+[
+  {
+    "_id": "delibird",
+    "gender": "",
+    "pokedexNumber": "225",
+    "name": "delibird",
+    "koName": "딜리버드",
+    "speciesName": "delibird",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "116",
+    "friendship": "50",
+    "types": [
+      "ice",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "vital_spirit",
+      "hustle"
+    ],
+    "hiddenAbilityId": "insomnia",
+    "passiveAbilityId": "huge_power",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 330,
+    "hp": 45,
+    "attack": 55,
+    "defense": 45,
+    "specialAttack": 65,
+    "specialDefense": 45,
+    "speed": 75,
+    "height": 0.9,
+    "weight": 16,
+    "eggMoveIds": [
+      "drill_run",
+      "floaty_fall",
+      "victory_dance",
+      "glacial_lance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "present"
+      },
+      {
+        "level": 1,
+        "moveId": "metronome"
+      },
+      {
+        "level": 5,
+        "moveId": "fake_out"
+      },
+      {
+        "level": 5,
+        "moveId": "powder_snow"
+      },
+      {
+        "level": 6,
+        "moveId": "mist"
+      },
+      {
+        "level": 10,
+        "moveId": "ice_shard"
+      },
+      {
+        "level": 15,
+        "moveId": "aerial_ace"
+      },
+      {
+        "level": 20,
+        "moveId": "icy_wind"
+      },
+      {
+        "level": 25,
+        "moveId": "drill_peck"
+      },
+      {
+        "level": 30,
+        "moveId": "ice_punch"
+      },
+      {
+        "level": 35,
+        "moveId": "haze"
+      },
+      {
+        "level": 40,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 45,
+        "moveId": "tailwind"
+      },
+      {
+        "level": 50,
+        "moveId": "snowscape"
+      },
+      {
+        "level": 55,
+        "moveId": "blizzard"
+      },
+      {
+        "level": 60,
+        "moveId": "brave_bird"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "ice_punch",
+      "fly",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "counter",
+      "toxic",
+      "agility",
+      "double_team",
+      "haze",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "reversal",
+      "protect",
+      "mud_slap",
+      "spikes",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "hidden_power",
+      "rain_dance",
+      "future_sight",
+      "hail",
+      "facade",
+      "focus_punch",
+      "helping_hand",
+      "recycle",
+      "brick_break",
+      "endeavor",
+      "feather_dance",
+      "weather_ball",
+      "air_cutter",
+      "signal_beam",
+      "aerial_ace",
+      "icicle_spear",
+      "bounce",
+      "water_pulse",
+      "pluck",
+      "tailwind",
+      "assurance",
+      "fling",
+      "seed_bomb",
+      "air_slash",
+      "brave_bird",
+      "giga_impact",
+      "avalanche",
+      "defog",
+      "gunk_shot",
+      "foul_play",
+      "round",
+      "acrobatics",
+      "frost_breath",
+      "drill_run",
+      "confide",
+      "power_up_punch",
+      "brutal_swing",
+      "aurora_veil",
+      "triple_axel",
+      "dual_wingbeat",
+      "tera_blast",
+      "ice_spinner",
+      "snowscape",
+      "trailblaze",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "ice_cave",
+      "snowy_forest"
+    ]
+  }
+]

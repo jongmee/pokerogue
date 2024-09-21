@@ -1,0 +1,206 @@
+[
+  {
+    "_id": "dunsparce",
+    "gender": "",
+    "pokedexNumber": "206",
+    "name": "dunsparce",
+    "koName": "노고치",
+    "speciesName": "dunsparce",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "145",
+    "friendship": "50",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "serene_grace",
+      "run_away"
+    ],
+    "hiddenAbilityId": "rattled",
+    "passiveAbilityId": "unaware",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 415,
+    "hp": 100,
+    "attack": 70,
+    "defense": 70,
+    "specialAttack": 65,
+    "specialDefense": 65,
+    "speed": 45,
+    "height": 1.5,
+    "weight": 14,
+    "eggMoveIds": [
+      "body_slam",
+      "magical_torque",
+      "blazing_torque",
+      "extreme_speed"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": 1,
+        "moveId": "flail"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 4,
+        "moveId": "mud_slap"
+      },
+      {
+        "level": 8,
+        "moveId": "rollout"
+      },
+      {
+        "level": 12,
+        "moveId": "glare"
+      },
+      {
+        "level": 16,
+        "moveId": "screech"
+      },
+      {
+        "level": 20,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 24,
+        "moveId": "drill_run"
+      },
+      {
+        "level": 28,
+        "moveId": "yawn"
+      },
+      {
+        "level": 32,
+        "moveId": "hyper_drill"
+      },
+      {
+        "level": 36,
+        "moveId": "roost"
+      },
+      {
+        "level": 40,
+        "moveId": "dragon_rush"
+      },
+      {
+        "level": 44,
+        "moveId": "coil"
+      },
+      {
+        "level": 48,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 52,
+        "moveId": "endeavor"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "flamethrower",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "counter",
+      "strength",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "earthquake",
+      "dig",
+      "toxic",
+      "agility",
+      "screech",
+      "double_team",
+      "fire_blast",
+      "amnesia",
+      "dream_eater",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "baton_pass",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "rock_smash",
+      "uproar",
+      "facade",
+      "helping_hand",
+      "endeavor",
+      "hyper_voice",
+      "rock_tomb",
+      "mud_shot",
+      "poison_tail",
+      "calm_mind",
+      "water_pulse",
+      "roost",
+      "gyro_ball",
+      "poison_jab",
+      "aqua_tail",
+      "air_slash",
+      "earth_power",
+      "giga_impact",
+      "zen_headbutt",
+      "stone_edge",
+      "stealth_rock",
+      "charge_beam",
+      "round",
+      "stored_power",
+      "hex",
+      "incinerate",
+      "retaliate",
+      "bulldoze",
+      "wild_charge",
+      "drill_run",
+      "confide",
+      "lunge",
+      "smart_strike",
+      "stomping_tantrum",
+      "breaking_swipe",
+      "scale_shot",
+      "terrain_pulse",
+      "skitter_smack",
+      "dual_wingbeat",
+      "tera_blast",
+      "ice_spinner",
+      "pounce",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "plains"
+    ]
+  }
+]

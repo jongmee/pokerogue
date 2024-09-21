@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "simple_beam",
+    "name": "Simple Beam",
+    "koName": "심플빔",
+    "type": "normal",
+    "moveCategory": "status",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": 100,
+    "powerPoint": 15,
+    "effect": "수수께끼의 염력파를 상대에게 보낸다. 염력파를 받은 상대는 특성이 단순으로 바뀐다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 5,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "latios",
+      "woobat",
+      "swoobat",
+      "audino",
+      "genesect"
+    ]
+  }
+]

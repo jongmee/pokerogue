@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "me_first",
+    "name": "Me First",
+    "koName": "선취",
+    "type": "normal",
+    "moveCategory": "status",
+    "moveTarget": "near_enemy",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 20,
+    "effect": "위력을 올려 상대가 쓰려고 하는 기술을 먼저 쓴다. 먼저 쓰지 않으면 실패한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 4,
+    "realased": " (N)",
+    "flags": [
+      "ignore_virtual"
+    ],
+    "pokemonIds": [
+      "golduck",
+      "stantler"
+    ]
+  }
+]

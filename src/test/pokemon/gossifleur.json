@@ -1,0 +1,126 @@
+[
+  {
+    "_id": "gossifleur",
+    "gender": "",
+    "pokedexNumber": "829",
+    "name": "gossifleur",
+    "koName": "꼬모카",
+    "speciesName": "gossifleur",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "50",
+    "friendship": "50",
+    "types": [
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "cotton_down",
+      "regenerator"
+    ],
+    "hiddenAbilityId": "effect_spore",
+    "passiveAbilityId": "grassy_surge",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 250,
+    "hp": 40,
+    "attack": 40,
+    "defense": 60,
+    "specialAttack": 40,
+    "specialDefense": 60,
+    "speed": 10,
+    "height": 0.4,
+    "weight": 2.2,
+    "eggMoveIds": [
+      "tailwind",
+      "strength_sap",
+      "sappy_seed",
+      "seed_flare"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "sing"
+      },
+      {
+        "level": 1,
+        "moveId": "leafage"
+      },
+      {
+        "level": 4,
+        "moveId": "rapid_spin"
+      },
+      {
+        "level": 8,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 12,
+        "moveId": "razor_leaf"
+      },
+      {
+        "level": 16,
+        "moveId": "round"
+      },
+      {
+        "level": 21,
+        "moveId": "leaf_tornado"
+      },
+      {
+        "level": 24,
+        "moveId": "synthesis"
+      },
+      {
+        "level": 28,
+        "moveId": "hyper_voice"
+      },
+      {
+        "level": 32,
+        "moveId": "aromatherapy"
+      },
+      {
+        "level": 36,
+        "moveId": "leaf_storm"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "solar_beam",
+      "double_team",
+      "light_screen",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "giga_drain",
+      "endure",
+      "charm",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "synthesis",
+      "hidden_power",
+      "sunny_day",
+      "facade",
+      "helping_hand",
+      "hyper_voice",
+      "bullet_seed",
+      "magical_leaf",
+      "worry_seed",
+      "energy_ball",
+      "leaf_storm",
+      "grass_knot",
+      "round",
+      "grassy_terrain",
+      "pollen_puff",
+      "grassy_glide"
+    ],
+    "biomeIds": [
+      "meadow"
+    ]
+  }
+]

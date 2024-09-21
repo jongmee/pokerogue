@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "flame_wheel",
+    "name": "Flame Wheel",
+    "koName": "화염바퀴",
+    "type": "fire",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 60,
+    "accuracy": 100,
+    "powerPoint": 25,
+    "effect": "불꽃을 둘러 상대에게 돌진하여 공격한다. 화상 상태로 만들 때가 있다.",
+    "effectChance": 10,
+    "prioirty": 0,
+    "generation": 2,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "growlithe",
+      "arcanine",
+      "ponyta",
+      "rapidash",
+      "magmar",
+      "cyndaquil",
+      "quilava",
+      "typhlosion",
+      "magby",
+      "entei",
+      "torkoal",
+      "chimchar",
+      "monferno",
+      "infernape",
+      "magmortar",
+      "larvesta",
+      "volcarona",
+      "sizzlipede",
+      "centiskorch",
+      "chi_yu",
+      "alola_marowak",
+      "hisui_growlithe",
+      "hisui_arcanine",
+      "hisui_typhlosion"
+    ]
+  }
+]

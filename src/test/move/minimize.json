@@ -1,0 +1,39 @@
+[
+  {
+    "_id": "minimize",
+    "name": "Minimize",
+    "koName": "작아지기",
+    "type": "normal",
+    "moveCategory": "status",
+    "moveTarget": "user",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 10,
+    "effect": "몸을 축소하여 작게 보임으로써 자신의 회피율을 크게 올린다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 1,
+    "realased": "",
+    "flags": [
+      "ignore_protect"
+    ],
+    "pokemonIds": [
+      "grimer",
+      "muk",
+      "staryu",
+      "starmie",
+      "qwilfish",
+      "drifloon",
+      "drifblim",
+      "litwick",
+      "lampent",
+      "chandelure",
+      "silicobra",
+      "sandaconda",
+      "overqwil",
+      "alola_grimer",
+      "alola_muk",
+      "hisui_qwilfish"
+    ]
+  }
+]

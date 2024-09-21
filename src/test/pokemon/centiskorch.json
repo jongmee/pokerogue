@@ -1,0 +1,149 @@
+[
+  {
+    "_id": "centiskorch",
+    "gender": "",
+    "pokedexNumber": "851",
+    "name": "centiskorch",
+    "koName": "다태우지네",
+    "speciesName": "centiskorch",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "184",
+    "friendship": "50",
+    "types": [
+      "fire",
+      "bug"
+    ],
+    "normalAbilityIds": [
+      "flash_fire",
+      "white_smoke"
+    ],
+    "hiddenAbilityId": "flame_body",
+    "passiveAbilityId": "speed_boost",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 525,
+    "hp": 100,
+    "attack": 115,
+    "defense": 65,
+    "specialAttack": 90,
+    "specialDefense": 90,
+    "speed": 65,
+    "height": 3,
+    "weight": 120,
+    "eggMoveIds": [
+      "burning_bulwark",
+      "zing_zap",
+      "first_impression",
+      "bitter_blade"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "wrap"
+      },
+      {
+        "level": 1,
+        "moveId": "bite"
+      },
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 1,
+        "moveId": "smokescreen"
+      },
+      {
+        "level": 1,
+        "moveId": "inferno"
+      },
+      {
+        "level": 15,
+        "moveId": "flame_wheel"
+      },
+      {
+        "level": 20,
+        "moveId": "bug_bite"
+      },
+      {
+        "level": 25,
+        "moveId": "coil"
+      },
+      {
+        "level": 32,
+        "moveId": "slam"
+      },
+      {
+        "level": 39,
+        "moveId": "fire_spin"
+      },
+      {
+        "level": 46,
+        "moveId": "crunch"
+      },
+      {
+        "level": 53,
+        "moveId": "fire_lash"
+      },
+      {
+        "level": 60,
+        "moveId": "lunge"
+      },
+      {
+        "level": 67,
+        "moveId": "burn_up"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "flamethrower",
+      "hyper_beam",
+      "solar_beam",
+      "fire_spin",
+      "double_team",
+      "fire_blast",
+      "leech_life",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "sunny_day",
+      "crunch",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "overheat",
+      "flare_blitz",
+      "x_scissor",
+      "bug_buzz",
+      "giga_impact",
+      "thunder_fang",
+      "fire_fang",
+      "power_whip",
+      "bug_bite",
+      "venoshock",
+      "round",
+      "scald",
+      "heat_crash",
+      "mystical_fire",
+      "lunge",
+      "brutal_swing",
+      "skitter_smack",
+      "scorching_sands"
+    ],
+    "biomeIds": [
+      "badlands"
+    ]
+  }
+]

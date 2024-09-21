@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "ice_scales",
+    "name": "Ice Scales",
+    "koName": "얼음인분",
+    "realased": "",
+    "description": "얼음인분의 보호를 받아 특수공격으로 받는 데미지가 절반이 된다.",
+    "generation": 8,
+    "pokemonIds": [
+      "shellder",
+      "cloyster",
+      "amaura",
+      "aurorus",
+      "bergmite",
+      "avalugg",
+      "snom",
+      "frosmoth",
+      "eiscue",
+      "cetoddle",
+      "cetitan",
+      "hisui_avalugg"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

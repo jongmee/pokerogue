@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "lingering_aroma",
+    "name": "Lingering Aroma",
+    "koName": "가시지않는향기",
+    "realased": "",
+    "description": "상대가 접촉하면 가시지 않는 향기가 상대에게 배어 버린다.",
+    "generation": 9,
+    "pokemonIds": [
+      "oinkologne"
+    ],
+    "isBypassFaint": true,
+    "isIgnorable": false
+  }
+]

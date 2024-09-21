@@ -1,0 +1,171 @@
+[
+  {
+    "_id": "ivysaur",
+    "gender": "",
+    "pokedexNumber": "2",
+    "name": "ivysaur",
+    "koName": "이상해풀",
+    "speciesName": "ivysaur",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "142",
+    "friendship": "50",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "normalAbilityIds": [
+      "overgrow"
+    ],
+    "hiddenAbilityId": "chlorophyll",
+    "passiveAbilityId": "grassy_surge",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 405,
+    "hp": 60,
+    "attack": 62,
+    "defense": 63,
+    "specialAttack": 80,
+    "specialDefense": 80,
+    "speed": 60,
+    "height": 1,
+    "weight": 13,
+    "eggMoveIds": [
+      "sappy_seed",
+      "sludge_wave",
+      "earth_power",
+      "matcha_gotcha"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "vine_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "growth"
+      },
+      {
+        "level": 9,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 12,
+        "moveId": "razor_leaf"
+      },
+      {
+        "level": 15,
+        "moveId": "poison_powder"
+      },
+      {
+        "level": 15,
+        "moveId": "sleep_powder"
+      },
+      {
+        "level": 20,
+        "moveId": "seed_bomb"
+      },
+      {
+        "level": 25,
+        "moveId": "take_down"
+      },
+      {
+        "level": 30,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 35,
+        "moveId": "synthesis"
+      },
+      {
+        "level": 40,
+        "moveId": "worry_seed"
+      },
+      {
+        "level": 45,
+        "moveId": "power_whip"
+      },
+      {
+        "level": 50,
+        "moveId": "solar_beam"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "strength",
+      "solar_beam",
+      "toxic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "amnesia",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "sludge_bomb",
+      "mud_slap",
+      "outrage",
+      "giga_drain",
+      "endure",
+      "charm",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "synthesis",
+      "hidden_power",
+      "sunny_day",
+      "rock_smash",
+      "facade",
+      "nature_power",
+      "helping_hand",
+      "knock_off",
+      "weather_ball",
+      "bullet_seed",
+      "magical_leaf",
+      "worry_seed",
+      "seed_bomb",
+      "energy_ball",
+      "leaf_storm",
+      "power_whip",
+      "grass_knot",
+      "venoshock",
+      "acid_spray",
+      "round",
+      "echoed_voice",
+      "grass_pledge",
+      "work_up",
+      "grassy_terrain",
+      "confide",
+      "grassy_glide",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "grass"
+    ]
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "_id": "frogadier",
+    "gender": "",
+    "pokedexNumber": "657",
+    "name": "frogadier",
+    "koName": "개굴반장",
+    "speciesName": "frogadier",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "142",
+    "friendship": "70",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "torrent"
+    ],
+    "hiddenAbilityId": "protean",
+    "passiveAbilityId": "stakeout",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 405,
+    "hp": 54,
+    "attack": 63,
+    "defense": 52,
+    "specialAttack": 83,
+    "specialDefense": 56,
+    "speed": 97,
+    "height": 0.6,
+    "weight": 10.9,
+    "eggMoveIds": [
+      "moonblast",
+      "shell_side_arm",
+      "fiery_wrath",
+      "steam_eruption"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 8,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 10,
+        "moveId": "lick"
+      },
+      {
+        "level": 14,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 19,
+        "moveId": "smokescreen"
+      },
+      {
+        "level": 23,
+        "moveId": "round"
+      },
+      {
+        "level": 28,
+        "moveId": "fling"
+      },
+      {
+        "level": 33,
+        "moveId": "smack_down"
+      },
+      {
+        "level": 40,
+        "moveId": "substitute"
+      },
+      {
+        "level": 45,
+        "moveId": "bounce"
+      },
+      {
+        "level": 50,
+        "moveId": "double_team"
+      },
+      {
+        "level": 56,
+        "moveId": "hydro_pump"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "ice_punch",
+      "swords_dance",
+      "cut",
+      "take_down",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "low_kick",
+      "counter",
+      "strength",
+      "dig",
+      "toxic",
+      "double_team",
+      "waterfall",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "spite",
+      "protect",
+      "mud_slap",
+      "spikes",
+      "icy_wind",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "rock_smash",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "dive",
+      "rock_tomb",
+      "aerial_ace",
+      "bounce",
+      "mud_shot",
+      "water_pulse",
+      "u_turn",
+      "fling",
+      "toxic_spikes",
+      "dark_pulse",
+      "gunk_shot",
+      "grass_knot",
+      "smack_down",
+      "round",
+      "echoed_voice",
+      "scald",
+      "acrobatics",
+      "water_pledge",
+      "work_up",
+      "confide",
+      "power_up_punch",
+      "liquidation",
+      "tera_blast",
+      "snowscape",
+      "trailblaze",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "lake"
+    ]
+  }
+]

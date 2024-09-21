@@ -1,0 +1,183 @@
+[
+  {
+    "_id": "machop",
+    "gender": "",
+    "pokedexNumber": "66",
+    "name": "machop",
+    "koName": "알통몬",
+    "speciesName": "machop",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "61",
+    "friendship": "50",
+    "types": [
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "guts",
+      "no_guard"
+    ],
+    "hiddenAbilityId": "steadfast",
+    "passiveAbilityId": "quick_feet",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 305,
+    "hp": 70,
+    "attack": 80,
+    "defense": 50,
+    "specialAttack": 35,
+    "specialDefense": 35,
+    "speed": 35,
+    "height": 0.8,
+    "weight": 19.5,
+    "eggMoveIds": [
+      "combat_torque",
+      "meteor_mash",
+      "mountain_gale",
+      "fissure"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "low_kick"
+      },
+      {
+        "level": 4,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 8,
+        "moveId": "revenge"
+      },
+      {
+        "level": 12,
+        "moveId": "low_sweep"
+      },
+      {
+        "level": 16,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 20,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 24,
+        "moveId": "vital_throw"
+      },
+      {
+        "level": 29,
+        "moveId": "strength"
+      },
+      {
+        "level": 32,
+        "moveId": "dual_chop"
+      },
+      {
+        "level": 36,
+        "moveId": "bulk_up"
+      },
+      {
+        "level": 40,
+        "moveId": "seismic_toss"
+      },
+      {
+        "level": 44,
+        "moveId": "dynamic_punch"
+      },
+      {
+        "level": 48,
+        "moveId": "cross_chop"
+      },
+      {
+        "level": 52,
+        "moveId": "double_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "flamethrower",
+      "low_kick",
+      "counter",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "double_team",
+      "light_screen",
+      "focus_energy",
+      "metronome",
+      "fire_blast",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "reversal",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "rock_smash",
+      "facade",
+      "focus_punch",
+      "helping_hand",
+      "superpower",
+      "revenge",
+      "brick_break",
+      "knock_off",
+      "rock_tomb",
+      "bulk_up",
+      "close_combat",
+      "payback",
+      "fling",
+      "poison_jab",
+      "vacuum_wave",
+      "focus_blast",
+      "rock_climb",
+      "smack_down",
+      "heavy_slam",
+      "low_sweep",
+      "round",
+      "incinerate",
+      "retaliate",
+      "bulldoze",
+      "work_up",
+      "confide",
+      "power_up_punch",
+      "coaching",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "mountain",
+      "factory",
+      "construction_site"
+    ]
+  }
+]

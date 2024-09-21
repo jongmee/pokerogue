@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "receiver",
+    "name": "Receiver",
+    "koName": "리시버",
+    "realased": "",
+    "description": "쓰러진 같은 편의 특성을 이어받아 같은 특성으로 바뀐다.",
+    "generation": 7,
+    "pokemonIds": [
+      "passimian"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

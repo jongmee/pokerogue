@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "bitter_malice",
+    "name": "Bitter Malice",
+    "koName": "천추지한",
+    "type": "ghost",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 75,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "등골이 서늘해지는 원념으로 공격해서 상대의 공격을 떨어뜨린다.",
+    "effectChance": 100,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "hisui_zorua",
+      "hisui_zoroark"
+    ]
+  }
+]

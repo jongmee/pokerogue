@@ -1,0 +1,187 @@
+[
+  {
+    "_id": "drifloon",
+    "gender": "",
+    "pokedexNumber": "425",
+    "name": "drifloon",
+    "koName": "흔들풍손",
+    "speciesName": "drifloon",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "70",
+    "friendship": "50",
+    "types": [
+      "ghost",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "aftermath",
+      "unburden"
+    ],
+    "hiddenAbilityId": "flare_boost",
+    "passiveAbilityId": "magic_guard",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 348,
+    "hp": 90,
+    "attack": 50,
+    "defense": 34,
+    "specialAttack": 60,
+    "specialDefense": 44,
+    "speed": 70,
+    "height": 0.4,
+    "weight": 1.2,
+    "eggMoveIds": [
+      "will_o_wisp",
+      "mind_blown",
+      "calm_mind",
+      "oblivion_wing"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "minimize"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 1,
+        "moveId": "constrict"
+      },
+      {
+        "level": 4,
+        "moveId": "gust"
+      },
+      {
+        "level": 8,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 12,
+        "moveId": "payback"
+      },
+      {
+        "level": 16,
+        "moveId": "hex"
+      },
+      {
+        "level": 20,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 24,
+        "moveId": "stockpile"
+      },
+      {
+        "level": 24,
+        "moveId": "spit_up"
+      },
+      {
+        "level": 24,
+        "moveId": "swallow"
+      },
+      {
+        "level": 29,
+        "moveId": "self_destruct"
+      },
+      {
+        "level": 32,
+        "moveId": "destiny_bond"
+      },
+      {
+        "level": 36,
+        "moveId": "baton_pass"
+      },
+      {
+        "level": 40,
+        "moveId": "tailwind"
+      },
+      {
+        "level": 44,
+        "moveId": "explosion"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "cut",
+      "fly",
+      "body_slam",
+      "psybeam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "psychic",
+      "night_shade",
+      "double_team",
+      "haze",
+      "focus_energy",
+      "self_destruct",
+      "swift",
+      "amnesia",
+      "dream_eater",
+      "flash",
+      "explosion",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "baton_pass",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "will_o_wisp",
+      "facade",
+      "helping_hand",
+      "trick",
+      "recycle",
+      "knock_off",
+      "skill_swap",
+      "imprison",
+      "weather_ball",
+      "air_cutter",
+      "aerial_ace",
+      "calm_mind",
+      "gyro_ball",
+      "tailwind",
+      "payback",
+      "embargo",
+      "defog",
+      "trick_room",
+      "charge_beam",
+      "round",
+      "stored_power",
+      "ally_switch",
+      "hex",
+      "acrobatics",
+      "phantom_force",
+      "confide",
+      "brutal_swing",
+      "tera_blast",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "graveyard"
+    ]
+  }
+]

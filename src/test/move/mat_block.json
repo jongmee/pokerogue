@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "mat_block",
+    "name": "Mat Block",
+    "koName": "마룻바닥세워막기",
+    "type": "fighting",
+    "moveCategory": "status",
+    "moveTarget": "user_side",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 10,
+    "effect": "뒤집어 세운 마룻바닥을 방패로 하여 자신과 같은 편으로 향하는 기술 데미지를 막는다. 변화 기술은 막을 수 없다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 6,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "throh",
+      "greninja"
+    ]
+  }
+]

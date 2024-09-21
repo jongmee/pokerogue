@@ -1,0 +1,172 @@
+[
+  {
+    "_id": "sunflora",
+    "gender": "",
+    "pokedexNumber": "192",
+    "name": "sunflora",
+    "koName": "해루미",
+    "speciesName": "sunflora",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "149",
+    "friendship": "70",
+    "types": [
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "chlorophyll",
+      "solar_power"
+    ],
+    "hiddenAbilityId": "early_bird",
+    "passiveAbilityId": "drought",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 425,
+    "hp": 75,
+    "attack": 75,
+    "defense": 55,
+    "specialAttack": 105,
+    "specialDefense": 85,
+    "speed": 30,
+    "height": 0.8,
+    "weight": 8.5,
+    "eggMoveIds": [
+      "spore",
+      "sappy_seed",
+      "fiery_dance",
+      "hydro_steam"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growth"
+      },
+      {
+        "level": 4,
+        "moveId": "ingrain"
+      },
+      {
+        "level": 7,
+        "moveId": "absorb"
+      },
+      {
+        "level": 10,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 13,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 16,
+        "moveId": "razor_leaf"
+      },
+      {
+        "level": 19,
+        "moveId": "worry_seed"
+      },
+      {
+        "level": 22,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 25,
+        "moveId": "bullet_seed"
+      },
+      {
+        "level": 28,
+        "moveId": "petal_dance"
+      },
+      {
+        "level": 31,
+        "moveId": "solar_beam"
+      },
+      {
+        "level": 34,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 39,
+        "moveId": "sunny_day"
+      },
+      {
+        "level": 43,
+        "moveId": "leaf_storm"
+      },
+      {
+        "level": 50,
+        "moveId": "petal_blizzard"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "solar_beam",
+      "toxic",
+      "double_team",
+      "light_screen",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "sludge_bomb",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "encore",
+      "synthesis",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "uproar",
+      "facade",
+      "nature_power",
+      "helping_hand",
+      "endeavor",
+      "weather_ball",
+      "bullet_seed",
+      "magical_leaf",
+      "worry_seed",
+      "seed_bomb",
+      "energy_ball",
+      "earth_power",
+      "giga_impact",
+      "leaf_storm",
+      "grass_knot",
+      "round",
+      "petal_blizzard",
+      "grassy_terrain",
+      "confide",
+      "dazzling_gleam",
+      "grassy_glide",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "grass"
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "octazooka",
+    "name": "Octazooka",
+    "koName": "대포무노포",
+    "type": "water",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 65,
+    "accuracy": 85,
+    "powerPoint": 10,
+    "effect": "상대의 얼굴 등에 먹물을 내뿜어 공격한다. 명중률을 떨어뜨릴 때가 있다.",
+    "effectChance": 50,
+    "prioirty": 0,
+    "generation": 2,
+    "realased": "",
+    "flags": [
+      "ballbomb_move"
+    ],
+    "pokemonIds": [
+      "slugma",
+      "magcargo",
+      "octillery",
+      "grapploct"
+    ]
+  }
+]

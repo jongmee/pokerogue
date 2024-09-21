@@ -1,0 +1,176 @@
+[
+  {
+    "_id": "appletun",
+    "gender": "",
+    "pokedexNumber": "842",
+    "name": "appletun",
+    "koName": "단지래플",
+    "speciesName": "appletun",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "170",
+    "friendship": "50",
+    "types": [
+      "grass",
+      "dragon"
+    ],
+    "normalAbilityIds": [
+      "ripen",
+      "gluttony"
+    ],
+    "hiddenAbilityId": "thick_fat",
+    "passiveAbilityId": "dragons_maw",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 485,
+    "hp": 110,
+    "attack": 85,
+    "defense": 80,
+    "specialAttack": 100,
+    "specialDefense": 80,
+    "speed": 30,
+    "height": 0.4,
+    "weight": 13,
+    "eggMoveIds": [
+      "matcha_gotcha",
+      "dragon_hammer",
+      "flower_trick",
+      "strength_sap"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 1,
+        "moveId": "growth"
+      },
+      {
+        "level": 1,
+        "moveId": "withdraw"
+      },
+      {
+        "level": 1,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 1,
+        "moveId": "recycle"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 4,
+        "moveId": "curse"
+      },
+      {
+        "level": 8,
+        "moveId": "stomp"
+      },
+      {
+        "level": 12,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 16,
+        "moveId": "protect"
+      },
+      {
+        "level": 20,
+        "moveId": "bullet_seed"
+      },
+      {
+        "level": 24,
+        "moveId": "recover"
+      },
+      {
+        "level": 28,
+        "moveId": "apple_acid"
+      },
+      {
+        "level": 32,
+        "moveId": "body_slam"
+      },
+      {
+        "level": 36,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 40,
+        "moveId": "dragon_pulse"
+      },
+      {
+        "level": 44,
+        "moveId": "energy_ball"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "hyper_beam",
+      "solar_beam",
+      "earthquake",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "amnesia",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "outrage",
+      "giga_drain",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "facade",
+      "helping_hand",
+      "superpower",
+      "recycle",
+      "bullet_seed",
+      "iron_defense",
+      "magical_leaf",
+      "gyro_ball",
+      "payback",
+      "seed_bomb",
+      "dragon_pulse",
+      "energy_ball",
+      "giga_impact",
+      "zen_headbutt",
+      "draco_meteor",
+      "leaf_storm",
+      "iron_head",
+      "grass_knot",
+      "heavy_slam",
+      "round",
+      "bulldoze",
+      "dragon_tail",
+      "grassy_terrain",
+      "high_horsepower",
+      "stomping_tantrum",
+      "body_press",
+      "grassy_glide",
+      "tera_blast",
+      "pounce",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "meadow"
+    ]
+  }
+]

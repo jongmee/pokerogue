@@ -1,0 +1,167 @@
+[
+  {
+    "_id": "alola_diglett",
+    "gender": "",
+    "pokedexNumber": "2050",
+    "name": "alola_diglett",
+    "koName": "디그다",
+    "speciesName": "alola_diglett",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "53",
+    "friendship": "50",
+    "types": [
+      "ground",
+      "steel"
+    ],
+    "normalAbilityIds": [
+      "sand_veil",
+      "tangling_hair"
+    ],
+    "hiddenAbilityId": "sand_force",
+    "passiveAbilityId": "sturdy",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 265,
+    "hp": 10,
+    "attack": 55,
+    "defense": 30,
+    "specialAttack": 35,
+    "specialDefense": 45,
+    "speed": 90,
+    "height": 0.2,
+    "weight": 1,
+    "eggMoveIds": [
+      "thousand_waves",
+      "swords_dance",
+      "triple_dive",
+      "mountain_gale"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 4,
+        "moveId": "growl"
+      },
+      {
+        "level": 8,
+        "moveId": "astonish"
+      },
+      {
+        "level": 12,
+        "moveId": "mud_slap"
+      },
+      {
+        "level": 16,
+        "moveId": "bulldoze"
+      },
+      {
+        "level": 20,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 24,
+        "moveId": "iron_head"
+      },
+      {
+        "level": 28,
+        "moveId": "sandstorm"
+      },
+      {
+        "level": 32,
+        "moveId": "dig"
+      },
+      {
+        "level": 36,
+        "moveId": "earth_power"
+      },
+      {
+        "level": 40,
+        "moveId": "earthquake"
+      },
+      {
+        "level": 44,
+        "moveId": "fissure"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "body_slam",
+      "take_down",
+      "earthquake",
+      "dig",
+      "toxic",
+      "agility",
+      "screech",
+      "double_team",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "reversal",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "mud_slap",
+      "sandstorm",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "metal_claw",
+      "hidden_power",
+      "sunny_day",
+      "rock_smash",
+      "beat_up",
+      "uproar",
+      "facade",
+      "helping_hand",
+      "rock_tomb",
+      "metal_sound",
+      "sand_tomb",
+      "aerial_ace",
+      "iron_defense",
+      "mud_shot",
+      "rock_blast",
+      "assurance",
+      "earth_power",
+      "shadow_claw",
+      "flash_cannon",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "hone_claws",
+      "smack_down",
+      "foul_play",
+      "round",
+      "echoed_voice",
+      "ally_switch",
+      "bulldoze",
+      "work_up",
+      "confide",
+      "stomping_tantrum",
+      "steel_beam",
+      "scorching_sands",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "island"
+    ]
+  }
+]

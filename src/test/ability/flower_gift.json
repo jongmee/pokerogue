@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "flower_gift",
+    "name": "Flower Gift",
+    "koName": "플라워기프트",
+    "realased": " (P)",
+    "description": "날씨가 맑을 때 자신과 같은 편의 공격과 특수방어의 능력이 올라간다.",
+    "generation": 4,
+    "pokemonIds": [
+      "cherrim_overcast",
+      "cherrim_sunshine"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "toxic_chain",
+    "name": "Toxic Chain",
+    "koName": "독사슬",
+    "realased": "",
+    "description": "독소를 머금은 사슬의 힘으로 기술에 맞은 상대를 맹독 상태로 만들 때가 있다.",
+    "generation": 9,
+    "pokemonIds": [
+      "tentacool",
+      "tentacruel",
+      "okidogi",
+      "munkidori",
+      "fezandipiti",
+      "pecharunt"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

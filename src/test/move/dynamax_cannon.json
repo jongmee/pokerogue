@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "dynamax_cannon",
+    "name": "Dynamax Cannon",
+    "koName": "다이맥스포",
+    "type": "dragon",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 100,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "코어에서 빔을 발사해서 공격한다. 상대가 웨이브 레벨 최대치를 초과했다면, 초과한 정도에 비례하여 데미지가 최대 2배가 된다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [
+      "ignore_virtual"
+    ],
+    "pokemonIds": [
+      "necrozma",
+      "eternatus",
+      "eternatus_eternamax"
+    ]
+  }
+]

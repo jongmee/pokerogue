@@ -1,0 +1,13 @@
+[
+  {
+    "_id": "disguise",
+    "name": "Disguise",
+    "koName": "탈",
+    "realased": "",
+    "description": "몸을 덮는 탈로 1번 공격을 막을 수 있다.",
+    "generation": 7,
+    "pokemonIds": [],
+    "isBypassFaint": true,
+    "isIgnorable": true
+  }
+]

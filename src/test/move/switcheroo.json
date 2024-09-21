@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "switcheroo",
+    "name": "Switcheroo",
+    "koName": "바꿔치기",
+    "type": "dark",
+    "moveCategory": "status",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "눈에 보이지 않는 속도로 자신과 상대가 지닌 물건을 교환한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 4,
+    "realased": " (N)",
+    "flags": [],
+    "pokemonIds": [
+      "persian",
+      "hypno",
+      "linoone",
+      "plusle",
+      "minun",
+      "zangoose",
+      "delphox",
+      "inkay",
+      "malamar",
+      "cutiefly",
+      "ribombee",
+      "dhelmise",
+      "obstagoon",
+      "shroodle",
+      "grafaiai",
+      "alola_persian",
+      "galar_linoone"
+    ]
+  }
+]

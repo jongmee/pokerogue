@@ -1,0 +1,179 @@
+[
+  {
+    "_id": "darkrai",
+    "gender": "",
+    "pokedexNumber": "491",
+    "name": "darkrai",
+    "koName": "다크라이",
+    "speciesName": "darkrai",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "270",
+    "friendship": "0",
+    "types": [
+      "dark"
+    ],
+    "normalAbilityIds": [
+      "bad_dreams"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "unnerve",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": true,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 600,
+    "hp": 70,
+    "attack": 90,
+    "defense": 90,
+    "specialAttack": 135,
+    "specialDefense": 90,
+    "speed": 125,
+    "height": 1.5,
+    "weight": 50.5,
+    "eggMoveIds": [
+      "fiery_wrath",
+      "moonblast",
+      "fiery_dance",
+      "make_it_rain"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "disable"
+      },
+      {
+        "level": 1,
+        "moveId": "ominous_wind"
+      },
+      {
+        "level": 1,
+        "moveId": "pursuit"
+      },
+      {
+        "level": 11,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 20,
+        "moveId": "hypnosis"
+      },
+      {
+        "level": 29,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 38,
+        "moveId": "night_shade"
+      },
+      {
+        "level": 47,
+        "moveId": "double_team"
+      },
+      {
+        "level": 57,
+        "moveId": "haze"
+      },
+      {
+        "level": 66,
+        "moveId": "dark_void"
+      },
+      {
+        "level": 75,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 84,
+        "moveId": "dream_eater"
+      },
+      {
+        "level": 93,
+        "moveId": "dark_pulse"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "strength",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "psychic",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "haze",
+      "swift",
+      "dream_eater",
+      "flash",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "sludge_bomb",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "rock_smash",
+      "torment",
+      "will_o_wisp",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "trick",
+      "brick_break",
+      "knock_off",
+      "rock_tomb",
+      "aerial_ace",
+      "calm_mind",
+      "payback",
+      "embargo",
+      "fling",
+      "poison_jab",
+      "dark_pulse",
+      "x_scissor",
+      "drain_punch",
+      "focus_blast",
+      "giga_impact",
+      "nasty_plot",
+      "shadow_claw",
+      "rock_climb",
+      "charge_beam",
+      "wonder_room",
+      "psyshock",
+      "foul_play",
+      "round",
+      "incinerate",
+      "retaliate",
+      "snarl",
+      "confide",
+      "power_up_punch",
+      "throat_chop",
+      "lash_out",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "abyss"
+    ]
+  }
+]

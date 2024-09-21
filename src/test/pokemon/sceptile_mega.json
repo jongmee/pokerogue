@@ -1,0 +1,135 @@
+[
+  {
+    "_id": "sceptile_mega",
+    "gender": "",
+    "pokedexNumber": "254",
+    "name": "sceptile_mega",
+    "koName": "나무킹_mega",
+    "speciesName": "sceptile",
+    "canChangeForm": true,
+    "formName": "mega",
+    "baseExp": "265",
+    "friendship": "50",
+    "types": [
+      "grass",
+      "dragon"
+    ],
+    "normalAbilityIds": [
+      "lightning_rod"
+    ],
+    "hiddenAbilityId": "lightning_rod",
+    "passiveAbilityId": "tinted_lens",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 630,
+    "hp": 70,
+    "attack": 110,
+    "defense": 75,
+    "specialAttack": 145,
+    "specialDefense": 85,
+    "speed": 145,
+    "height": 1.9,
+    "weight": 55.2,
+    "eggMoveIds": [
+      "nasty_plot",
+      "apple_acid",
+      "secret_sword",
+      "dragon_energy"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "leaf_blade"
+      },
+      {
+        "level": -1,
+        "moveId": "false_swipe"
+      },
+      {
+        "level": -1,
+        "moveId": "fury_cutter"
+      },
+      {
+        "level": -1,
+        "moveId": "x_scissor"
+      },
+      {
+        "level": -1,
+        "moveId": "energy_ball"
+      },
+      {
+        "level": -1,
+        "moveId": "shed_tail"
+      },
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "leafage"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "dual_chop"
+      },
+      {
+        "level": 5,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 12,
+        "moveId": "detect"
+      },
+      {
+        "level": 15,
+        "moveId": "quick_guard"
+      },
+      {
+        "level": 20,
+        "moveId": "assurance"
+      },
+      {
+        "level": 25,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 30,
+        "moveId": "slam"
+      },
+      {
+        "level": 35,
+        "moveId": "double_team"
+      },
+      {
+        "level": 42,
+        "moveId": "screech"
+      },
+      {
+        "level": 49,
+        "moveId": "endeavor"
+      },
+      {
+        "level": 56,
+        "moveId": "leaf_storm"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "forest"
+    ]
+  }
+]

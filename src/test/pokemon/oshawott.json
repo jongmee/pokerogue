@@ -1,0 +1,175 @@
+[
+  {
+    "_id": "oshawott",
+    "gender": "",
+    "pokedexNumber": "501",
+    "name": "oshawott",
+    "koName": "수댕이",
+    "speciesName": "oshawott",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "62",
+    "friendship": "70",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "torrent"
+    ],
+    "hiddenAbilityId": "shell_armor",
+    "passiveAbilityId": "intrepid_sword",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 308,
+    "hp": 55,
+    "attack": 55,
+    "defense": 45,
+    "specialAttack": 63,
+    "specialDefense": 45,
+    "speed": 45,
+    "height": 0.5,
+    "weight": 5.9,
+    "eggMoveIds": [
+      "triple_axel",
+      "shell_side_arm",
+      "sacred_sword",
+      "shell_smash"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 5,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 5,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 11,
+        "moveId": "soak"
+      },
+      {
+        "level": 13,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 17,
+        "moveId": "razor_shell"
+      },
+      {
+        "level": 19,
+        "moveId": "fury_cutter"
+      },
+      {
+        "level": 23,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 25,
+        "moveId": "aerial_ace"
+      },
+      {
+        "level": 29,
+        "moveId": "aqua_jet"
+      },
+      {
+        "level": 31,
+        "moveId": "encore"
+      },
+      {
+        "level": 35,
+        "moveId": "aqua_tail"
+      },
+      {
+        "level": 37,
+        "moveId": "retaliate"
+      },
+      {
+        "level": 41,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 43,
+        "moveId": "hydro_pump"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "take_down",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "dig",
+      "toxic",
+      "screech",
+      "double_team",
+      "focus_energy",
+      "waterfall",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "icy_wind",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "rock_smash",
+      "whirlpool",
+      "hail",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "revenge",
+      "knock_off",
+      "dive",
+      "aerial_ace",
+      "covet",
+      "water_pulse",
+      "brine",
+      "assurance",
+      "fling",
+      "aqua_tail",
+      "air_slash",
+      "x_scissor",
+      "avalanche",
+      "grass_knot",
+      "round",
+      "scald",
+      "retaliate",
+      "water_pledge",
+      "work_up",
+      "sacred_sword",
+      "razor_shell",
+      "confide",
+      "liquidation",
+      "flip_turn",
+      "tera_blast",
+      "snowscape",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "lake"
+    ]
+  }
+]

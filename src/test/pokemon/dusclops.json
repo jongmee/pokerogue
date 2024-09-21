@@ -1,0 +1,207 @@
+[
+  {
+    "_id": "dusclops",
+    "gender": "",
+    "pokedexNumber": "356",
+    "name": "dusclops",
+    "koName": "미라몽",
+    "speciesName": "dusclops",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "159",
+    "friendship": "35",
+    "types": [
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "pressure"
+    ],
+    "hiddenAbilityId": "frisk",
+    "passiveAbilityId": "unnerve",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 455,
+    "hp": 40,
+    "attack": 70,
+    "defense": 130,
+    "specialAttack": 60,
+    "specialDefense": 130,
+    "speed": 25,
+    "height": 1.6,
+    "weight": 30.6,
+    "eggMoveIds": [
+      "bulk_up",
+      "drain_punch",
+      "strength_sap",
+      "rage_fist"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "shadow_punch"
+      },
+      {
+        "level": 1,
+        "moveId": "fire_punch"
+      },
+      {
+        "level": 1,
+        "moveId": "ice_punch"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_punch"
+      },
+      {
+        "level": 1,
+        "moveId": "gravity"
+      },
+      {
+        "level": 1,
+        "moveId": "bind"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "disable"
+      },
+      {
+        "level": 1,
+        "moveId": "shadow_sneak"
+      },
+      {
+        "level": 12,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 16,
+        "moveId": "night_shade"
+      },
+      {
+        "level": 20,
+        "moveId": "payback"
+      },
+      {
+        "level": 24,
+        "moveId": "will_o_wisp"
+      },
+      {
+        "level": 28,
+        "moveId": "mean_look"
+      },
+      {
+        "level": 32,
+        "moveId": "hex"
+      },
+      {
+        "level": 36,
+        "moveId": "curse"
+      },
+      {
+        "level": 42,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 48,
+        "moveId": "future_sight"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "mega_kick",
+      "body_slam",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "counter",
+      "strength",
+      "earthquake",
+      "toxic",
+      "psychic",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "haze",
+      "metronome",
+      "dream_eater",
+      "leech_life",
+      "flash",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "rock_smash",
+      "torment",
+      "will_o_wisp",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "trick",
+      "revenge",
+      "brick_break",
+      "skill_swap",
+      "imprison",
+      "rock_tomb",
+      "calm_mind",
+      "gravity",
+      "payback",
+      "embargo",
+      "fling",
+      "dark_pulse",
+      "giga_impact",
+      "trick_room",
+      "charge_beam",
+      "wonder_room",
+      "round",
+      "ally_switch",
+      "hex",
+      "bulldoze",
+      "phantom_force",
+      "confide",
+      "infestation",
+      "power_up_punch",
+      "skitter_smack",
+      "poltergeist",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "graveyard",
+      "temple"
+    ]
+  }
+]

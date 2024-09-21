@@ -1,0 +1,106 @@
+[
+  {
+    "_id": "wishiwashi_school",
+    "gender": "",
+    "pokedexNumber": "746",
+    "name": "wishiwashi_school",
+    "koName": "약어리_school",
+    "speciesName": "wishiwashi",
+    "canChangeForm": true,
+    "formName": "school",
+    "baseExp": "61",
+    "friendship": "50",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "schooling"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "regenerator",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 620,
+    "hp": 45,
+    "attack": 140,
+    "defense": 130,
+    "specialAttack": 140,
+    "specialDefense": 135,
+    "speed": 30,
+    "height": 8.2,
+    "weight": 78.6,
+    "eggMoveIds": [
+      "heal_order",
+      "ice_spinner",
+      "dragon_dance",
+      "jet_punch"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 4,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 8,
+        "moveId": "beat_up"
+      },
+      {
+        "level": 12,
+        "moveId": "brine"
+      },
+      {
+        "level": 16,
+        "moveId": "tearful_look"
+      },
+      {
+        "level": 20,
+        "moveId": "dive"
+      },
+      {
+        "level": 24,
+        "moveId": "soak"
+      },
+      {
+        "level": 28,
+        "moveId": "uproar"
+      },
+      {
+        "level": 32,
+        "moveId": "aqua_tail"
+      },
+      {
+        "level": 36,
+        "moveId": "aqua_ring"
+      },
+      {
+        "level": 40,
+        "moveId": "endeavor"
+      },
+      {
+        "level": 44,
+        "moveId": "hydro_pump"
+      },
+      {
+        "level": 48,
+        "moveId": "double_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "lake"
+    ]
+  }
+]

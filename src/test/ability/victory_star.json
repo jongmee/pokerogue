@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "victory_star",
+    "name": "Victory Star",
+    "koName": "승리의별",
+    "realased": " (P)",
+    "description": "자신과 같은 편의 명중률이 올라간다.",
+    "generation": 5,
+    "pokemonIds": [
+      "victini"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

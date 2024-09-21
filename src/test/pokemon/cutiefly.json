@@ -1,0 +1,159 @@
+[
+  {
+    "_id": "cutiefly",
+    "gender": "",
+    "pokedexNumber": "742",
+    "name": "cutiefly",
+    "koName": "에블리",
+    "speciesName": "cutiefly",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "61",
+    "friendship": "50",
+    "types": [
+      "bug",
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "honey_gather",
+      "shield_dust"
+    ],
+    "hiddenAbilityId": "sweet_veil",
+    "passiveAbilityId": "tinted_lens",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 304,
+    "hp": 40,
+    "attack": 45,
+    "defense": 40,
+    "specialAttack": 55,
+    "specialDefense": 40,
+    "speed": 84,
+    "height": 0.1,
+    "weight": 0.2,
+    "eggMoveIds": [
+      "sticky_web",
+      "moonblast",
+      "heat_wave",
+      "spore"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 1,
+        "moveId": "fairy_wind"
+      },
+      {
+        "level": 6,
+        "moveId": "stun_spore"
+      },
+      {
+        "level": 12,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 18,
+        "moveId": "draining_kiss"
+      },
+      {
+        "level": 24,
+        "moveId": "struggle_bug"
+      },
+      {
+        "level": 30,
+        "moveId": "covet"
+      },
+      {
+        "level": 36,
+        "moveId": "switcheroo"
+      },
+      {
+        "level": 42,
+        "moveId": "dazzling_gleam"
+      },
+      {
+        "level": 48,
+        "moveId": "bug_buzz"
+      },
+      {
+        "level": 54,
+        "moveId": "quiver_dance"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "swift",
+      "dream_eater",
+      "leech_life",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "baton_pass",
+      "hidden_power",
+      "sunny_day",
+      "psych_up",
+      "facade",
+      "helping_hand",
+      "trick",
+      "skill_swap",
+      "imprison",
+      "fake_tears",
+      "signal_beam",
+      "aerial_ace",
+      "covet",
+      "magical_leaf",
+      "calm_mind",
+      "roost",
+      "tailwind",
+      "u_turn",
+      "bug_buzz",
+      "energy_ball",
+      "defog",
+      "grass_knot",
+      "bug_bite",
+      "wonder_room",
+      "magic_room",
+      "round",
+      "ally_switch",
+      "acrobatics",
+      "struggle_bug",
+      "draining_kiss",
+      "play_rough",
+      "confide",
+      "dazzling_gleam",
+      "infestation",
+      "pollen_puff",
+      "speed_swap",
+      "dual_wingbeat",
+      "tera_blast",
+      "pounce",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "meadow",
+      "fairy_cave"
+    ]
+  }
+]

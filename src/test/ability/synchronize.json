@@ -1,0 +1,31 @@
+[
+  {
+    "_id": "synchronize",
+    "name": "Synchronize",
+    "koName": "싱크로",
+    "realased": " (N)",
+    "description": "자신이 걸린 독이나 마비, 화상을 상대에게 옮긴다.",
+    "generation": 3,
+    "pokemonIds": [
+      "abra",
+      "kadabra",
+      "alakazam",
+      "mew",
+      "natu",
+      "xatu",
+      "espeon",
+      "umbreon",
+      "ralts",
+      "kirlia",
+      "gardevoir",
+      "munna",
+      "musharna",
+      "elgyem",
+      "beheeyem",
+      "indeedee",
+      "rabsca"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

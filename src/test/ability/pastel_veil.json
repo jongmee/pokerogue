@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "pastel_veil",
+    "name": "Pastel Veil",
+    "koName": "파스텔베일",
+    "realased": "",
+    "description": "자신과 같은 편이 독의 상태 이상 효과를 받지 않게 된다.",
+    "generation": 8,
+    "pokemonIds": [
+      "galar_ponyta",
+      "galar_rapidash"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

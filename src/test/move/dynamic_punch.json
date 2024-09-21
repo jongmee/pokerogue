@@ -1,0 +1,43 @@
+[
+  {
+    "_id": "dynamic_punch",
+    "name": "Dynamic Punch",
+    "koName": "폭발펀치",
+    "type": "fighting",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 100,
+    "accuracy": 50,
+    "powerPoint": 5,
+    "effect": "혼신의 힘으로 펀치를 날려서 공격한다. 상대를 반드시 혼란시킨다.",
+    "effectChance": 100,
+    "prioirty": 0,
+    "generation": 2,
+    "realased": "",
+    "flags": [
+      "makes_contact",
+      "punching_move"
+    ],
+    "pokemonIds": [
+      "poliwrath",
+      "machop",
+      "machoke",
+      "machamp",
+      "breloom",
+      "patrat",
+      "watchog",
+      "timburr",
+      "gurdurr",
+      "conkeldurr",
+      "golett",
+      "golurk",
+      "crabrawler",
+      "crabominable",
+      "buzzwole",
+      "melmetal",
+      "kubfu",
+      "urshifu",
+      "urshifu_rapid_strike"
+    ]
+  }
+]

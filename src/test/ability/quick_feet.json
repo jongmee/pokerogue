@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "quick_feet",
+    "name": "Quick Feet",
+    "koName": "속보",
+    "realased": "",
+    "description": "상태 이상이 되면 스피드가 올라간다.",
+    "generation": 4,
+    "pokemonIds": [
+      "machop",
+      "machoke",
+      "machamp",
+      "machamp_gigantamax",
+      "jolteon",
+      "granbull",
+      "teddiursa",
+      "ursaring",
+      "poochyena",
+      "mightyena",
+      "zigzagoon",
+      "linoone",
+      "shroomish",
+      "galar_zigzagoon",
+      "galar_linoone"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

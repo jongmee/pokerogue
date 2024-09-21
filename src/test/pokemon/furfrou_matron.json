@@ -1,0 +1,102 @@
+[
+  {
+    "_id": "furfrou_matron",
+    "gender": "",
+    "pokedexNumber": "676",
+    "name": "furfrou_matron",
+    "koName": "트리미앙_matron",
+    "speciesName": "furfrou",
+    "canChangeForm": true,
+    "formName": "matron_trim",
+    "baseExp": "165",
+    "friendship": "70",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "fur_coat"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "fluffy",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 472,
+    "hp": 75,
+    "attack": 80,
+    "defense": 60,
+    "specialAttack": 65,
+    "specialDefense": 90,
+    "speed": 102,
+    "height": 1.2,
+    "weight": 28,
+    "eggMoveIds": [
+      "tidy_up",
+      "slack_off",
+      "covet",
+      "multi_attack"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 5,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 9,
+        "moveId": "baby_doll_eyes"
+      },
+      {
+        "level": 12,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 15,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 22,
+        "moveId": "bite"
+      },
+      {
+        "level": 27,
+        "moveId": "odor_sleuth"
+      },
+      {
+        "level": 33,
+        "moveId": "retaliate"
+      },
+      {
+        "level": 35,
+        "moveId": "take_down"
+      },
+      {
+        "level": 38,
+        "moveId": "charm"
+      },
+      {
+        "level": 42,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 48,
+        "moveId": "cotton_guard"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "metropolis"
+    ]
+  }
+]

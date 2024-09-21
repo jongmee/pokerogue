@@ -1,0 +1,221 @@
+[
+  {
+    "_id": "sableye",
+    "gender": "",
+    "pokedexNumber": "302",
+    "name": "sableye",
+    "koName": "깜까미",
+    "speciesName": "sableye",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "133",
+    "friendship": "35",
+    "types": [
+      "dark",
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "keen_eye",
+      "stall"
+    ],
+    "hiddenAbilityId": "prankster",
+    "passiveAbilityId": "unnerve",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 380,
+    "hp": 50,
+    "attack": 75,
+    "defense": 75,
+    "specialAttack": 65,
+    "specialDefense": 65,
+    "speed": 50,
+    "height": 0.5,
+    "weight": 11,
+    "eggMoveIds": [
+      "recover",
+      "topsy_turvy",
+      "curse",
+      "salt_cure"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 3,
+        "moveId": "astonish"
+      },
+      {
+        "level": 9,
+        "moveId": "shadow_sneak"
+      },
+      {
+        "level": 12,
+        "moveId": "fake_out"
+      },
+      {
+        "level": 15,
+        "moveId": "disable"
+      },
+      {
+        "level": 18,
+        "moveId": "detect"
+      },
+      {
+        "level": 21,
+        "moveId": "night_shade"
+      },
+      {
+        "level": 24,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 27,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 30,
+        "moveId": "quash"
+      },
+      {
+        "level": 33,
+        "moveId": "shadow_claw"
+      },
+      {
+        "level": 36,
+        "moveId": "mean_look"
+      },
+      {
+        "level": 39,
+        "moveId": "power_gem"
+      },
+      {
+        "level": 42,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 45,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 48,
+        "moveId": "foul_play"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "cut",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "psybeam",
+      "hyper_beam",
+      "low_kick",
+      "counter",
+      "thunder_wave",
+      "dig",
+      "toxic",
+      "psychic",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "metronome",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "spite",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "encore",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "rock_smash",
+      "torment",
+      "will_o_wisp",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "trick",
+      "brick_break",
+      "knock_off",
+      "skill_swap",
+      "imprison",
+      "rock_tomb",
+      "signal_beam",
+      "aerial_ace",
+      "bulk_up",
+      "mud_shot",
+      "calm_mind",
+      "water_pulse",
+      "gravity",
+      "gyro_ball",
+      "payback",
+      "embargo",
+      "fling",
+      "poison_jab",
+      "dark_pulse",
+      "x_scissor",
+      "power_gem",
+      "drain_punch",
+      "energy_ball",
+      "giga_impact",
+      "nasty_plot",
+      "shadow_claw",
+      "zen_headbutt",
+      "hone_claws",
+      "wonder_room",
+      "low_sweep",
+      "foul_play",
+      "round",
+      "ally_switch",
+      "hex",
+      "incinerate",
+      "quash",
+      "retaliate",
+      "snarl",
+      "phantom_force",
+      "confide",
+      "dazzling_gleam",
+      "power_up_punch",
+      "skitter_smack",
+      "lash_out",
+      "poltergeist",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "abyss"
+    ]
+  }
+]

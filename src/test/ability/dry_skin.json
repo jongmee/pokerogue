@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "dry_skin",
+    "name": "Dry Skin",
+    "koName": "건조피부",
+    "realased": " (P)",
+    "description": "비가 오는 날씨나 물타입의 기술로 HP가 회복되고 맑을 때나 불꽃타입의 기술로는 줄어든다.",
+    "generation": 4,
+    "pokemonIds": [
+      "paras",
+      "parasect",
+      "geodude",
+      "graveler",
+      "golem",
+      "jynx",
+      "croagunk",
+      "toxicroak",
+      "helioptile",
+      "heliolisk",
+      "alola_geodude",
+      "alola_graveler",
+      "alola_golem"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

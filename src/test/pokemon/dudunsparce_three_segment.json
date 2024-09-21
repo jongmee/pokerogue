@@ -1,0 +1,119 @@
+[
+  {
+    "_id": "dudunsparce_three_segment",
+    "gender": "",
+    "pokedexNumber": "982",
+    "name": "dudunsparce_three_segment",
+    "koName": "노고고치_three_segment",
+    "speciesName": "dudunsparce",
+    "canChangeForm": true,
+    "formName": "three_segment_form",
+    "baseExp": "182",
+    "friendship": "50",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "serene_grace",
+      "run_away"
+    ],
+    "hiddenAbilityId": "rattled",
+    "passiveAbilityId": "unaware",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 520,
+    "hp": 125,
+    "attack": 100,
+    "defense": 80,
+    "specialAttack": 85,
+    "specialDefense": 75,
+    "speed": 55,
+    "height": 4.5,
+    "weight": 47.4,
+    "eggMoveIds": [
+      "body_slam",
+      "magical_torque",
+      "blazing_torque",
+      "extreme_speed"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": 1,
+        "moveId": "flail"
+      },
+      {
+        "level": 4,
+        "moveId": "mud_slap"
+      },
+      {
+        "level": 8,
+        "moveId": "rollout"
+      },
+      {
+        "level": 12,
+        "moveId": "glare"
+      },
+      {
+        "level": 16,
+        "moveId": "screech"
+      },
+      {
+        "level": 20,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 24,
+        "moveId": "drill_run"
+      },
+      {
+        "level": 28,
+        "moveId": "yawn"
+      },
+      {
+        "level": 32,
+        "moveId": "hyper_drill"
+      },
+      {
+        "level": 36,
+        "moveId": "roost"
+      },
+      {
+        "level": 40,
+        "moveId": "dragon_rush"
+      },
+      {
+        "level": 44,
+        "moveId": "coil"
+      },
+      {
+        "level": 48,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 52,
+        "moveId": "endeavor"
+      },
+      {
+        "level": 56,
+        "moveId": "hurricane"
+      },
+      {
+        "level": 62,
+        "moveId": "boomburst"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "plains"
+    ]
+  }
+]

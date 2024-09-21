@@ -1,0 +1,167 @@
+[
+  {
+    "_id": "ting_lu",
+    "gender": "",
+    "pokedexNumber": "1003",
+    "name": "ting_lu",
+    "koName": "딩루",
+    "speciesName": "ting_lu",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "285",
+    "friendship": "0",
+    "types": [
+      "dark",
+      "ground"
+    ],
+    "normalAbilityIds": [
+      "vessel_of_ruin"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "stamina",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 570,
+    "hp": 155,
+    "attack": 110,
+    "defense": 125,
+    "specialAttack": 55,
+    "specialDefense": 80,
+    "speed": 45,
+    "height": 2.7,
+    "weight": 699.7,
+    "eggMoveIds": [
+      "shore_up",
+      "wicked_blow",
+      "sappy_seed",
+      "thousand_arrows"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "spite"
+      },
+      {
+        "level": 1,
+        "moveId": "mean_look"
+      },
+      {
+        "level": 1,
+        "moveId": "sand_tomb"
+      },
+      {
+        "level": 5,
+        "moveId": "spikes"
+      },
+      {
+        "level": 10,
+        "moveId": "payback"
+      },
+      {
+        "level": 15,
+        "moveId": "stomp"
+      },
+      {
+        "level": 20,
+        "moveId": "bulldoze"
+      },
+      {
+        "level": 25,
+        "moveId": "whirlwind"
+      },
+      {
+        "level": 30,
+        "moveId": "taunt"
+      },
+      {
+        "level": 35,
+        "moveId": "thrash"
+      },
+      {
+        "level": 40,
+        "moveId": "dark_pulse"
+      },
+      {
+        "level": 45,
+        "moveId": "stomping_tantrum"
+      },
+      {
+        "level": 50,
+        "moveId": "ruination"
+      },
+      {
+        "level": 55,
+        "moveId": "throat_chop"
+      },
+      {
+        "level": 60,
+        "moveId": "rock_slide"
+      },
+      {
+        "level": 65,
+        "moveId": "memento"
+      },
+      {
+        "level": 70,
+        "moveId": "earthquake"
+      },
+      {
+        "level": 75,
+        "moveId": "fissure"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "earthquake",
+      "dig",
+      "double_team",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "spite",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "spikes",
+      "sandstorm",
+      "endure",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "sunny_day",
+      "facade",
+      "taunt",
+      "rock_tomb",
+      "sand_tomb",
+      "mud_shot",
+      "payback",
+      "dark_pulse",
+      "earth_power",
+      "giga_impact",
+      "zen_headbutt",
+      "stone_edge",
+      "stealth_rock",
+      "heavy_slam",
+      "hex",
+      "bulldoze",
+      "snarl",
+      "throat_chop",
+      "stomping_tantrum",
+      "body_press",
+      "lash_out",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "mountain"
+    ]
+  }
+]

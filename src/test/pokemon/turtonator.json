@@ -1,0 +1,181 @@
+[
+  {
+    "_id": "turtonator",
+    "gender": "",
+    "pokedexNumber": "776",
+    "name": "turtonator",
+    "koName": "폭거북스",
+    "speciesName": "turtonator",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "170",
+    "friendship": "50",
+    "types": [
+      "fire",
+      "dragon"
+    ],
+    "normalAbilityIds": [
+      "shell_armor"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "dauntless_shield",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 485,
+    "hp": 60,
+    "attack": 78,
+    "defense": 135,
+    "specialAttack": 91,
+    "specialDefense": 85,
+    "speed": 36,
+    "height": 2,
+    "weight": 212,
+    "eggMoveIds": [
+      "burning_bulwark",
+      "morning_sun",
+      "body_press",
+      "core_enforcer"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "smog"
+      },
+      {
+        "level": 4,
+        "moveId": "ember"
+      },
+      {
+        "level": 8,
+        "moveId": "protect"
+      },
+      {
+        "level": 12,
+        "moveId": "endure"
+      },
+      {
+        "level": 16,
+        "moveId": "flail"
+      },
+      {
+        "level": 20,
+        "moveId": "incinerate"
+      },
+      {
+        "level": 24,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 28,
+        "moveId": "dragon_pulse"
+      },
+      {
+        "level": 32,
+        "moveId": "body_slam"
+      },
+      {
+        "level": 36,
+        "moveId": "flamethrower"
+      },
+      {
+        "level": 40,
+        "moveId": "shell_trap"
+      },
+      {
+        "level": 44,
+        "moveId": "shell_smash"
+      },
+      {
+        "level": 48,
+        "moveId": "overheat"
+      },
+      {
+        "level": 52,
+        "moveId": "explosion"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "mega_kick",
+      "body_slam",
+      "roar",
+      "flamethrower",
+      "hyper_beam",
+      "solar_beam",
+      "fire_spin",
+      "earthquake",
+      "toxic",
+      "double_team",
+      "fire_blast",
+      "explosion",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "outrage",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "sunny_day",
+      "uproar",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "taunt",
+      "revenge",
+      "endeavor",
+      "hyper_voice",
+      "overheat",
+      "rock_tomb",
+      "iron_defense",
+      "dragon_claw",
+      "bulk_up",
+      "payback",
+      "fling",
+      "dragon_pulse",
+      "focus_blast",
+      "giga_impact",
+      "flash_cannon",
+      "draco_meteor",
+      "iron_head",
+      "stone_edge",
+      "charge_beam",
+      "venoshock",
+      "smack_down",
+      "heavy_slam",
+      "flame_charge",
+      "round",
+      "incinerate",
+      "bulldoze",
+      "dragon_tail",
+      "work_up",
+      "heat_crash",
+      "confide",
+      "brutal_swing",
+      "stomping_tantrum",
+      "body_press",
+      "scale_shot",
+      "burning_jealousy",
+      "lash_out",
+      "scorching_sands",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "volcano"
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "subzero_slammer__special",
+    "name": "Subzero Slammer",
+    "koName": "레이징지오프리즈",
+    "type": "ice",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 1,
+    "effect": "Dummy Data",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": " (N)",
+    "flags": [
+      "ignore_virtual"
+    ],
+    "pokemonIds": []
+  }
+]

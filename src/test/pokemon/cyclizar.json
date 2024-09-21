@@ -1,0 +1,161 @@
+[
+  {
+    "_id": "cyclizar",
+    "gender": "",
+    "pokedexNumber": "967",
+    "name": "cyclizar",
+    "koName": "모토마",
+    "speciesName": "cyclizar",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "175",
+    "friendship": "50",
+    "types": [
+      "dragon",
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "shed_skin"
+    ],
+    "hiddenAbilityId": "regenerator",
+    "passiveAbilityId": "protean",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 501,
+    "hp": 70,
+    "attack": 95,
+    "defense": 65,
+    "specialAttack": 85,
+    "specialDefense": 65,
+    "speed": 121,
+    "height": 1.6,
+    "weight": 63,
+    "eggMoveIds": [
+      "baton_pass",
+      "blazing_torque",
+      "knock_off",
+      "clangorous_soul"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 7,
+        "moveId": "rapid_spin"
+      },
+      {
+        "level": 11,
+        "moveId": "taunt"
+      },
+      {
+        "level": 14,
+        "moveId": "breaking_swipe"
+      },
+      {
+        "level": 18,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 23,
+        "moveId": "bite"
+      },
+      {
+        "level": 27,
+        "moveId": "u_turn"
+      },
+      {
+        "level": 31,
+        "moveId": "shed_tail"
+      },
+      {
+        "level": 36,
+        "moveId": "dragon_claw"
+      },
+      {
+        "level": 40,
+        "moveId": "shift_gear"
+      },
+      {
+        "level": 45,
+        "moveId": "dragon_pulse"
+      },
+      {
+        "level": 51,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 57,
+        "moveId": "dragon_rush"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "thunderbolt",
+      "agility",
+      "double_team",
+      "rest",
+      "substitute",
+      "thief",
+      "protect",
+      "mud_slap",
+      "outrage",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "uproar",
+      "facade",
+      "taunt",
+      "knock_off",
+      "endeavor",
+      "hyper_voice",
+      "overheat",
+      "aerial_ace",
+      "dragon_claw",
+      "mud_shot",
+      "u_turn",
+      "aqua_tail",
+      "dragon_pulse",
+      "giga_impact",
+      "thunder_fang",
+      "fire_fang",
+      "draco_meteor",
+      "power_whip",
+      "iron_head",
+      "acrobatics",
+      "dragon_tail",
+      "wild_charge",
+      "breaking_swipe",
+      "scale_shot",
+      "tera_blast",
+      "ice_spinner",
+      "trailblaze",
+      "dragon_cheer",
+      "temper_flare",
+      "supercell_slam"
+    ],
+    "biomeIds": [
+      "wasteland"
+    ]
+  }
+]

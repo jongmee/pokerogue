@@ -1,0 +1,40 @@
+[
+  {
+    "_id": "glaive_rush",
+    "name": "Glaive Rush",
+    "koName": "대검돌격",
+    "type": "dragon",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 120,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "몸을 내던지는 무모한 돌격. 기술을 사용한 다음, 상대의 공격이 반드시 명중하고 데미지를 2배로 입게 된다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 9,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "bagon",
+      "shelgon",
+      "salamence",
+      "salamence_mega",
+      "giratina_altered",
+      "giratina_origin",
+      "axew",
+      "fraxure",
+      "haxorus",
+      "jangmo_o",
+      "hakamo_o",
+      "kommo_o",
+      "dreepy",
+      "drakloak",
+      "dragapult",
+      "baxcalibur",
+      "gouging_fire"
+    ]
+  }
+]

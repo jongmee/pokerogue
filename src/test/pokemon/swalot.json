@@ -1,0 +1,188 @@
+[
+  {
+    "_id": "swalot",
+    "gender": "",
+    "pokedexNumber": "317",
+    "name": "swalot",
+    "koName": "꿀꺽몬",
+    "speciesName": "swalot",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "163",
+    "friendship": "70",
+    "types": [
+      "poison"
+    ],
+    "normalAbilityIds": [
+      "liquid_ooze",
+      "sticky_hold"
+    ],
+    "hiddenAbilityId": "gluttony",
+    "passiveAbilityId": "earth_eater",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 467,
+    "hp": 100,
+    "attack": 73,
+    "defense": 83,
+    "specialAttack": 73,
+    "specialDefense": 83,
+    "speed": 55,
+    "height": 1.7,
+    "weight": 80,
+    "eggMoveIds": [
+      "strength_sap",
+      "earth_power",
+      "calm_mind",
+      "malignant_chain"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "body_slam"
+      },
+      {
+        "level": 1,
+        "moveId": "gunk_shot"
+      },
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "yawn"
+      },
+      {
+        "level": 1,
+        "moveId": "poison_gas"
+      },
+      {
+        "level": 1,
+        "moveId": "wring_out"
+      },
+      {
+        "level": 1,
+        "moveId": "sludge"
+      },
+      {
+        "level": 12,
+        "moveId": "amnesia"
+      },
+      {
+        "level": 17,
+        "moveId": "acid_spray"
+      },
+      {
+        "level": 20,
+        "moveId": "encore"
+      },
+      {
+        "level": 25,
+        "moveId": "toxic"
+      },
+      {
+        "level": 30,
+        "moveId": "stockpile"
+      },
+      {
+        "level": 30,
+        "moveId": "spit_up"
+      },
+      {
+        "level": 30,
+        "moveId": "swallow"
+      },
+      {
+        "level": 37,
+        "moveId": "sludge_bomb"
+      },
+      {
+        "level": 42,
+        "moveId": "gastro_acid"
+      },
+      {
+        "level": 49,
+        "moveId": "belch"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "swords_dance",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "ice_beam",
+      "hyper_beam",
+      "counter",
+      "strength",
+      "solar_beam",
+      "thunder_wave",
+      "earthquake",
+      "toxic",
+      "double_team",
+      "metronome",
+      "self_destruct",
+      "amnesia",
+      "dream_eater",
+      "explosion",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "sludge_bomb",
+      "mud_slap",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "shadow_ball",
+      "rock_smash",
+      "facade",
+      "helping_hand",
+      "brick_break",
+      "knock_off",
+      "bullet_seed",
+      "mud_shot",
+      "water_pulse",
+      "fling",
+      "gastro_acid",
+      "toxic_spikes",
+      "poison_jab",
+      "seed_bomb",
+      "giga_impact",
+      "zen_headbutt",
+      "gunk_shot",
+      "venoshock",
+      "sludge_wave",
+      "acid_spray",
+      "round",
+      "bulldoze",
+      "confide",
+      "infestation",
+      "power_up_punch",
+      "body_press",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "swamp"
+    ]
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "_id": "rampardos",
+    "gender": "",
+    "pokedexNumber": "409",
+    "name": "rampardos",
+    "koName": "램펄드",
+    "speciesName": "rampardos",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "173",
+    "friendship": "70",
+    "types": [
+      "rock"
+    ],
+    "normalAbilityIds": [
+      "mold_breaker"
+    ],
+    "hiddenAbilityId": "sheer_force",
+    "passiveAbilityId": "rock_head",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 495,
+    "hp": 97,
+    "attack": 165,
+    "defense": 60,
+    "specialAttack": 65,
+    "specialDefense": 50,
+    "speed": 58,
+    "height": 1.6,
+    "weight": 102.5,
+    "eggMoveIds": [
+      "volt_tackle",
+      "accelerock",
+      "flare_blitz",
+      "shift_gear"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "endeavor"
+      },
+      {
+        "level": 1,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 1,
+        "moveId": "pursuit"
+      },
+      {
+        "level": 15,
+        "moveId": "take_down"
+      },
+      {
+        "level": 19,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 24,
+        "moveId": "assurance"
+      },
+      {
+        "level": 28,
+        "moveId": "chip_away"
+      },
+      {
+        "level": 36,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 43,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 51,
+        "moveId": "screech"
+      },
+      {
+        "level": 58,
+        "moveId": "head_smash"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fire_punch",
+      "thunder_punch",
+      "swords_dance",
+      "cut",
+      "take_down",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "strength",
+      "thunderbolt",
+      "thunder",
+      "earthquake",
+      "dig",
+      "toxic",
+      "screech",
+      "double_team",
+      "focus_energy",
+      "fire_blast",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "outrage",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "rock_smash",
+      "whirlpool",
+      "uproar",
+      "facade",
+      "focus_punch",
+      "superpower",
+      "brick_break",
+      "endeavor",
+      "rock_tomb",
+      "payback",
+      "assurance",
+      "fling",
+      "rock_polish",
+      "dragon_pulse",
+      "focus_blast",
+      "earth_power",
+      "giga_impact",
+      "avalanche",
+      "zen_headbutt",
+      "rock_climb",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "smack_down",
+      "heavy_slam",
+      "round",
+      "incinerate",
+      "bulldoze",
+      "dragon_tail",
+      "confide",
+      "power_up_punch",
+      "stomping_tantrum",
+      "breaking_swipe",
+      "tera_blast",
+      "trailblaze",
+      "dragon_cheer",
+      "supercell_slam"
+    ],
+    "biomeIds": [
+      "mountain"
+    ]
+  }
+]

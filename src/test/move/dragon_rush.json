@@ -1,0 +1,49 @@
+[
+  {
+    "_id": "dragon_rush",
+    "name": "Dragon Rush",
+    "koName": "드래곤다이브",
+    "type": "dragon",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 100,
+    "accuracy": 75,
+    "powerPoint": 10,
+    "effect": "굉장한 살기로 위압하면서 몸통박치기한다. 상대를 풀죽게 만들 때가 있다.",
+    "effectChance": 20,
+    "prioirty": 0,
+    "generation": 4,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "dratini",
+      "dragonair",
+      "dragonite",
+      "dunsparce",
+      "lugia",
+      "vibrava",
+      "flygon",
+      "gible",
+      "gabite",
+      "garchomp",
+      "deino",
+      "zweilous",
+      "hydreigon",
+      "yveltal",
+      "guzzlord",
+      "naganadel",
+      "flapple",
+      "dracozolt",
+      "dracovish",
+      "drakloak",
+      "dragapult",
+      "cyclizar",
+      "dudunsparce",
+      "roaring_moon",
+      "walking_wake",
+      "gouging_fire"
+    ]
+  }
+]

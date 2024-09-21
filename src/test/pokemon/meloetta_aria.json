@@ -1,0 +1,111 @@
+[
+  {
+    "_id": "meloetta_aria",
+    "gender": "",
+    "pokedexNumber": "648",
+    "name": "meloetta_aria",
+    "koName": "메로엣타_aria",
+    "speciesName": "meloetta",
+    "canChangeForm": true,
+    "formName": "aria_forme",
+    "baseExp": "270",
+    "friendship": "100",
+    "types": [
+      "normal",
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "serene_grace"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "minds_eye",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": true,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 600,
+    "hp": 100,
+    "attack": 77,
+    "defense": 77,
+    "specialAttack": 128,
+    "specialDefense": 128,
+    "speed": 90,
+    "height": 0.6,
+    "weight": 6.5,
+    "eggMoveIds": [
+      "victory_dance",
+      "quiver_dance",
+      "triple_arrows",
+      "torch_song"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "sing"
+      },
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "round"
+      },
+      {
+        "level": 21,
+        "moveId": "teeter_dance"
+      },
+      {
+        "level": 26,
+        "moveId": "acrobatics"
+      },
+      {
+        "level": 31,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 36,
+        "moveId": "echoed_voice"
+      },
+      {
+        "level": 43,
+        "moveId": "u_turn"
+      },
+      {
+        "level": 50,
+        "moveId": "relic_song"
+      },
+      {
+        "level": 57,
+        "moveId": "psychic"
+      },
+      {
+        "level": 64,
+        "moveId": "hyper_voice"
+      },
+      {
+        "level": 71,
+        "moveId": "role_play"
+      },
+      {
+        "level": 78,
+        "moveId": "close_combat"
+      },
+      {
+        "level": 85,
+        "moveId": "perish_song"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "meadow"
+    ]
+  }
+]

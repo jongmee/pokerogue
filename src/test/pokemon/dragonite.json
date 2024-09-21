@@ -1,0 +1,240 @@
+[
+  {
+    "_id": "dragonite",
+    "gender": "",
+    "pokedexNumber": "149",
+    "name": "dragonite",
+    "koName": "망나뇽",
+    "speciesName": "dragonite",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "300",
+    "friendship": "35",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "inner_focus"
+    ],
+    "hiddenAbilityId": "multiscale",
+    "passiveAbilityId": "aerilate",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 600,
+    "hp": 91,
+    "attack": 134,
+    "defense": 95,
+    "specialAttack": 100,
+    "specialDefense": 100,
+    "speed": 80,
+    "height": 2.2,
+    "weight": 210,
+    "eggMoveIds": [
+      "dragon_hammer",
+      "crush_grip",
+      "fire_lash",
+      "gigaton_hammer"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "hurricane"
+      },
+      {
+        "level": 1,
+        "moveId": "fire_punch"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_punch"
+      },
+      {
+        "level": 1,
+        "moveId": "wing_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "wrap"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_wave"
+      },
+      {
+        "level": 1,
+        "moveId": "twister"
+      },
+      {
+        "level": 1,
+        "moveId": "extreme_speed"
+      },
+      {
+        "level": 1,
+        "moveId": "roost"
+      },
+      {
+        "level": 15,
+        "moveId": "dragon_tail"
+      },
+      {
+        "level": 20,
+        "moveId": "agility"
+      },
+      {
+        "level": 25,
+        "moveId": "slam"
+      },
+      {
+        "level": 33,
+        "moveId": "aqua_tail"
+      },
+      {
+        "level": 39,
+        "moveId": "dragon_rush"
+      },
+      {
+        "level": 41,
+        "moveId": "outrage"
+      },
+      {
+        "level": 46,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 53,
+        "moveId": "rain_dance"
+      },
+      {
+        "level": 62,
+        "moveId": "dragon_dance"
+      },
+      {
+        "level": 80,
+        "moveId": "hyper_beam"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "cut",
+      "fly",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "low_kick",
+      "strength",
+      "fire_spin",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "earthquake",
+      "toxic",
+      "agility",
+      "double_team",
+      "light_screen",
+      "haze",
+      "reflect",
+      "metronome",
+      "fire_blast",
+      "waterfall",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "icy_wind",
+      "outrage",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "safeguard",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "rock_smash",
+      "whirlpool",
+      "heat_wave",
+      "hail",
+      "facade",
+      "focus_punch",
+      "helping_hand",
+      "superpower",
+      "brick_break",
+      "dive",
+      "weather_ball",
+      "air_cutter",
+      "rock_tomb",
+      "aerial_ace",
+      "dragon_claw",
+      "dragon_dance",
+      "water_pulse",
+      "roost",
+      "tailwind",
+      "fling",
+      "aqua_tail",
+      "air_slash",
+      "dragon_pulse",
+      "focus_blast",
+      "giga_impact",
+      "defog",
+      "draco_meteor",
+      "iron_head",
+      "stone_edge",
+      "hone_claws",
+      "round",
+      "sky_drop",
+      "incinerate",
+      "bulldoze",
+      "dragon_tail",
+      "hurricane",
+      "confide",
+      "power_up_punch",
+      "brutal_swing",
+      "stomping_tantrum",
+      "body_press",
+      "breaking_swipe",
+      "scale_shot",
+      "dual_wingbeat",
+      "tera_blast",
+      "ice_spinner",
+      "snowscape",
+      "chilling_water",
+      "dragon_cheer"
+    ],
+    "biomeIds": [
+      "wasteland"
+    ]
+  }
+]

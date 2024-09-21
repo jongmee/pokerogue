@@ -1,0 +1,152 @@
+[
+  {
+    "_id": "sunkern",
+    "gender": "",
+    "pokedexNumber": "191",
+    "name": "sunkern",
+    "koName": "해너츠",
+    "speciesName": "sunkern",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "36",
+    "friendship": "70",
+    "types": [
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "chlorophyll",
+      "solar_power"
+    ],
+    "hiddenAbilityId": "early_bird",
+    "passiveAbilityId": "drought",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 180,
+    "hp": 30,
+    "attack": 30,
+    "defense": 30,
+    "specialAttack": 30,
+    "specialDefense": 30,
+    "speed": 30,
+    "height": 0.3,
+    "weight": 1.8,
+    "eggMoveIds": [
+      "spore",
+      "sappy_seed",
+      "fiery_dance",
+      "hydro_steam"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growth"
+      },
+      {
+        "level": 7,
+        "moveId": "absorb"
+      },
+      {
+        "level": 10,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 16,
+        "moveId": "razor_leaf"
+      },
+      {
+        "level": 19,
+        "moveId": "worry_seed"
+      },
+      {
+        "level": 22,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 25,
+        "moveId": "endeavor"
+      },
+      {
+        "level": 28,
+        "moveId": "synthesis"
+      },
+      {
+        "level": 31,
+        "moveId": "solar_beam"
+      },
+      {
+        "level": 34,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 36,
+        "moveId": "sunny_day"
+      },
+      {
+        "level": 39,
+        "moveId": "seed_bomb"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "take_down",
+      "double_edge",
+      "solar_beam",
+      "toxic",
+      "double_team",
+      "light_screen",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "sludge_bomb",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "encore",
+      "synthesis",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "uproar",
+      "facade",
+      "nature_power",
+      "helping_hand",
+      "endeavor",
+      "weather_ball",
+      "bullet_seed",
+      "magical_leaf",
+      "worry_seed",
+      "seed_bomb",
+      "energy_ball",
+      "earth_power",
+      "leaf_storm",
+      "grass_knot",
+      "round",
+      "grassy_terrain",
+      "confide",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "town",
+      "grass"
+    ]
+  }
+]

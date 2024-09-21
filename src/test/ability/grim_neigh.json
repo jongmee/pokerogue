@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "grim_neigh",
+    "name": "Grim Neigh",
+    "koName": "흑의울음",
+    "realased": "",
+    "description": "상대를 쓰러뜨리면 무서운 울음소리를 내면서 특수공격이 올라간다.",
+    "generation": 8,
+    "pokemonIds": [
+      "keldeo_ordinary",
+      "keldeo_resolute",
+      "spectrier"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "gooey",
+    "name": "Gooey",
+    "koName": "미끈미끈",
+    "realased": "",
+    "description": "공격으로 자신과 접촉한 상대의 스피드를 떨어뜨린다.",
+    "generation": 6,
+    "pokemonIds": [
+      "goomy",
+      "sliggoo",
+      "goodra",
+      "wiglett",
+      "wugtrio",
+      "hisui_sliggoo",
+      "hisui_goodra"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

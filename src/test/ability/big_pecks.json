@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "big_pecks",
+    "name": "Big Pecks",
+    "koName": "부풀린가슴",
+    "realased": "",
+    "description": "방어를 떨어뜨리는 효과를 받지 않는다.",
+    "generation": 5,
+    "pokemonIds": [
+      "pidgey",
+      "pidgeotto",
+      "pidgeot",
+      "chatot",
+      "pidove",
+      "tranquill",
+      "unfezant",
+      "ducklett",
+      "swanna",
+      "vullaby",
+      "mandibuzz",
+      "fletchling",
+      "rookidee",
+      "corvisquire",
+      "bombirdier"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

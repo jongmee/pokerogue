@@ -1,0 +1,183 @@
+[
+  {
+    "_id": "volcano",
+    "name": "Volcano",
+    "koName": "화산",
+    "types": [
+      "fire"
+    ],
+    "nextBiomes": [
+      {
+        "name": "beach",
+        "percentage": 75
+      },
+      {
+        "name": "ice_cave",
+        "percentage": 25
+      }
+    ],
+    "nativePokemons": [
+      {
+        "tier": "보통",
+        "pokemonIds": [
+          "vulpix",
+          "growlithe",
+          "ponyta",
+          "rapidash",
+          "slugma",
+          "magcargo",
+          "numel",
+          "camerupt",
+          "salandit",
+          "salazzle",
+          "rolycoly",
+          "carkol",
+          "coalossal"
+        ]
+      },
+      {
+        "tier": "드묾",
+        "pokemonIds": [
+          "magmar",
+          "torkoal",
+          "pansear",
+          "simisear",
+          "heatmor",
+          "turtonator"
+        ]
+      },
+      {
+        "tier": "레어",
+        "pokemonIds": [
+          "charmander",
+          "charmeleon",
+          "charizard",
+          "cyndaquil",
+          "quilava",
+          "typhlosion",
+          "chimchar",
+          "monferno",
+          "infernape",
+          "tepig",
+          "pignite",
+          "emboar",
+          "fennekin",
+          "braixen",
+          "delphox",
+          "litten",
+          "torracat",
+          "incineroar",
+          "scorbunny",
+          "raboot",
+          "cinderace",
+          "charcadet",
+          "armarouge"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어",
+        "pokemonIds": [
+          "flareon",
+          "rotom",
+          "larvesta",
+          "volcarona",
+          "hisui_growlithe"
+        ]
+      },
+      {
+        "tier": "울트라 레어",
+        "pokemonIds": [
+          "entei",
+          "heatran",
+          "volcanion",
+          "chi_yu"
+        ]
+      },
+      {
+        "tier": "보스",
+        "pokemonIds": [
+          "ninetales",
+          "arcanine",
+          "rapidash",
+          "magcargo",
+          "camerupt",
+          "torkoal",
+          "magmortar",
+          "simisear",
+          "heatmor",
+          "salazzle",
+          "turtonator",
+          "coalossal"
+        ]
+      },
+      {
+        "tier": "레어 보스",
+        "pokemonIds": [
+          "charizard",
+          "flareon",
+          "typhlosion",
+          "infernape",
+          "emboar",
+          "volcarona",
+          "delphox",
+          "incineroar",
+          "cinderace",
+          "armarouge",
+          "hisui_arcanine"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어 보스",
+        "pokemonIds": [
+          "moltres",
+          "entei",
+          "rotom",
+          "heatran",
+          "volcanion",
+          "chi_yu"
+        ]
+      },
+      {
+        "tier": "슈퍼 울트라 레어 보스",
+        "pokemonIds": [
+          "reshiram"
+        ]
+      }
+    ],
+    "trainers": [
+      {
+        "name": "강연",
+        "types": [
+          "fire"
+        ],
+        "pokemonIds": [
+          "growlithe",
+          "ponyta",
+          "magmar"
+        ]
+      },
+      {
+        "name": "민지",
+        "types": [
+          "fire"
+        ],
+        "pokemonIds": [
+          "slugma",
+          "torkoal",
+          "numel"
+        ]
+      },
+      {
+        "name": "순무",
+        "types": [
+          "fire"
+        ],
+        "pokemonIds": [
+          "sizzlipede",
+          "vulpix",
+          "torkoal"
+        ]
+      }
+    ]
+  }
+]

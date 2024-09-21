@@ -1,0 +1,163 @@
+[
+  {
+    "_id": "yanma",
+    "gender": "",
+    "pokedexNumber": "193",
+    "name": "yanma",
+    "koName": "왕자리",
+    "speciesName": "yanma",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "78",
+    "friendship": "70",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "speed_boost",
+      "compound_eyes"
+    ],
+    "hiddenAbilityId": "frisk",
+    "passiveAbilityId": "sheer_force",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 390,
+    "hp": 65,
+    "attack": 65,
+    "defense": 45,
+    "specialAttack": 75,
+    "specialDefense": 45,
+    "speed": 95,
+    "height": 1.2,
+    "weight": 38,
+    "eggMoveIds": [
+      "nasty_plot",
+      "earth_power",
+      "heat_wave",
+      "bleakwind_storm"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 6,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 11,
+        "moveId": "double_team"
+      },
+      {
+        "level": 14,
+        "moveId": "air_cutter"
+      },
+      {
+        "level": 17,
+        "moveId": "detect"
+      },
+      {
+        "level": 22,
+        "moveId": "supersonic"
+      },
+      {
+        "level": 27,
+        "moveId": "uproar"
+      },
+      {
+        "level": 30,
+        "moveId": "bug_bite"
+      },
+      {
+        "level": 33,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 38,
+        "moveId": "hypnosis"
+      },
+      {
+        "level": 43,
+        "moveId": "wing_attack"
+      },
+      {
+        "level": 46,
+        "moveId": "screech"
+      },
+      {
+        "level": 49,
+        "moveId": "u_turn"
+      },
+      {
+        "level": 54,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 57,
+        "moveId": "bug_buzz"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "take_down",
+      "double_edge",
+      "solar_beam",
+      "toxic",
+      "psychic",
+      "screech",
+      "double_team",
+      "swift",
+      "dream_eater",
+      "leech_life",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "reversal",
+      "protect",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "sunny_day",
+      "shadow_ball",
+      "uproar",
+      "facade",
+      "air_cutter",
+      "signal_beam",
+      "aerial_ace",
+      "roost",
+      "tailwind",
+      "u_turn",
+      "air_slash",
+      "bug_buzz",
+      "defog",
+      "bug_bite",
+      "round",
+      "struggle_bug",
+      "confide",
+      "lunge",
+      "skitter_smack",
+      "tera_blast",
+      "pounce",
+      "psychic_noise"
+    ],
+    "biomeIds": [
+      "jungle"
+    ]
+  }
+]

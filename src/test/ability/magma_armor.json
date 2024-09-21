@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "magma_armor",
+    "name": "Magma Armor",
+    "koName": "마그마의무장",
+    "realased": "",
+    "description": "뜨거운 마그마를 몸에 둘러서 얼음 상태가 되지 않는다.",
+    "generation": 3,
+    "pokemonIds": [
+      "slugma",
+      "magcargo",
+      "camerupt"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

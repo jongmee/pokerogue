@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "barb_barrage",
+    "name": "Barb Barrage",
+    "koName": "독침천밭",
+    "type": "poison",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 60,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "무수히 많은 독침으로 공격한다. 상대를 독 상태로 만들 때가 있다. 상대가 독 상태인 경우 위력이 2배가 된다.",
+    "effectChance": 50,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "qwilfish",
+      "overqwil",
+      "fezandipiti",
+      "alola_grimer",
+      "alola_muk",
+      "hisui_qwilfish"
+    ]
+  }
+]

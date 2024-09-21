@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "grass_pelt",
+    "name": "Grass Pelt",
+    "koName": "풀모피",
+    "realased": "",
+    "description": "그래스필드일 때 방어가 올라간다.",
+    "generation": 6,
+    "pokemonIds": [
+      "skiddo",
+      "gogoat",
+      "grookey",
+      "thwackey",
+      "rillaboom",
+      "rillaboom_gigantamax"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

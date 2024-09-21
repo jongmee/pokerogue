@@ -1,0 +1,166 @@
+[
+  {
+    "_id": "clodsire",
+    "gender": "",
+    "pokedexNumber": "980",
+    "name": "clodsire",
+    "koName": "토오",
+    "speciesName": "clodsire",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "151",
+    "friendship": "50",
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "normalAbilityIds": [
+      "poison_point",
+      "water_absorb"
+    ],
+    "hiddenAbilityId": "unaware",
+    "passiveAbilityId": "thick_fat",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 430,
+    "hp": 130,
+    "attack": 75,
+    "defense": 60,
+    "specialAttack": 45,
+    "specialDefense": 100,
+    "speed": 20,
+    "height": 1.8,
+    "weight": 223,
+    "eggMoveIds": [
+      "recover",
+      "stone_axe",
+      "baneful_bunker",
+      "sappy_seed"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "amnesia"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "poison_sting"
+      },
+      {
+        "level": 4,
+        "moveId": "toxic_spikes"
+      },
+      {
+        "level": 8,
+        "moveId": "mud_shot"
+      },
+      {
+        "level": 12,
+        "moveId": "poison_tail"
+      },
+      {
+        "level": 16,
+        "moveId": "slam"
+      },
+      {
+        "level": 21,
+        "moveId": "yawn"
+      },
+      {
+        "level": 24,
+        "moveId": "poison_jab"
+      },
+      {
+        "level": 30,
+        "moveId": "sludge_wave"
+      },
+      {
+        "level": 36,
+        "moveId": "megahorn"
+      },
+      {
+        "level": 40,
+        "moveId": "toxic"
+      },
+      {
+        "level": 48,
+        "moveId": "earthquake"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hydro_pump",
+      "surf",
+      "hyper_beam",
+      "low_kick",
+      "earthquake",
+      "dig",
+      "toxic",
+      "double_team",
+      "haze",
+      "waterfall",
+      "amnesia",
+      "flash",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "curse",
+      "protect",
+      "sludge_bomb",
+      "mud_slap",
+      "spikes",
+      "sandstorm",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "megahorn",
+      "hidden_power",
+      "rain_dance",
+      "rock_smash",
+      "facade",
+      "helping_hand",
+      "rock_tomb",
+      "muddy_water",
+      "mud_shot",
+      "poison_tail",
+      "water_pulse",
+      "toxic_spikes",
+      "poison_jab",
+      "earth_power",
+      "giga_impact",
+      "zen_headbutt",
+      "gunk_shot",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "venoshock",
+      "sludge_wave",
+      "heavy_slam",
+      "acid_spray",
+      "bulldoze",
+      "high_horsepower",
+      "stomping_tantrum",
+      "liquidation",
+      "body_press",
+      "tera_blast",
+      "trailblaze",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "swamp"
+    ]
+  }
+]

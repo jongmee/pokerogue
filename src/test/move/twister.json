@@ -1,0 +1,40 @@
+[
+  {
+    "_id": "twister",
+    "name": "Twister",
+    "koName": "회오리",
+    "type": "dragon",
+    "moveCategory": "special",
+    "moveTarget": "all_near_enemies",
+    "power": 40,
+    "accuracy": 100,
+    "powerPoint": 20,
+    "effect": "회오리를 일으켜 상대를 끌어들여 공격한다. 상대를 풀죽게 만들 때가 있다.",
+    "effectChance": 20,
+    "prioirty": 0,
+    "generation": 2,
+    "realased": "",
+    "flags": [
+      "wind_move"
+    ],
+    "pokemonIds": [
+      "pidgey",
+      "pidgeotto",
+      "pidgeot",
+      "horsea",
+      "seadra",
+      "gyarados",
+      "dratini",
+      "dragonair",
+      "dragonite",
+      "kingdra",
+      "milotic",
+      "rayquaza",
+      "drampa",
+      "flapple",
+      "regidrago",
+      "walking_wake",
+      "raging_bolt"
+    ]
+  }
+]

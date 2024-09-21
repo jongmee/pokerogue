@@ -1,0 +1,212 @@
+[
+  {
+    "_id": "pangoro",
+    "gender": "",
+    "pokedexNumber": "675",
+    "name": "pangoro",
+    "koName": "부란다",
+    "speciesName": "pangoro",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "173",
+    "friendship": "50",
+    "types": [
+      "fighting",
+      "dark"
+    ],
+    "normalAbilityIds": [
+      "iron_fist",
+      "mold_breaker"
+    ],
+    "hiddenAbilityId": "scrappy",
+    "passiveAbilityId": "fur_coat",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 495,
+    "hp": 95,
+    "attack": 124,
+    "defense": 78,
+    "specialAttack": 69,
+    "specialDefense": 71,
+    "speed": 58,
+    "height": 2.1,
+    "weight": 136,
+    "eggMoveIds": [
+      "drain_punch",
+      "sucker_punch",
+      "meteor_mash",
+      "wicked_blow"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "night_slash"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "taunt"
+      },
+      {
+        "level": 1,
+        "moveId": "arm_thrust"
+      },
+      {
+        "level": 1,
+        "moveId": "bullet_punch"
+      },
+      {
+        "level": 12,
+        "moveId": "circle_throw"
+      },
+      {
+        "level": 16,
+        "moveId": "low_sweep"
+      },
+      {
+        "level": 20,
+        "moveId": "work_up"
+      },
+      {
+        "level": 24,
+        "moveId": "slash"
+      },
+      {
+        "level": 28,
+        "moveId": "vital_throw"
+      },
+      {
+        "level": 35,
+        "moveId": "crunch"
+      },
+      {
+        "level": 40,
+        "moveId": "body_slam"
+      },
+      {
+        "level": 46,
+        "moveId": "parting_shot"
+      },
+      {
+        "level": 52,
+        "moveId": "entrainment"
+      },
+      {
+        "level": 58,
+        "moveId": "hammer_arm"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "swords_dance",
+      "cut",
+      "mega_kick",
+      "body_slam",
+      "roar",
+      "surf",
+      "hyper_beam",
+      "low_kick",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "double_team",
+      "focus_energy",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "reversal",
+      "spite",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "outrage",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "rock_smash",
+      "beat_up",
+      "uproar",
+      "torment",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "superpower",
+      "revenge",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "hyper_voice",
+      "rock_tomb",
+      "aerial_ace",
+      "dragon_claw",
+      "bulk_up",
+      "covet",
+      "close_combat",
+      "payback",
+      "embargo",
+      "fling",
+      "poison_jab",
+      "dark_pulse",
+      "x_scissor",
+      "drain_punch",
+      "focus_blast",
+      "giga_impact",
+      "shadow_claw",
+      "zen_headbutt",
+      "gunk_shot",
+      "iron_head",
+      "stone_edge",
+      "grass_knot",
+      "hone_claws",
+      "low_sweep",
+      "foul_play",
+      "round",
+      "echoed_voice",
+      "quash",
+      "retaliate",
+      "bulldoze",
+      "work_up",
+      "snarl",
+      "confide",
+      "infestation",
+      "power_up_punch",
+      "darkest_lariat",
+      "throat_chop",
+      "stomping_tantrum",
+      "lash_out",
+      "coaching",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "dojo",
+      "jungle"
+    ]
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "_id": "cleffa",
+    "gender": "",
+    "pokedexNumber": "173",
+    "name": "cleffa",
+    "koName": "삐",
+    "speciesName": "cleffa",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "44",
+    "friendship": "140",
+    "types": [
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "cute_charm",
+      "magic_guard"
+    ],
+    "hiddenAbilityId": "friend_guard",
+    "passiveAbilityId": "analytic",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 218,
+    "hp": 50,
+    "attack": 25,
+    "defense": 28,
+    "specialAttack": 45,
+    "specialDefense": 55,
+    "speed": 15,
+    "height": 0.3,
+    "weight": 3,
+    "eggMoveIds": [
+      "calm_mind",
+      "earth_power",
+      "wish",
+      "light_of_ruin"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "splash"
+      },
+      {
+        "level": 1,
+        "moveId": "copycat"
+      },
+      {
+        "level": 4,
+        "moveId": "sing"
+      },
+      {
+        "level": 8,
+        "moveId": "sweet_kiss"
+      },
+      {
+        "level": 12,
+        "moveId": "disarming_voice"
+      },
+      {
+        "level": 16,
+        "moveId": "encore"
+      },
+      {
+        "level": 20,
+        "moveId": "charm"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "mega_kick",
+      "body_slam",
+      "flamethrower",
+      "psybeam",
+      "solar_beam",
+      "thunder_wave",
+      "dig",
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "metronome",
+      "fire_blast",
+      "swift",
+      "amnesia",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "uproar",
+      "facade",
+      "helping_hand",
+      "trick",
+      "recycle",
+      "endeavor",
+      "hyper_voice",
+      "fake_tears",
+      "signal_beam",
+      "covet",
+      "magical_leaf",
+      "calm_mind",
+      "water_pulse",
+      "gravity",
+      "fling",
+      "zen_headbutt",
+      "grass_knot",
+      "wonder_room",
+      "psyshock",
+      "round",
+      "echoed_voice",
+      "stored_power",
+      "incinerate",
+      "work_up",
+      "disarming_voice",
+      "draining_kiss",
+      "misty_terrain",
+      "play_rough",
+      "confide",
+      "dazzling_gleam",
+      "tera_blast",
+      "chilling_water",
+      "alluring_voice"
+    ],
+    "biomeIds": []
+  }
+]

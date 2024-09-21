@@ -1,0 +1,31 @@
+[
+  {
+    "_id": "strong_jaw",
+    "name": "Strong Jaw",
+    "koName": "옹골찬턱",
+    "realased": "",
+    "description": "턱이 튼튼하여 무는 기술의 위력이 올라간다.",
+    "generation": 6,
+    "pokemonIds": [
+      "rattata",
+      "raticate",
+      "sharpedo_mega",
+      "tyrunt",
+      "tyrantrum",
+      "yungoos",
+      "gumshoos",
+      "bruxish",
+      "chewtle",
+      "drednaw",
+      "drednaw_gigantamax",
+      "boltund",
+      "dracovish",
+      "arctovish",
+      "maschiff",
+      "mabosstiff",
+      "hisui_avalugg"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

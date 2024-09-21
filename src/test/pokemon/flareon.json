@@ -1,0 +1,215 @@
+[
+  {
+    "_id": "flareon",
+    "gender": "",
+    "pokedexNumber": "136",
+    "name": "flareon",
+    "koName": "부스터",
+    "speciesName": "flareon",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "184",
+    "friendship": "50",
+    "types": [
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "flash_fire"
+    ],
+    "hiddenAbilityId": "guts",
+    "passiveAbilityId": "pickup",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 525,
+    "hp": 65,
+    "attack": 130,
+    "defense": 60,
+    "specialAttack": 95,
+    "specialDefense": 110,
+    "speed": 65,
+    "height": 0.9,
+    "weight": 25,
+    "eggMoveIds": [
+      "wish",
+      "no_retreat",
+      "zippy_zap",
+      "boomburst"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "sizzly_slide"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "take_down"
+      },
+      {
+        "level": 1,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "swift"
+      },
+      {
+        "level": 1,
+        "moveId": "charm"
+      },
+      {
+        "level": 1,
+        "moveId": "baton_pass"
+      },
+      {
+        "level": 1,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 1,
+        "moveId": "covet"
+      },
+      {
+        "level": 1,
+        "moveId": "copycat"
+      },
+      {
+        "level": 5,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 10,
+        "moveId": "ember"
+      },
+      {
+        "level": 15,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 20,
+        "moveId": "baby_doll_eyes"
+      },
+      {
+        "level": 25,
+        "moveId": "smog"
+      },
+      {
+        "level": 30,
+        "moveId": "bite"
+      },
+      {
+        "level": 35,
+        "moveId": "fire_fang"
+      },
+      {
+        "level": 40,
+        "moveId": "fire_spin"
+      },
+      {
+        "level": 45,
+        "moveId": "lava_plume"
+      },
+      {
+        "level": 50,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 55,
+        "moveId": "flare_blitz"
+      },
+      {
+        "level": 60,
+        "moveId": "last_resort"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "pay_day",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "hyper_beam",
+      "strength",
+      "fire_spin",
+      "dig",
+      "toxic",
+      "double_team",
+      "reflect",
+      "focus_energy",
+      "fire_blast",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "baton_pass",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "shadow_ball",
+      "rock_smash",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "helping_hand",
+      "superpower",
+      "endeavor",
+      "hyper_voice",
+      "weather_ball",
+      "fake_tears",
+      "overheat",
+      "covet",
+      "calm_mind",
+      "flare_blitz",
+      "giga_impact",
+      "fire_fang",
+      "flame_charge",
+      "round",
+      "echoed_voice",
+      "stored_power",
+      "incinerate",
+      "retaliate",
+      "work_up",
+      "confide",
+      "mystical_fire",
+      "burning_jealousy",
+      "scorching_sands",
+      "tera_blast",
+      "trailblaze",
+      "alluring_voice",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "volcano"
+    ]
+  }
+]

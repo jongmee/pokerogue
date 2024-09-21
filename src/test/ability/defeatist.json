@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "defeatist",
+    "name": "Defeatist",
+    "koName": "무기력",
+    "realased": "",
+    "description": "HP가 절반이 되면 무기력해져서 공격과 특수공격이 반감된다.",
+    "generation": 5,
+    "pokemonIds": [
+      "archen",
+      "archeops"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

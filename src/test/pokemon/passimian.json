@@ -1,0 +1,185 @@
+[
+  {
+    "_id": "passimian",
+    "gender": "",
+    "pokedexNumber": "766",
+    "name": "passimian",
+    "koName": "내던숭이",
+    "speciesName": "passimian",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "172",
+    "friendship": "50",
+    "types": [
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "receiver"
+    ],
+    "hiddenAbilityId": "defiant",
+    "passiveAbilityId": "libero",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 490,
+    "hp": 100,
+    "attack": 120,
+    "defense": 90,
+    "specialAttack": 40,
+    "specialDefense": 60,
+    "speed": 80,
+    "height": 2,
+    "weight": 82.8,
+    "eggMoveIds": [
+      "fake_out",
+      "sucker_punch",
+      "zing_zap",
+      "pyro_ball"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 5,
+        "moveId": "rock_smash"
+      },
+      {
+        "level": 10,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 15,
+        "moveId": "beat_up"
+      },
+      {
+        "level": 20,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 25,
+        "moveId": "take_down"
+      },
+      {
+        "level": 30,
+        "moveId": "fling"
+      },
+      {
+        "level": 35,
+        "moveId": "bulk_up"
+      },
+      {
+        "level": 40,
+        "moveId": "thrash"
+      },
+      {
+        "level": 45,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 50,
+        "moveId": "close_combat"
+      },
+      {
+        "level": 55,
+        "moveId": "reversal"
+      },
+      {
+        "level": 60,
+        "moveId": "giga_impact"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "low_kick",
+      "counter",
+      "earthquake",
+      "toxic",
+      "double_team",
+      "focus_energy",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "reversal",
+      "protect",
+      "scary_face",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "baton_pass",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "shadow_ball",
+      "rock_smash",
+      "beat_up",
+      "uproar",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "superpower",
+      "revenge",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "rock_tomb",
+      "aerial_ace",
+      "bulk_up",
+      "gyro_ball",
+      "u_turn",
+      "close_combat",
+      "payback",
+      "assurance",
+      "fling",
+      "seed_bomb",
+      "drain_punch",
+      "vacuum_wave",
+      "focus_blast",
+      "energy_ball",
+      "giga_impact",
+      "gunk_shot",
+      "iron_head",
+      "grass_knot",
+      "smack_down",
+      "low_sweep",
+      "round",
+      "acrobatics",
+      "retaliate",
+      "bulldoze",
+      "work_up",
+      "electroweb",
+      "confide",
+      "brutal_swing",
+      "coaching",
+      "tera_blast",
+      "trailblaze",
+      "chilling_water",
+      "upper_hand"
+    ],
+    "biomeIds": [
+      "jungle"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "kinesis",
+    "name": "Kinesis",
+    "koName": "숟가락휘기",
+    "type": "psychic",
+    "moveCategory": "status",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": 80,
+    "powerPoint": 15,
+    "effect": "숟가락을 휘어서 주의를 끌어 상대의 명중률을 낮춘다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 1,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "kadabra",
+      "alakazam"
+    ]
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "_id": "octillery",
+    "gender": "",
+    "pokedexNumber": "224",
+    "name": "octillery",
+    "koName": "대포무노",
+    "speciesName": "octillery",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "168",
+    "friendship": "50",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "suction_cups",
+      "sniper"
+    ],
+    "hiddenAbilityId": "moody",
+    "passiveAbilityId": "simple",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 480,
+    "hp": 75,
+    "attack": 105,
+    "defense": 75,
+    "specialAttack": 105,
+    "specialDefense": 75,
+    "speed": 45,
+    "height": 0.9,
+    "weight": 28.5,
+    "eggMoveIds": [
+      "water_shuriken",
+      "take_heart",
+      "shell_side_arm",
+      "bouncy_bubble"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "octazooka"
+      },
+      {
+        "level": 1,
+        "moveId": "wrap"
+      },
+      {
+        "level": 1,
+        "moveId": "constrict"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 1,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 1,
+        "moveId": "rock_blast"
+      },
+      {
+        "level": 1,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 1,
+        "moveId": "gunk_shot"
+      },
+      {
+        "level": 12,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 16,
+        "moveId": "aurora_beam"
+      },
+      {
+        "level": 20,
+        "moveId": "bubble_beam"
+      },
+      {
+        "level": 24,
+        "moveId": "lock_on"
+      },
+      {
+        "level": 30,
+        "moveId": "bullet_seed"
+      },
+      {
+        "level": 36,
+        "moveId": "ice_beam"
+      },
+      {
+        "level": 42,
+        "moveId": "hydro_pump"
+      },
+      {
+        "level": 48,
+        "moveId": "soak"
+      },
+      {
+        "level": 54,
+        "moveId": "hyper_beam"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "flamethrower",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "psybeam",
+      "hyper_beam",
+      "thunder_wave",
+      "toxic",
+      "psychic",
+      "screech",
+      "double_team",
+      "haze",
+      "focus_energy",
+      "fire_blast",
+      "waterfall",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "sludge_bomb",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "whirlpool",
+      "facade",
+      "helping_hand",
+      "dive",
+      "signal_beam",
+      "bullet_seed",
+      "bounce",
+      "mud_shot",
+      "rock_blast",
+      "water_pulse",
+      "brine",
+      "payback",
+      "assurance",
+      "seed_bomb",
+      "energy_ball",
+      "giga_impact",
+      "flash_cannon",
+      "gunk_shot",
+      "charge_beam",
+      "smack_down",
+      "sludge_wave",
+      "acid_spray",
+      "round",
+      "scald",
+      "incinerate",
+      "confide",
+      "liquidation",
+      "skitter_smack",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "seabed"
+    ]
+  }
+]

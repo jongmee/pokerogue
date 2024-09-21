@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "rock_wrecker",
+    "name": "Rock Wrecker",
+    "koName": "암석포",
+    "type": "rock",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 150,
+    "accuracy": 90,
+    "powerPoint": 5,
+    "effect": "거대한 바위를 상대에게 발사하여 공격한다. 다음 턴은 움직일 수 없게 된다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 4,
+    "realased": "",
+    "flags": [
+      "ballbomb_move"
+    ],
+    "pokemonIds": [
+      "rhyperior",
+      "dwebble",
+      "crustle",
+      "buzzwole"
+    ]
+  }
+]

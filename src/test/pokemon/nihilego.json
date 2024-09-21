@@ -1,0 +1,181 @@
+[
+  {
+    "_id": "nihilego",
+    "gender": "",
+    "pokedexNumber": "793",
+    "name": "nihilego",
+    "koName": "텅비드",
+    "speciesName": "nihilego",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "285",
+    "friendship": "0",
+    "types": [
+      "rock",
+      "poison"
+    ],
+    "normalAbilityIds": [
+      "beast_boost"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "levitate",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 570,
+    "hp": 109,
+    "attack": 53,
+    "defense": 47,
+    "specialAttack": 127,
+    "specialDefense": 131,
+    "speed": 103,
+    "height": 1.2,
+    "weight": 55.5,
+    "eggMoveIds": [
+      "strength_sap",
+      "malignant_chain",
+      "earth_power",
+      "quiver_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "wrap"
+      },
+      {
+        "level": 1,
+        "moveId": "constrict"
+      },
+      {
+        "level": 5,
+        "moveId": "acid"
+      },
+      {
+        "level": 10,
+        "moveId": "tickle"
+      },
+      {
+        "level": 15,
+        "moveId": "acid_spray"
+      },
+      {
+        "level": 20,
+        "moveId": "clear_smog"
+      },
+      {
+        "level": 25,
+        "moveId": "guard_split"
+      },
+      {
+        "level": 25,
+        "moveId": "power_split"
+      },
+      {
+        "level": 30,
+        "moveId": "venoshock"
+      },
+      {
+        "level": 35,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 40,
+        "moveId": "toxic_spikes"
+      },
+      {
+        "level": 45,
+        "moveId": "venom_drench"
+      },
+      {
+        "level": 50,
+        "moveId": "power_gem"
+      },
+      {
+        "level": 55,
+        "moveId": "stealth_rock"
+      },
+      {
+        "level": 60,
+        "moveId": "mirror_coat"
+      },
+      {
+        "level": 65,
+        "moveId": "wonder_room"
+      },
+      {
+        "level": 70,
+        "moveId": "head_smash"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "spite",
+      "protect",
+      "sludge_bomb",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "pain_split",
+      "hidden_power",
+      "facade",
+      "knock_off",
+      "rock_tomb",
+      "worry_seed",
+      "toxic_spikes",
+      "poison_jab",
+      "power_gem",
+      "zen_headbutt",
+      "trick_room",
+      "cross_poison",
+      "gunk_shot",
+      "iron_head",
+      "stealth_rock",
+      "grass_knot",
+      "charge_beam",
+      "wonder_room",
+      "psyshock",
+      "venoshock",
+      "sludge_wave",
+      "acid_spray",
+      "foul_play",
+      "round",
+      "echoed_voice",
+      "ally_switch",
+      "hex",
+      "confide",
+      "venom_drench",
+      "dazzling_gleam",
+      "brutal_swing",
+      "meteor_beam",
+      "corrosive_gas",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "seabed"
+    ]
+  }
+]

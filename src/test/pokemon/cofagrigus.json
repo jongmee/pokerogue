@@ -1,0 +1,188 @@
+[
+  {
+    "_id": "cofagrigus",
+    "gender": "",
+    "pokedexNumber": "563",
+    "name": "cofagrigus",
+    "koName": "데스니칸",
+    "speciesName": "cofagrigus",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "169",
+    "friendship": "50",
+    "types": [
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "mummy"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "purifying_salt",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 483,
+    "hp": 58,
+    "attack": 50,
+    "defense": 145,
+    "specialAttack": 95,
+    "specialDefense": 105,
+    "speed": 30,
+    "height": 1.7,
+    "weight": 76.5,
+    "eggMoveIds": [
+      "strength_sap",
+      "infernal_parade",
+      "aura_sphere",
+      "astral_barrage"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "shadow_claw"
+      },
+      {
+        "level": 1,
+        "moveId": "night_shade"
+      },
+      {
+        "level": 1,
+        "moveId": "haze"
+      },
+      {
+        "level": 1,
+        "moveId": "protect"
+      },
+      {
+        "level": 1,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 1,
+        "moveId": "heal_block"
+      },
+      {
+        "level": 12,
+        "moveId": "disable"
+      },
+      {
+        "level": 16,
+        "moveId": "will_o_wisp"
+      },
+      {
+        "level": 20,
+        "moveId": "crafty_shield"
+      },
+      {
+        "level": 24,
+        "moveId": "hex"
+      },
+      {
+        "level": 28,
+        "moveId": "mean_look"
+      },
+      {
+        "level": 32,
+        "moveId": "grudge"
+      },
+      {
+        "level": 38,
+        "moveId": "curse"
+      },
+      {
+        "level": 44,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 50,
+        "moveId": "dark_pulse"
+      },
+      {
+        "level": 56,
+        "moveId": "guard_split"
+      },
+      {
+        "level": 56,
+        "moveId": "power_split"
+      },
+      {
+        "level": 62,
+        "moveId": "destiny_bond"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "hyper_beam",
+      "toxic",
+      "psychic",
+      "night_shade",
+      "double_team",
+      "haze",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "spite",
+      "protect",
+      "scary_face",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "pain_split",
+      "hidden_power",
+      "rain_dance",
+      "psych_up",
+      "shadow_ball",
+      "will_o_wisp",
+      "facade",
+      "trick",
+      "revenge",
+      "knock_off",
+      "skill_swap",
+      "imprison",
+      "fake_tears",
+      "iron_defense",
+      "calm_mind",
+      "payback",
+      "embargo",
+      "power_swap",
+      "guard_swap",
+      "toxic_spikes",
+      "dark_pulse",
+      "energy_ball",
+      "giga_impact",
+      "nasty_plot",
+      "shadow_claw",
+      "zen_headbutt",
+      "trick_room",
+      "grass_knot",
+      "wonder_room",
+      "round",
+      "ally_switch",
+      "hex",
+      "phantom_force",
+      "confide",
+      "infestation",
+      "body_press",
+      "poltergeist",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "graveyard",
+      "temple"
+    ]
+  }
+]

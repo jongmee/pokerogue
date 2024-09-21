@@ -1,0 +1,41 @@
+[
+  {
+    "_id": "revival_blessing",
+    "name": "Revival Blessing",
+    "koName": "회생의기도",
+    "type": "normal",
+    "moveCategory": "status",
+    "moveTarget": "user",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 1,
+    "effect": "자애로운 마음으로 기도를 하여 기절한 교대 포켓몬을 HP가 절반인 상태로 부활시킨다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 9,
+    "realased": "",
+    "flags": [
+      "triage_move"
+    ],
+    "pokemonIds": [
+      "chansey",
+      "blissey",
+      "ho_oh",
+      "celebi",
+      "luvdisc",
+      "happiny",
+      "spritzee",
+      "aromatisse",
+      "swirlix",
+      "slurpuff",
+      "dedenne",
+      "comfey",
+      "indeedee",
+      "pawmot",
+      "tandemaus",
+      "rabsca",
+      "alola_vulpix",
+      "alola_ninetales"
+    ]
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "_id": "swellow",
+    "gender": "",
+    "pokedexNumber": "277",
+    "name": "swellow",
+    "koName": "스왈로",
+    "speciesName": "swellow",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "159",
+    "friendship": "70",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "guts"
+    ],
+    "hiddenAbilityId": "scrappy",
+    "passiveAbilityId": "aerilate",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 455,
+    "hp": 60,
+    "attack": 85,
+    "defense": 60,
+    "specialAttack": 75,
+    "specialDefense": 50,
+    "speed": 125,
+    "height": 0.7,
+    "weight": 19.8,
+    "eggMoveIds": [
+      "boomburst",
+      "facade",
+      "headlong_rush",
+      "no_retreat"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "brave_bird"
+      },
+      {
+        "level": 1,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 1,
+        "moveId": "pluck"
+      },
+      {
+        "level": 1,
+        "moveId": "peck"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 13,
+        "moveId": "wing_attack"
+      },
+      {
+        "level": 17,
+        "moveId": "double_team"
+      },
+      {
+        "level": 21,
+        "moveId": "aerial_ace"
+      },
+      {
+        "level": 27,
+        "moveId": "quick_guard"
+      },
+      {
+        "level": 33,
+        "moveId": "agility"
+      },
+      {
+        "level": 45,
+        "moveId": "endeavor"
+      },
+      {
+        "level": 51,
+        "moveId": "brave_bird"
+      },
+      {
+        "level": 57,
+        "moveId": "reversal"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fly",
+      "hyper_beam",
+      "counter",
+      "toxic",
+      "agility",
+      "double_team",
+      "focus_energy",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "reversal",
+      "protect",
+      "mud_slap",
+      "endure",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "heat_wave",
+      "facade",
+      "endeavor",
+      "air_cutter",
+      "aerial_ace",
+      "roost",
+      "pluck",
+      "tailwind",
+      "u_turn",
+      "air_slash",
+      "brave_bird",
+      "giga_impact",
+      "defog",
+      "round",
+      "echoed_voice",
+      "work_up",
+      "confide",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "mountain"
+    ]
+  }
+]

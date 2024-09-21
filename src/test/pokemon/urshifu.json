@@ -1,0 +1,193 @@
+[
+  {
+    "_id": "urshifu",
+    "gender": "",
+    "pokedexNumber": "892",
+    "name": "urshifu",
+    "koName": "우라오스",
+    "speciesName": "urshifu",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "275",
+    "friendship": "50",
+    "types": [
+      "fighting",
+      "dark"
+    ],
+    "normalAbilityIds": [
+      "unseen_fist"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "iron_fist",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 550,
+    "hp": 100,
+    "attack": 130,
+    "defense": 100,
+    "specialAttack": 63,
+    "specialDefense": 60,
+    "speed": 97,
+    "height": 1.9,
+    "weight": 105,
+    "eggMoveIds": [
+      "meteor_mash",
+      "drain_punch",
+      "jet_punch",
+      "dragon_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "wicked_blow"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 1,
+        "moveId": "endure"
+      },
+      {
+        "level": 1,
+        "moveId": "rock_smash"
+      },
+      {
+        "level": 1,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 12,
+        "moveId": "aerial_ace"
+      },
+      {
+        "level": 16,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 20,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 24,
+        "moveId": "brick_break"
+      },
+      {
+        "level": 28,
+        "moveId": "detect"
+      },
+      {
+        "level": 32,
+        "moveId": "bulk_up"
+      },
+      {
+        "level": 36,
+        "moveId": "iron_head"
+      },
+      {
+        "level": 40,
+        "moveId": "dynamic_punch"
+      },
+      {
+        "level": 44,
+        "moveId": "counter"
+      },
+      {
+        "level": 48,
+        "moveId": "close_combat"
+      },
+      {
+        "level": 52,
+        "moveId": "focus_punch"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "swords_dance",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "low_kick",
+      "counter",
+      "dig",
+      "double_team",
+      "focus_energy",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "reversal",
+      "protect",
+      "scary_face",
+      "endure",
+      "false_swipe",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "metal_claw",
+      "hidden_power",
+      "crunch",
+      "rock_smash",
+      "beat_up",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "superpower",
+      "revenge",
+      "brick_break",
+      "rock_tomb",
+      "aerial_ace",
+      "iron_defense",
+      "bulk_up",
+      "u_turn",
+      "close_combat",
+      "payback",
+      "assurance",
+      "fling",
+      "aura_sphere",
+      "poison_jab",
+      "dark_pulse",
+      "drain_punch",
+      "focus_blast",
+      "giga_impact",
+      "zen_headbutt",
+      "iron_head",
+      "stone_edge",
+      "low_sweep",
+      "foul_play",
+      "round",
+      "acrobatics",
+      "retaliate",
+      "work_up",
+      "snarl",
+      "darkest_lariat",
+      "throat_chop",
+      "body_press",
+      "lash_out",
+      "coaching",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "dojo"
+    ]
+  }
+]

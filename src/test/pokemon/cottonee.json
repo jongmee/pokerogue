@@ -1,0 +1,167 @@
+[
+  {
+    "_id": "cottonee",
+    "gender": "",
+    "pokedexNumber": "546",
+    "name": "cottonee",
+    "koName": "소미안",
+    "speciesName": "cottonee",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "56",
+    "friendship": "50",
+    "types": [
+      "grass",
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "prankster",
+      "infiltrator"
+    ],
+    "hiddenAbilityId": "chlorophyll",
+    "passiveAbilityId": "fluffy",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 280,
+    "hp": 40,
+    "attack": 27,
+    "defense": 60,
+    "specialAttack": 37,
+    "specialDefense": 50,
+    "speed": 66,
+    "height": 0.3,
+    "weight": 0.6,
+    "eggMoveIds": [
+      "pollen_puff",
+      "parting_shot",
+      "sleep_powder",
+      "seed_flare"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 1,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 3,
+        "moveId": "fairy_wind"
+      },
+      {
+        "level": 6,
+        "moveId": "stun_spore"
+      },
+      {
+        "level": 12,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 15,
+        "moveId": "razor_leaf"
+      },
+      {
+        "level": 18,
+        "moveId": "growth"
+      },
+      {
+        "level": 21,
+        "moveId": "poison_powder"
+      },
+      {
+        "level": 24,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 27,
+        "moveId": "charm"
+      },
+      {
+        "level": 30,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 33,
+        "moveId": "cotton_spore"
+      },
+      {
+        "level": 36,
+        "moveId": "energy_ball"
+      },
+      {
+        "level": 39,
+        "moveId": "sunny_day"
+      },
+      {
+        "level": 42,
+        "moveId": "endeavor"
+      },
+      {
+        "level": 45,
+        "moveId": "cotton_guard"
+      },
+      {
+        "level": 48,
+        "moveId": "solar_beam"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "solar_beam",
+      "toxic",
+      "double_team",
+      "swift",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "giga_drain",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "encore",
+      "hidden_power",
+      "sunny_day",
+      "beat_up",
+      "facade",
+      "nature_power",
+      "taunt",
+      "helping_hand",
+      "knock_off",
+      "endeavor",
+      "fake_tears",
+      "covet",
+      "tailwind",
+      "worry_seed",
+      "seed_bomb",
+      "energy_ball",
+      "defog",
+      "grass_knot",
+      "round",
+      "grassy_terrain",
+      "misty_terrain",
+      "confide",
+      "dazzling_gleam",
+      "grassy_glide",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "town",
+      "grass",
+      "meadow"
+    ]
+  }
+]

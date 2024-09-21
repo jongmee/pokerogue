@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "hold_hands",
+    "name": "Hold Hands",
+    "koName": "손에손잡기",
+    "type": "normal",
+    "moveCategory": "status",
+    "moveTarget": "near_ally",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 40,
+    "effect": "같은 편 포켓몬끼리 손에 손을 잡는다. 굉장히 행복한 기분이 들게 된다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 6,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": []
+  }
+]

@@ -1,0 +1,195 @@
+[
+  {
+    "_id": "alola_ninetales",
+    "gender": "",
+    "pokedexNumber": "2038",
+    "name": "alola_ninetales",
+    "koName": "나인테일",
+    "speciesName": "alola_ninetales",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "177",
+    "friendship": "50",
+    "types": [
+      "ice",
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "snow_cloak"
+    ],
+    "hiddenAbilityId": "snow_warning",
+    "passiveAbilityId": "sheer_force",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 505,
+    "hp": 73,
+    "attack": 67,
+    "defense": 75,
+    "specialAttack": 81,
+    "specialDefense": 100,
+    "speed": 109,
+    "height": 1.1,
+    "weight": 19.9,
+    "eggMoveIds": [
+      "moonblast",
+      "parting_shot",
+      "flamethrower",
+      "revival_blessing"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "dazzling_gleam"
+      },
+      {
+        "level": -1,
+        "moveId": "disable"
+      },
+      {
+        "level": -1,
+        "moveId": "mist"
+      },
+      {
+        "level": -1,
+        "moveId": "ice_beam"
+      },
+      {
+        "level": -1,
+        "moveId": "aurora_beam"
+      },
+      {
+        "level": -1,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": -1,
+        "moveId": "spite"
+      },
+      {
+        "level": -1,
+        "moveId": "powder_snow"
+      },
+      {
+        "level": -1,
+        "moveId": "extrasensory"
+      },
+      {
+        "level": -1,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": -1,
+        "moveId": "ice_shard"
+      },
+      {
+        "level": -1,
+        "moveId": "freeze_dry"
+      },
+      {
+        "level": -1,
+        "moveId": "aurora_veil"
+      },
+      {
+        "level": 1,
+        "moveId": "icy_wind"
+      },
+      {
+        "level": 1,
+        "moveId": "imprison"
+      },
+      {
+        "level": 1,
+        "moveId": "blizzard"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "solar_beam",
+      "dig",
+      "toxic",
+      "agility",
+      "double_team",
+      "confuse_ray",
+      "reflect",
+      "swift",
+      "dream_eater",
+      "rest",
+      "substitute",
+      "snore",
+      "spite",
+      "protect",
+      "icy_wind",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "safeguard",
+      "pain_split",
+      "baton_pass",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "psych_up",
+      "hail",
+      "facade",
+      "helping_hand",
+      "imprison",
+      "weather_ball",
+      "fake_tears",
+      "icicle_spear",
+      "covet",
+      "calm_mind",
+      "payback",
+      "power_swap",
+      "dark_pulse",
+      "aqua_tail",
+      "giga_impact",
+      "nasty_plot",
+      "avalanche",
+      "zen_headbutt",
+      "wonder_room",
+      "psyshock",
+      "foul_play",
+      "round",
+      "stored_power",
+      "hex",
+      "frost_breath",
+      "tail_slap",
+      "disarming_voice",
+      "draining_kiss",
+      "misty_terrain",
+      "play_rough",
+      "confide",
+      "dazzling_gleam",
+      "aurora_veil",
+      "triple_axel",
+      "tera_blast",
+      "snowscape",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "island",
+      "snowy_forest"
+    ]
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "_id": "bayleef",
+    "gender": "",
+    "pokedexNumber": "153",
+    "name": "bayleef",
+    "koName": "베이리프",
+    "speciesName": "bayleef",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "142",
+    "friendship": "70",
+    "types": [
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "overgrow"
+    ],
+    "hiddenAbilityId": "leaf_guard",
+    "passiveAbilityId": "thick_fat",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 405,
+    "hp": 60,
+    "attack": 62,
+    "defense": 80,
+    "specialAttack": 63,
+    "specialDefense": 80,
+    "speed": 60,
+    "height": 1.2,
+    "weight": 15.8,
+    "eggMoveIds": [
+      "sappy_seed",
+      "stone_axe",
+      "dragon_dance",
+      "spore"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "razor_leaf"
+      },
+      {
+        "level": 1,
+        "moveId": "poison_powder"
+      },
+      {
+        "level": 12,
+        "moveId": "synthesis"
+      },
+      {
+        "level": 18,
+        "moveId": "reflect"
+      },
+      {
+        "level": 22,
+        "moveId": "magical_leaf"
+      },
+      {
+        "level": 26,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 32,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 36,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 40,
+        "moveId": "body_slam"
+      },
+      {
+        "level": 46,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 50,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 54,
+        "moveId": "solar_beam"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "body_slam",
+      "double_edge",
+      "counter",
+      "strength",
+      "solar_beam",
+      "toxic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "iron_tail",
+      "synthesis",
+      "hidden_power",
+      "sunny_day",
+      "rock_smash",
+      "facade",
+      "nature_power",
+      "knock_off",
+      "bullet_seed",
+      "magical_leaf",
+      "worry_seed",
+      "seed_bomb",
+      "energy_ball",
+      "leaf_storm",
+      "grass_knot",
+      "round",
+      "echoed_voice",
+      "grass_pledge",
+      "work_up",
+      "confide",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "tall_grass"
+    ]
+  }
+]

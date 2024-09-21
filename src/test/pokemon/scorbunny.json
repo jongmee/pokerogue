@@ -1,0 +1,146 @@
+[
+  {
+    "_id": "scorbunny",
+    "gender": "",
+    "pokedexNumber": "813",
+    "name": "scorbunny",
+    "koName": "염버니",
+    "speciesName": "scorbunny",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "62",
+    "friendship": "50",
+    "types": [
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "blaze"
+    ],
+    "hiddenAbilityId": "libero",
+    "passiveAbilityId": "no_guard",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 310,
+    "hp": 50,
+    "attack": 71,
+    "defense": 40,
+    "specialAttack": 40,
+    "specialDefense": 40,
+    "speed": 69,
+    "height": 0.3,
+    "weight": 4.5,
+    "eggMoveIds": [
+      "extreme_speed",
+      "high_jump_kick",
+      "triple_axel",
+      "bolt_strike"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 5,
+        "moveId": "ember"
+      },
+      {
+        "level": 8,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 12,
+        "moveId": "double_kick"
+      },
+      {
+        "level": 17,
+        "moveId": "flame_charge"
+      },
+      {
+        "level": 20,
+        "moveId": "agility"
+      },
+      {
+        "level": 24,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 28,
+        "moveId": "counter"
+      },
+      {
+        "level": 32,
+        "moveId": "bounce"
+      },
+      {
+        "level": 36,
+        "moveId": "double_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_kick",
+      "take_down",
+      "double_edge",
+      "flamethrower",
+      "low_kick",
+      "counter",
+      "fire_spin",
+      "agility",
+      "double_team",
+      "focus_energy",
+      "fire_blast",
+      "swift",
+      "rest",
+      "super_fang",
+      "substitute",
+      "snore",
+      "reversal",
+      "protect",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "hidden_power",
+      "sunny_day",
+      "heat_wave",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "blaze_kick",
+      "overheat",
+      "bounce",
+      "mud_shot",
+      "u_turn",
+      "assurance",
+      "flare_blitz",
+      "fire_fang",
+      "gunk_shot",
+      "electro_ball",
+      "flame_charge",
+      "low_sweep",
+      "round",
+      "ally_switch",
+      "acrobatics",
+      "fire_pledge",
+      "work_up",
+      "burning_jealousy",
+      "tera_blast",
+      "trailblaze",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "volcano"
+    ]
+  }
+]

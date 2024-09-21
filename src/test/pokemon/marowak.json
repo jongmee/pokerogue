@@ -1,0 +1,198 @@
+[
+  {
+    "_id": "marowak",
+    "gender": "",
+    "pokedexNumber": "105",
+    "name": "marowak",
+    "koName": "텅구리",
+    "speciesName": "marowak",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "149",
+    "friendship": "50",
+    "types": [
+      "ground"
+    ],
+    "normalAbilityIds": [
+      "rock_head",
+      "lightning_rod"
+    ],
+    "hiddenAbilityId": "battle_armor",
+    "passiveAbilityId": "parental_bond",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 425,
+    "hp": 60,
+    "attack": 80,
+    "defense": 110,
+    "specialAttack": 50,
+    "specialDefense": 80,
+    "speed": 45,
+    "height": 1,
+    "weight": 45,
+    "eggMoveIds": [
+      "head_smash",
+      "wood_hammer",
+      "shadow_sneak",
+      "bitter_blade"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "mud_slap"
+      },
+      {
+        "level": 1,
+        "moveId": "false_swipe"
+      },
+      {
+        "level": 1,
+        "moveId": "bone_club"
+      },
+      {
+        "level": 12,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 16,
+        "moveId": "retaliate"
+      },
+      {
+        "level": 20,
+        "moveId": "fling"
+      },
+      {
+        "level": 24,
+        "moveId": "stomping_tantrum"
+      },
+      {
+        "level": 31,
+        "moveId": "bone_rush"
+      },
+      {
+        "level": 36,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 42,
+        "moveId": "endeavor"
+      },
+      {
+        "level": 48,
+        "moveId": "bonemerang"
+      },
+      {
+        "level": 54,
+        "moveId": "thrash"
+      },
+      {
+        "level": 60,
+        "moveId": "double_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "thunder_punch",
+      "swords_dance",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "flamethrower",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "low_kick",
+      "counter",
+      "strength",
+      "thunder",
+      "earthquake",
+      "dig",
+      "toxic",
+      "screech",
+      "double_team",
+      "focus_energy",
+      "fire_blast",
+      "swift",
+      "dream_eater",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "outrage",
+      "sandstorm",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "shadow_ball",
+      "rock_smash",
+      "uproar",
+      "will_o_wisp",
+      "facade",
+      "focus_punch",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "rock_tomb",
+      "aerial_ace",
+      "iron_defense",
+      "fling",
+      "dark_pulse",
+      "focus_blast",
+      "earth_power",
+      "giga_impact",
+      "rock_climb",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "smack_down",
+      "round",
+      "echoed_voice",
+      "ally_switch",
+      "hex",
+      "incinerate",
+      "retaliate",
+      "bulldoze",
+      "confide",
+      "power_up_punch",
+      "throat_chop",
+      "brutal_swing",
+      "stomping_tantrum",
+      "scorching_sands",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "badlands",
+      "graveyard",
+      "temple"
+    ]
+  }
+]

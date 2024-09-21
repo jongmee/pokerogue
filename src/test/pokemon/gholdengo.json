@@ -1,0 +1,144 @@
+[
+  {
+    "_id": "gholdengo",
+    "gender": "",
+    "pokedexNumber": "1000",
+    "name": "gholdengo",
+    "koName": "타부자고",
+    "speciesName": "gholdengo",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "275",
+    "friendship": "50",
+    "types": [
+      "steel",
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "good_as_gold"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "honey_gather",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 550,
+    "hp": 87,
+    "attack": 60,
+    "defense": 95,
+    "specialAttack": 133,
+    "specialDefense": 91,
+    "speed": 84,
+    "height": 1.2,
+    "weight": 30,
+    "eggMoveIds": [
+      "happy_hour",
+      "aura_sphere",
+      "surf",
+      "astral_barrage"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 7,
+        "moveId": "night_shade"
+      },
+      {
+        "level": 14,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 21,
+        "moveId": "substitute"
+      },
+      {
+        "level": 28,
+        "moveId": "metal_sound"
+      },
+      {
+        "level": 35,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 42,
+        "moveId": "recover"
+      },
+      {
+        "level": 49,
+        "moveId": "power_gem"
+      },
+      {
+        "level": 56,
+        "moveId": "make_it_rain"
+      },
+      {
+        "level": 63,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 70,
+        "moveId": "memento"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "thunder_punch",
+      "take_down",
+      "hyper_beam",
+      "low_kick",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "psychic",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "rest",
+      "substitute",
+      "thief",
+      "protect",
+      "sandstorm",
+      "endure",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "shadow_ball",
+      "focus_punch",
+      "trick",
+      "metal_sound",
+      "fling",
+      "power_gem",
+      "focus_blast",
+      "giga_impact",
+      "nasty_plot",
+      "flash_cannon",
+      "iron_head",
+      "charge_beam",
+      "psyshock",
+      "heavy_slam",
+      "electro_ball",
+      "low_sweep",
+      "hex",
+      "dazzling_gleam",
+      "steel_beam",
+      "poltergeist",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "temple"
+    ]
+  }
+]

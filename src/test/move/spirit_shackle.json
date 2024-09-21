@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "spirit_shackle",
+    "name": "Spirit Shackle",
+    "koName": "그림자꿰매기",
+    "type": "ghost",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 80,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "공격과 동시에 상대의 그림자를 꿰매 도망칠 수 없게 한다.",
+    "effectChance": 100,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "nincada",
+      "ninjask",
+      "shedinja",
+      "pumpkaboo",
+      "gourgeist",
+      "decidueye"
+    ]
+  }
+]

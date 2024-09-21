@@ -1,0 +1,169 @@
+[
+  {
+    "_id": "wailmer",
+    "gender": "",
+    "pokedexNumber": "320",
+    "name": "wailmer",
+    "koName": "고래왕자",
+    "speciesName": "wailmer",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "80",
+    "friendship": "50",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "water_veil",
+      "oblivious"
+    ],
+    "hiddenAbilityId": "pressure",
+    "passiveAbilityId": "levitate",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 400,
+    "hp": 130,
+    "attack": 70,
+    "defense": 35,
+    "specialAttack": 70,
+    "specialDefense": 35,
+    "speed": 60,
+    "height": 2,
+    "weight": 130,
+    "eggMoveIds": [
+      "take_heart",
+      "bouncy_bubble",
+      "slack_off",
+      "comeuppance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "splash"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 3,
+        "moveId": "growl"
+      },
+      {
+        "level": 6,
+        "moveId": "astonish"
+      },
+      {
+        "level": 12,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 15,
+        "moveId": "mist"
+      },
+      {
+        "level": 18,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 21,
+        "moveId": "heavy_slam"
+      },
+      {
+        "level": 24,
+        "moveId": "brine"
+      },
+      {
+        "level": 27,
+        "moveId": "whirlpool"
+      },
+      {
+        "level": 30,
+        "moveId": "dive"
+      },
+      {
+        "level": 33,
+        "moveId": "bounce"
+      },
+      {
+        "level": 36,
+        "moveId": "body_slam"
+      },
+      {
+        "level": 39,
+        "moveId": "rest"
+      },
+      {
+        "level": 42,
+        "moveId": "amnesia"
+      },
+      {
+        "level": 45,
+        "moveId": "hydro_pump"
+      },
+      {
+        "level": 48,
+        "moveId": "water_spout"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "roar",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "strength",
+      "earthquake",
+      "toxic",
+      "double_team",
+      "self_destruct",
+      "waterfall",
+      "amnesia",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "rock_smash",
+      "whirlpool",
+      "hail",
+      "facade",
+      "dive",
+      "hyper_voice",
+      "weather_ball",
+      "rock_tomb",
+      "bounce",
+      "water_pulse",
+      "brine",
+      "avalanche",
+      "zen_headbutt",
+      "heavy_slam",
+      "round",
+      "echoed_voice",
+      "scald",
+      "bulldoze",
+      "confide",
+      "body_press",
+      "steel_roller",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "sea",
+      "seabed"
+    ]
+  }
+]

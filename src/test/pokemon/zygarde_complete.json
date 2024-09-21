@@ -1,0 +1,123 @@
+[
+  {
+    "_id": "zygarde_complete",
+    "gender": "",
+    "pokedexNumber": "718",
+    "name": "zygarde_complete",
+    "koName": "지가르데_complete",
+    "speciesName": "zygarde",
+    "canChangeForm": true,
+    "formName": "complete_forme",
+    "baseExp": "300",
+    "friendship": "0",
+    "types": [
+      "dragon",
+      "ground"
+    ],
+    "normalAbilityIds": [
+      "power_construct"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "huge_power",
+    "generation": 6,
+    "legendary": true,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 708,
+    "hp": 216,
+    "attack": 100,
+    "defense": 121,
+    "specialAttack": 91,
+    "specialDefense": 95,
+    "speed": 85,
+    "height": 4.5,
+    "weight": 610,
+    "eggMoveIds": [
+      "dragon_darts",
+      "heal_order",
+      "clangorous_soul",
+      "double_iron_bash"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "bind"
+      },
+      {
+        "level": 1,
+        "moveId": "bite"
+      },
+      {
+        "level": 1,
+        "moveId": "dragon_breath"
+      },
+      {
+        "level": 1,
+        "moveId": "bulldoze"
+      },
+      {
+        "level": 1,
+        "moveId": "thousand_arrows"
+      },
+      {
+        "level": 1,
+        "moveId": "thousand_waves"
+      },
+      {
+        "level": 1,
+        "moveId": "core_enforcer"
+      },
+      {
+        "level": 8,
+        "moveId": "haze"
+      },
+      {
+        "level": 16,
+        "moveId": "dig"
+      },
+      {
+        "level": 24,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 32,
+        "moveId": "crunch"
+      },
+      {
+        "level": 40,
+        "moveId": "dragon_pulse"
+      },
+      {
+        "level": 48,
+        "moveId": "lands_wrath"
+      },
+      {
+        "level": 56,
+        "moveId": "glare"
+      },
+      {
+        "level": 64,
+        "moveId": "sandstorm"
+      },
+      {
+        "level": 72,
+        "moveId": "coil"
+      },
+      {
+        "level": 80,
+        "moveId": "earthquake"
+      },
+      {
+        "level": 88,
+        "moveId": "outrage"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "laboratory"
+    ]
+  }
+]

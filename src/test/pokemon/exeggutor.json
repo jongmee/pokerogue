@@ -1,0 +1,199 @@
+[
+  {
+    "_id": "exeggutor",
+    "gender": "",
+    "pokedexNumber": "103",
+    "name": "exeggutor",
+    "koName": "나시",
+    "speciesName": "exeggutor",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "186",
+    "friendship": "50",
+    "types": [
+      "grass",
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "chlorophyll"
+    ],
+    "hiddenAbilityId": "harvest",
+    "passiveAbilityId": "ripen",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 530,
+    "hp": 95,
+    "attack": 95,
+    "defense": 85,
+    "specialAttack": 125,
+    "specialDefense": 75,
+    "speed": 55,
+    "height": 2,
+    "weight": 120,
+    "eggMoveIds": [
+      "fickle_beam",
+      "apple_acid",
+      "trick_room",
+      "lumina_crash"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "stomp"
+      },
+      {
+        "level": -1,
+        "moveId": "growth"
+      },
+      {
+        "level": 1,
+        "moveId": "barrage"
+      },
+      {
+        "level": 1,
+        "moveId": "seed_bomb"
+      },
+      {
+        "level": 1,
+        "moveId": "psyshock"
+      },
+      {
+        "level": 1,
+        "moveId": "wood_hammer"
+      },
+      {
+        "level": 1,
+        "moveId": "leaf_storm"
+      },
+      {
+        "level": 1,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 1,
+        "moveId": "synthesis"
+      },
+      {
+        "level": 1,
+        "moveId": "bullet_seed"
+      },
+      {
+        "level": 1,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 1,
+        "moveId": "extrasensory"
+      },
+      {
+        "level": 1,
+        "moveId": "uproar"
+      },
+      {
+        "level": 1,
+        "moveId": "worry_seed"
+      },
+      {
+        "level": 1,
+        "moveId": "solar_beam"
+      },
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 1,
+        "moveId": "hypnosis"
+      },
+      {
+        "level": 1,
+        "moveId": "reflect"
+      },
+      {
+        "level": 1,
+        "moveId": "leech_seed"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "low_kick",
+      "strength",
+      "solar_beam",
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "self_destruct",
+      "dream_eater",
+      "flash",
+      "explosion",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "sludge_bomb",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "synthesis",
+      "hidden_power",
+      "sunny_day",
+      "psych_up",
+      "future_sight",
+      "uproar",
+      "facade",
+      "nature_power",
+      "skill_swap",
+      "bullet_seed",
+      "magical_leaf",
+      "calm_mind",
+      "gravity",
+      "power_swap",
+      "worry_seed",
+      "seed_bomb",
+      "energy_ball",
+      "giga_impact",
+      "psycho_cut",
+      "zen_headbutt",
+      "trick_room",
+      "leaf_storm",
+      "power_whip",
+      "grass_knot",
+      "psyshock",
+      "round",
+      "stored_power",
+      "bulldoze",
+      "grassy_terrain",
+      "confide",
+      "infestation",
+      "stomping_tantrum",
+      "expanding_force",
+      "grassy_glide",
+      "terrain_pulse",
+      "tera_blast",
+      "psychic_noise"
+    ],
+    "biomeIds": [
+      "jungle"
+    ]
+  }
+]

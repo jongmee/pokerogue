@@ -1,0 +1,166 @@
+[
+  {
+    "_id": "zacian",
+    "gender": "",
+    "pokedexNumber": "888",
+    "name": "zacian",
+    "koName": "자시안",
+    "speciesName": "zacian",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "335",
+    "friendship": "0",
+    "types": [
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "intrepid_sword"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "unnerve",
+    "generation": 8,
+    "legendary": true,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 660,
+    "hp": 92,
+    "attack": 120,
+    "defense": 115,
+    "specialAttack": 80,
+    "specialDefense": 115,
+    "speed": 138,
+    "height": 2.8,
+    "weight": 110,
+    "eggMoveIds": [
+      "magical_torque",
+      "mighty_cleave",
+      "bitter_blade",
+      "precipice_blades"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "bite"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 1,
+        "moveId": "howl"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_guard"
+      },
+      {
+        "level": 1,
+        "moveId": "sacred_sword"
+      },
+      {
+        "level": 11,
+        "moveId": "slash"
+      },
+      {
+        "level": 22,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 33,
+        "moveId": "iron_head"
+      },
+      {
+        "level": 44,
+        "moveId": "noble_roar"
+      },
+      {
+        "level": 55,
+        "moveId": "crunch"
+      },
+      {
+        "level": 66,
+        "moveId": "moonblast"
+      },
+      {
+        "level": 77,
+        "moveId": "close_combat"
+      },
+      {
+        "level": 88,
+        "moveId": "giga_impact"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "body_slam",
+      "take_down",
+      "hyper_beam",
+      "dig",
+      "agility",
+      "double_team",
+      "focus_energy",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "reversal",
+      "protect",
+      "scary_face",
+      "endure",
+      "false_swipe",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "metal_claw",
+      "hidden_power",
+      "crunch",
+      "facade",
+      "helping_hand",
+      "revenge",
+      "brick_break",
+      "imprison",
+      "hyper_voice",
+      "iron_defense",
+      "close_combat",
+      "assurance",
+      "poison_jab",
+      "air_slash",
+      "focus_blast",
+      "giga_impact",
+      "thunder_fang",
+      "ice_fang",
+      "fire_fang",
+      "psycho_cut",
+      "flash_cannon",
+      "iron_head",
+      "round",
+      "retaliate",
+      "work_up",
+      "wild_charge",
+      "sacred_sword",
+      "tail_slap",
+      "snarl",
+      "misty_terrain",
+      "play_rough",
+      "dazzling_gleam",
+      "solar_blade",
+      "brutal_swing",
+      "psychic_fangs",
+      "steel_beam",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "snowy_forest"
+    ]
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "_id": "salamence",
+    "gender": "",
+    "pokedexNumber": "373",
+    "name": "salamence",
+    "koName": "보만다",
+    "speciesName": "salamence",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "300",
+    "friendship": "35",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "intimidate"
+    ],
+    "hiddenAbilityId": "moxie",
+    "passiveAbilityId": "dragons_maw",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 600,
+    "hp": 95,
+    "attack": 135,
+    "defense": 80,
+    "specialAttack": 110,
+    "specialDefense": 80,
+    "speed": 100,
+    "height": 1.5,
+    "weight": 102.6,
+    "eggMoveIds": [
+      "floaty_fall",
+      "fire_lash",
+      "dragon_dance",
+      "glaive_rush"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "fly"
+      },
+      {
+        "level": 1,
+        "moveId": "protect"
+      },
+      {
+        "level": 1,
+        "moveId": "dragon_tail"
+      },
+      {
+        "level": 1,
+        "moveId": "dual_wingbeat"
+      },
+      {
+        "level": 1,
+        "moveId": "roost"
+      },
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "bite"
+      },
+      {
+        "level": 1,
+        "moveId": "dragon_breath"
+      },
+      {
+        "level": 15,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 20,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 25,
+        "moveId": "crunch"
+      },
+      {
+        "level": 33,
+        "moveId": "dragon_claw"
+      },
+      {
+        "level": 39,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 46,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 55,
+        "moveId": "flamethrower"
+      },
+      {
+        "level": 73,
+        "moveId": "double_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "cut",
+      "fly",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "hydro_pump",
+      "hyper_beam",
+      "strength",
+      "fire_spin",
+      "earthquake",
+      "toxic",
+      "double_team",
+      "focus_energy",
+      "fire_blast",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "outrage",
+      "endure",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "rock_smash",
+      "heat_wave",
+      "facade",
+      "helping_hand",
+      "brick_break",
+      "hyper_voice",
+      "air_cutter",
+      "rock_tomb",
+      "aerial_ace",
+      "iron_defense",
+      "dragon_claw",
+      "dragon_dance",
+      "roost",
+      "tailwind",
+      "aqua_tail",
+      "air_slash",
+      "dragon_pulse",
+      "giga_impact",
+      "shadow_claw",
+      "thunder_fang",
+      "fire_fang",
+      "zen_headbutt",
+      "defog",
+      "draco_meteor",
+      "iron_head",
+      "stone_edge",
+      "hone_claws",
+      "round",
+      "incinerate",
+      "bulldoze",
+      "dragon_tail",
+      "hurricane",
+      "confide",
+      "brutal_swing",
+      "psychic_fangs",
+      "breaking_swipe",
+      "dual_wingbeat",
+      "tera_blast",
+      "dragon_cheer",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "wasteland"
+    ]
+  }
+]

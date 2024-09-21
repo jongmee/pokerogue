@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "transistor",
+    "name": "Transistor",
+    "koName": "트랜지스터",
+    "realased": "",
+    "description": "전기타입 기술의 위력이 올라간다.",
+    "generation": 8,
+    "pokemonIds": [
+      "voltorb",
+      "electrode",
+      "raikou",
+      "emolga",
+      "joltik",
+      "galvantula",
+      "tapu_koko",
+      "xurkitree",
+      "arctozolt",
+      "regieleki",
+      "pawmi",
+      "pawmo",
+      "pawmot",
+      "hisui_voltorb",
+      "hisui_electrode"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "_id": "whismur",
+    "gender": "",
+    "pokedexNumber": "293",
+    "name": "whismur",
+    "koName": "소곤룡",
+    "speciesName": "whismur",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "48",
+    "friendship": "50",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "soundproof"
+    ],
+    "hiddenAbilityId": "rattled",
+    "passiveAbilityId": "punk_rock",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 240,
+    "hp": 64,
+    "attack": 51,
+    "defense": 23,
+    "specialAttack": 51,
+    "specialDefense": 23,
+    "speed": 28,
+    "height": 0.6,
+    "weight": 16.3,
+    "eggMoveIds": [
+      "alluring_voice",
+      "shift_gear",
+      "sparkling_aria",
+      "torch_song"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 5,
+        "moveId": "echoed_voice"
+      },
+      {
+        "level": 10,
+        "moveId": "howl"
+      },
+      {
+        "level": 15,
+        "moveId": "rest"
+      },
+      {
+        "level": 15,
+        "moveId": "sleep_talk"
+      },
+      {
+        "level": 21,
+        "moveId": "stomp"
+      },
+      {
+        "level": 25,
+        "moveId": "roar"
+      },
+      {
+        "level": 30,
+        "moveId": "supersonic"
+      },
+      {
+        "level": 35,
+        "moveId": "uproar"
+      },
+      {
+        "level": 40,
+        "moveId": "screech"
+      },
+      {
+        "level": 45,
+        "moveId": "hyper_voice"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "roar",
+      "flamethrower",
+      "ice_beam",
+      "blizzard",
+      "counter",
+      "solar_beam",
+      "toxic",
+      "screech",
+      "double_team",
+      "fire_blast",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "uproar",
+      "facade",
+      "endeavor",
+      "hyper_voice",
+      "fake_tears",
+      "water_pulse",
+      "fling",
+      "zen_headbutt",
+      "round",
+      "echoed_voice",
+      "incinerate",
+      "retaliate",
+      "work_up",
+      "disarming_voice",
+      "confide",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "town",
+      "cave"
+    ]
+  }
+]

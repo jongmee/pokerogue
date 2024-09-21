@@ -1,0 +1,212 @@
+[
+  {
+    "_id": "mountain",
+    "name": "Mountain",
+    "koName": "산",
+    "types": [
+      "flying"
+    ],
+    "nextBiomes": [
+      {
+        "name": "volcano",
+        "percentage": 54.545454545454554
+      },
+      {
+        "name": "wasteland",
+        "percentage": 27.272727272727277
+      },
+      {
+        "name": "space",
+        "percentage": 18.181818181818183
+      }
+    ],
+    "nativePokemons": [
+      {
+        "tier": "보통",
+        "pokemonIds": [
+          "taillow",
+          "swellow",
+          "swablu",
+          "altaria",
+          "starly",
+          "staravia",
+          "staraptor",
+          "pidove",
+          "tranquill",
+          "unfezant",
+          "fletchling",
+          "fletchinder",
+          "talonflame",
+          "rhyhorn",
+          "rhydon",
+          "aron",
+          "lairon",
+          "aggron",
+          "roggenrola",
+          "boldore",
+          "pidgey",
+          "pidgeotto",
+          "pidgeot",
+          "spearow",
+          "fearow",
+          "skiddo",
+          "gogoat"
+        ]
+      },
+      {
+        "tier": "드묾",
+        "pokemonIds": [
+          "rhyhorn",
+          "rhydon",
+          "aron",
+          "lairon",
+          "aggron",
+          "roggenrola",
+          "boldore",
+          "rufflet",
+          "braviary",
+          "rookidee",
+          "corvisquire",
+          "corviknight",
+          "flittle",
+          "espathra",
+          "bombirdier",
+          "vullaby",
+          "mandibuzz",
+          "machop",
+          "machoke",
+          "geodude",
+          "graveler",
+          "natu",
+          "xatu",
+          "slugma",
+          "magcargo",
+          "nacli",
+          "naclstack",
+          "garganacl"
+        ]
+      },
+      {
+        "tier": "레어",
+        "pokemonIds": [
+          "murkrow",
+          "skarmory",
+          "torchic",
+          "combusken",
+          "blaziken",
+          "spoink",
+          "grumpig",
+          "hawlucha",
+          "klawf"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어",
+        "pokemonIds": [
+          "larvitar",
+          "pupitar",
+          "cranidos",
+          "rampardos",
+          "shieldon",
+          "bastiodon",
+          "gible",
+          "gabite",
+          "garchomp",
+          "rotom",
+          "archeops",
+          "axew",
+          "fraxure"
+        ]
+      },
+      {
+        "tier": "울트라 레어",
+        "pokemonIds": [
+          "tornadus",
+          "ting_lu",
+          "ogerpon"
+        ]
+      },
+      {
+        "tier": "보스",
+        "pokemonIds": [
+          "swellow",
+          "altaria",
+          "staraptor",
+          "unfezant",
+          "braviary",
+          "talonflame",
+          "corviknight",
+          "espathra",
+          "mandibuzz",
+          "pidgeot",
+          "fearow",
+          "skarmory",
+          "aggron",
+          "gogoat",
+          "garganacl"
+        ]
+      },
+      {
+        "tier": "레어 보스",
+        "pokemonIds": [
+          "hisui_braviary",
+          "blaziken",
+          "rampardos",
+          "bastiodon",
+          "hawlucha"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어 보스",
+        "pokemonIds": [
+          "rotom",
+          "tornadus",
+          "ting_lu",
+          "ogerpon"
+        ]
+      },
+      {
+        "tier": "슈퍼 울트라 레어 보스",
+        "pokemonIds": [
+          "ho_oh"
+        ]
+      }
+    ],
+    "trainers": [
+      {
+        "name": "비상",
+        "types": [
+          "flying"
+        ],
+        "pokemonIds": [
+          "pidgey",
+          "hoothoot",
+          "doduo"
+        ]
+      },
+      {
+        "name": "은송",
+        "types": [
+          "flying"
+        ],
+        "pokemonIds": [
+          "swablu",
+          "wingull",
+          "tropius",
+          "skarmory"
+        ]
+      },
+      {
+        "name": "풍란",
+        "types": [
+          "flying"
+        ],
+        "pokemonIds": [
+          "ducklett",
+          "woobat",
+          "rufflet"
+        ]
+      }
+    ]
+  }
+]

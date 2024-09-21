@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "pickpocket",
+    "name": "Pickpocket",
+    "koName": "나쁜손버릇",
+    "realased": "",
+    "description": "접촉한 상대의 도구를 훔친다.",
+    "generation": 5,
+    "pokemonIds": [
+      "sneasel",
+      "seedot",
+      "nuzleaf",
+      "shiftry",
+      "weavile",
+      "binacle",
+      "barbaracle",
+      "impidimp",
+      "morgrem",
+      "grimmsnarl",
+      "shroodle",
+      "tinkatink",
+      "tinkatuff",
+      "tinkaton",
+      "hisui_sneasel"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

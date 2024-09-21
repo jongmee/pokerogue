@@ -1,0 +1,41 @@
+[
+  {
+    "_id": "bone_club",
+    "name": "Bone Club",
+    "koName": "뼈다귀치기",
+    "type": "ground",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 65,
+    "accuracy": 85,
+    "powerPoint": 20,
+    "effect": "손에 들고 있는 뼈로 상대를 세게 때려서 공격한다. 상대를 풀죽게 만들 때가 있다.",
+    "effectChance": 10,
+    "prioirty": 0,
+    "generation": 1,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "marowak",
+      "electabuzz",
+      "yanma",
+      "elekid",
+      "carvanha",
+      "sharpedo",
+      "sharpedo_mega",
+      "electivire",
+      "yanmega",
+      "victini",
+      "tapu_lele",
+      "poipole",
+      "naganadel",
+      "yamper",
+      "boltund",
+      "wattrel",
+      "kilowattrel",
+      "alola_vulpix",
+      "alola_ninetales",
+      "alola_marowak"
+    ]
+  }
+]

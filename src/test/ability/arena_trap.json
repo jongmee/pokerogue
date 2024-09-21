@@ -1,0 +1,19 @@
+[
+  {
+    "_id": "arena_trap",
+    "name": "Arena Trap",
+    "koName": "개미지옥",
+    "realased": "",
+    "description": "배틀에서 상대를 도망칠 수 없게 한다.",
+    "generation": 3,
+    "pokemonIds": [
+      "diglett",
+      "dugtrio",
+      "trapinch",
+      "carnivine",
+      "galar_stunfisk"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

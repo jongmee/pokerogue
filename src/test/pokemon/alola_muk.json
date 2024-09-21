@@ -1,0 +1,201 @@
+[
+  {
+    "_id": "alola_muk",
+    "gender": "",
+    "pokedexNumber": "2089",
+    "name": "alola_muk",
+    "koName": "질뻐기",
+    "speciesName": "alola_muk",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "175",
+    "friendship": "70",
+    "types": [
+      "poison",
+      "dark"
+    ],
+    "normalAbilityIds": [
+      "poison_touch",
+      "gluttony"
+    ],
+    "hiddenAbilityId": "power_of_alchemy",
+    "passiveAbilityId": "toxic_debris",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 500,
+    "hp": 105,
+    "attack": 105,
+    "defense": 75,
+    "specialAttack": 65,
+    "specialDefense": 100,
+    "speed": 50,
+    "height": 1,
+    "weight": 52,
+    "eggMoveIds": [
+      "sucker_punch",
+      "barb_barrage",
+      "strength_sap",
+      "surging_strikes"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "bite"
+      },
+      {
+        "level": 1,
+        "moveId": "harden"
+      },
+      {
+        "level": 1,
+        "moveId": "poison_gas"
+      },
+      {
+        "level": 12,
+        "moveId": "disable"
+      },
+      {
+        "level": 15,
+        "moveId": "acid_spray"
+      },
+      {
+        "level": 18,
+        "moveId": "poison_fang"
+      },
+      {
+        "level": 21,
+        "moveId": "minimize"
+      },
+      {
+        "level": 26,
+        "moveId": "toxic"
+      },
+      {
+        "level": 29,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 32,
+        "moveId": "crunch"
+      },
+      {
+        "level": 37,
+        "moveId": "screech"
+      },
+      {
+        "level": 40,
+        "moveId": "gunk_shot"
+      },
+      {
+        "level": 46,
+        "moveId": "acid_armor"
+      },
+      {
+        "level": 52,
+        "moveId": "belch"
+      },
+      {
+        "level": 57,
+        "moveId": "memento"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "body_slam",
+      "take_down",
+      "flamethrower",
+      "hyper_beam",
+      "strength",
+      "thunderbolt",
+      "thunder",
+      "dig",
+      "toxic",
+      "screech",
+      "double_team",
+      "haze",
+      "metronome",
+      "self_destruct",
+      "fire_blast",
+      "swift",
+      "explosion",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "mud_slap",
+      "sandstorm",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "shadow_ball",
+      "torment",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "recycle",
+      "brick_break",
+      "knock_off",
+      "imprison",
+      "rock_tomb",
+      "mud_shot",
+      "payback",
+      "embargo",
+      "fling",
+      "gastro_acid",
+      "rock_polish",
+      "poison_jab",
+      "dark_pulse",
+      "drain_punch",
+      "focus_blast",
+      "giga_impact",
+      "zen_headbutt",
+      "gunk_shot",
+      "stone_edge",
+      "venoshock",
+      "sludge_wave",
+      "acid_spray",
+      "foul_play",
+      "round",
+      "hex",
+      "incinerate",
+      "quash",
+      "snarl",
+      "confide",
+      "infestation",
+      "power_up_punch",
+      "brutal_swing",
+      "lash_out",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "island"
+    ]
+  }
+]

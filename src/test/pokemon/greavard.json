@@ -1,0 +1,156 @@
+[
+  {
+    "_id": "greavard",
+    "gender": "",
+    "pokedexNumber": "971",
+    "name": "greavard",
+    "koName": "망망이",
+    "speciesName": "greavard",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "58",
+    "friendship": "50",
+    "types": [
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "pickup"
+    ],
+    "hiddenAbilityId": "fluffy",
+    "passiveAbilityId": "fur_coat",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 290,
+    "hp": 50,
+    "attack": 61,
+    "defense": 60,
+    "specialAttack": 30,
+    "specialDefense": 55,
+    "speed": 34,
+    "height": 0.6,
+    "weight": 35,
+    "eggMoveIds": [
+      "shadow_bone",
+      "yawn",
+      "shore_up",
+      "collision_course"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 3,
+        "moveId": "lick"
+      },
+      {
+        "level": 6,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 6,
+        "moveId": "bite"
+      },
+      {
+        "level": 9,
+        "moveId": "roar"
+      },
+      {
+        "level": 12,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 16,
+        "moveId": "dig"
+      },
+      {
+        "level": 24,
+        "moveId": "rest"
+      },
+      {
+        "level": 28,
+        "moveId": "crunch"
+      },
+      {
+        "level": 32,
+        "moveId": "play_rough"
+      },
+      {
+        "level": 37,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 41,
+        "moveId": "phantom_force"
+      },
+      {
+        "level": 46,
+        "moveId": "charm"
+      },
+      {
+        "level": 52,
+        "moveId": "double_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "double_edge",
+      "roar",
+      "dig",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "rest",
+      "substitute",
+      "thief",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "sandstorm",
+      "endure",
+      "charm",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "shadow_ball",
+      "uproar",
+      "facade",
+      "helping_hand",
+      "trick",
+      "endeavor",
+      "mud_shot",
+      "thunder_fang",
+      "ice_fang",
+      "fire_fang",
+      "ally_switch",
+      "hex",
+      "bulldoze",
+      "snarl",
+      "phantom_force",
+      "play_rough",
+      "psychic_fangs",
+      "stomping_tantrum",
+      "poltergeist",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "graveyard"
+    ]
+  }
+]

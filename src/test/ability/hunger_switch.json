@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "hunger_switch",
+    "name": "Hunger Switch",
+    "koName": "꼬르륵스위치",
+    "realased": "",
+    "description": "턴이 끝날 때마다 배부른 모양, 배고픈 모양, 배부른 모양...으로 번갈아서 모습을 바꾼다.",
+    "generation": 8,
+    "pokemonIds": [
+      "morpeko"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

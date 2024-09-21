@@ -1,0 +1,83 @@
+[
+  {
+    "_id": "snom",
+    "gender": "",
+    "pokedexNumber": "872",
+    "name": "snom",
+    "koName": "누니머기",
+    "speciesName": "snom",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "37",
+    "friendship": "50",
+    "types": [
+      "ice",
+      "bug"
+    ],
+    "normalAbilityIds": [
+      "shield_dust"
+    ],
+    "hiddenAbilityId": "ice_scales",
+    "passiveAbilityId": "snow_warning",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 185,
+    "hp": 30,
+    "attack": 25,
+    "defense": 35,
+    "specialAttack": 45,
+    "specialDefense": 30,
+    "speed": 20,
+    "height": 0.3,
+    "weight": 3.8,
+    "eggMoveIds": [
+      "moonblast",
+      "surf",
+      "earth_power",
+      "fiery_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "powder_snow"
+      },
+      {
+        "level": 1,
+        "moveId": "struggle_bug"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "double_team",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "icy_wind",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "facade",
+      "icicle_spear",
+      "bug_buzz",
+      "bug_bite",
+      "round",
+      "struggle_bug",
+      "lunge",
+      "skitter_smack",
+      "tera_blast",
+      "pounce"
+    ],
+    "biomeIds": [
+      "ice_cave",
+      "snowy_forest"
+    ]
+  }
+]

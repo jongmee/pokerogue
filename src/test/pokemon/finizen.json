@@ -1,0 +1,143 @@
+[
+  {
+    "_id": "finizen",
+    "gender": "",
+    "pokedexNumber": "963",
+    "name": "finizen",
+    "koName": "맨돌핀",
+    "speciesName": "finizen",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "63",
+    "friendship": "50",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "water_veil"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "iron_fist",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 315,
+    "hp": 70,
+    "attack": 45,
+    "defense": 40,
+    "specialAttack": 45,
+    "specialDefense": 40,
+    "speed": 75,
+    "height": 1.3,
+    "weight": 60.2,
+    "eggMoveIds": [
+      "triple_axel",
+      "drain_punch",
+      "headlong_rush",
+      "surging_strikes"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "supersonic"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 7,
+        "moveId": "astonish"
+      },
+      {
+        "level": 10,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 13,
+        "moveId": "aqua_jet"
+      },
+      {
+        "level": 17,
+        "moveId": "double_hit"
+      },
+      {
+        "level": 21,
+        "moveId": "dive"
+      },
+      {
+        "level": 25,
+        "moveId": "charm"
+      },
+      {
+        "level": 29,
+        "moveId": "acrobatics"
+      },
+      {
+        "level": 34,
+        "moveId": "encore"
+      },
+      {
+        "level": 39,
+        "moveId": "aqua_tail"
+      },
+      {
+        "level": 44,
+        "moveId": "mist"
+      },
+      {
+        "level": 50,
+        "moveId": "hydro_pump"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "counter",
+      "agility",
+      "double_team",
+      "haze",
+      "focus_energy",
+      "waterfall",
+      "swift",
+      "rest",
+      "substitute",
+      "protect",
+      "icy_wind",
+      "endure",
+      "charm",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "facade",
+      "helping_hand",
+      "dive",
+      "bounce",
+      "water_pulse",
+      "fling",
+      "aqua_tail",
+      "zen_headbutt",
+      "acrobatics",
+      "disarming_voice",
+      "draining_kiss",
+      "liquidation",
+      "tera_blast",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "sea"
+    ]
+  }
+]

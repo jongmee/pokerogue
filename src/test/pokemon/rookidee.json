@@ -1,0 +1,142 @@
+[
+  {
+    "_id": "rookidee",
+    "gender": "",
+    "pokedexNumber": "821",
+    "name": "rookidee",
+    "koName": "파라꼬",
+    "speciesName": "rookidee",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "49",
+    "friendship": "50",
+    "types": [
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "keen_eye",
+      "unnerve"
+    ],
+    "hiddenAbilityId": "big_pecks",
+    "passiveAbilityId": "iron_barbs",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 245,
+    "hp": 38,
+    "attack": 47,
+    "defense": 35,
+    "specialAttack": 33,
+    "specialDefense": 35,
+    "speed": 57,
+    "height": 0.2,
+    "weight": 1.8,
+    "eggMoveIds": [
+      "roost",
+      "body_press",
+      "kings_shield",
+      "behemoth_bash"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "peck"
+      },
+      {
+        "level": 4,
+        "moveId": "power_trip"
+      },
+      {
+        "level": 8,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 12,
+        "moveId": "fury_attack"
+      },
+      {
+        "level": 16,
+        "moveId": "pluck"
+      },
+      {
+        "level": 20,
+        "moveId": "taunt"
+      },
+      {
+        "level": 24,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 28,
+        "moveId": "drill_peck"
+      },
+      {
+        "level": 32,
+        "moveId": "swagger"
+      },
+      {
+        "level": 36,
+        "moveId": "brave_bird"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fly",
+      "take_down",
+      "agility",
+      "double_team",
+      "focus_energy",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "reversal",
+      "spite",
+      "protect",
+      "scary_face",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rock_smash",
+      "facade",
+      "taunt",
+      "revenge",
+      "fake_tears",
+      "air_cutter",
+      "aerial_ace",
+      "roost",
+      "pluck",
+      "tailwind",
+      "u_turn",
+      "payback",
+      "assurance",
+      "air_slash",
+      "brave_bird",
+      "nasty_plot",
+      "defog",
+      "hone_claws",
+      "round",
+      "retaliate",
+      "work_up",
+      "dual_wingbeat",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "town",
+      "plains",
+      "mountain"
+    ]
+  }
+]

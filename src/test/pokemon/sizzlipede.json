@@ -1,0 +1,135 @@
+[
+  {
+    "_id": "sizzlipede",
+    "gender": "",
+    "pokedexNumber": "850",
+    "name": "sizzlipede",
+    "koName": "태우지네",
+    "speciesName": "sizzlipede",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "61",
+    "friendship": "50",
+    "types": [
+      "fire",
+      "bug"
+    ],
+    "normalAbilityIds": [
+      "flash_fire",
+      "white_smoke"
+    ],
+    "hiddenAbilityId": "flame_body",
+    "passiveAbilityId": "speed_boost",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 305,
+    "hp": 50,
+    "attack": 65,
+    "defense": 45,
+    "specialAttack": 50,
+    "specialDefense": 50,
+    "speed": 45,
+    "height": 0.7,
+    "weight": 1,
+    "eggMoveIds": [
+      "burning_bulwark",
+      "zing_zap",
+      "first_impression",
+      "bitter_blade"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 1,
+        "moveId": "smokescreen"
+      },
+      {
+        "level": 5,
+        "moveId": "wrap"
+      },
+      {
+        "level": 10,
+        "moveId": "bite"
+      },
+      {
+        "level": 15,
+        "moveId": "flame_wheel"
+      },
+      {
+        "level": 20,
+        "moveId": "bug_bite"
+      },
+      {
+        "level": 25,
+        "moveId": "coil"
+      },
+      {
+        "level": 30,
+        "moveId": "slam"
+      },
+      {
+        "level": 35,
+        "moveId": "fire_spin"
+      },
+      {
+        "level": 40,
+        "moveId": "crunch"
+      },
+      {
+        "level": 45,
+        "moveId": "fire_lash"
+      },
+      {
+        "level": 50,
+        "moveId": "lunge"
+      },
+      {
+        "level": 55,
+        "moveId": "burn_up"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fire_spin",
+      "double_team",
+      "leech_life",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "sunny_day",
+      "crunch",
+      "heat_wave",
+      "facade",
+      "knock_off",
+      "bug_buzz",
+      "power_whip",
+      "bug_bite",
+      "venoshock",
+      "round",
+      "scald",
+      "struggle_bug",
+      "heat_crash",
+      "lunge",
+      "brutal_swing",
+      "skitter_smack",
+      "scorching_sands"
+    ],
+    "biomeIds": [
+      "badlands"
+    ]
+  }
+]

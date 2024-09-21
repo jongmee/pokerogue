@@ -1,0 +1,51 @@
+[
+  {
+    "_id": "stockpile",
+    "name": "Stockpile",
+    "koName": "비축하기",
+    "type": "normal",
+    "moveCategory": "status",
+    "moveTarget": "user",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 20,
+    "effect": "힘을 비축해서 자신의 방어와 특수방어를 올린다. 최대 3회까지 비축할 수 있다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 3,
+    "realased": "",
+    "flags": [
+      "ignore_protect"
+    ],
+    "pokemonIds": [
+      "ekans",
+      "arbok",
+      "jigglypuff",
+      "wigglytuff",
+      "victreebel",
+      "snorlax",
+      "lanturn",
+      "qwilfish",
+      "pelipper",
+      "mawile",
+      "gulpin",
+      "swalot",
+      "lileep",
+      "cradily",
+      "drifloon",
+      "drifblim",
+      "munchlax",
+      "carnivine",
+      "trubbish",
+      "garbodor",
+      "heatmor",
+      "komala",
+      "guzzlord",
+      "skwovet",
+      "greedent",
+      "cramorant",
+      "overqwil",
+      "hisui_qwilfish"
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "cursed_body",
+    "name": "Cursed Body",
+    "koName": "저주받은바디",
+    "realased": "",
+    "description": "공격을 받으면 상대의 기술을 사슬묶기 상태로 만들 때가 있다.",
+    "generation": 5,
+    "pokemonIds": [
+      "gengar",
+      "gengar_gigantamax",
+      "shuppet",
+      "banette",
+      "froslass",
+      "frillish",
+      "jellicent",
+      "sinistea",
+      "polteageist",
+      "dreepy",
+      "drakloak",
+      "dragapult",
+      "alola_marowak",
+      "galar_corsola"
+    ],
+    "isBypassFaint": true,
+    "isIgnorable": false
+  }
+]

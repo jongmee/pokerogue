@@ -1,0 +1,166 @@
+[
+  {
+    "_id": "ledyba",
+    "gender": "",
+    "pokedexNumber": "165",
+    "name": "ledyba",
+    "koName": "레디바",
+    "speciesName": "ledyba",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "53",
+    "friendship": "70",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "swarm",
+      "early_bird"
+    ],
+    "hiddenAbilityId": "rattled",
+    "passiveAbilityId": "prankster",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 265,
+    "hp": 40,
+    "attack": 20,
+    "defense": 30,
+    "specialAttack": 40,
+    "specialDefense": 80,
+    "speed": 55,
+    "height": 1,
+    "weight": 10.8,
+    "eggMoveIds": [
+      "pollen_puff",
+      "thief",
+      "parting_shot",
+      "spore"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 5,
+        "moveId": "supersonic"
+      },
+      {
+        "level": 8,
+        "moveId": "swift"
+      },
+      {
+        "level": 12,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 12,
+        "moveId": "reflect"
+      },
+      {
+        "level": 12,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 15,
+        "moveId": "mach_punch"
+      },
+      {
+        "level": 19,
+        "moveId": "roost"
+      },
+      {
+        "level": 22,
+        "moveId": "struggle_bug"
+      },
+      {
+        "level": 26,
+        "moveId": "baton_pass"
+      },
+      {
+        "level": 29,
+        "moveId": "agility"
+      },
+      {
+        "level": 33,
+        "moveId": "bug_buzz"
+      },
+      {
+        "level": 36,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 40,
+        "moveId": "double_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "ice_punch",
+      "thunder_punch",
+      "swords_dance",
+      "psybeam",
+      "counter",
+      "solar_beam",
+      "dig",
+      "toxic",
+      "agility",
+      "screech",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "swift",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "baton_pass",
+      "encore",
+      "hidden_power",
+      "sunny_day",
+      "uproar",
+      "facade",
+      "focus_punch",
+      "brick_break",
+      "knock_off",
+      "air_cutter",
+      "aerial_ace",
+      "roost",
+      "tailwind",
+      "u_turn",
+      "fling",
+      "air_slash",
+      "bug_buzz",
+      "drain_punch",
+      "bug_bite",
+      "round",
+      "acrobatics",
+      "struggle_bug",
+      "confide",
+      "infestation",
+      "power_up_punch",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "town",
+      "meadow"
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "apple_acid",
+    "name": "Apple Acid",
+    "koName": "사과산",
+    "type": "grass",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 80,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "새콤한 사과에서 만들어 낸 산성 액체로 공격한다. 상대의 특수방어를 떨어뜨린다.",
+    "effectChance": 100,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "exeggcute",
+      "exeggutor",
+      "treecko",
+      "grovyle",
+      "sceptile",
+      "sceptile_mega",
+      "lotad",
+      "lombre",
+      "ludicolo",
+      "tropius",
+      "appletun",
+      "cramorant",
+      "capsakid",
+      "scovillain",
+      "alola_exeggutor",
+      "hisui_voltorb",
+      "hisui_electrode"
+    ]
+  }
+]

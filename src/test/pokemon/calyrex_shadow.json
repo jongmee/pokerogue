@@ -1,0 +1,198 @@
+[
+  {
+    "_id": "calyrex_shadow",
+    "gender": "",
+    "pokedexNumber": "898",
+    "name": "calyrex_shadow",
+    "koName": "버드렉스_shadow",
+    "speciesName": "calyrex",
+    "canChangeForm": true,
+    "formName": "shadow",
+    "baseExp": "250",
+    "friendship": "100",
+    "types": [
+      "psychic",
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "as_one_spectrier"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "harvest",
+    "generation": 8,
+    "legendary": true,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 680,
+    "hp": 100,
+    "attack": 85,
+    "defense": 80,
+    "specialAttack": 165,
+    "specialDefense": 100,
+    "speed": 150,
+    "height": 2.4,
+    "weight": 53.6,
+    "eggMoveIds": [
+      "sappy_seed",
+      "recover",
+      "secret_sword",
+      "photon_geyser"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "stomp"
+      },
+      {
+        "level": 1,
+        "moveId": "double_kick"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "take_down"
+      },
+      {
+        "level": 1,
+        "moveId": "thrash"
+      },
+      {
+        "level": 1,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "disable"
+      },
+      {
+        "level": 1,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 1,
+        "moveId": "growth"
+      },
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 1,
+        "moveId": "agility"
+      },
+      {
+        "level": 1,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 1,
+        "moveId": "haze"
+      },
+      {
+        "level": 1,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 1,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 1,
+        "moveId": "hex"
+      },
+      {
+        "level": 1,
+        "moveId": "astral_barrage"
+      },
+      {
+        "level": 8,
+        "moveId": "life_dew"
+      },
+      {
+        "level": 16,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 24,
+        "moveId": "psyshock"
+      },
+      {
+        "level": 32,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 40,
+        "moveId": "grassy_terrain"
+      },
+      {
+        "level": 40,
+        "moveId": "psychic_terrain"
+      },
+      {
+        "level": 48,
+        "moveId": "energy_ball"
+      },
+      {
+        "level": 56,
+        "moveId": "psychic"
+      },
+      {
+        "level": 64,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 72,
+        "moveId": "heal_pulse"
+      },
+      {
+        "level": 80,
+        "moveId": "solar_beam"
+      },
+      {
+        "level": 88,
+        "moveId": "future_sight"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "double_edge",
+      "night_shade",
+      "confuse_ray",
+      "haze",
+      "curse",
+      "crunch",
+      "shadow_ball",
+      "uproar",
+      "will_o_wisp",
+      "taunt",
+      "payback",
+      "assurance",
+      "dark_pulse",
+      "nasty_plot",
+      "psycho_cut",
+      "foul_play",
+      "hex",
+      "bulldoze",
+      "phantom_force",
+      "stomping_tantrum",
+      "lash_out"
+    ],
+    "biomeIds": [
+      "forest"
+    ]
+  }
+]

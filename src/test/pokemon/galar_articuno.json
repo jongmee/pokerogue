@@ -1,0 +1,165 @@
+[
+  {
+    "_id": "galar_articuno",
+    "gender": "",
+    "pokedexNumber": "4144",
+    "name": "galar_articuno",
+    "koName": "프리져",
+    "speciesName": "galar_articuno",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "290",
+    "friendship": "35",
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "competitive"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "serene_grace",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 580,
+    "hp": 90,
+    "attack": 85,
+    "defense": 85,
+    "specialAttack": 125,
+    "specialDefense": 100,
+    "speed": 95,
+    "height": 1.7,
+    "weight": 50.9,
+    "eggMoveIds": [
+      "secret_sword",
+      "night_daze",
+      "ice_beam",
+      "oblivion_wing"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "gust"
+      },
+      {
+        "level": 5,
+        "moveId": "confusion"
+      },
+      {
+        "level": 10,
+        "moveId": "reflect"
+      },
+      {
+        "level": 15,
+        "moveId": "hypnosis"
+      },
+      {
+        "level": 20,
+        "moveId": "agility"
+      },
+      {
+        "level": 25,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 30,
+        "moveId": "tailwind"
+      },
+      {
+        "level": 35,
+        "moveId": "psycho_cut"
+      },
+      {
+        "level": 40,
+        "moveId": "recover"
+      },
+      {
+        "level": 45,
+        "moveId": "freezing_glare"
+      },
+      {
+        "level": 50,
+        "moveId": "dream_eater"
+      },
+      {
+        "level": 55,
+        "moveId": "hurricane"
+      },
+      {
+        "level": 60,
+        "moveId": "double_team"
+      },
+      {
+        "level": 65,
+        "moveId": "future_sight"
+      },
+      {
+        "level": 70,
+        "moveId": "trick_room"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fly",
+      "take_down",
+      "psybeam",
+      "hyper_beam",
+      "psychic",
+      "agility",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "swift",
+      "dream_eater",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "scary_face",
+      "endure",
+      "steel_wing",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "shadow_ball",
+      "future_sight",
+      "facade",
+      "helping_hand",
+      "trick",
+      "skill_swap",
+      "imprison",
+      "hyper_voice",
+      "air_cutter",
+      "calm_mind",
+      "tailwind",
+      "u_turn",
+      "power_swap",
+      "guard_swap",
+      "air_slash",
+      "brave_bird",
+      "giga_impact",
+      "psycho_cut",
+      "trick_room",
+      "psyshock",
+      "round",
+      "stored_power",
+      "ally_switch",
+      "hurricane",
+      "expanding_force",
+      "dual_wingbeat",
+      "tera_blast",
+      "snowscape",
+      "psychic_noise"
+    ],
+    "biomeIds": [
+      "snowy_forest"
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "magnet_bomb",
+    "name": "Magnet Bomb",
+    "koName": "마그넷봄",
+    "type": "steel",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 60,
+    "accuracy": -1,
+    "powerPoint": 20,
+    "effect": "상대에게 달라붙는 강철의 폭탄을 발사한다. 공격은 반드시 명중한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 4,
+    "realased": "",
+    "flags": [
+      "ballbomb_move"
+    ],
+    "pokemonIds": []
+  }
+]

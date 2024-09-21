@@ -1,0 +1,183 @@
+[
+  {
+    "_id": "chimchar",
+    "gender": "",
+    "pokedexNumber": "390",
+    "name": "chimchar",
+    "koName": "불꽃숭이",
+    "speciesName": "chimchar",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "62",
+    "friendship": "70",
+    "types": [
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "blaze"
+    ],
+    "hiddenAbilityId": "iron_fist",
+    "passiveAbilityId": "beast_boost",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 309,
+    "hp": 44,
+    "attack": 58,
+    "defense": 44,
+    "specialAttack": 58,
+    "specialDefense": 44,
+    "speed": 61,
+    "height": 0.5,
+    "weight": 6.2,
+    "eggMoveIds": [
+      "fiery_dance",
+      "secret_sword",
+      "triple_axel",
+      "sacred_fire"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 5,
+        "moveId": "ember"
+      },
+      {
+        "level": 9,
+        "moveId": "taunt"
+      },
+      {
+        "level": 15,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 17,
+        "moveId": "flame_wheel"
+      },
+      {
+        "level": 23,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 25,
+        "moveId": "torment"
+      },
+      {
+        "level": 31,
+        "moveId": "facade"
+      },
+      {
+        "level": 33,
+        "moveId": "fire_spin"
+      },
+      {
+        "level": 39,
+        "moveId": "acrobatics"
+      },
+      {
+        "level": 41,
+        "moveId": "slack_off"
+      },
+      {
+        "level": 47,
+        "moveId": "flamethrower"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fire_punch",
+      "thunder_punch",
+      "swords_dance",
+      "cut",
+      "take_down",
+      "double_edge",
+      "flamethrower",
+      "low_kick",
+      "counter",
+      "strength",
+      "fire_spin",
+      "dig",
+      "toxic",
+      "agility",
+      "double_team",
+      "focus_energy",
+      "metronome",
+      "fire_blast",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "mud_slap",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "sunny_day",
+      "rock_smash",
+      "uproar",
+      "heat_wave",
+      "torment",
+      "will_o_wisp",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "blaze_kick",
+      "fake_tears",
+      "overheat",
+      "rock_tomb",
+      "aerial_ace",
+      "bulk_up",
+      "covet",
+      "u_turn",
+      "fling",
+      "flare_blitz",
+      "poison_jab",
+      "vacuum_wave",
+      "nasty_plot",
+      "shadow_claw",
+      "zen_headbutt",
+      "rock_climb",
+      "gunk_shot",
+      "stealth_rock",
+      "grass_knot",
+      "hone_claws",
+      "flame_charge",
+      "low_sweep",
+      "round",
+      "incinerate",
+      "acrobatics",
+      "fire_pledge",
+      "work_up",
+      "confide",
+      "power_up_punch",
+      "burning_jealousy",
+      "tera_blast",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "volcano"
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "surge_surfer",
+    "name": "Surge Surfer",
+    "koName": "서핑테일",
+    "realased": "",
+    "description": "일렉트릭필드일 때 스피드가 2배가 된다.",
+    "generation": 7,
+    "pokemonIds": [
+      "alola_raichu"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

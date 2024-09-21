@@ -1,0 +1,138 @@
+[
+  {
+    "_id": "bounsweet",
+    "gender": "",
+    "pokedexNumber": "761",
+    "name": "bounsweet",
+    "koName": "달콤아",
+    "speciesName": "bounsweet",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "42",
+    "friendship": "50",
+    "types": [
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "leaf_guard",
+      "oblivious"
+    ],
+    "hiddenAbilityId": "sweet_veil",
+    "passiveAbilityId": "moxie",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 210,
+    "hp": 42,
+    "attack": 30,
+    "defense": 38,
+    "specialAttack": 30,
+    "specialDefense": 38,
+    "speed": 32,
+    "height": 0.3,
+    "weight": 3.2,
+    "eggMoveIds": [
+      "triple_axel",
+      "aqua_step",
+      "thunderous_kick",
+      "sappy_seed"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "splash"
+      },
+      {
+        "level": 1,
+        "moveId": "leafage"
+      },
+      {
+        "level": 4,
+        "moveId": "play_nice"
+      },
+      {
+        "level": 8,
+        "moveId": "rapid_spin"
+      },
+      {
+        "level": 12,
+        "moveId": "razor_leaf"
+      },
+      {
+        "level": 16,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 20,
+        "moveId": "magical_leaf"
+      },
+      {
+        "level": 24,
+        "moveId": "flail"
+      },
+      {
+        "level": 28,
+        "moveId": "teeter_dance"
+      },
+      {
+        "level": 32,
+        "moveId": "aromatic_mist"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "solar_beam",
+      "toxic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "giga_drain",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "synthesis",
+      "hidden_power",
+      "sunny_day",
+      "facade",
+      "nature_power",
+      "helping_hand",
+      "endeavor",
+      "bullet_seed",
+      "bounce",
+      "covet",
+      "magical_leaf",
+      "worry_seed",
+      "seed_bomb",
+      "energy_ball",
+      "zen_headbutt",
+      "leaf_storm",
+      "grass_knot",
+      "round",
+      "draining_kiss",
+      "grassy_terrain",
+      "play_rough",
+      "confide",
+      "dazzling_gleam",
+      "grassy_glide",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "tall_grass"
+    ]
+  }
+]

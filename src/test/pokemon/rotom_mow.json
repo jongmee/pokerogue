@@ -1,0 +1,114 @@
+[
+  {
+    "_id": "rotom_mow",
+    "gender": "",
+    "pokedexNumber": "479",
+    "name": "rotom_mow",
+    "koName": "로토무_mow",
+    "speciesName": "rotom",
+    "canChangeForm": true,
+    "formName": "mow",
+    "baseExp": "154",
+    "friendship": "50",
+    "types": [
+      "electric",
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "levitate"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "hadron_engine",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 520,
+    "hp": 50,
+    "attack": 65,
+    "defense": 107,
+    "specialAttack": 105,
+    "specialDefense": 107,
+    "speed": 86,
+    "height": 0.3,
+    "weight": 0.3,
+    "eggMoveIds": [
+      "strength_sap",
+      "fiery_dance",
+      "splishy_splash",
+      "electro_drift"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "leaf_storm"
+      },
+      {
+        "level": 1,
+        "moveId": "double_team"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 5,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 10,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 15,
+        "moveId": "charge"
+      },
+      {
+        "level": 20,
+        "moveId": "electro_ball"
+      },
+      {
+        "level": 25,
+        "moveId": "thunder_wave"
+      },
+      {
+        "level": 30,
+        "moveId": "shock_wave"
+      },
+      {
+        "level": 35,
+        "moveId": "hex"
+      },
+      {
+        "level": 40,
+        "moveId": "substitute"
+      },
+      {
+        "level": 45,
+        "moveId": "trick"
+      },
+      {
+        "level": 50,
+        "moveId": "discharge"
+      },
+      {
+        "level": 55,
+        "moveId": "uproar"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "leaf_storm"
+    ],
+    "biomeIds": [
+      "laboratory",
+      "volcano",
+      "sea",
+      "ice_cave",
+      "mountain",
+      "tall_grass"
+    ]
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "_id": "toxel",
+    "gender": "",
+    "pokedexNumber": "848",
+    "name": "toxel",
+    "koName": "일레즌",
+    "speciesName": "toxel",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "48",
+    "friendship": "50",
+    "types": [
+      "electric",
+      "poison"
+    ],
+    "normalAbilityIds": [
+      "rattled",
+      "static"
+    ],
+    "hiddenAbilityId": "klutz",
+    "passiveAbilityId": "electric_surge",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 242,
+    "hp": 40,
+    "attack": 38,
+    "defense": 35,
+    "specialAttack": 54,
+    "specialDefense": 35,
+    "speed": 40,
+    "height": 0.4,
+    "weight": 11,
+    "eggMoveIds": [
+      "nasty_plot",
+      "bug_buzz",
+      "sparkling_aria",
+      "torch_song"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "acid"
+      },
+      {
+        "level": 1,
+        "moveId": "flail"
+      },
+      {
+        "level": 1,
+        "moveId": "belch"
+      },
+      {
+        "level": 1,
+        "moveId": "nuzzle"
+      },
+      {
+        "level": 1,
+        "moveId": "tearful_look"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "double_team",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "endure",
+      "charm",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "hidden_power",
+      "facade",
+      "endeavor",
+      "metal_sound",
+      "round",
+      "power_up_punch",
+      "tera_blast"
+    ],
+    "biomeIds": []
+  }
+]

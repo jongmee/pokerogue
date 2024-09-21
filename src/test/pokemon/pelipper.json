@@ -1,0 +1,199 @@
+[
+  {
+    "_id": "pelipper",
+    "gender": "",
+    "pokedexNumber": "279",
+    "name": "pelipper",
+    "koName": "패리퍼",
+    "speciesName": "pelipper",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "154",
+    "friendship": "50",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "keen_eye",
+      "drizzle"
+    ],
+    "hiddenAbilityId": "rain_dish",
+    "passiveAbilityId": "swift_swim",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 440,
+    "hp": 60,
+    "attack": 50,
+    "defense": 100,
+    "specialAttack": 95,
+    "specialDefense": 70,
+    "speed": 65,
+    "height": 1.2,
+    "weight": 28,
+    "eggMoveIds": [
+      "thunder",
+      "flip_turn",
+      "calm_mind",
+      "steam_eruption"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "protect"
+      },
+      {
+        "level": 1,
+        "moveId": "soak"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "agility"
+      },
+      {
+        "level": 1,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "tailwind"
+      },
+      {
+        "level": 1,
+        "moveId": "supersonic"
+      },
+      {
+        "level": 1,
+        "moveId": "water_sport"
+      },
+      {
+        "level": 15,
+        "moveId": "wing_attack"
+      },
+      {
+        "level": 20,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 28,
+        "moveId": "stockpile"
+      },
+      {
+        "level": 28,
+        "moveId": "spit_up"
+      },
+      {
+        "level": 28,
+        "moveId": "swallow"
+      },
+      {
+        "level": 34,
+        "moveId": "fling"
+      },
+      {
+        "level": 41,
+        "moveId": "mist"
+      },
+      {
+        "level": 48,
+        "moveId": "roost"
+      },
+      {
+        "level": 55,
+        "moveId": "hurricane"
+      },
+      {
+        "level": 62,
+        "moveId": "hydro_pump"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fly",
+      "body_slam",
+      "take_down",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "toxic",
+      "agility",
+      "double_team",
+      "waterfall",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "whirlpool",
+      "uproar",
+      "hail",
+      "facade",
+      "helping_hand",
+      "knock_off",
+      "feather_dance",
+      "weather_ball",
+      "air_cutter",
+      "muddy_water",
+      "aerial_ace",
+      "water_pulse",
+      "roost",
+      "brine",
+      "pluck",
+      "tailwind",
+      "u_turn",
+      "payback",
+      "fling",
+      "seed_bomb",
+      "air_slash",
+      "brave_bird",
+      "giga_impact",
+      "defog",
+      "gunk_shot",
+      "round",
+      "echoed_voice",
+      "scald",
+      "sky_drop",
+      "acrobatics",
+      "hurricane",
+      "confide",
+      "liquidation",
+      "dual_wingbeat",
+      "tera_blast",
+      "snowscape",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "sea"
+    ]
+  }
+]

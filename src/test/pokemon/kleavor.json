@@ -1,0 +1,169 @@
+[
+  {
+    "_id": "kleavor",
+    "gender": "",
+    "pokedexNumber": "900",
+    "name": "kleavor",
+    "koName": "사마자르",
+    "speciesName": "kleavor",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "175",
+    "friendship": "50",
+    "types": [
+      "bug",
+      "rock"
+    ],
+    "normalAbilityIds": [
+      "swarm",
+      "sheer_force"
+    ],
+    "hiddenAbilityId": "sharpness",
+    "passiveAbilityId": "tinted_lens",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 500,
+    "hp": 70,
+    "attack": 135,
+    "defense": 95,
+    "specialAttack": 45,
+    "specialDefense": 70,
+    "speed": 85,
+    "height": 1.8,
+    "weight": 89,
+    "eggMoveIds": [
+      "mighty_cleave",
+      "bug_bite",
+      "storm_throw",
+      "double_iron_bash"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "stone_axe"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 4,
+        "moveId": "fury_cutter"
+      },
+      {
+        "level": 8,
+        "moveId": "false_swipe"
+      },
+      {
+        "level": 12,
+        "moveId": "smack_down"
+      },
+      {
+        "level": 16,
+        "moveId": "double_team"
+      },
+      {
+        "level": 20,
+        "moveId": "double_hit"
+      },
+      {
+        "level": 24,
+        "moveId": "slash"
+      },
+      {
+        "level": 28,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 32,
+        "moveId": "agility"
+      },
+      {
+        "level": 36,
+        "moveId": "rock_slide"
+      },
+      {
+        "level": 40,
+        "moveId": "x_scissor"
+      },
+      {
+        "level": 44,
+        "moveId": "swords_dance"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "agility",
+      "double_team",
+      "light_screen",
+      "focus_energy",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "curse",
+      "reversal",
+      "protect",
+      "scary_face",
+      "sandstorm",
+      "endure",
+      "false_swipe",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "hidden_power",
+      "sunny_day",
+      "rock_smash",
+      "facade",
+      "helping_hand",
+      "brick_break",
+      "air_cutter",
+      "rock_tomb",
+      "aerial_ace",
+      "rock_blast",
+      "roost",
+      "tailwind",
+      "u_turn",
+      "close_combat",
+      "air_slash",
+      "x_scissor",
+      "bug_buzz",
+      "vacuum_wave",
+      "giga_impact",
+      "psycho_cut",
+      "defog",
+      "cross_poison",
+      "stone_edge",
+      "stealth_rock",
+      "bug_bite",
+      "smack_down",
+      "acrobatics",
+      "struggle_bug",
+      "lunge",
+      "brutal_swing",
+      "skitter_smack",
+      "dual_wingbeat",
+      "tera_blast",
+      "pounce",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "jungle"
+    ]
+  }
+]

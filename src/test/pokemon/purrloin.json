@@ -1,0 +1,159 @@
+[
+  {
+    "_id": "purrloin",
+    "gender": "",
+    "pokedexNumber": "509",
+    "name": "purrloin",
+    "koName": "쌔비냥",
+    "speciesName": "purrloin",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "56",
+    "friendship": "50",
+    "types": [
+      "dark"
+    ],
+    "normalAbilityIds": [
+      "limber",
+      "unburden"
+    ],
+    "hiddenAbilityId": "prankster",
+    "passiveAbilityId": "pickup",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 281,
+    "hp": 41,
+    "attack": 50,
+    "defense": 37,
+    "specialAttack": 50,
+    "specialDefense": 37,
+    "speed": 66,
+    "height": 0.4,
+    "weight": 10.1,
+    "eggMoveIds": [
+      "encore",
+      "obstruct",
+      "parting_shot",
+      "wicked_blow"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 4,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 5,
+        "moveId": "fake_out"
+      },
+      {
+        "level": 12,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 16,
+        "moveId": "torment"
+      },
+      {
+        "level": 21,
+        "moveId": "assurance"
+      },
+      {
+        "level": 24,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 28,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 32,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 36,
+        "moveId": "night_slash"
+      },
+      {
+        "level": 40,
+        "moveId": "play_rough"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "pay_day",
+      "cut",
+      "thunder_wave",
+      "toxic",
+      "screech",
+      "double_team",
+      "swift",
+      "dream_eater",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "spite",
+      "protect",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "torment",
+      "facade",
+      "taunt",
+      "trick",
+      "knock_off",
+      "hyper_voice",
+      "fake_tears",
+      "aerial_ace",
+      "covet",
+      "u_turn",
+      "payback",
+      "assurance",
+      "embargo",
+      "dark_pulse",
+      "seed_bomb",
+      "nasty_plot",
+      "shadow_claw",
+      "gunk_shot",
+      "grass_knot",
+      "hone_claws",
+      "foul_play",
+      "round",
+      "echoed_voice",
+      "snarl",
+      "play_rough",
+      "confide",
+      "lash_out",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "town",
+      "abyss",
+      "jungle"
+    ]
+  }
+]

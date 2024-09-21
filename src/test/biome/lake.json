@@ -1,0 +1,141 @@
+[
+  {
+    "_id": "lake",
+    "name": "Lake",
+    "koName": "호수",
+    "types": [
+      "water"
+    ],
+    "nextBiomes": [
+      {
+        "name": "beach",
+        "percentage": 33.33333333333333
+      },
+      {
+        "name": "swamp",
+        "percentage": 33.33333333333333
+      },
+      {
+        "name": "construction_site",
+        "percentage": 33.33333333333333
+      }
+    ],
+    "nativePokemons": [
+      {
+        "tier": "보통",
+        "pokemonIds": [
+          "lotad",
+          "lombre",
+          "ducklett",
+          "swanna",
+          "marill",
+          "azumarill",
+          "psyduck",
+          "golduck",
+          "goldeen",
+          "seaking",
+          "magikarp",
+          "gyarados",
+          "chewtle",
+          "drednaw"
+        ]
+      },
+      {
+        "tier": "드묾",
+        "pokemonIds": [
+          "dewpider",
+          "araquanid",
+          "slowpoke",
+          "slowbro",
+          "wooper",
+          "quagsire",
+          "surskit",
+          "masquerain",
+          "wishiwashi",
+          "flamigo"
+        ]
+      },
+      {
+        "tier": "레어",
+        "pokemonIds": [
+          "squirtle",
+          "wartortle",
+          "blastoise",
+          "oshawott",
+          "dewott",
+          "samurott",
+          "froakie",
+          "frogadier",
+          "greninja",
+          "sobble",
+          "drizzile",
+          "inteleon"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어",
+        "pokemonIds": [
+          "vaporeon",
+          "slowking"
+        ]
+      },
+      {
+        "tier": "울트라 레어",
+        "pokemonIds": [
+          "suicune",
+          "mesprit"
+        ]
+      },
+      {
+        "tier": "보스",
+        "pokemonIds": [
+          "swanna",
+          "araquanid",
+          "azumarill",
+          "golduck",
+          "slowbro",
+          "seaking",
+          "gyarados",
+          "masquerain",
+          "wishiwashi",
+          "drednaw"
+        ]
+      },
+      {
+        "tier": "레어 보스",
+        "pokemonIds": [
+          "blastoise",
+          "vaporeon",
+          "slowking",
+          "samurott",
+          "greninja",
+          "inteleon"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어 보스",
+        "pokemonIds": [
+          "suicune",
+          "mesprit"
+        ]
+      },
+      {
+        "tier": "슈퍼 울트라 레어 보스",
+        "pokemonIds": []
+      }
+    ],
+    "trainers": [
+      {
+        "name": "맥실러",
+        "types": [
+          "water"
+        ],
+        "pokemonIds": [
+          "buizel",
+          "magikarp",
+          "piplup"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "_id": "pecharunt",
+    "gender": "",
+    "pokedexNumber": "1025",
+    "name": "pecharunt",
+    "koName": "복숭악동",
+    "speciesName": "pecharunt",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "300",
+    "friendship": "0",
+    "types": [
+      "poison",
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "poison_puppeteer"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "toxic_chain",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": true,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 600,
+    "hp": 88,
+    "attack": 88,
+    "defense": 160,
+    "specialAttack": 88,
+    "specialDefense": 88,
+    "speed": 88,
+    "height": 0.3,
+    "weight": 0.3,
+    "eggMoveIds": [
+      "take_heart",
+      "body_press",
+      "sappy_seed",
+      "kings_shield"
+    ],
+    "levelMoves": [
+      {
+        "level": -1,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": -1,
+        "moveId": "rollout"
+      },
+      {
+        "level": -1,
+        "moveId": "mean_look"
+      },
+      {
+        "level": 1,
+        "moveId": "smog"
+      },
+      {
+        "level": 1,
+        "moveId": "poison_gas"
+      },
+      {
+        "level": 1,
+        "moveId": "memento"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 8,
+        "moveId": "withdraw"
+      },
+      {
+        "level": 16,
+        "moveId": "destiny_bond"
+      },
+      {
+        "level": 24,
+        "moveId": "fake_tears"
+      },
+      {
+        "level": 32,
+        "moveId": "parting_shot"
+      },
+      {
+        "level": 40,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 48,
+        "moveId": "malignant_chain"
+      },
+      {
+        "level": 56,
+        "moveId": "toxic"
+      },
+      {
+        "level": 64,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 72,
+        "moveId": "recover"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "toxic",
+      "night_shade",
+      "double_team",
+      "rest",
+      "substitute",
+      "curse",
+      "spite",
+      "protect",
+      "sludge_bomb",
+      "endure",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "shadow_ball",
+      "imprison",
+      "fake_tears",
+      "nasty_plot",
+      "gunk_shot",
+      "venoshock",
+      "sludge_wave",
+      "acid_spray",
+      "foul_play",
+      "hex",
+      "phantom_force",
+      "lash_out",
+      "poltergeist"
+    ],
+    "biomeIds": []
+  }
+]

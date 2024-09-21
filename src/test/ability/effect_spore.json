@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "effect_spore",
+    "name": "Effect Spore",
+    "koName": "포자",
+    "realased": "",
+    "description": "공격으로 자신에게 접촉한 상대를 독이나 마비, 잠듦 상태로 만들 때가 있다.",
+    "generation": 3,
+    "pokemonIds": [
+      "vileplume",
+      "paras",
+      "parasect",
+      "shroomish",
+      "breloom",
+      "foongus",
+      "amoonguss",
+      "morelull",
+      "shiinotic",
+      "gossifleur",
+      "eldegoss"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

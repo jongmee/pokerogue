@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "sinister_arrow_raid",
+    "name": "Sinister Arrow Raid",
+    "koName": "섀도애로우즈스트라이크",
+    "type": "ghost",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 180,
+    "accuracy": -1,
+    "powerPoint": 1,
+    "effect": "Z파워로 무수한 화살을 만들어낸 모크나이퍼가 전력으로 상대를 꿰뚫는 공격이다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": " (P)",
+    "flags": [
+      "ignore_virtual"
+    ],
+    "pokemonIds": []
+  }
+]

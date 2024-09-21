@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "magnetic_flux",
+    "name": "Magnetic Flux",
+    "koName": "자기장조작",
+    "type": "electric",
+    "moveCategory": "status",
+    "moveTarget": "user_and_allies",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 20,
+    "effect": "자기장 조작으로 인해 특성 플러스와 마이너스의 방어, 특수방어가 오른다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 6,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "electrode",
+      "zapdos",
+      "ampharos",
+      "magnezone",
+      "probopass",
+      "klinklang",
+      "magearna",
+      "toxtricity_lowkey",
+      "sandy_shocks"
+    ]
+  }
+]

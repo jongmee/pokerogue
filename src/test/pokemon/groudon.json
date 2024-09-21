@@ -1,0 +1,197 @@
+[
+  {
+    "_id": "groudon",
+    "gender": "",
+    "pokedexNumber": "383",
+    "name": "groudon",
+    "koName": "그란돈",
+    "speciesName": "groudon",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "335",
+    "friendship": "0",
+    "types": [
+      "ground"
+    ],
+    "normalAbilityIds": [
+      "drought"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "turboblaze",
+    "generation": 3,
+    "legendary": true,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 670,
+    "hp": 100,
+    "attack": 150,
+    "defense": 140,
+    "specialAttack": 100,
+    "specialDefense": 90,
+    "speed": 90,
+    "height": 3.5,
+    "weight": 950,
+    "eggMoveIds": [
+      "stone_axe",
+      "solar_blade",
+      "morning_sun",
+      "sacred_fire"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "precipice_blades"
+      },
+      {
+        "level": 1,
+        "moveId": "mud_shot"
+      },
+      {
+        "level": 1,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 1,
+        "moveId": "lava_plume"
+      },
+      {
+        "level": 1,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 9,
+        "moveId": "earth_power"
+      },
+      {
+        "level": 18,
+        "moveId": "bulk_up"
+      },
+      {
+        "level": 27,
+        "moveId": "earthquake"
+      },
+      {
+        "level": 36,
+        "moveId": "hammer_arm"
+      },
+      {
+        "level": 45,
+        "moveId": "fissure"
+      },
+      {
+        "level": 54,
+        "moveId": "rest"
+      },
+      {
+        "level": 72,
+        "moveId": "fire_blast"
+      },
+      {
+        "level": 81,
+        "moveId": "solar_beam"
+      },
+      {
+        "level": 90,
+        "moveId": "eruption"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "thunder_punch",
+      "swords_dance",
+      "cut",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "hyper_beam",
+      "counter",
+      "strength",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "earthquake",
+      "dig",
+      "toxic",
+      "double_team",
+      "fire_blast",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "spikes",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "iron_tail",
+      "metal_claw",
+      "hidden_power",
+      "sunny_day",
+      "crunch",
+      "psych_up",
+      "rock_smash",
+      "uproar",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "focus_punch",
+      "helping_hand",
+      "brick_break",
+      "overheat",
+      "rock_tomb",
+      "sand_tomb",
+      "aerial_ace",
+      "dragon_claw",
+      "bulk_up",
+      "mud_shot",
+      "rock_blast",
+      "fling",
+      "rock_polish",
+      "dragon_pulse",
+      "focus_blast",
+      "earth_power",
+      "giga_impact",
+      "shadow_claw",
+      "fire_fang",
+      "zen_headbutt",
+      "rock_climb",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "hone_claws",
+      "smack_down",
+      "heavy_slam",
+      "round",
+      "incinerate",
+      "bulldoze",
+      "dragon_tail",
+      "heat_crash",
+      "confide",
+      "power_up_punch",
+      "high_horsepower",
+      "brutal_swing",
+      "stomping_tantrum",
+      "body_press",
+      "scorching_sands",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "badlands"
+    ]
+  }
+]

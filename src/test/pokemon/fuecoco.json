@@ -1,0 +1,142 @@
+[
+  {
+    "_id": "fuecoco",
+    "gender": "",
+    "pokedexNumber": "909",
+    "name": "fuecoco",
+    "koName": "뜨아거",
+    "speciesName": "fuecoco",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "62",
+    "friendship": "50",
+    "types": [
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "blaze"
+    ],
+    "hiddenAbilityId": "unaware",
+    "passiveAbilityId": "punk_rock",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 310,
+    "hp": 67,
+    "attack": 45,
+    "defense": 59,
+    "specialAttack": 63,
+    "specialDefense": 40,
+    "speed": 36,
+    "height": 0.4,
+    "weight": 9.8,
+    "eggMoveIds": [
+      "alluring_voice",
+      "slack_off",
+      "overdrive",
+      "moongeist_beam"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 7,
+        "moveId": "round"
+      },
+      {
+        "level": 12,
+        "moveId": "bite"
+      },
+      {
+        "level": 15,
+        "moveId": "incinerate"
+      },
+      {
+        "level": 17,
+        "moveId": "yawn"
+      },
+      {
+        "level": 21,
+        "moveId": "snarl"
+      },
+      {
+        "level": 25,
+        "moveId": "roar"
+      },
+      {
+        "level": 28,
+        "moveId": "flamethrower"
+      },
+      {
+        "level": 32,
+        "moveId": "hyper_voice"
+      },
+      {
+        "level": 36,
+        "moveId": "fire_blast"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "roar",
+      "flamethrower",
+      "fire_spin",
+      "dig",
+      "double_team",
+      "fire_blast",
+      "rest",
+      "substitute",
+      "curse",
+      "protect",
+      "mud_slap",
+      "outrage",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "hidden_power",
+      "sunny_day",
+      "crunch",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "helping_hand",
+      "hyper_voice",
+      "overheat",
+      "flare_blitz",
+      "seed_bomb",
+      "thunder_fang",
+      "fire_fang",
+      "zen_headbutt",
+      "flame_charge",
+      "round",
+      "incinerate",
+      "fire_pledge",
+      "snarl",
+      "disarming_voice",
+      "stomping_tantrum",
+      "tera_blast",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "graveyard"
+    ]
+  }
+]

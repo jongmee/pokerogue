@@ -1,0 +1,168 @@
+[
+  {
+    "_id": "dojo",
+    "name": "Dojo",
+    "koName": "도장",
+    "types": [
+      "fighting"
+    ],
+    "nextBiomes": [
+      {
+        "name": "plains",
+        "percentage": 50
+      },
+      {
+        "name": "jungle",
+        "percentage": 25
+      },
+      {
+        "name": "temple",
+        "percentage": 25
+      }
+    ],
+    "nativePokemons": [
+      {
+        "tier": "보통",
+        "pokemonIds": [
+          "mankey",
+          "primeape",
+          "annihilape",
+          "makuhita",
+          "hariyama",
+          "meditite",
+          "medicham",
+          "stufful",
+          "bewear",
+          "clobbopus",
+          "grapploct"
+        ]
+      },
+      {
+        "tier": "드묾",
+        "pokemonIds": [
+          "croagunk",
+          "toxicroak",
+          "scraggy",
+          "scrafty",
+          "mienfoo",
+          "mienshao"
+        ]
+      },
+      {
+        "tier": "레어",
+        "pokemonIds": [
+          "hitmonlee",
+          "hitmonchan",
+          "lucario",
+          "throh",
+          "sawk",
+          "pancham",
+          "pangoro"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어",
+        "pokemonIds": [
+          "hitmontop",
+          "gallade",
+          "galar_farfetchd"
+        ]
+      },
+      {
+        "tier": "울트라 레어",
+        "pokemonIds": [
+          "terrakion",
+          "kubfu",
+          "galar_zapdos"
+        ]
+      },
+      {
+        "tier": "보스",
+        "pokemonIds": [
+          "hitmonlee",
+          "hitmonchan",
+          "hariyama",
+          "medicham",
+          "lucario",
+          "toxicroak",
+          "throh",
+          "sawk",
+          "scrafty",
+          "mienshao",
+          "bewear",
+          "grapploct",
+          "annihilape"
+        ]
+      },
+      {
+        "tier": "레어 보스",
+        "pokemonIds": [
+          "hitmontop",
+          "gallade",
+          "pangoro",
+          "sirfetchd",
+          "hisui_decidueye"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어 보스",
+        "pokemonIds": [
+          "terrakion",
+          "urshifu"
+        ]
+      },
+      {
+        "tier": "슈퍼 울트라 레어 보스",
+        "pokemonIds": [
+          "zamazenta",
+          "galar_zapdos"
+        ]
+      }
+    ],
+    "trainers": [
+      {
+        "name": "철구",
+        "types": [
+          "fighting"
+        ],
+        "pokemonIds": [
+          "machop",
+          "makuhita"
+        ]
+      },
+      {
+        "name": "자두",
+        "types": [
+          "fighting"
+        ],
+        "pokemonIds": [
+          "lucario",
+          "meditite",
+          "chimchar"
+        ]
+      },
+      {
+        "name": "코르니",
+        "types": [
+          "fighting"
+        ],
+        "pokemonIds": [
+          "hawlucha",
+          "lucario",
+          "mienfoo"
+        ]
+      },
+      {
+        "name": "채두",
+        "types": [
+          "fighting"
+        ],
+        "pokemonIds": [
+          "galar_farfetchd",
+          "machop",
+          "clobbopus"
+        ]
+      }
+    ]
+  }
+]

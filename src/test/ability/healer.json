@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "healer",
+    "name": "Healer",
+    "koName": "치유의마음",
+    "realased": "",
+    "description": "같은 편의 상태 이상을 가끔 회복시킨다.",
+    "generation": 5,
+    "pokemonIds": [
+      "chansey",
+      "bellossom",
+      "blissey",
+      "audino",
+      "audino_mega",
+      "alomomola",
+      "spritzee",
+      "aromatisse",
+      "hatenna",
+      "hattrem",
+      "hatterene"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

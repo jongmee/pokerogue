@@ -1,0 +1,195 @@
+[
+  {
+    "_id": "quilladin",
+    "gender": "",
+    "pokedexNumber": "651",
+    "name": "quilladin",
+    "koName": "도치보구",
+    "speciesName": "quilladin",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "142",
+    "friendship": "70",
+    "types": [
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "overgrow"
+    ],
+    "hiddenAbilityId": "bulletproof",
+    "passiveAbilityId": "dauntless_shield",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 405,
+    "hp": 61,
+    "attack": 78,
+    "defense": 95,
+    "specialAttack": 56,
+    "specialDefense": 58,
+    "speed": 57,
+    "height": 0.7,
+    "weight": 29,
+    "eggMoveIds": [
+      "body_press",
+      "synthesis",
+      "ceaseless_edge",
+      "sappy_seed"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "needle_arm"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "vine_whip"
+      },
+      {
+        "level": 8,
+        "moveId": "rollout"
+      },
+      {
+        "level": 11,
+        "moveId": "bite"
+      },
+      {
+        "level": 15,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 20,
+        "moveId": "seed_bomb"
+      },
+      {
+        "level": 24,
+        "moveId": "pin_missile"
+      },
+      {
+        "level": 29,
+        "moveId": "take_down"
+      },
+      {
+        "level": 34,
+        "moveId": "mud_shot"
+      },
+      {
+        "level": 38,
+        "moveId": "bulk_up"
+      },
+      {
+        "level": 43,
+        "moveId": "body_slam"
+      },
+      {
+        "level": 47,
+        "moveId": "pain_split"
+      },
+      {
+        "level": 53,
+        "moveId": "wood_hammer"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "thunder_punch",
+      "swords_dance",
+      "cut",
+      "body_slam",
+      "take_down",
+      "pin_missile",
+      "roar",
+      "low_kick",
+      "strength",
+      "solar_beam",
+      "dig",
+      "toxic",
+      "double_team",
+      "reflect",
+      "swift",
+      "flash",
+      "rest",
+      "rock_slide",
+      "super_fang",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "sludge_bomb",
+      "spikes",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "iron_tail",
+      "metal_claw",
+      "synthesis",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "rock_smash",
+      "facade",
+      "focus_punch",
+      "nature_power",
+      "taunt",
+      "helping_hand",
+      "superpower",
+      "brick_break",
+      "endeavor",
+      "rock_tomb",
+      "bullet_seed",
+      "aerial_ace",
+      "iron_defense",
+      "bulk_up",
+      "mud_shot",
+      "magical_leaf",
+      "gyro_ball",
+      "payback",
+      "fling",
+      "worry_seed",
+      "poison_jab",
+      "seed_bomb",
+      "drain_punch",
+      "energy_ball",
+      "shadow_claw",
+      "zen_headbutt",
+      "leaf_storm",
+      "iron_head",
+      "stone_edge",
+      "grass_knot",
+      "hone_claws",
+      "smack_down",
+      "low_sweep",
+      "round",
+      "retaliate",
+      "grass_pledge",
+      "bulldoze",
+      "work_up",
+      "grassy_terrain",
+      "confide",
+      "power_up_punch",
+      "stomping_tantrum",
+      "grassy_glide",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "forest"
+    ]
+  }
+]

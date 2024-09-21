@@ -1,0 +1,207 @@
+[
+  {
+    "_id": "calyrex_ice",
+    "gender": "",
+    "pokedexNumber": "898",
+    "name": "calyrex_ice",
+    "koName": "버드렉스_ice",
+    "speciesName": "calyrex",
+    "canChangeForm": true,
+    "formName": "ice",
+    "baseExp": "250",
+    "friendship": "100",
+    "types": [
+      "psychic",
+      "ice"
+    ],
+    "normalAbilityIds": [
+      "as_one_glastrier"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "harvest",
+    "generation": 8,
+    "legendary": true,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 680,
+    "hp": 100,
+    "attack": 165,
+    "defense": 150,
+    "specialAttack": 85,
+    "specialDefense": 130,
+    "speed": 50,
+    "height": 2.4,
+    "weight": 809.1,
+    "eggMoveIds": [
+      "sappy_seed",
+      "recover",
+      "secret_sword",
+      "photon_geyser"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 1,
+        "moveId": "stomp"
+      },
+      {
+        "level": 1,
+        "moveId": "double_kick"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "take_down"
+      },
+      {
+        "level": 1,
+        "moveId": "thrash"
+      },
+      {
+        "level": 1,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "mist"
+      },
+      {
+        "level": 1,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 1,
+        "moveId": "growth"
+      },
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 1,
+        "moveId": "torment"
+      },
+      {
+        "level": 1,
+        "moveId": "taunt"
+      },
+      {
+        "level": 1,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 1,
+        "moveId": "avalanche"
+      },
+      {
+        "level": 1,
+        "moveId": "icicle_crash"
+      },
+      {
+        "level": 1,
+        "moveId": "glacial_lance"
+      },
+      {
+        "level": 8,
+        "moveId": "life_dew"
+      },
+      {
+        "level": 16,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 24,
+        "moveId": "psyshock"
+      },
+      {
+        "level": 32,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 40,
+        "moveId": "aromatherapy"
+      },
+      {
+        "level": 40,
+        "moveId": "grassy_terrain"
+      },
+      {
+        "level": 48,
+        "moveId": "energy_ball"
+      },
+      {
+        "level": 56,
+        "moveId": "psychic"
+      },
+      {
+        "level": 64,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 72,
+        "moveId": "heal_pulse"
+      },
+      {
+        "level": 80,
+        "moveId": "solar_beam"
+      },
+      {
+        "level": 88,
+        "moveId": "future_sight"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "body_slam",
+      "double_edge",
+      "ice_beam",
+      "blizzard",
+      "curse",
+      "icy_wind",
+      "outrage",
+      "megahorn",
+      "crunch",
+      "uproar",
+      "hail",
+      "torment",
+      "taunt",
+      "superpower",
+      "icicle_spear",
+      "iron_defense",
+      "close_combat",
+      "payback",
+      "assurance",
+      "avalanche",
+      "heavy_slam",
+      "bulldoze",
+      "high_horsepower",
+      "throat_chop",
+      "smart_strike",
+      "stomping_tantrum",
+      "body_press",
+      "lash_out",
+      "snowscape",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "forest"
+    ]
+  }
+]

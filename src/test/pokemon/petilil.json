@@ -1,0 +1,158 @@
+[
+  {
+    "_id": "petilil",
+    "gender": "",
+    "pokedexNumber": "548",
+    "name": "petilil",
+    "koName": "치릴리",
+    "speciesName": "petilil",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "56",
+    "friendship": "50",
+    "types": [
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "chlorophyll",
+      "own_tempo"
+    ],
+    "hiddenAbilityId": "leaf_guard",
+    "passiveAbilityId": "simple",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 280,
+    "hp": 45,
+    "attack": 35,
+    "defense": 50,
+    "specialAttack": 70,
+    "specialDefense": 50,
+    "speed": 30,
+    "height": 0.5,
+    "weight": 6.6,
+    "eggMoveIds": [
+      "thunderous_kick",
+      "sparkling_aria",
+      "fiery_dance",
+      "flower_trick"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 1,
+        "moveId": "growth"
+      },
+      {
+        "level": 3,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 6,
+        "moveId": "stun_spore"
+      },
+      {
+        "level": 9,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 12,
+        "moveId": "charm"
+      },
+      {
+        "level": 15,
+        "moveId": "magical_leaf"
+      },
+      {
+        "level": 18,
+        "moveId": "sleep_powder"
+      },
+      {
+        "level": 21,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 24,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 27,
+        "moveId": "after_you"
+      },
+      {
+        "level": 30,
+        "moveId": "energy_ball"
+      },
+      {
+        "level": 33,
+        "moveId": "synthesis"
+      },
+      {
+        "level": 36,
+        "moveId": "sunny_day"
+      },
+      {
+        "level": 39,
+        "moveId": "entrainment"
+      },
+      {
+        "level": 42,
+        "moveId": "leaf_storm"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "cut",
+      "solar_beam",
+      "toxic",
+      "double_team",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "giga_drain",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "safeguard",
+      "encore",
+      "synthesis",
+      "hidden_power",
+      "sunny_day",
+      "facade",
+      "nature_power",
+      "helping_hand",
+      "bullet_seed",
+      "covet",
+      "magical_leaf",
+      "worry_seed",
+      "seed_bomb",
+      "energy_ball",
+      "leaf_storm",
+      "grass_knot",
+      "round",
+      "confide",
+      "pollen_puff",
+      "grassy_glide",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "grass",
+      "forest"
+    ]
+  }
+]

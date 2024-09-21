@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "crush_grip",
+    "name": "Crush Grip",
+    "koName": "묵사발",
+    "type": "normal",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "굉장한 힘으로 상대를 묵사발로 만든다. 상대의 HP가 남아 있을수록 위력이 올라간다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 4,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "dratini",
+      "dragonair",
+      "dragonite",
+      "regigigas"
+    ]
+  }
+]

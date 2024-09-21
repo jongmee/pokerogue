@@ -1,0 +1,211 @@
+[
+  {
+    "_id": "empoleon",
+    "gender": "",
+    "pokedexNumber": "395",
+    "name": "empoleon",
+    "koName": "엠페르트",
+    "speciesName": "empoleon",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "239",
+    "friendship": "70",
+    "types": [
+      "water",
+      "steel"
+    ],
+    "normalAbilityIds": [
+      "torrent"
+    ],
+    "hiddenAbilityId": "competitive",
+    "passiveAbilityId": "drizzle",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 530,
+    "hp": 84,
+    "attack": 86,
+    "defense": 88,
+    "specialAttack": 111,
+    "specialDefense": 101,
+    "speed": 60,
+    "height": 1.7,
+    "weight": 84.5,
+    "eggMoveIds": [
+      "kings_shield",
+      "tachyon_cutter",
+      "roost",
+      "steam_eruption"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "aqua_jet"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 11,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 15,
+        "moveId": "peck"
+      },
+      {
+        "level": 19,
+        "moveId": "bubble_beam"
+      },
+      {
+        "level": 24,
+        "moveId": "swagger"
+      },
+      {
+        "level": 28,
+        "moveId": "fury_attack"
+      },
+      {
+        "level": 33,
+        "moveId": "brine"
+      },
+      {
+        "level": 39,
+        "moveId": "whirlpool"
+      },
+      {
+        "level": 46,
+        "moveId": "mist"
+      },
+      {
+        "level": 52,
+        "moveId": "drill_peck"
+      },
+      {
+        "level": 59,
+        "moveId": "hydro_pump"
+      },
+      {
+        "level": 66,
+        "moveId": "wave_crash"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "agility",
+      "double_team",
+      "haze",
+      "waterfall",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "charm",
+      "false_swipe",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "rock_smash",
+      "whirlpool",
+      "uproar",
+      "hail",
+      "facade",
+      "helping_hand",
+      "brick_break",
+      "knock_off",
+      "dive",
+      "feather_dance",
+      "hydro_cannon",
+      "weather_ball",
+      "air_cutter",
+      "rock_tomb",
+      "metal_sound",
+      "signal_beam",
+      "aerial_ace",
+      "iron_defense",
+      "covet",
+      "water_pulse",
+      "roost",
+      "brine",
+      "pluck",
+      "fling",
+      "air_slash",
+      "vacuum_wave",
+      "giga_impact",
+      "avalanche",
+      "shadow_claw",
+      "flash_cannon",
+      "rock_climb",
+      "defog",
+      "stealth_rock",
+      "grass_knot",
+      "hone_claws",
+      "round",
+      "echoed_voice",
+      "scald",
+      "quash",
+      "water_pledge",
+      "bulldoze",
+      "work_up",
+      "disarming_voice",
+      "confide",
+      "throat_chop",
+      "liquidation",
+      "steel_beam",
+      "lash_out",
+      "flip_turn",
+      "triple_axel",
+      "dual_wingbeat",
+      "tera_blast",
+      "ice_spinner",
+      "snowscape",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "sea"
+    ]
+  }
+]

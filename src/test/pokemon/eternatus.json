@@ -1,0 +1,166 @@
+[
+  {
+    "_id": "eternatus",
+    "gender": "",
+    "pokedexNumber": "890",
+    "name": "eternatus",
+    "koName": "무한다이노",
+    "speciesName": "eternatus",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "345",
+    "friendship": "0",
+    "types": [
+      "poison",
+      "dragon"
+    ],
+    "normalAbilityIds": [
+      "pressure"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "neutralizing_gas",
+    "generation": 8,
+    "legendary": true,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 690,
+    "hp": 140,
+    "attack": 85,
+    "defense": 95,
+    "specialAttack": 145,
+    "specialDefense": 95,
+    "speed": 130,
+    "height": 20,
+    "weight": 950,
+    "eggMoveIds": [
+      "body_press",
+      "nasty_plot",
+      "malignant_chain",
+      "dragon_energy"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "agility"
+      },
+      {
+        "level": 1,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 1,
+        "moveId": "poison_tail"
+      },
+      {
+        "level": 1,
+        "moveId": "dragon_tail"
+      },
+      {
+        "level": 8,
+        "moveId": "toxic"
+      },
+      {
+        "level": 16,
+        "moveId": "venoshock"
+      },
+      {
+        "level": 24,
+        "moveId": "dragon_dance"
+      },
+      {
+        "level": 32,
+        "moveId": "cross_poison"
+      },
+      {
+        "level": 40,
+        "moveId": "dragon_pulse"
+      },
+      {
+        "level": 48,
+        "moveId": "flamethrower"
+      },
+      {
+        "level": 56,
+        "moveId": "dynamax_cannon"
+      },
+      {
+        "level": 64,
+        "moveId": "cosmic_power"
+      },
+      {
+        "level": 72,
+        "moveId": "recover"
+      },
+      {
+        "level": 80,
+        "moveId": "hyper_beam"
+      },
+      {
+        "level": 88,
+        "moveId": "outrage"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fly",
+      "body_slam",
+      "take_down",
+      "flamethrower",
+      "hyper_beam",
+      "solar_beam",
+      "fire_spin",
+      "toxic",
+      "agility",
+      "screech",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "fire_blast",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "outrage",
+      "endure",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "shadow_ball",
+      "facade",
+      "cosmic_power",
+      "poison_tail",
+      "dragon_dance",
+      "gravity",
+      "payback",
+      "assurance",
+      "toxic_spikes",
+      "poison_jab",
+      "dragon_pulse",
+      "giga_impact",
+      "flash_cannon",
+      "draco_meteor",
+      "cross_poison",
+      "gunk_shot",
+      "venoshock",
+      "sludge_wave",
+      "round",
+      "dragon_tail",
+      "mystical_fire",
+      "venom_drench",
+      "brutal_swing",
+      "meteor_beam",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "end"
+    ]
+  }
+]

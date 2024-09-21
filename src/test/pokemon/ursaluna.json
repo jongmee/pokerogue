@@ -1,0 +1,197 @@
+[
+  {
+    "_id": "ursaluna",
+    "gender": "",
+    "pokedexNumber": "901",
+    "name": "ursaluna",
+    "koName": "다투곰",
+    "speciesName": "ursaluna",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "275",
+    "friendship": "50",
+    "types": [
+      "ground",
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "guts",
+      "bulletproof"
+    ],
+    "hiddenAbilityId": "unnerve",
+    "passiveAbilityId": "thick_fat",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 550,
+    "hp": 130,
+    "attack": 140,
+    "defense": 105,
+    "specialAttack": 45,
+    "specialDefense": 80,
+    "speed": 50,
+    "height": 2.4,
+    "weight": 290,
+    "eggMoveIds": [
+      "mountain_gale",
+      "raging_bull",
+      "slack_off",
+      "precipice_blades"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "headlong_rush"
+      },
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "lick"
+      },
+      {
+        "level": 1,
+        "moveId": "fake_tears"
+      },
+      {
+        "level": 1,
+        "moveId": "covet"
+      },
+      {
+        "level": 8,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 13,
+        "moveId": "payback"
+      },
+      {
+        "level": 17,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 22,
+        "moveId": "slash"
+      },
+      {
+        "level": 25,
+        "moveId": "play_nice"
+      },
+      {
+        "level": 29,
+        "moveId": "play_rough"
+      },
+      {
+        "level": 35,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 41,
+        "moveId": "rest"
+      },
+      {
+        "level": 41,
+        "moveId": "snore"
+      },
+      {
+        "level": 48,
+        "moveId": "high_horsepower"
+      },
+      {
+        "level": 56,
+        "moveId": "thrash"
+      },
+      {
+        "level": 64,
+        "moveId": "hammer_arm"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "swords_dance",
+      "cut",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "low_kick",
+      "strength",
+      "earthquake",
+      "dig",
+      "double_team",
+      "metronome",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "scary_face",
+      "endure",
+      "charm",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "rock_smash",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "brick_break",
+      "hyper_voice",
+      "fake_tears",
+      "rock_tomb",
+      "aerial_ace",
+      "bulk_up",
+      "covet",
+      "close_combat",
+      "payback",
+      "fling",
+      "seed_bomb",
+      "drain_punch",
+      "vacuum_wave",
+      "earth_power",
+      "giga_impact",
+      "avalanche",
+      "shadow_claw",
+      "rock_climb",
+      "gunk_shot",
+      "stone_edge",
+      "hone_claws",
+      "heavy_slam",
+      "bulldoze",
+      "play_rough",
+      "power_up_punch",
+      "high_horsepower",
+      "stomping_tantrum",
+      "body_press",
+      "tera_blast",
+      "trailblaze",
+      "hard_press",
+      "supercell_slam"
+    ],
+    "biomeIds": [
+      "snowy_forest"
+    ]
+  }
+]

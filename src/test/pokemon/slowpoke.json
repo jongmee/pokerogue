@@ -1,0 +1,206 @@
+[
+  {
+    "_id": "slowpoke",
+    "gender": "",
+    "pokedexNumber": "79",
+    "name": "slowpoke",
+    "koName": "야돈",
+    "speciesName": "slowpoke",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "63",
+    "friendship": "50",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "oblivious",
+      "own_tempo"
+    ],
+    "hiddenAbilityId": "regenerator",
+    "passiveAbilityId": "unaware",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 315,
+    "hp": 90,
+    "attack": 65,
+    "defense": 65,
+    "specialAttack": 40,
+    "specialDefense": 40,
+    "speed": 15,
+    "height": 1.2,
+    "weight": 36,
+    "eggMoveIds": [
+      "bouncy_bubble",
+      "flamethrower",
+      "mystical_power",
+      "shed_tail"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "curse"
+      },
+      {
+        "level": 3,
+        "moveId": "growl"
+      },
+      {
+        "level": 6,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 9,
+        "moveId": "yawn"
+      },
+      {
+        "level": 12,
+        "moveId": "confusion"
+      },
+      {
+        "level": 15,
+        "moveId": "disable"
+      },
+      {
+        "level": 18,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 21,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 24,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 27,
+        "moveId": "amnesia"
+      },
+      {
+        "level": 30,
+        "moveId": "surf"
+      },
+      {
+        "level": 33,
+        "moveId": "slack_off"
+      },
+      {
+        "level": 36,
+        "moveId": "psychic"
+      },
+      {
+        "level": 39,
+        "moveId": "psych_up"
+      },
+      {
+        "level": 42,
+        "moveId": "rain_dance"
+      },
+      {
+        "level": 45,
+        "moveId": "heal_pulse"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "pay_day",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "flamethrower",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "psybeam",
+      "counter",
+      "strength",
+      "thunder_wave",
+      "earthquake",
+      "dig",
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "fire_blast",
+      "waterfall",
+      "swift",
+      "amnesia",
+      "dream_eater",
+      "flash",
+      "rest",
+      "tri_attack",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "whirlpool",
+      "hail",
+      "facade",
+      "helping_hand",
+      "trick",
+      "recycle",
+      "skill_swap",
+      "imprison",
+      "dive",
+      "weather_ball",
+      "signal_beam",
+      "mud_shot",
+      "calm_mind",
+      "water_pulse",
+      "brine",
+      "aqua_tail",
+      "avalanche",
+      "zen_headbutt",
+      "trick_room",
+      "grass_knot",
+      "wonder_room",
+      "psyshock",
+      "foul_play",
+      "round",
+      "echoed_voice",
+      "stored_power",
+      "scald",
+      "incinerate",
+      "bulldoze",
+      "confide",
+      "psychic_terrain",
+      "liquidation",
+      "expanding_force",
+      "tera_blast",
+      "snowscape",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "sea",
+      "lake"
+    ]
+  }
+]

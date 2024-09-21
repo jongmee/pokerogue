@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "gulp_missile",
+    "name": "Gulp Missile",
+    "koName": "그대로꿀꺽미사일",
+    "realased": "",
+    "description": "파도타기나 다이빙을 쓰면 먹이를 물어온다. 데미지를 받으면 먹이를 토해내서 공격한다.",
+    "generation": 8,
+    "pokemonIds": [
+      "cramorant"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

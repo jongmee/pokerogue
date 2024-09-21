@@ -1,0 +1,210 @@
+[
+  {
+    "_id": "decidueye",
+    "gender": "",
+    "pokedexNumber": "724",
+    "name": "decidueye",
+    "koName": "모크나이퍼",
+    "speciesName": "decidueye",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "265",
+    "friendship": "50",
+    "types": [
+      "grass",
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "overgrow"
+    ],
+    "hiddenAbilityId": "long_reach",
+    "passiveAbilityId": "sniper",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 530,
+    "hp": 78,
+    "attack": 107,
+    "defense": 75,
+    "specialAttack": 100,
+    "specialDefense": 100,
+    "speed": 70,
+    "height": 1.6,
+    "weight": 36.6,
+    "eggMoveIds": [
+      "thousand_arrows",
+      "shadow_bone",
+      "first_impression",
+      "victory_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "spirit_shackle"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "spite"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 1,
+        "moveId": "u_turn"
+      },
+      {
+        "level": 1,
+        "moveId": "leaf_storm"
+      },
+      {
+        "level": 1,
+        "moveId": "phantom_force"
+      },
+      {
+        "level": 1,
+        "moveId": "leafage"
+      },
+      {
+        "level": 9,
+        "moveId": "peck"
+      },
+      {
+        "level": 12,
+        "moveId": "shadow_sneak"
+      },
+      {
+        "level": 15,
+        "moveId": "razor_leaf"
+      },
+      {
+        "level": 20,
+        "moveId": "synthesis"
+      },
+      {
+        "level": 25,
+        "moveId": "pluck"
+      },
+      {
+        "level": 30,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 37,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 44,
+        "moveId": "leaf_blade"
+      },
+      {
+        "level": 51,
+        "moveId": "feather_dance"
+      },
+      {
+        "level": 58,
+        "moveId": "brave_bird"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "take_down",
+      "hyper_beam",
+      "low_kick",
+      "solar_beam",
+      "toxic",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "haze",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "giga_drain",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "baton_pass",
+      "synthesis",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "shadow_ball",
+      "facade",
+      "nature_power",
+      "helping_hand",
+      "knock_off",
+      "imprison",
+      "feather_dance",
+      "air_cutter",
+      "bullet_seed",
+      "aerial_ace",
+      "frenzy_plant",
+      "covet",
+      "magical_leaf",
+      "leaf_blade",
+      "roost",
+      "pluck",
+      "tailwind",
+      "u_turn",
+      "worry_seed",
+      "seed_bomb",
+      "air_slash",
+      "energy_ball",
+      "brave_bird",
+      "giga_impact",
+      "nasty_plot",
+      "shadow_claw",
+      "psycho_cut",
+      "defog",
+      "leaf_storm",
+      "grass_knot",
+      "smack_down",
+      "low_sweep",
+      "round",
+      "echoed_voice",
+      "hex",
+      "acrobatics",
+      "grass_pledge",
+      "work_up",
+      "hurricane",
+      "phantom_force",
+      "grassy_terrain",
+      "confide",
+      "solar_blade",
+      "grassy_glide",
+      "skitter_smack",
+      "poltergeist",
+      "dual_wingbeat",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "forest"
+    ]
+  }
+]

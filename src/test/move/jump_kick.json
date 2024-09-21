@@ -1,0 +1,48 @@
+[
+  {
+    "_id": "jump_kick",
+    "name": "Jump Kick",
+    "koName": "점프킥",
+    "type": "fighting",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 100,
+    "accuracy": 95,
+    "powerPoint": 10,
+    "effect": "높이 점프해서 킥으로 상대를 공격한다. 빗나가면 자신이 데미지를 입는다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 1,
+    "realased": "",
+    "flags": [
+      "makes_contact",
+      "reckless_move"
+    ],
+    "pokemonIds": [
+      "magnemite",
+      "magneton",
+      "hitmonlee",
+      "nosepass",
+      "wailmer",
+      "wailord",
+      "beldum",
+      "metang",
+      "metagross",
+      "metagross_mega",
+      "magnezone",
+      "probopass",
+      "dialga",
+      "bouffalant",
+      "klefki",
+      "diancie",
+      "diancie_mega",
+      "nihilego",
+      "varoom",
+      "revavroom",
+      "glimmet",
+      "glimmora",
+      "iron_moth",
+      "fezandipiti"
+    ]
+  }
+]

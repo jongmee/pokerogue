@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "mummy",
+    "name": "Mummy",
+    "koName": "미라",
+    "realased": "",
+    "description": "상대가 접촉하면 상대를 미라로 만들어버린다.",
+    "generation": 5,
+    "pokemonIds": [
+      "yamask",
+      "cofagrigus"
+    ],
+    "isBypassFaint": true,
+    "isIgnorable": false
+  }
+]

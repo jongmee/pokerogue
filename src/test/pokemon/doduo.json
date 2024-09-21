@@ -1,0 +1,151 @@
+[
+  {
+    "_id": "doduo",
+    "gender": "",
+    "pokedexNumber": "84",
+    "name": "doduo",
+    "koName": "두두",
+    "speciesName": "doduo",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "62",
+    "friendship": "70",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "run_away",
+      "early_bird"
+    ],
+    "hiddenAbilityId": "tangled_feet",
+    "passiveAbilityId": "parental_bond",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 310,
+    "hp": 35,
+    "attack": 85,
+    "defense": 45,
+    "specialAttack": 35,
+    "specialDefense": 35,
+    "speed": 75,
+    "height": 1.4,
+    "weight": 39.2,
+    "eggMoveIds": [
+      "triple_axel",
+      "multi_attack",
+      "floaty_fall",
+      "triple_arrows"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "peck"
+      },
+      {
+        "level": 5,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 9,
+        "moveId": "fury_attack"
+      },
+      {
+        "level": 14,
+        "moveId": "pluck"
+      },
+      {
+        "level": 19,
+        "moveId": "double_hit"
+      },
+      {
+        "level": 23,
+        "moveId": "agility"
+      },
+      {
+        "level": 27,
+        "moveId": "uproar"
+      },
+      {
+        "level": 30,
+        "moveId": "acupressure"
+      },
+      {
+        "level": 33,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 36,
+        "moveId": "drill_peck"
+      },
+      {
+        "level": 39,
+        "moveId": "endeavor"
+      },
+      {
+        "level": 43,
+        "moveId": "thrash"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "fly",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "low_kick",
+      "toxic",
+      "agility",
+      "double_team",
+      "haze",
+      "reflect",
+      "swift",
+      "rest",
+      "tri_attack",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "endure",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "sunny_day",
+      "uproar",
+      "facade",
+      "knock_off",
+      "endeavor",
+      "feather_dance",
+      "air_cutter",
+      "aerial_ace",
+      "roost",
+      "pluck",
+      "assurance",
+      "brave_bird",
+      "round",
+      "echoed_voice",
+      "work_up",
+      "confide",
+      "lunge",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "plains"
+    ]
+  }
+]

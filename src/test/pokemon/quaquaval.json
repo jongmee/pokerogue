@@ -1,0 +1,193 @@
+[
+  {
+    "_id": "quaquaval",
+    "gender": "",
+    "pokedexNumber": "914",
+    "name": "quaquaval",
+    "koName": "웨이니발",
+    "speciesName": "quaquaval",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "265",
+    "friendship": "50",
+    "types": [
+      "water",
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "torrent"
+    ],
+    "hiddenAbilityId": "moxie",
+    "passiveAbilityId": "opportunist",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 530,
+    "hp": 85,
+    "attack": 120,
+    "defense": 80,
+    "specialAttack": 85,
+    "specialDefense": 75,
+    "speed": 85,
+    "height": 1.8,
+    "weight": 61.9,
+    "eggMoveIds": [
+      "dragon_dance",
+      "triple_axel",
+      "power_trip",
+      "thunderous_kick"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "aqua_step"
+      },
+      {
+        "level": -1,
+        "moveId": "counter"
+      },
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "double_hit"
+      },
+      {
+        "level": 7,
+        "moveId": "work_up"
+      },
+      {
+        "level": 10,
+        "moveId": "wing_attack"
+      },
+      {
+        "level": 13,
+        "moveId": "aqua_jet"
+      },
+      {
+        "level": 17,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 17,
+        "moveId": "low_sweep"
+      },
+      {
+        "level": 21,
+        "moveId": "aqua_cutter"
+      },
+      {
+        "level": 27,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 32,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 38,
+        "moveId": "mega_kick"
+      },
+      {
+        "level": 43,
+        "moveId": "acrobatics"
+      },
+      {
+        "level": 47,
+        "moveId": "liquidation"
+      },
+      {
+        "level": 52,
+        "moveId": "feather_dance"
+      },
+      {
+        "level": 58,
+        "moveId": "close_combat"
+      },
+      {
+        "level": 64,
+        "moveId": "wave_crash"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "mega_kick",
+      "take_down",
+      "hydro_pump",
+      "surf",
+      "hyper_beam",
+      "low_kick",
+      "counter",
+      "agility",
+      "double_team",
+      "focus_energy",
+      "swift",
+      "rest",
+      "substitute",
+      "reversal",
+      "protect",
+      "icy_wind",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "whirlpool",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "feather_dance",
+      "hydro_cannon",
+      "air_cutter",
+      "aerial_ace",
+      "bulk_up",
+      "water_pulse",
+      "roost",
+      "u_turn",
+      "close_combat",
+      "fling",
+      "air_slash",
+      "brave_bird",
+      "giga_impact",
+      "low_sweep",
+      "acrobatics",
+      "water_pledge",
+      "work_up",
+      "hurricane",
+      "disarming_voice",
+      "misty_terrain",
+      "liquidation",
+      "coaching",
+      "flip_turn",
+      "triple_axel",
+      "tera_blast",
+      "ice_spinner",
+      "chilling_water",
+      "upper_hand"
+    ],
+    "biomeIds": [
+      "beach"
+    ]
+  }
+]

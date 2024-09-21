@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "chatter",
+    "name": "Chatter",
+    "koName": "수다",
+    "type": "flying",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 65,
+    "accuracy": 100,
+    "powerPoint": 20,
+    "effect": "매우 시끄럽고 수다스러운 음파로 상대를 공격한다. 상대를 혼란시킨다.",
+    "effectChance": 100,
+    "prioirty": 0,
+    "generation": 4,
+    "realased": "",
+    "flags": [
+      "sound_based"
+    ],
+    "pokemonIds": [
+      "chatot"
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "_id": "capsakid",
+    "gender": "",
+    "pokedexNumber": "951",
+    "name": "capsakid",
+    "koName": "캡싸이",
+    "speciesName": "capsakid",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "61",
+    "friendship": "50",
+    "types": [
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "chlorophyll",
+      "insomnia"
+    ],
+    "hiddenAbilityId": "klutz",
+    "passiveAbilityId": "parental_bond",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 304,
+    "hp": 50,
+    "attack": 62,
+    "defense": 40,
+    "specialAttack": 62,
+    "specialDefense": 40,
+    "speed": 50,
+    "height": 0.3,
+    "weight": 3,
+    "eggMoveIds": [
+      "strength_sap",
+      "apple_acid",
+      "frost_breath",
+      "torch_song"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "leafage"
+      },
+      {
+        "level": 4,
+        "moveId": "bite"
+      },
+      {
+        "level": 10,
+        "moveId": "growth"
+      },
+      {
+        "level": 13,
+        "moveId": "razor_leaf"
+      },
+      {
+        "level": 17,
+        "moveId": "sunny_day"
+      },
+      {
+        "level": 21,
+        "moveId": "bullet_seed"
+      },
+      {
+        "level": 24,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 28,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 38,
+        "moveId": "crunch"
+      },
+      {
+        "level": 44,
+        "moveId": "seed_bomb"
+      },
+      {
+        "level": 48,
+        "moveId": "solar_beam"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "solar_beam",
+      "double_team",
+      "rest",
+      "super_fang",
+      "substitute",
+      "thief",
+      "protect",
+      "sandstorm",
+      "giga_drain",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "sunny_day",
+      "crunch",
+      "facade",
+      "helping_hand",
+      "endeavor",
+      "bullet_seed",
+      "magical_leaf",
+      "worry_seed",
+      "seed_bomb",
+      "energy_ball",
+      "zen_headbutt",
+      "leaf_storm",
+      "grass_knot",
+      "grassy_terrain",
+      "stomping_tantrum",
+      "grassy_glide",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "badlands"
+    ]
+  }
+]

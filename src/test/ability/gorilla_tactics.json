@@ -1,0 +1,19 @@
+[
+  {
+    "_id": "gorilla_tactics",
+    "name": "Gorilla Tactics",
+    "koName": "무아지경",
+    "realased": " (N)",
+    "description": "공격이 올라가지만 처음에 선택한 기술 외에는 쓸 수 없게 된다.",
+    "generation": 8,
+    "pokemonIds": [
+      "darumaka",
+      "darmanitan",
+      "darmanitan_zen",
+      "galar_darmanitan",
+      "galar_darmanitan_zen"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

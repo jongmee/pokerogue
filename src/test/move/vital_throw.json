@@ -1,0 +1,36 @@
+[
+  {
+    "_id": "vital_throw",
+    "name": "Vital Throw",
+    "koName": "받아던지기",
+    "type": "fighting",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 70,
+    "accuracy": -1,
+    "powerPoint": 10,
+    "effect": "상대보다 나중에 공격한다. 그 대신 자신의 공격은 반드시 명중한다.",
+    "effectChance": -1,
+    "prioirty": -1,
+    "generation": 2,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "machop",
+      "machoke",
+      "machamp",
+      "pinsir",
+      "mewtwo",
+      "mewtwo_mega_x",
+      "mewtwo_mega_y",
+      "azelf",
+      "throh",
+      "pancham",
+      "pangoro",
+      "buzzwole",
+      "munkidori"
+    ]
+  }
+]

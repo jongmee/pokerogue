@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "esper_wing",
+    "name": "Esper Wing",
+    "koName": "오라윙",
+    "type": "psychic",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 80,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "오라로 강화한 날개로 베어 가른다. 급소에 맞기 쉽다. 자신의 스피드를 올린다.",
+    "effectChance": 100,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "hoothoot",
+      "noctowl",
+      "woobat",
+      "swoobat",
+      "deino",
+      "zweilous",
+      "hydreigon",
+      "hisui_braviary"
+    ]
+  }
+]

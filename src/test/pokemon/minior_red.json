@@ -1,0 +1,111 @@
+[
+  {
+    "_id": "minior_red",
+    "gender": "",
+    "pokedexNumber": "774",
+    "name": "minior_red",
+    "koName": "메테노_red",
+    "speciesName": "minior",
+    "canChangeForm": true,
+    "formName": "red_core form",
+    "baseExp": "154",
+    "friendship": "70",
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "shields_down"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "sturdy",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 500,
+    "hp": 60,
+    "attack": 100,
+    "defense": 60,
+    "specialAttack": 100,
+    "specialDefense": 60,
+    "speed": 120,
+    "height": 0.3,
+    "weight": 0.3,
+    "eggMoveIds": [
+      "earth_power",
+      "floaty_fall",
+      "zing_zap",
+      "diamond_storm"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 3,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": 8,
+        "moveId": "rollout"
+      },
+      {
+        "level": 10,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 15,
+        "moveId": "swift"
+      },
+      {
+        "level": 17,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 22,
+        "moveId": "self_destruct"
+      },
+      {
+        "level": 24,
+        "moveId": "stealth_rock"
+      },
+      {
+        "level": 29,
+        "moveId": "take_down"
+      },
+      {
+        "level": 31,
+        "moveId": "autotomize"
+      },
+      {
+        "level": 36,
+        "moveId": "cosmic_power"
+      },
+      {
+        "level": 38,
+        "moveId": "power_gem"
+      },
+      {
+        "level": 43,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 45,
+        "moveId": "shell_smash"
+      },
+      {
+        "level": 50,
+        "moveId": "explosion"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "space"
+    ]
+  }
+]

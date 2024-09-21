@@ -1,0 +1,189 @@
+[
+  {
+    "_id": "seismitoad",
+    "gender": "",
+    "pokedexNumber": "537",
+    "name": "seismitoad",
+    "koName": "두빅굴",
+    "speciesName": "seismitoad",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "255",
+    "friendship": "50",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "normalAbilityIds": [
+      "swift_swim",
+      "poison_touch"
+    ],
+    "hiddenAbilityId": "water_absorb",
+    "passiveAbilityId": "poison_heal",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 509,
+    "hp": 105,
+    "attack": 95,
+    "defense": 75,
+    "specialAttack": 85,
+    "specialDefense": 75,
+    "speed": 74,
+    "height": 1.5,
+    "weight": 62,
+    "eggMoveIds": [
+      "jet_punch",
+      "high_horsepower",
+      "bulk_up",
+      "surging_strikes"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "drain_punch"
+      },
+      {
+        "level": 1,
+        "moveId": "bubble"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "supersonic"
+      },
+      {
+        "level": 1,
+        "moveId": "acid"
+      },
+      {
+        "level": 1,
+        "moveId": "gastro_acid"
+      },
+      {
+        "level": 1,
+        "moveId": "echoed_voice"
+      },
+      {
+        "level": 12,
+        "moveId": "mud_shot"
+      },
+      {
+        "level": 16,
+        "moveId": "round"
+      },
+      {
+        "level": 20,
+        "moveId": "bubble_beam"
+      },
+      {
+        "level": 24,
+        "moveId": "flail"
+      },
+      {
+        "level": 30,
+        "moveId": "uproar"
+      },
+      {
+        "level": 39,
+        "moveId": "aqua_ring"
+      },
+      {
+        "level": 46,
+        "moveId": "hyper_voice"
+      },
+      {
+        "level": 54,
+        "moveId": "muddy_water"
+      },
+      {
+        "level": 62,
+        "moveId": "rain_dance"
+      },
+      {
+        "level": 70,
+        "moveId": "hydro_pump"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "ice_punch",
+      "mega_kick",
+      "hydro_pump",
+      "surf",
+      "hyper_beam",
+      "low_kick",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "screech",
+      "double_team",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "sludge_bomb",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "rock_smash",
+      "uproar",
+      "hail",
+      "facade",
+      "focus_punch",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "dive",
+      "hyper_voice",
+      "weather_ball",
+      "rock_tomb",
+      "muddy_water",
+      "bounce",
+      "mud_shot",
+      "water_pulse",
+      "payback",
+      "fling",
+      "gastro_acid",
+      "poison_jab",
+      "drain_punch",
+      "focus_blast",
+      "earth_power",
+      "giga_impact",
+      "power_whip",
+      "stealth_rock",
+      "grass_knot",
+      "venoshock",
+      "sludge_wave",
+      "round",
+      "echoed_voice",
+      "scald",
+      "bulldoze",
+      "confide",
+      "venom_drench",
+      "infestation",
+      "power_up_punch",
+      "stomping_tantrum",
+      "liquidation",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "swamp"
+    ]
+  }
+]

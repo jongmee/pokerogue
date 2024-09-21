@@ -1,0 +1,159 @@
+[
+  {
+    "_id": "magby",
+    "gender": "",
+    "pokedexNumber": "240",
+    "name": "magby",
+    "koName": "마그비",
+    "speciesName": "magby",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "73",
+    "friendship": "50",
+    "types": [
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "flame_body"
+    ],
+    "hiddenAbilityId": "vital_spirit",
+    "passiveAbilityId": "contrary",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 365,
+    "hp": 45,
+    "attack": 75,
+    "defense": 37,
+    "specialAttack": 70,
+    "specialDefense": 55,
+    "speed": 83,
+    "height": 0.7,
+    "weight": 21.4,
+    "eggMoveIds": [
+      "thunderclap",
+      "earth_power",
+      "armor_cannon",
+      "fleur_cannon"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "smog"
+      },
+      {
+        "level": 4,
+        "moveId": "ember"
+      },
+      {
+        "level": 8,
+        "moveId": "smokescreen"
+      },
+      {
+        "level": 12,
+        "moveId": "clear_smog"
+      },
+      {
+        "level": 16,
+        "moveId": "flame_wheel"
+      },
+      {
+        "level": 20,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 24,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 28,
+        "moveId": "fire_punch"
+      },
+      {
+        "level": 32,
+        "moveId": "lava_plume"
+      },
+      {
+        "level": 36,
+        "moveId": "low_kick"
+      },
+      {
+        "level": 40,
+        "moveId": "flamethrower"
+      },
+      {
+        "level": 44,
+        "moveId": "sunny_day"
+      },
+      {
+        "level": 48,
+        "moveId": "fire_blast"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "thunder_punch",
+      "mega_kick",
+      "body_slam",
+      "double_edge",
+      "flamethrower",
+      "low_kick",
+      "fire_spin",
+      "toxic",
+      "psychic",
+      "screech",
+      "double_team",
+      "confuse_ray",
+      "focus_energy",
+      "fire_blast",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "sunny_day",
+      "rock_smash",
+      "uproar",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "focus_punch",
+      "helping_hand",
+      "brick_break",
+      "overheat",
+      "covet",
+      "fling",
+      "power_swap",
+      "flare_blitz",
+      "flame_charge",
+      "acid_spray",
+      "round",
+      "incinerate",
+      "confide",
+      "power_up_punch",
+      "tera_blast",
+      "temper_flare"
+    ],
+    "biomeIds": []
+  }
+]

@@ -1,0 +1,199 @@
+[
+  {
+    "_id": "gligar",
+    "gender": "",
+    "pokedexNumber": "207",
+    "name": "gligar",
+    "koName": "글라이거",
+    "speciesName": "gligar",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "86",
+    "friendship": "70",
+    "types": [
+      "ground",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "hyper_cutter",
+      "sand_veil"
+    ],
+    "hiddenAbilityId": "immunity",
+    "passiveAbilityId": "toxic_boost",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 430,
+    "hp": 65,
+    "attack": 75,
+    "defense": 105,
+    "specialAttack": 35,
+    "specialDefense": 65,
+    "speed": 85,
+    "height": 1.1,
+    "weight": 64.8,
+    "eggMoveIds": [
+      "floaty_fall",
+      "thousand_waves",
+      "roost",
+      "mighty_cleave"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "poison_sting"
+      },
+      {
+        "level": 4,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 7,
+        "moveId": "harden"
+      },
+      {
+        "level": 10,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 13,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 16,
+        "moveId": "fury_cutter"
+      },
+      {
+        "level": 19,
+        "moveId": "poison_tail"
+      },
+      {
+        "level": 22,
+        "moveId": "acrobatics"
+      },
+      {
+        "level": 27,
+        "moveId": "slash"
+      },
+      {
+        "level": 30,
+        "moveId": "u_turn"
+      },
+      {
+        "level": 35,
+        "moveId": "screech"
+      },
+      {
+        "level": 40,
+        "moveId": "x_scissor"
+      },
+      {
+        "level": 45,
+        "moveId": "crabhammer"
+      },
+      {
+        "level": 50,
+        "moveId": "swords_dance"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "take_down",
+      "double_edge",
+      "counter",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "agility",
+      "screech",
+      "double_team",
+      "swift",
+      "dream_eater",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "mud_slap",
+      "spikes",
+      "sandstorm",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "iron_tail",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "rock_smash",
+      "torment",
+      "facade",
+      "taunt",
+      "brick_break",
+      "knock_off",
+      "rock_tomb",
+      "sand_tomb",
+      "aerial_ace",
+      "mud_shot",
+      "poison_tail",
+      "roost",
+      "tailwind",
+      "u_turn",
+      "payback",
+      "fling",
+      "toxic_spikes",
+      "rock_polish",
+      "poison_jab",
+      "dark_pulse",
+      "aqua_tail",
+      "x_scissor",
+      "earth_power",
+      "thunder_fang",
+      "ice_fang",
+      "fire_fang",
+      "rock_climb",
+      "defog",
+      "cross_poison",
+      "gunk_shot",
+      "stone_edge",
+      "stealth_rock",
+      "bug_bite",
+      "hone_claws",
+      "venoshock",
+      "round",
+      "acrobatics",
+      "struggle_bug",
+      "bulldoze",
+      "confide",
+      "high_horsepower",
+      "throat_chop",
+      "lunge",
+      "psychic_fangs",
+      "breaking_swipe",
+      "scale_shot",
+      "skitter_smack",
+      "dual_wingbeat",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "badlands"
+    ]
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "_id": "sewaddle",
+    "gender": "",
+    "pokedexNumber": "540",
+    "name": "sewaddle",
+    "koName": "두르보",
+    "speciesName": "sewaddle",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "62",
+    "friendship": "70",
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "swarm",
+      "chlorophyll"
+    ],
+    "hiddenAbilityId": "overcoat",
+    "passiveAbilityId": "sharpness",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 310,
+    "hp": 45,
+    "attack": 53,
+    "defense": 70,
+    "specialAttack": 40,
+    "specialDefense": 60,
+    "speed": 42,
+    "height": 0.3,
+    "weight": 2.5,
+    "eggMoveIds": [
+      "stone_axe",
+      "psycho_cut",
+      "bitter_blade",
+      "victory_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "string_shot"
+      },
+      {
+        "level": 8,
+        "moveId": "bug_bite"
+      },
+      {
+        "level": 15,
+        "moveId": "razor_leaf"
+      },
+      {
+        "level": 22,
+        "moveId": "struggle_bug"
+      },
+      {
+        "level": 29,
+        "moveId": "endure"
+      },
+      {
+        "level": 31,
+        "moveId": "sticky_web"
+      },
+      {
+        "level": 36,
+        "moveId": "bug_buzz"
+      },
+      {
+        "level": 43,
+        "moveId": "flail"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "cut",
+      "take_down",
+      "solar_beam",
+      "toxic",
+      "agility",
+      "screech",
+      "double_team",
+      "light_screen",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "giga_drain",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "baton_pass",
+      "synthesis",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "facade",
+      "nature_power",
+      "signal_beam",
+      "iron_defense",
+      "magical_leaf",
+      "calm_mind",
+      "payback",
+      "worry_seed",
+      "seed_bomb",
+      "air_slash",
+      "bug_buzz",
+      "energy_ball",
+      "grass_knot",
+      "bug_bite",
+      "round",
+      "struggle_bug",
+      "electroweb",
+      "grassy_terrain",
+      "confide",
+      "lunge",
+      "grassy_glide",
+      "skitter_smack",
+      "tera_blast",
+      "pounce",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "forest",
+      "jungle"
+    ]
+  }
+]

@@ -1,0 +1,195 @@
+[
+  {
+    "_id": "hisui_arcanine",
+    "gender": "",
+    "pokedexNumber": "6059",
+    "name": "hisui_arcanine",
+    "koName": "윈디",
+    "speciesName": "hisui_arcanine",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "194",
+    "friendship": "50",
+    "types": [
+      "fire",
+      "rock"
+    ],
+    "normalAbilityIds": [
+      "intimidate",
+      "flash_fire"
+    ],
+    "hiddenAbilityId": "rock_head",
+    "passiveAbilityId": "reckless",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 555,
+    "hp": 95,
+    "attack": 115,
+    "defense": 80,
+    "specialAttack": 95,
+    "specialDefense": 80,
+    "speed": 90,
+    "height": 2,
+    "weight": 168,
+    "eggMoveIds": [
+      "wood_hammer",
+      "head_smash",
+      "morning_sun",
+      "dragon_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "extreme_speed"
+      },
+      {
+        "level": 1,
+        "moveId": "take_down"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "bite"
+      },
+      {
+        "level": 1,
+        "moveId": "roar"
+      },
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 1,
+        "moveId": "rock_throw"
+      },
+      {
+        "level": 1,
+        "moveId": "agility"
+      },
+      {
+        "level": 1,
+        "moveId": "rock_slide"
+      },
+      {
+        "level": 1,
+        "moveId": "flame_wheel"
+      },
+      {
+        "level": 1,
+        "moveId": "reversal"
+      },
+      {
+        "level": 1,
+        "moveId": "crunch"
+      },
+      {
+        "level": 1,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 1,
+        "moveId": "howl"
+      },
+      {
+        "level": 1,
+        "moveId": "flare_blitz"
+      },
+      {
+        "level": 1,
+        "moveId": "fire_fang"
+      },
+      {
+        "level": 1,
+        "moveId": "retaliate"
+      },
+      {
+        "level": 5,
+        "moveId": "flamethrower"
+      },
+      {
+        "level": 64,
+        "moveId": "raging_fury"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "hyper_beam",
+      "strength",
+      "solar_beam",
+      "fire_spin",
+      "dig",
+      "agility",
+      "double_team",
+      "fire_blast",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "reversal",
+      "protect",
+      "scary_face",
+      "outrage",
+      "sandstorm",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "sunny_day",
+      "crunch",
+      "rock_smash",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "helping_hand",
+      "hyper_voice",
+      "overheat",
+      "rock_tomb",
+      "aerial_ace",
+      "covet",
+      "rock_blast",
+      "close_combat",
+      "flare_blitz",
+      "dragon_pulse",
+      "power_gem",
+      "giga_impact",
+      "thunder_fang",
+      "fire_fang",
+      "rock_climb",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "smack_down",
+      "flame_charge",
+      "incinerate",
+      "retaliate",
+      "bulldoze",
+      "wild_charge",
+      "heat_crash",
+      "snarl",
+      "smart_strike",
+      "psychic_fangs",
+      "scorching_sands",
+      "tera_blast",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "volcano"
+    ]
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "_id": "masquerain",
+    "gender": "",
+    "pokedexNumber": "284",
+    "name": "masquerain",
+    "koName": "비나방",
+    "speciesName": "masquerain",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "159",
+    "friendship": "70",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "intimidate"
+    ],
+    "hiddenAbilityId": "unnerve",
+    "passiveAbilityId": "water_bubble",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 454,
+    "hp": 70,
+    "attack": 60,
+    "defense": 62,
+    "specialAttack": 100,
+    "specialDefense": 82,
+    "speed": 80,
+    "height": 0.8,
+    "weight": 3.6,
+    "eggMoveIds": [
+      "pollen_puff",
+      "fiery_dance",
+      "bouncy_bubble",
+      "aeroblast"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "whirlwind"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 1,
+        "moveId": "soak"
+      },
+      {
+        "level": 1,
+        "moveId": "ominous_wind"
+      },
+      {
+        "level": 17,
+        "moveId": "gust"
+      },
+      {
+        "level": 22,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 22,
+        "moveId": "air_cutter"
+      },
+      {
+        "level": 26,
+        "moveId": "stun_spore"
+      },
+      {
+        "level": 32,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 38,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 44,
+        "moveId": "bug_buzz"
+      },
+      {
+        "level": 52,
+        "moveId": "quiver_dance"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "psybeam",
+      "hyper_beam",
+      "solar_beam",
+      "toxic",
+      "agility",
+      "double_team",
+      "haze",
+      "waterfall",
+      "swift",
+      "leech_life",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "icy_wind",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "facade",
+      "helping_hand",
+      "weather_ball",
+      "air_cutter",
+      "signal_beam",
+      "aerial_ace",
+      "mud_shot",
+      "water_pulse",
+      "roost",
+      "tailwind",
+      "u_turn",
+      "air_slash",
+      "bug_buzz",
+      "energy_ball",
+      "giga_impact",
+      "defog",
+      "bug_bite",
+      "foul_play",
+      "round",
+      "scald",
+      "acrobatics",
+      "struggle_bug",
+      "hurricane",
+      "confide",
+      "infestation",
+      "lunge",
+      "liquidation",
+      "skitter_smack",
+      "dual_wingbeat",
+      "tera_blast",
+      "pounce",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "lake"
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "parabolic_charge",
+    "name": "Parabolic Charge",
+    "koName": "파라볼라차지",
+    "type": "electric",
+    "moveCategory": "special",
+    "moveTarget": "all_near_others",
+    "power": 65,
+    "accuracy": 100,
+    "powerPoint": 20,
+    "effect": "주위에 있는 모든 포켓몬에게 데미지를 준다. 준 데미지의 절반을 자신이 회복한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 6,
+    "realased": "",
+    "flags": [
+      "triage_move"
+    ],
+    "pokemonIds": [
+      "magnemite",
+      "magneton",
+      "mareep",
+      "flaaffy",
+      "ampharos",
+      "ampharos_mega",
+      "raikou",
+      "magnezone",
+      "joltik",
+      "galvantula",
+      "helioptile",
+      "heliolisk",
+      "dedenne",
+      "tadbulb",
+      "bellibolt"
+    ]
+  }
+]

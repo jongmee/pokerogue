@@ -1,0 +1,188 @@
+[
+  {
+    "_id": "torkoal",
+    "gender": "",
+    "pokedexNumber": "324",
+    "name": "torkoal",
+    "koName": "코터스",
+    "speciesName": "torkoal",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "165",
+    "friendship": "50",
+    "types": [
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "white_smoke",
+      "drought"
+    ],
+    "hiddenAbilityId": "shell_armor",
+    "passiveAbilityId": "analytic",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 470,
+    "hp": 70,
+    "attack": 85,
+    "defense": 140,
+    "specialAttack": 85,
+    "specialDefense": 70,
+    "speed": 20,
+    "height": 0.5,
+    "weight": 80.4,
+    "eggMoveIds": [
+      "morning_sun",
+      "burning_bulwark",
+      "body_press",
+      "hydro_steam"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "smog"
+      },
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 4,
+        "moveId": "withdraw"
+      },
+      {
+        "level": 8,
+        "moveId": "rapid_spin"
+      },
+      {
+        "level": 12,
+        "moveId": "smokescreen"
+      },
+      {
+        "level": 16,
+        "moveId": "clear_smog"
+      },
+      {
+        "level": 20,
+        "moveId": "flame_wheel"
+      },
+      {
+        "level": 24,
+        "moveId": "protect"
+      },
+      {
+        "level": 28,
+        "moveId": "lava_plume"
+      },
+      {
+        "level": 32,
+        "moveId": "body_slam"
+      },
+      {
+        "level": 36,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 40,
+        "moveId": "flamethrower"
+      },
+      {
+        "level": 44,
+        "moveId": "curse"
+      },
+      {
+        "level": 48,
+        "moveId": "heat_wave"
+      },
+      {
+        "level": 52,
+        "moveId": "amnesia"
+      },
+      {
+        "level": 56,
+        "moveId": "inferno"
+      },
+      {
+        "level": 60,
+        "moveId": "shell_smash"
+      },
+      {
+        "level": 64,
+        "moveId": "eruption"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "flamethrower",
+      "hyper_beam",
+      "strength",
+      "solar_beam",
+      "fire_spin",
+      "earthquake",
+      "toxic",
+      "double_team",
+      "self_destruct",
+      "fire_blast",
+      "amnesia",
+      "explosion",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "sludge_bomb",
+      "mud_slap",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "sunny_day",
+      "rock_smash",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "nature_power",
+      "helping_hand",
+      "superpower",
+      "weather_ball",
+      "overheat",
+      "rock_tomb",
+      "iron_defense",
+      "gyro_ball",
+      "flare_blitz",
+      "earth_power",
+      "giga_impact",
+      "zen_headbutt",
+      "stone_edge",
+      "stealth_rock",
+      "heavy_slam",
+      "flame_charge",
+      "round",
+      "incinerate",
+      "bulldoze",
+      "heat_crash",
+      "confide",
+      "stomping_tantrum",
+      "body_press",
+      "burning_jealousy",
+      "scorching_sands",
+      "tera_blast",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "volcano"
+    ]
+  }
+]

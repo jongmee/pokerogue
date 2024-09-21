@@ -1,0 +1,191 @@
+[
+  {
+    "_id": "accelgor",
+    "gender": "",
+    "pokedexNumber": "617",
+    "name": "accelgor",
+    "koName": "어지리더",
+    "speciesName": "accelgor",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "173",
+    "friendship": "50",
+    "types": [
+      "bug"
+    ],
+    "normalAbilityIds": [
+      "hydration",
+      "sticky_hold"
+    ],
+    "hiddenAbilityId": "unburden",
+    "passiveAbilityId": "protean",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 495,
+    "hp": 80,
+    "attack": 70,
+    "defense": 40,
+    "specialAttack": 100,
+    "specialDefense": 60,
+    "speed": 145,
+    "height": 0.8,
+    "weight": 25.3,
+    "eggMoveIds": [
+      "power_gem",
+      "nasty_plot",
+      "earth_power",
+      "steam_eruption"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "body_slam"
+      },
+      {
+        "level": 1,
+        "moveId": "acid"
+      },
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "double_team"
+      },
+      {
+        "level": 1,
+        "moveId": "acid_armor"
+      },
+      {
+        "level": 1,
+        "moveId": "curse"
+      },
+      {
+        "level": 1,
+        "moveId": "yawn"
+      },
+      {
+        "level": 1,
+        "moveId": "guard_swap"
+      },
+      {
+        "level": 1,
+        "moveId": "acid_spray"
+      },
+      {
+        "level": 1,
+        "moveId": "water_shuriken"
+      },
+      {
+        "level": 12,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 16,
+        "moveId": "struggle_bug"
+      },
+      {
+        "level": 20,
+        "moveId": "swift"
+      },
+      {
+        "level": 24,
+        "moveId": "agility"
+      },
+      {
+        "level": 28,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 32,
+        "moveId": "power_swap"
+      },
+      {
+        "level": 36,
+        "moveId": "u_turn"
+      },
+      {
+        "level": 40,
+        "moveId": "recover"
+      },
+      {
+        "level": 44,
+        "moveId": "bug_buzz"
+      },
+      {
+        "level": 48,
+        "moveId": "final_gambit"
+      },
+      {
+        "level": 52,
+        "moveId": "toxic"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "hyper_beam",
+      "counter",
+      "toxic",
+      "agility",
+      "double_team",
+      "swift",
+      "leech_life",
+      "rest",
+      "substitute",
+      "snore",
+      "reversal",
+      "protect",
+      "sludge_bomb",
+      "spikes",
+      "sandstorm",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "facade",
+      "knock_off",
+      "signal_beam",
+      "mud_shot",
+      "u_turn",
+      "gastro_acid",
+      "power_swap",
+      "guard_swap",
+      "toxic_spikes",
+      "bug_buzz",
+      "drain_punch",
+      "focus_blast",
+      "energy_ball",
+      "giga_impact",
+      "bug_bite",
+      "venoshock",
+      "acid_spray",
+      "round",
+      "struggle_bug",
+      "confide",
+      "venom_drench",
+      "infestation",
+      "skitter_smack",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "forest"
+    ]
+  }
+]

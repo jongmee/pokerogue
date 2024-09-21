@@ -1,0 +1,188 @@
+[
+  {
+    "_id": "houndour",
+    "gender": "",
+    "pokedexNumber": "228",
+    "name": "houndour",
+    "koName": "델빌",
+    "speciesName": "houndour",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "66",
+    "friendship": "35",
+    "types": [
+      "dark",
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "early_bird",
+      "flash_fire"
+    ],
+    "hiddenAbilityId": "unnerve",
+    "passiveAbilityId": "drought",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 330,
+    "hp": 45,
+    "attack": 60,
+    "defense": 30,
+    "specialAttack": 80,
+    "specialDefense": 50,
+    "speed": 65,
+    "height": 0.6,
+    "weight": 10.8,
+    "eggMoveIds": [
+      "heat_wave",
+      "fiery_wrath",
+      "solar_beam",
+      "hydro_steam"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 4,
+        "moveId": "howl"
+      },
+      {
+        "level": 8,
+        "moveId": "smog"
+      },
+      {
+        "level": 13,
+        "moveId": "roar"
+      },
+      {
+        "level": 16,
+        "moveId": "bite"
+      },
+      {
+        "level": 20,
+        "moveId": "incinerate"
+      },
+      {
+        "level": 25,
+        "moveId": "beat_up"
+      },
+      {
+        "level": 28,
+        "moveId": "fire_fang"
+      },
+      {
+        "level": 32,
+        "moveId": "torment"
+      },
+      {
+        "level": 37,
+        "moveId": "comeuppance"
+      },
+      {
+        "level": 40,
+        "moveId": "foul_play"
+      },
+      {
+        "level": 44,
+        "moveId": "flamethrower"
+      },
+      {
+        "level": 49,
+        "moveId": "crunch"
+      },
+      {
+        "level": 52,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 56,
+        "moveId": "inferno"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "counter",
+      "solar_beam",
+      "fire_spin",
+      "toxic",
+      "double_team",
+      "fire_blast",
+      "swift",
+      "dream_eater",
+      "rest",
+      "super_fang",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "reversal",
+      "spite",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "mud_slap",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "shadow_ball",
+      "rock_smash",
+      "beat_up",
+      "uproar",
+      "heat_wave",
+      "torment",
+      "will_o_wisp",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "hyper_voice",
+      "overheat",
+      "mud_shot",
+      "payback",
+      "embargo",
+      "flare_blitz",
+      "dark_pulse",
+      "nasty_plot",
+      "thunder_fang",
+      "fire_fang",
+      "flame_charge",
+      "foul_play",
+      "round",
+      "incinerate",
+      "retaliate",
+      "snarl",
+      "confide",
+      "psychic_fangs",
+      "burning_jealousy",
+      "lash_out",
+      "tera_blast",
+      "trailblaze",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "metropolis",
+      "abyss"
+    ]
+  }
+]

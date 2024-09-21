@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "cute_charm",
+    "name": "Cute Charm",
+    "koName": "헤롱헤롱바디",
+    "realased": "",
+    "description": "자신과 접촉한 상대를 헤롱헤롱 상태로 만들 때가 있다.",
+    "generation": 3,
+    "pokemonIds": [
+      "clefairy",
+      "clefable",
+      "jigglypuff",
+      "wigglytuff",
+      "cleffa",
+      "igglybuff",
+      "skitty",
+      "delcatty",
+      "milotic",
+      "lopunny",
+      "minccino",
+      "cinccino",
+      "sylveon",
+      "stufful",
+      "enamorus_incarnate"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

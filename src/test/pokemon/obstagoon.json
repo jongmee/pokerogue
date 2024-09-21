@@ -1,0 +1,212 @@
+[
+  {
+    "_id": "obstagoon",
+    "gender": "",
+    "pokedexNumber": "862",
+    "name": "obstagoon",
+    "koName": "가로막구리",
+    "speciesName": "obstagoon",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "260",
+    "friendship": "50",
+    "types": [
+      "dark",
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "reckless",
+      "guts"
+    ],
+    "hiddenAbilityId": "defiant",
+    "passiveAbilityId": "poison_heal",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 520,
+    "hp": 93,
+    "attack": 90,
+    "defense": 101,
+    "specialAttack": 60,
+    "specialDefense": 81,
+    "speed": 95,
+    "height": 1.6,
+    "weight": 46,
+    "eggMoveIds": [
+      "ceaseless_edge",
+      "facade",
+      "parting_shot",
+      "extreme_speed"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "obstruct"
+      },
+      {
+        "level": 1,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "pin_missile"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "submission"
+      },
+      {
+        "level": 1,
+        "moveId": "lick"
+      },
+      {
+        "level": 1,
+        "moveId": "cross_chop"
+      },
+      {
+        "level": 1,
+        "moveId": "night_slash"
+      },
+      {
+        "level": 1,
+        "moveId": "switcheroo"
+      },
+      {
+        "level": 1,
+        "moveId": "baby_doll_eyes"
+      },
+      {
+        "level": 9,
+        "moveId": "snarl"
+      },
+      {
+        "level": 12,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 15,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 18,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 23,
+        "moveId": "rest"
+      },
+      {
+        "level": 28,
+        "moveId": "take_down"
+      },
+      {
+        "level": 35,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 42,
+        "moveId": "counter"
+      },
+      {
+        "level": 49,
+        "moveId": "taunt"
+      },
+      {
+        "level": 56,
+        "moveId": "double_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "cut",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "pin_missile",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "low_kick",
+      "strength",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "dig",
+      "screech",
+      "double_team",
+      "focus_energy",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "reversal",
+      "protect",
+      "scary_face",
+      "icy_wind",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "shadow_ball",
+      "rock_smash",
+      "whirlpool",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "trick",
+      "revenge",
+      "brick_break",
+      "hyper_voice",
+      "fake_tears",
+      "iron_defense",
+      "bulk_up",
+      "mud_shot",
+      "close_combat",
+      "payback",
+      "assurance",
+      "fling",
+      "seed_bomb",
+      "x_scissor",
+      "giga_impact",
+      "shadow_claw",
+      "rock_climb",
+      "cross_poison",
+      "gunk_shot",
+      "grass_knot",
+      "hone_claws",
+      "round",
+      "retaliate",
+      "work_up",
+      "snarl",
+      "throat_chop",
+      "stomping_tantrum",
+      "body_press",
+      "lash_out"
+    ],
+    "biomeIds": [
+      "slum"
+    ]
+  }
+]

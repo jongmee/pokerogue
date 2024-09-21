@@ -1,0 +1,31 @@
+[
+  {
+    "_id": "jaw_lock",
+    "name": "Jaw Lock",
+    "koName": "물고버티기",
+    "type": "dark",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 80,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "어느 한쪽이 기절할 때까지 교체할 수 없게 된다. 한쪽의 포켓몬이 없어지면 효과가 사라진다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [
+      "makes_contact",
+      "biting_move"
+    ],
+    "pokemonIds": [
+      "poochyena",
+      "mightyena",
+      "chewtle",
+      "drednaw",
+      "maschiff",
+      "mabosstiff",
+      "roaring_moon"
+    ]
+  }
+]

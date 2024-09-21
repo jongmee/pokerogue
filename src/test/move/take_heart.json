@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "take_heart",
+    "name": "Take Heart",
+    "koName": "브레이브차지",
+    "type": "psychic",
+    "moveCategory": "status",
+    "moveTarget": "user",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 10,
+    "effect": "기운을 고조시켜서 자신의 상태 이상을 회복하고 특수공격과 특수방어를 올린다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [
+      "ignore_protect"
+    ],
+    "pokemonIds": [
+      "misdreavus",
+      "remoraid",
+      "octillery",
+      "wailmer",
+      "wailord",
+      "regice",
+      "mismagius",
+      "dialga",
+      "palkia",
+      "phione",
+      "manaphy",
+      "reshiram",
+      "comfey",
+      "sandygast",
+      "palossand",
+      "sinistea",
+      "polteageist",
+      "regidrago",
+      "enamorus_incarnate",
+      "enamorus_therian",
+      "pecharunt"
+    ]
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "_id": "gengar",
+    "gender": "",
+    "pokedexNumber": "94",
+    "name": "gengar",
+    "koName": "팬텀",
+    "speciesName": "gengar",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "250",
+    "friendship": "50",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "normalAbilityIds": [
+      "cursed_body"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "shadow_shield",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 500,
+    "hp": 60,
+    "attack": 65,
+    "defense": 60,
+    "specialAttack": 130,
+    "specialDefense": 75,
+    "speed": 110,
+    "height": 1.5,
+    "weight": 40.5,
+    "eggMoveIds": [
+      "sludge_bomb",
+      "aura_sphere",
+      "nasty_plot",
+      "astral_barrage"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "hypnosis"
+      },
+      {
+        "level": 1,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 1,
+        "moveId": "lick"
+      },
+      {
+        "level": 1,
+        "moveId": "perish_song"
+      },
+      {
+        "level": 1,
+        "moveId": "mean_look"
+      },
+      {
+        "level": 1,
+        "moveId": "shadow_punch"
+      },
+      {
+        "level": 1,
+        "moveId": "reflect_type"
+      },
+      {
+        "level": 12,
+        "moveId": "payback"
+      },
+      {
+        "level": 16,
+        "moveId": "spite"
+      },
+      {
+        "level": 20,
+        "moveId": "curse"
+      },
+      {
+        "level": 24,
+        "moveId": "hex"
+      },
+      {
+        "level": 30,
+        "moveId": "night_shade"
+      },
+      {
+        "level": 36,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 42,
+        "moveId": "dark_pulse"
+      },
+      {
+        "level": 48,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 54,
+        "moveId": "destiny_bond"
+      },
+      {
+        "level": 60,
+        "moveId": "dream_eater"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "counter",
+      "strength",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "psychic",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "haze",
+      "metronome",
+      "self_destruct",
+      "dream_eater",
+      "explosion",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "icy_wind",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "rock_smash",
+      "uproar",
+      "torment",
+      "will_o_wisp",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "trick",
+      "brick_break",
+      "knock_off",
+      "skill_swap",
+      "imprison",
+      "payback",
+      "embargo",
+      "fling",
+      "toxic_spikes",
+      "poison_jab",
+      "dark_pulse",
+      "drain_punch",
+      "focus_blast",
+      "energy_ball",
+      "giga_impact",
+      "nasty_plot",
+      "shadow_claw",
+      "trick_room",
+      "gunk_shot",
+      "wonder_room",
+      "venoshock",
+      "sludge_wave",
+      "acid_spray",
+      "foul_play",
+      "round",
+      "ally_switch",
+      "hex",
+      "phantom_force",
+      "confide",
+      "dazzling_gleam",
+      "infestation",
+      "power_up_punch",
+      "skitter_smack",
+      "poltergeist",
+      "corrosive_gas",
+      "tera_blast",
+      "psychic_noise"
+    ],
+    "biomeIds": [
+      "graveyard"
+    ]
+  }
+]

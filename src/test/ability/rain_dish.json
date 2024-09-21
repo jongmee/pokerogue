@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "rain_dish",
+    "name": "Rain Dish",
+    "koName": "젖은접시",
+    "realased": " (P)",
+    "description": "비가 오는 날씨일 때 조금씩 HP를 회복한다.",
+    "generation": 3,
+    "pokemonIds": [
+      "squirtle",
+      "wartortle",
+      "blastoise",
+      "tentacool",
+      "tentacruel",
+      "lotad",
+      "lombre",
+      "ludicolo",
+      "wingull",
+      "pelipper",
+      "surskit",
+      "morelull",
+      "shiinotic"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

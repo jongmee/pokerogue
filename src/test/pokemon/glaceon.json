@@ -1,0 +1,215 @@
+[
+  {
+    "_id": "glaceon",
+    "gender": "",
+    "pokedexNumber": "471",
+    "name": "glaceon",
+    "koName": "글레이시아",
+    "speciesName": "glaceon",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "184",
+    "friendship": "35",
+    "types": [
+      "ice"
+    ],
+    "normalAbilityIds": [
+      "snow_cloak"
+    ],
+    "hiddenAbilityId": "ice_body",
+    "passiveAbilityId": "pickup",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 525,
+    "hp": 65,
+    "attack": 60,
+    "defense": 110,
+    "specialAttack": 130,
+    "specialDefense": 95,
+    "speed": 65,
+    "height": 0.8,
+    "weight": 25.9,
+    "eggMoveIds": [
+      "wish",
+      "no_retreat",
+      "zippy_zap",
+      "boomburst"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "freezy_frost"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "take_down"
+      },
+      {
+        "level": 1,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "swift"
+      },
+      {
+        "level": 1,
+        "moveId": "charm"
+      },
+      {
+        "level": 1,
+        "moveId": "baton_pass"
+      },
+      {
+        "level": 1,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 1,
+        "moveId": "covet"
+      },
+      {
+        "level": 1,
+        "moveId": "copycat"
+      },
+      {
+        "level": 5,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 10,
+        "moveId": "icy_wind"
+      },
+      {
+        "level": 15,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 20,
+        "moveId": "baby_doll_eyes"
+      },
+      {
+        "level": 25,
+        "moveId": "ice_shard"
+      },
+      {
+        "level": 30,
+        "moveId": "bite"
+      },
+      {
+        "level": 35,
+        "moveId": "ice_fang"
+      },
+      {
+        "level": 40,
+        "moveId": "snowscape"
+      },
+      {
+        "level": 45,
+        "moveId": "freeze_dry"
+      },
+      {
+        "level": 50,
+        "moveId": "mirror_coat"
+      },
+      {
+        "level": 55,
+        "moveId": "blizzard"
+      },
+      {
+        "level": 60,
+        "moveId": "last_resort"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "pay_day",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "strength",
+      "dig",
+      "toxic",
+      "double_team",
+      "haze",
+      "focus_energy",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "baton_pass",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "shadow_ball",
+      "rock_smash",
+      "hail",
+      "facade",
+      "helping_hand",
+      "hyper_voice",
+      "weather_ball",
+      "fake_tears",
+      "signal_beam",
+      "icicle_spear",
+      "mud_shot",
+      "covet",
+      "calm_mind",
+      "water_pulse",
+      "gravity",
+      "aqua_tail",
+      "giga_impact",
+      "avalanche",
+      "ice_fang",
+      "round",
+      "echoed_voice",
+      "stored_power",
+      "retaliate",
+      "frost_breath",
+      "work_up",
+      "confide",
+      "aurora_veil",
+      "triple_axel",
+      "tera_blast",
+      "snowscape",
+      "trailblaze",
+      "chilling_water",
+      "alluring_voice"
+    ],
+    "biomeIds": [
+      "ice_cave"
+    ]
+  }
+]

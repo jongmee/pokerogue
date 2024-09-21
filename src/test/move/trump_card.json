@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "trump_card",
+    "name": "Trump Card",
+    "koName": "마지막수단",
+    "type": "normal",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 5,
+    "effect": "마지막수단의 남은 PP가 적으면 적을수록 기술의 위력이 올라간다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 4,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": []
+  }
+]

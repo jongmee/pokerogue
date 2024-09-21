@@ -1,0 +1,36 @@
+[
+  {
+    "_id": "reckless",
+    "name": "Reckless",
+    "koName": "이판사판",
+    "realased": "",
+    "description": "반동 데미지를 받는 기술의 위력이 올라간다.",
+    "generation": 4,
+    "pokemonIds": [
+      "hitmonlee",
+      "rhyhorn",
+      "rhydon",
+      "torchic",
+      "combusken",
+      "blaziken",
+      "blaziken_mega",
+      "starly",
+      "staravia",
+      "staraptor",
+      "rhyperior",
+      "emboar",
+      "blitzle",
+      "zebstrika",
+      "mienfoo",
+      "mienshao",
+      "bouffalant",
+      "tyrunt",
+      "tyrantrum",
+      "obstagoon",
+      "hisui_growlithe",
+      "hisui_arcanine"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

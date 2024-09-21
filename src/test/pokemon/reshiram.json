@@ -1,0 +1,189 @@
+[
+  {
+    "_id": "reshiram",
+    "gender": "",
+    "pokedexNumber": "643",
+    "name": "reshiram",
+    "koName": "레시라무",
+    "speciesName": "reshiram",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "340",
+    "friendship": "0",
+    "types": [
+      "dragon",
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "turboblaze"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "orichalcum_pulse",
+    "generation": 5,
+    "legendary": true,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 680,
+    "hp": 100,
+    "attack": 120,
+    "defense": 100,
+    "specialAttack": 150,
+    "specialDefense": 120,
+    "speed": 90,
+    "height": 3.2,
+    "weight": 330,
+    "eggMoveIds": [
+      "morning_sun",
+      "take_heart",
+      "fickle_beam",
+      "eruption"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "dragon_breath"
+      },
+      {
+        "level": 1,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 1,
+        "moveId": "fire_fang"
+      },
+      {
+        "level": 1,
+        "moveId": "noble_roar"
+      },
+      {
+        "level": 8,
+        "moveId": "slash"
+      },
+      {
+        "level": 16,
+        "moveId": "crunch"
+      },
+      {
+        "level": 24,
+        "moveId": "extrasensory"
+      },
+      {
+        "level": 32,
+        "moveId": "dragon_pulse"
+      },
+      {
+        "level": 40,
+        "moveId": "flamethrower"
+      },
+      {
+        "level": 48,
+        "moveId": "fusion_flare"
+      },
+      {
+        "level": 56,
+        "moveId": "hyper_voice"
+      },
+      {
+        "level": 64,
+        "moveId": "fire_blast"
+      },
+      {
+        "level": 72,
+        "moveId": "imprison"
+      },
+      {
+        "level": 80,
+        "moveId": "outrage"
+      },
+      {
+        "level": 88,
+        "moveId": "blue_flare"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "cut",
+      "fly",
+      "body_slam",
+      "double_edge",
+      "flamethrower",
+      "hyper_beam",
+      "strength",
+      "solar_beam",
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "fire_blast",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "outrage",
+      "endure",
+      "swagger",
+      "steel_wing",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "shadow_ball",
+      "rock_smash",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "helping_hand",
+      "imprison",
+      "hyper_voice",
+      "weather_ball",
+      "overheat",
+      "rock_tomb",
+      "dragon_claw",
+      "dragon_dance",
+      "roost",
+      "tailwind",
+      "payback",
+      "fling",
+      "flare_blitz",
+      "dragon_pulse",
+      "focus_blast",
+      "earth_power",
+      "giga_impact",
+      "shadow_claw",
+      "fire_fang",
+      "zen_headbutt",
+      "defog",
+      "draco_meteor",
+      "stone_edge",
+      "hone_claws",
+      "flame_charge",
+      "round",
+      "echoed_voice",
+      "incinerate",
+      "dragon_tail",
+      "heat_crash",
+      "confide",
+      "mystical_fire",
+      "brutal_swing",
+      "body_press",
+      "breaking_swipe",
+      "scale_shot",
+      "dual_wingbeat",
+      "scorching_sands",
+      "tera_blast",
+      "dragon_cheer"
+    ],
+    "biomeIds": [
+      "volcano"
+    ]
+  }
+]

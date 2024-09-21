@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "stance_change",
+    "name": "Stance Change",
+    "koName": "배틀스위치",
+    "realased": "",
+    "description": "공격 기술을 쓰면 블레이드폼으로 기술 킹실드를 쓰면 실드폼으로 변한다.",
+    "generation": 6,
+    "pokemonIds": [
+      "aegislash",
+      "aegislash_blade"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

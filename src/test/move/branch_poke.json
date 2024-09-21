@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "branch_poke",
+    "name": "Branch Poke",
+    "koName": "가지찌르기",
+    "type": "grass",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 40,
+    "accuracy": 100,
+    "powerPoint": 40,
+    "effect": "날카롭고 뾰족한 가지로 상대를 찔러서 공격한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "phantump",
+      "trevenant",
+      "grookey",
+      "thwackey",
+      "rillaboom"
+    ]
+  }
+]

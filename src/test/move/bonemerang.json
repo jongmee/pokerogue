@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "bonemerang",
+    "name": "Bonemerang",
+    "koName": "뼈다귀부메랑",
+    "type": "ground",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 50,
+    "accuracy": 90,
+    "powerPoint": 10,
+    "effect": "손에 들고 있는 뼈를 상대에게 날려서 날아갈 때와 돌아올 때 2회 연속 데미지를 준다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 1,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "cubone",
+      "marowak",
+      "kricketot",
+      "kricketune",
+      "alola_marowak"
+    ]
+  }
+]

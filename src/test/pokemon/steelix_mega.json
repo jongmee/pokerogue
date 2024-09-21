@@ -1,0 +1,151 @@
+[
+  {
+    "_id": "steelix_mega",
+    "gender": "",
+    "pokedexNumber": "208",
+    "name": "steelix_mega",
+    "koName": "강철톤_mega",
+    "speciesName": "steelix",
+    "canChangeForm": true,
+    "formName": "mega",
+    "baseExp": "179",
+    "friendship": "50",
+    "types": [
+      "steel",
+      "ground"
+    ],
+    "normalAbilityIds": [
+      "sand_force"
+    ],
+    "hiddenAbilityId": "sand_force",
+    "passiveAbilityId": "rocky_payload",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 610,
+    "hp": 75,
+    "attack": 125,
+    "defense": 230,
+    "specialAttack": 55,
+    "specialDefense": 95,
+    "speed": 30,
+    "height": 10.5,
+    "weight": 740,
+    "eggMoveIds": [
+      "shore_up",
+      "body_press",
+      "heavy_slam",
+      "diamond_storm"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "bind"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "rock_throw"
+      },
+      {
+        "level": 1,
+        "moveId": "harden"
+      },
+      {
+        "level": 1,
+        "moveId": "mud_sport"
+      },
+      {
+        "level": 1,
+        "moveId": "crunch"
+      },
+      {
+        "level": 1,
+        "moveId": "rock_polish"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_fang"
+      },
+      {
+        "level": 1,
+        "moveId": "ice_fang"
+      },
+      {
+        "level": 1,
+        "moveId": "fire_fang"
+      },
+      {
+        "level": 4,
+        "moveId": "smack_down"
+      },
+      {
+        "level": 8,
+        "moveId": "autotomize"
+      },
+      {
+        "level": 12,
+        "moveId": "dragon_breath"
+      },
+      {
+        "level": 16,
+        "moveId": "curse"
+      },
+      {
+        "level": 20,
+        "moveId": "rock_slide"
+      },
+      {
+        "level": 24,
+        "moveId": "screech"
+      },
+      {
+        "level": 28,
+        "moveId": "sand_tomb"
+      },
+      {
+        "level": 32,
+        "moveId": "stealth_rock"
+      },
+      {
+        "level": 36,
+        "moveId": "slam"
+      },
+      {
+        "level": 40,
+        "moveId": "sandstorm"
+      },
+      {
+        "level": 44,
+        "moveId": "dig"
+      },
+      {
+        "level": 48,
+        "moveId": "iron_tail"
+      },
+      {
+        "level": 52,
+        "moveId": "stone_edge"
+      },
+      {
+        "level": 56,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 60,
+        "moveId": "magnet_rise"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "badlands"
+    ]
+  }
+]

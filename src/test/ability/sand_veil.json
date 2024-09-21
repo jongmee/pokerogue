@@ -1,0 +1,43 @@
+[
+  {
+    "_id": "sand_veil",
+    "name": "Sand Veil",
+    "koName": "모래숨기",
+    "realased": "",
+    "description": "모래바람일 때 회피율이 올라간다.",
+    "generation": 3,
+    "pokemonIds": [
+      "sandshrew",
+      "sandslash",
+      "diglett",
+      "dugtrio",
+      "geodude",
+      "graveler",
+      "golem",
+      "gligar",
+      "phanpy",
+      "donphan",
+      "larvitar",
+      "cacnea",
+      "cacturne",
+      "gible",
+      "gabite",
+      "garchomp",
+      "gliscor",
+      "stunfisk",
+      "helioptile",
+      "heliolisk",
+      "sandygast",
+      "palossand",
+      "silicobra",
+      "sandaconda",
+      "wiglett",
+      "wugtrio",
+      "orthworm",
+      "alola_diglett",
+      "alola_dugtrio"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

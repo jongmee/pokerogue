@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "spin_out",
+    "name": "Spin Out",
+    "koName": "휠스핀",
+    "type": "steel",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 100,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "발에 부하를 걸어 격렬하게 회전하며 데미지를 준다. 자신의 스피드가 크게 떨어진다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 9,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "inkay",
+      "malamar",
+      "varoom",
+      "revavroom"
+    ]
+  }
+]

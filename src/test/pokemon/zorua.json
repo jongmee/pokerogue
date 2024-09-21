@@ -1,0 +1,176 @@
+[
+  {
+    "_id": "zorua",
+    "gender": "",
+    "pokedexNumber": "570",
+    "name": "zorua",
+    "koName": "조로아",
+    "speciesName": "zorua",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "66",
+    "friendship": "50",
+    "types": [
+      "dark"
+    ],
+    "normalAbilityIds": [
+      "illusion"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "dark_aura",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 330,
+    "hp": 40,
+    "attack": 65,
+    "defense": 40,
+    "specialAttack": 80,
+    "specialDefense": 40,
+    "speed": 65,
+    "height": 0.7,
+    "weight": 12.5,
+    "eggMoveIds": [
+      "flamethrower",
+      "moonblast",
+      "aura_sphere",
+      "fiery_wrath"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 4,
+        "moveId": "torment"
+      },
+      {
+        "level": 8,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 12,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 16,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 20,
+        "moveId": "taunt"
+      },
+      {
+        "level": 24,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 28,
+        "moveId": "fake_tears"
+      },
+      {
+        "level": 32,
+        "moveId": "agility"
+      },
+      {
+        "level": 36,
+        "moveId": "imprison"
+      },
+      {
+        "level": 40,
+        "moveId": "night_daze"
+      },
+      {
+        "level": 44,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 48,
+        "moveId": "foul_play"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "take_down",
+      "roar",
+      "counter",
+      "dig",
+      "toxic",
+      "agility",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "spite",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "uproar",
+      "torment",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "trick",
+      "revenge",
+      "knock_off",
+      "imprison",
+      "hyper_voice",
+      "fake_tears",
+      "aerial_ace",
+      "bounce",
+      "covet",
+      "calm_mind",
+      "u_turn",
+      "payback",
+      "assurance",
+      "embargo",
+      "fling",
+      "dark_pulse",
+      "nasty_plot",
+      "shadow_claw",
+      "grass_knot",
+      "hone_claws",
+      "foul_play",
+      "round",
+      "hex",
+      "incinerate",
+      "retaliate",
+      "snarl",
+      "confide",
+      "skitter_smack",
+      "burning_jealousy",
+      "lash_out",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "abyss"
+    ]
+  }
+]

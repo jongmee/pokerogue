@@ -1,0 +1,215 @@
+[
+  {
+    "_id": "ampharos",
+    "gender": "",
+    "pokedexNumber": "181",
+    "name": "ampharos",
+    "koName": "전룡",
+    "speciesName": "ampharos",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "230",
+    "friendship": "70",
+    "types": [
+      "electric"
+    ],
+    "normalAbilityIds": [
+      "static"
+    ],
+    "hiddenAbilityId": "plus",
+    "passiveAbilityId": "electromorphosis",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 510,
+    "hp": 90,
+    "attack": 75,
+    "defense": 85,
+    "specialAttack": 115,
+    "specialDefense": 90,
+    "speed": 55,
+    "height": 1.4,
+    "weight": 61.5,
+    "eggMoveIds": [
+      "ice_beam",
+      "parabolic_charge",
+      "core_enforcer",
+      "tail_glow"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "thunder_punch"
+      },
+      {
+        "level": 1,
+        "moveId": "fire_punch"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_wave"
+      },
+      {
+        "level": 1,
+        "moveId": "zap_cannon"
+      },
+      {
+        "level": 1,
+        "moveId": "dragon_pulse"
+      },
+      {
+        "level": 1,
+        "moveId": "magnetic_flux"
+      },
+      {
+        "level": 1,
+        "moveId": "ion_deluge"
+      },
+      {
+        "level": 11,
+        "moveId": "cotton_spore"
+      },
+      {
+        "level": 16,
+        "moveId": "charge"
+      },
+      {
+        "level": 20,
+        "moveId": "take_down"
+      },
+      {
+        "level": 25,
+        "moveId": "electro_ball"
+      },
+      {
+        "level": 29,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 35,
+        "moveId": "power_gem"
+      },
+      {
+        "level": 40,
+        "moveId": "discharge"
+      },
+      {
+        "level": 46,
+        "moveId": "cotton_guard"
+      },
+      {
+        "level": 51,
+        "moveId": "dazzling_gleam"
+      },
+      {
+        "level": 57,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 62,
+        "moveId": "thunder"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "hyper_beam",
+      "low_kick",
+      "counter",
+      "strength",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "dig",
+      "toxic",
+      "agility",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "swift",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "outrage",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "safeguard",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "rock_smash",
+      "facade",
+      "focus_punch",
+      "charge",
+      "helping_hand",
+      "brick_break",
+      "endeavor",
+      "signal_beam",
+      "fling",
+      "dragon_pulse",
+      "power_gem",
+      "focus_blast",
+      "giga_impact",
+      "rock_climb",
+      "charge_beam",
+      "electro_ball",
+      "round",
+      "echoed_voice",
+      "volt_switch",
+      "bulldoze",
+      "dragon_tail",
+      "electroweb",
+      "wild_charge",
+      "confide",
+      "eerie_impulse",
+      "electric_terrain",
+      "dazzling_gleam",
+      "power_up_punch",
+      "brutal_swing",
+      "stomping_tantrum",
+      "breaking_swipe",
+      "meteor_beam",
+      "tera_blast",
+      "trailblaze",
+      "dragon_cheer",
+      "supercell_slam"
+    ],
+    "biomeIds": [
+      "meadow",
+      "power_plant"
+    ]
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "_id": "murkrow",
+    "gender": "",
+    "pokedexNumber": "198",
+    "name": "murkrow",
+    "koName": "니로우",
+    "speciesName": "murkrow",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "81",
+    "friendship": "35",
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "insomnia",
+      "super_luck"
+    ],
+    "hiddenAbilityId": "prankster",
+    "passiveAbilityId": "dark_aura",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 405,
+    "hp": 60,
+    "attack": 85,
+    "defense": 42,
+    "specialAttack": 85,
+    "specialDefense": 42,
+    "speed": 91,
+    "height": 0.5,
+    "weight": 2.1,
+    "eggMoveIds": [
+      "triple_arrows",
+      "floaty_fall",
+      "tidy_up",
+      "wicked_blow"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "peck"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 5,
+        "moveId": "gust"
+      },
+      {
+        "level": 11,
+        "moveId": "haze"
+      },
+      {
+        "level": 15,
+        "moveId": "wing_attack"
+      },
+      {
+        "level": 21,
+        "moveId": "night_shade"
+      },
+      {
+        "level": 25,
+        "moveId": "assurance"
+      },
+      {
+        "level": 31,
+        "moveId": "taunt"
+      },
+      {
+        "level": 35,
+        "moveId": "mean_look"
+      },
+      {
+        "level": 40,
+        "moveId": "foul_play"
+      },
+      {
+        "level": 50,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 55,
+        "moveId": "torment"
+      },
+      {
+        "level": 60,
+        "moveId": "quash"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fly",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "thunder_wave",
+      "toxic",
+      "psychic",
+      "night_shade",
+      "screech",
+      "double_team",
+      "confuse_ray",
+      "haze",
+      "swift",
+      "dream_eater",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "uproar",
+      "heat_wave",
+      "torment",
+      "facade",
+      "taunt",
+      "feather_dance",
+      "air_cutter",
+      "aerial_ace",
+      "calm_mind",
+      "roost",
+      "pluck",
+      "tailwind",
+      "u_turn",
+      "payback",
+      "assurance",
+      "embargo",
+      "dark_pulse",
+      "air_slash",
+      "brave_bird",
+      "giga_impact",
+      "nasty_plot",
+      "defog",
+      "foul_play",
+      "round",
+      "hex",
+      "quash",
+      "acrobatics",
+      "retaliate",
+      "hurricane",
+      "snarl",
+      "confide",
+      "lash_out",
+      "dual_wingbeat",
+      "tera_blast",
+      "psychic_noise"
+    ],
+    "biomeIds": [
+      "mountain",
+      "abyss"
+    ]
+  }
+]

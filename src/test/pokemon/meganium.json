@@ -1,0 +1,175 @@
+[
+  {
+    "_id": "meganium",
+    "gender": "",
+    "pokedexNumber": "154",
+    "name": "meganium",
+    "koName": "메가니움",
+    "speciesName": "meganium",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "236",
+    "friendship": "70",
+    "types": [
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "overgrow"
+    ],
+    "hiddenAbilityId": "leaf_guard",
+    "passiveAbilityId": "thick_fat",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 525,
+    "hp": 80,
+    "attack": 82,
+    "defense": 100,
+    "specialAttack": 83,
+    "specialDefense": 100,
+    "speed": 80,
+    "height": 1.8,
+    "weight": 100.5,
+    "eggMoveIds": [
+      "sappy_seed",
+      "stone_axe",
+      "dragon_dance",
+      "spore"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "petal_dance"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "razor_leaf"
+      },
+      {
+        "level": 1,
+        "moveId": "poison_powder"
+      },
+      {
+        "level": 1,
+        "moveId": "petal_blizzard"
+      },
+      {
+        "level": 12,
+        "moveId": "synthesis"
+      },
+      {
+        "level": 18,
+        "moveId": "reflect"
+      },
+      {
+        "level": 22,
+        "moveId": "magical_leaf"
+      },
+      {
+        "level": 26,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 34,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 40,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 46,
+        "moveId": "body_slam"
+      },
+      {
+        "level": 54,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 60,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 65,
+        "moveId": "solar_beam"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "body_slam",
+      "double_edge",
+      "hyper_beam",
+      "counter",
+      "strength",
+      "solar_beam",
+      "earthquake",
+      "toxic",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "outrage",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "iron_tail",
+      "synthesis",
+      "hidden_power",
+      "sunny_day",
+      "rock_smash",
+      "facade",
+      "nature_power",
+      "knock_off",
+      "endeavor",
+      "weather_ball",
+      "bullet_seed",
+      "frenzy_plant",
+      "magical_leaf",
+      "worry_seed",
+      "seed_bomb",
+      "energy_ball",
+      "giga_impact",
+      "rock_climb",
+      "leaf_storm",
+      "grass_knot",
+      "round",
+      "echoed_voice",
+      "grass_pledge",
+      "bulldoze",
+      "dragon_tail",
+      "work_up",
+      "petal_blizzard",
+      "confide",
+      "stomping_tantrum",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "tall_grass"
+    ]
+  }
+]

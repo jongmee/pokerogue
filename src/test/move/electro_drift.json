@@ -1,0 +1,36 @@
+[
+  {
+    "_id": "electro_drift",
+    "name": "Electro Drift",
+    "koName": "라이트닝드라이브",
+    "type": "electric",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 100,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "변형하며 초고속으로 달려서 미지의 전격으로 상대를 관통한다. 약점인 상대에게는 위력이 더욱 올라간다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 9,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "voltorb",
+      "electrode",
+      "cyndaquil",
+      "quilava",
+      "typhlosion",
+      "raikou",
+      "rotom",
+      "regieleki",
+      "raging_bolt",
+      "iron_crown",
+      "hisui_voltorb",
+      "hisui_electrode",
+      "hisui_typhlosion"
+    ]
+  }
+]

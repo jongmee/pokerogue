@@ -1,0 +1,179 @@
+[
+  {
+    "_id": "calyrex",
+    "gender": "",
+    "pokedexNumber": "898",
+    "name": "calyrex",
+    "koName": "버드렉스",
+    "speciesName": "calyrex",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "250",
+    "friendship": "100",
+    "types": [
+      "psychic",
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "unnerve"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "harvest",
+    "generation": 8,
+    "legendary": true,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 500,
+    "hp": 100,
+    "attack": 80,
+    "defense": 80,
+    "specialAttack": 80,
+    "specialDefense": 80,
+    "speed": 80,
+    "height": 1.1,
+    "weight": 7.7,
+    "eggMoveIds": [
+      "sappy_seed",
+      "recover",
+      "secret_sword",
+      "photon_geyser"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 1,
+        "moveId": "growth"
+      },
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 8,
+        "moveId": "life_dew"
+      },
+      {
+        "level": 16,
+        "moveId": "giga_drain"
+      },
+      {
+        "level": 24,
+        "moveId": "psyshock"
+      },
+      {
+        "level": 32,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 40,
+        "moveId": "grassy_terrain"
+      },
+      {
+        "level": 40,
+        "moveId": "psychic_terrain"
+      },
+      {
+        "level": 48,
+        "moveId": "energy_ball"
+      },
+      {
+        "level": 56,
+        "moveId": "psychic"
+      },
+      {
+        "level": 64,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 72,
+        "moveId": "heal_pulse"
+      },
+      {
+        "level": 80,
+        "moveId": "solar_beam"
+      },
+      {
+        "level": 88,
+        "moveId": "future_sight"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "pay_day",
+      "take_down",
+      "psybeam",
+      "hyper_beam",
+      "solar_beam",
+      "psychic",
+      "agility",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "metronome",
+      "swift",
+      "rest",
+      "tri_attack",
+      "substitute",
+      "snore",
+      "protect",
+      "scary_face",
+      "giga_drain",
+      "endure",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "baton_pass",
+      "encore",
+      "hidden_power",
+      "sunny_day",
+      "future_sight",
+      "facade",
+      "helping_hand",
+      "trick",
+      "skill_swap",
+      "imprison",
+      "bullet_seed",
+      "mud_shot",
+      "magical_leaf",
+      "calm_mind",
+      "gravity",
+      "power_swap",
+      "guard_swap",
+      "seed_bomb",
+      "energy_ball",
+      "giga_impact",
+      "zen_headbutt",
+      "trick_room",
+      "leaf_storm",
+      "grass_knot",
+      "wonder_room",
+      "psyshock",
+      "magic_room",
+      "round",
+      "stored_power",
+      "ally_switch",
+      "snarl",
+      "draining_kiss",
+      "grassy_terrain",
+      "solar_blade",
+      "pollen_puff",
+      "psychic_terrain",
+      "speed_swap",
+      "expanding_force",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "forest"
+    ]
+  }
+]

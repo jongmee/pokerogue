@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "tearful_look",
+    "name": "Tearful Look",
+    "koName": "눈물그렁그렁",
+    "type": "normal",
+    "moveCategory": "status",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 20,
+    "effect": "눈물을 그렁그렁거려 상대의 전의를 상실하게 한다. 상대의 공격과 특수공격이 떨어진다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "sudowoodo",
+      "bonsly",
+      "goodra",
+      "wishiwashi",
+      "sobble",
+      "drizzile",
+      "inteleon",
+      "toxel",
+      "toxtricity",
+      "toxtricity_lowkey",
+      "hisui_goodra"
+    ]
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "_id": "vivillon_monsoon",
+    "gender": "",
+    "pokedexNumber": "666",
+    "name": "vivillon_monsoon",
+    "koName": "비비용_monsoon",
+    "speciesName": "vivillon",
+    "canChangeForm": true,
+    "formName": "monsoon_pattern",
+    "baseExp": "185",
+    "friendship": "70",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "shield_dust",
+      "compound_eyes"
+    ],
+    "hiddenAbilityId": "friend_guard",
+    "passiveAbilityId": "prankster",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 411,
+    "hp": 80,
+    "attack": 52,
+    "defense": 50,
+    "specialAttack": 90,
+    "specialDefense": 50,
+    "speed": 89,
+    "height": 1.2,
+    "weight": 17,
+    "eggMoveIds": [
+      "focus_blast",
+      "after_you",
+      "decorate",
+      "blizzard"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "gust"
+      },
+      {
+        "level": 1,
+        "moveId": "poison_powder"
+      },
+      {
+        "level": 1,
+        "moveId": "stun_spore"
+      },
+      {
+        "level": 1,
+        "moveId": "sleep_powder"
+      },
+      {
+        "level": 1,
+        "moveId": "struggle_bug"
+      },
+      {
+        "level": 1,
+        "moveId": "powder"
+      },
+      {
+        "level": 12,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 17,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 21,
+        "moveId": "supersonic"
+      },
+      {
+        "level": 25,
+        "moveId": "draining_kiss"
+      },
+      {
+        "level": 31,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 35,
+        "moveId": "bug_buzz"
+      },
+      {
+        "level": 45,
+        "moveId": "quiver_dance"
+      },
+      {
+        "level": 50,
+        "moveId": "hurricane"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "forest"
+    ]
+  }
+]

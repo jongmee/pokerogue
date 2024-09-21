@@ -1,0 +1,66 @@
+[
+  {
+    "_id": "weedle",
+    "gender": "",
+    "pokedexNumber": "13",
+    "name": "weedle",
+    "koName": "뿔충이",
+    "speciesName": "weedle",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "39",
+    "friendship": "70",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "normalAbilityIds": [
+      "shield_dust"
+    ],
+    "hiddenAbilityId": "run_away",
+    "passiveAbilityId": "tinted_lens",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 195,
+    "hp": 40,
+    "attack": 35,
+    "defense": 30,
+    "specialAttack": 20,
+    "specialDefense": 20,
+    "speed": 50,
+    "height": 0.3,
+    "weight": 3.2,
+    "eggMoveIds": [
+      "thousand_arrows",
+      "swords_dance",
+      "attack_order",
+      "noxious_torque"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "poison_sting"
+      },
+      {
+        "level": 1,
+        "moveId": "string_shot"
+      },
+      {
+        "level": 9,
+        "moveId": "bug_bite"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "bug_bite",
+      "electroweb"
+    ],
+    "biomeIds": [
+      "town"
+    ]
+  }
+]

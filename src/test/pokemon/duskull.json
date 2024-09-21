@@ -1,0 +1,169 @@
+[
+  {
+    "_id": "duskull",
+    "gender": "",
+    "pokedexNumber": "355",
+    "name": "duskull",
+    "koName": "해골몽",
+    "speciesName": "duskull",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "59",
+    "friendship": "35",
+    "types": [
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "levitate"
+    ],
+    "hiddenAbilityId": "frisk",
+    "passiveAbilityId": "unnerve",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 295,
+    "hp": 20,
+    "attack": 40,
+    "defense": 90,
+    "specialAttack": 30,
+    "specialDefense": 90,
+    "speed": 25,
+    "height": 0.8,
+    "weight": 15,
+    "eggMoveIds": [
+      "bulk_up",
+      "drain_punch",
+      "strength_sap",
+      "rage_fist"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "pursuit"
+      },
+      {
+        "level": 4,
+        "moveId": "disable"
+      },
+      {
+        "level": 8,
+        "moveId": "shadow_sneak"
+      },
+      {
+        "level": 12,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 16,
+        "moveId": "night_shade"
+      },
+      {
+        "level": 20,
+        "moveId": "payback"
+      },
+      {
+        "level": 24,
+        "moveId": "will_o_wisp"
+      },
+      {
+        "level": 28,
+        "moveId": "mean_look"
+      },
+      {
+        "level": 32,
+        "moveId": "hex"
+      },
+      {
+        "level": 36,
+        "moveId": "curse"
+      },
+      {
+        "level": 40,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 44,
+        "moveId": "future_sight"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "ice_beam",
+      "blizzard",
+      "counter",
+      "toxic",
+      "psychic",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "haze",
+      "dream_eater",
+      "leech_life",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "torment",
+      "will_o_wisp",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "trick",
+      "revenge",
+      "skill_swap",
+      "imprison",
+      "calm_mind",
+      "gravity",
+      "payback",
+      "embargo",
+      "fling",
+      "dark_pulse",
+      "trick_room",
+      "charge_beam",
+      "wonder_room",
+      "round",
+      "ally_switch",
+      "hex",
+      "phantom_force",
+      "confide",
+      "infestation",
+      "skitter_smack",
+      "poltergeist",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "graveyard",
+      "temple"
+    ]
+  }
+]

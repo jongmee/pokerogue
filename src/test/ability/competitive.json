@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "competitive",
+    "name": "Competitive",
+    "koName": "승기",
+    "realased": "",
+    "description": "능력이 떨어지면 특수공격이 크게 올라간다.",
+    "generation": 6,
+    "pokemonIds": [
+      "jigglypuff",
+      "wigglytuff",
+      "igglybuff",
+      "milotic",
+      "piplup",
+      "prinplup",
+      "empoleon",
+      "gothita",
+      "gothorita",
+      "gothitelle",
+      "boltund",
+      "wattrel",
+      "kilowattrel",
+      "galar_articuno"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

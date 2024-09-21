@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "foresight",
+    "name": "Foresight",
+    "koName": "꿰뚫어보기",
+    "type": "normal",
+    "moveCategory": "status",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 40,
+    "effect": "고스트타입에 효과가 없는 기술이나 회피율이 높은 상대라 할지라도 공격이 맞게 된다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 2,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "regigigas"
+    ]
+  }
+]

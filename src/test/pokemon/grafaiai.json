@@ -1,0 +1,165 @@
+[
+  {
+    "_id": "grafaiai",
+    "gender": "",
+    "pokedexNumber": "945",
+    "name": "grafaiai",
+    "koName": "태깅구르",
+    "speciesName": "grafaiai",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "170",
+    "friendship": "50",
+    "types": [
+      "poison",
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "unburden",
+      "poison_touch"
+    ],
+    "hiddenAbilityId": "prankster",
+    "passiveAbilityId": "corrosion",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 485,
+    "hp": 63,
+    "attack": 95,
+    "defense": 65,
+    "specialAttack": 80,
+    "specialDefense": 72,
+    "speed": 110,
+    "height": 0.7,
+    "weight": 27.2,
+    "eggMoveIds": [
+      "gastro_acid",
+      "parting_shot",
+      "toxic",
+      "sketch"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "doodle"
+      },
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 5,
+        "moveId": "acid_spray"
+      },
+      {
+        "level": 8,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 11,
+        "moveId": "switcheroo"
+      },
+      {
+        "level": 14,
+        "moveId": "poison_fang"
+      },
+      {
+        "level": 18,
+        "moveId": "flatter"
+      },
+      {
+        "level": 21,
+        "moveId": "slash"
+      },
+      {
+        "level": 25,
+        "moveId": "u_turn"
+      },
+      {
+        "level": 33,
+        "moveId": "poison_jab"
+      },
+      {
+        "level": 37,
+        "moveId": "taunt"
+      },
+      {
+        "level": 40,
+        "moveId": "substitute"
+      },
+      {
+        "level": 45,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 51,
+        "moveId": "gunk_shot"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "take_down",
+      "double_edge",
+      "low_kick",
+      "dig",
+      "toxic",
+      "double_team",
+      "metronome",
+      "rest",
+      "super_fang",
+      "substitute",
+      "thief",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "mud_slap",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "knock_off",
+      "endeavor",
+      "mud_shot",
+      "poison_tail",
+      "u_turn",
+      "fling",
+      "poison_jab",
+      "x_scissor",
+      "giga_impact",
+      "nasty_plot",
+      "shadow_claw",
+      "cross_poison",
+      "gunk_shot",
+      "venoshock",
+      "sludge_wave",
+      "low_sweep",
+      "acid_spray",
+      "foul_play",
+      "acrobatics",
+      "skitter_smack",
+      "tera_blast",
+      "pounce",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "forest"
+    ]
+  }
+]

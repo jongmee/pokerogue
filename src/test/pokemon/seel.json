@@ -1,0 +1,175 @@
+[
+  {
+    "_id": "seel",
+    "gender": "",
+    "pokedexNumber": "86",
+    "name": "seel",
+    "koName": "쥬쥬",
+    "speciesName": "seel",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "65",
+    "friendship": "70",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "thick_fat",
+      "hydration"
+    ],
+    "hiddenAbilityId": "ice_body",
+    "passiveAbilityId": "water_bubble",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 325,
+    "hp": 65,
+    "attack": 45,
+    "defense": 55,
+    "specialAttack": 45,
+    "specialDefense": 70,
+    "speed": 45,
+    "height": 1.1,
+    "weight": 90,
+    "eggMoveIds": [
+      "freeze_dry",
+      "bouncy_bubble",
+      "slack_off",
+      "steam_eruption"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 3,
+        "moveId": "growl"
+      },
+      {
+        "level": 7,
+        "moveId": "charm"
+      },
+      {
+        "level": 11,
+        "moveId": "icy_wind"
+      },
+      {
+        "level": 13,
+        "moveId": "encore"
+      },
+      {
+        "level": 17,
+        "moveId": "ice_shard"
+      },
+      {
+        "level": 21,
+        "moveId": "rest"
+      },
+      {
+        "level": 23,
+        "moveId": "aqua_ring"
+      },
+      {
+        "level": 27,
+        "moveId": "aurora_beam"
+      },
+      {
+        "level": 31,
+        "moveId": "aqua_jet"
+      },
+      {
+        "level": 33,
+        "moveId": "brine"
+      },
+      {
+        "level": 37,
+        "moveId": "take_down"
+      },
+      {
+        "level": 41,
+        "moveId": "dive"
+      },
+      {
+        "level": 43,
+        "moveId": "aqua_tail"
+      },
+      {
+        "level": 47,
+        "moveId": "ice_beam"
+      },
+      {
+        "level": 51,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 53,
+        "moveId": "snowscape"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "pay_day",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "strength",
+      "toxic",
+      "double_team",
+      "haze",
+      "waterfall",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "megahorn",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "whirlpool",
+      "hail",
+      "facade",
+      "helping_hand",
+      "dive",
+      "weather_ball",
+      "signal_beam",
+      "muddy_water",
+      "icicle_spear",
+      "water_pulse",
+      "brine",
+      "fling",
+      "aqua_tail",
+      "round",
+      "echoed_voice",
+      "drill_run",
+      "confide",
+      "smart_strike",
+      "flip_turn",
+      "triple_axel",
+      "tera_blast",
+      "ice_spinner",
+      "snowscape",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "ice_cave"
+    ]
+  }
+]

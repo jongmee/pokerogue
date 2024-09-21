@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "anger_shell",
+    "name": "Anger Shell",
+    "koName": "분노의껍질",
+    "realased": "",
+    "description": "상대의 공격에 의해 HP가 절반이 되면 화가 나서 방어와 특수방어가 떨어지지만 공격, 특수공격, 스피드가 올라간다.",
+    "generation": 9,
+    "pokemonIds": [
+      "klawf"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

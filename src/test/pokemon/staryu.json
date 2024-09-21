@@ -1,0 +1,172 @@
+[
+  {
+    "_id": "staryu",
+    "gender": "",
+    "pokedexNumber": "120",
+    "name": "staryu",
+    "koName": "별가사리",
+    "speciesName": "staryu",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "68",
+    "friendship": "50",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "illuminate",
+      "natural_cure"
+    ],
+    "hiddenAbilityId": "analytic",
+    "passiveAbilityId": "regenerator",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 340,
+    "hp": 30,
+    "attack": 45,
+    "defense": 55,
+    "specialAttack": 70,
+    "specialDefense": 55,
+    "speed": 85,
+    "height": 0.8,
+    "weight": 34.5,
+    "eggMoveIds": [
+      "calm_mind",
+      "bouncy_bubble",
+      "moonblast",
+      "mystical_power"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "harden"
+      },
+      {
+        "level": 4,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 8,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 12,
+        "moveId": "rapid_spin"
+      },
+      {
+        "level": 16,
+        "moveId": "minimize"
+      },
+      {
+        "level": 20,
+        "moveId": "swift"
+      },
+      {
+        "level": 24,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 28,
+        "moveId": "brine"
+      },
+      {
+        "level": 32,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 36,
+        "moveId": "power_gem"
+      },
+      {
+        "level": 40,
+        "moveId": "psychic"
+      },
+      {
+        "level": 44,
+        "moveId": "surf"
+      },
+      {
+        "level": 48,
+        "moveId": "recover"
+      },
+      {
+        "level": 52,
+        "moveId": "cosmic_power"
+      },
+      {
+        "level": 56,
+        "moveId": "hydro_pump"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "double_edge",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "psybeam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "psychic",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "waterfall",
+      "swift",
+      "flash",
+      "rest",
+      "tri_attack",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "hidden_power",
+      "rain_dance",
+      "psych_up",
+      "whirlpool",
+      "hail",
+      "facade",
+      "recycle",
+      "dive",
+      "cosmic_power",
+      "signal_beam",
+      "water_pulse",
+      "gravity",
+      "gyro_ball",
+      "brine",
+      "power_gem",
+      "flash_cannon",
+      "round",
+      "scald",
+      "confide",
+      "dazzling_gleam",
+      "flip_turn",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "beach",
+      "sea"
+    ]
+  }
+]

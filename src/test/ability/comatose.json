@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "comatose",
+    "name": "Comatose",
+    "koName": "절대안깸",
+    "realased": "",
+    "description": "항상 비몽사몽 상태로 절대 깨지 않는다. 잠든 상태로 공격할 수 있다.",
+    "generation": 7,
+    "pokemonIds": [
+      "wooper",
+      "quagsire",
+      "jirachi",
+      "komala"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

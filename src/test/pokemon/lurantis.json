@@ -1,0 +1,177 @@
+[
+  {
+    "_id": "lurantis",
+    "gender": "",
+    "pokedexNumber": "754",
+    "name": "lurantis",
+    "koName": "라란티스",
+    "speciesName": "lurantis",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "168",
+    "friendship": "50",
+    "types": [
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "leaf_guard"
+    ],
+    "hiddenAbilityId": "contrary",
+    "passiveAbilityId": "sharpness",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 480,
+    "hp": 70,
+    "attack": 105,
+    "defense": 90,
+    "specialAttack": 80,
+    "specialDefense": 90,
+    "speed": 45,
+    "height": 0.9,
+    "weight": 18.5,
+    "eggMoveIds": [
+      "superpower",
+      "headlong_rush",
+      "ice_hammer",
+      "bitter_blade"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "petal_blizzard"
+      },
+      {
+        "level": 1,
+        "moveId": "growth"
+      },
+      {
+        "level": 1,
+        "moveId": "solar_beam"
+      },
+      {
+        "level": 1,
+        "moveId": "fury_cutter"
+      },
+      {
+        "level": 1,
+        "moveId": "ingrain"
+      },
+      {
+        "level": 1,
+        "moveId": "night_slash"
+      },
+      {
+        "level": 1,
+        "moveId": "leafage"
+      },
+      {
+        "level": 1,
+        "moveId": "dual_chop"
+      },
+      {
+        "level": 15,
+        "moveId": "razor_leaf"
+      },
+      {
+        "level": 20,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 25,
+        "moveId": "slash"
+      },
+      {
+        "level": 30,
+        "moveId": "x_scissor"
+      },
+      {
+        "level": 37,
+        "moveId": "synthesis"
+      },
+      {
+        "level": 44,
+        "moveId": "leaf_blade"
+      },
+      {
+        "level": 51,
+        "moveId": "sunny_day"
+      },
+      {
+        "level": 63,
+        "moveId": "solar_blade"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "take_down",
+      "hyper_beam",
+      "solar_beam",
+      "toxic",
+      "double_team",
+      "leech_life",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "scary_face",
+      "giga_drain",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "synthesis",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "facade",
+      "nature_power",
+      "superpower",
+      "brick_break",
+      "knock_off",
+      "weather_ball",
+      "signal_beam",
+      "bullet_seed",
+      "aerial_ace",
+      "magical_leaf",
+      "leaf_blade",
+      "payback",
+      "fling",
+      "worry_seed",
+      "poison_jab",
+      "seed_bomb",
+      "x_scissor",
+      "energy_ball",
+      "giga_impact",
+      "psycho_cut",
+      "defog",
+      "leaf_storm",
+      "cross_poison",
+      "grass_knot",
+      "bug_bite",
+      "low_sweep",
+      "round",
+      "petal_blizzard",
+      "grassy_terrain",
+      "confide",
+      "solar_blade",
+      "pollen_puff",
+      "grassy_glide",
+      "skitter_smack",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "tall_grass",
+      "jungle"
+    ]
+  }
+]

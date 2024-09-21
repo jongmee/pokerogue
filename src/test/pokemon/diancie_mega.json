@@ -1,0 +1,111 @@
+[
+  {
+    "_id": "diancie_mega",
+    "gender": "",
+    "pokedexNumber": "719",
+    "name": "diancie_mega",
+    "koName": "디안시_mega",
+    "speciesName": "diancie",
+    "canChangeForm": true,
+    "formName": "mega",
+    "baseExp": "300",
+    "friendship": "50",
+    "types": [
+      "rock",
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "magic_bounce"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "levitate",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": true,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 700,
+    "hp": 50,
+    "attack": 160,
+    "defense": 110,
+    "specialAttack": 160,
+    "specialDefense": 110,
+    "speed": 110,
+    "height": 1.1,
+    "weight": 27.8,
+    "eggMoveIds": [
+      "magical_torque",
+      "body_press",
+      "shore_up",
+      "geomancy"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "harden"
+      },
+      {
+        "level": 1,
+        "moveId": "diamond_storm"
+      },
+      {
+        "level": 7,
+        "moveId": "guard_split"
+      },
+      {
+        "level": 14,
+        "moveId": "smack_down"
+      },
+      {
+        "level": 21,
+        "moveId": "flail"
+      },
+      {
+        "level": 28,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 35,
+        "moveId": "rock_polish"
+      },
+      {
+        "level": 42,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 49,
+        "moveId": "rock_slide"
+      },
+      {
+        "level": 56,
+        "moveId": "skill_swap"
+      },
+      {
+        "level": 63,
+        "moveId": "power_gem"
+      },
+      {
+        "level": 70,
+        "moveId": "stealth_rock"
+      },
+      {
+        "level": 77,
+        "moveId": "moonblast"
+      },
+      {
+        "level": 84,
+        "moveId": "stone_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "fairy_cave"
+    ]
+  }
+]

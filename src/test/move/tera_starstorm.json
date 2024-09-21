@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "tera_starstorm",
+    "name": "Tera Starstorm",
+    "koName": "테라클러스터",
+    "type": "normal",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 120,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "결정의 힘을 내리쬐어 적을 없애 버린다. 테라파고스가 스텔라폼일 때 사용하면 모든 상대에게 데미지를 준다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 9,
+    "realased": " (P)",
+    "flags": [],
+    "pokemonIds": [
+      "terapagos"
+    ]
+  }
+]

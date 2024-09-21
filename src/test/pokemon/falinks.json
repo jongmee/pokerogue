@@ -1,0 +1,163 @@
+[
+  {
+    "_id": "falinks",
+    "gender": "",
+    "pokedexNumber": "870",
+    "name": "falinks",
+    "koName": "대여르",
+    "speciesName": "falinks",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "165",
+    "friendship": "50",
+    "types": [
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "battle_armor"
+    ],
+    "hiddenAbilityId": "defiant",
+    "passiveAbilityId": "parental_bond",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 470,
+    "hp": 65,
+    "attack": 100,
+    "defense": 100,
+    "specialAttack": 70,
+    "specialDefense": 60,
+    "speed": 75,
+    "height": 3,
+    "weight": 62,
+    "eggMoveIds": [
+      "combat_torque",
+      "psyshield_bash",
+      "heal_order",
+      "population_bomb"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "protect"
+      },
+      {
+        "level": 5,
+        "moveId": "rock_smash"
+      },
+      {
+        "level": 10,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 15,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 20,
+        "moveId": "bulk_up"
+      },
+      {
+        "level": 25,
+        "moveId": "endure"
+      },
+      {
+        "level": 30,
+        "moveId": "reversal"
+      },
+      {
+        "level": 35,
+        "moveId": "first_impression"
+      },
+      {
+        "level": 40,
+        "moveId": "no_retreat"
+      },
+      {
+        "level": 45,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 50,
+        "moveId": "close_combat"
+      },
+      {
+        "level": 55,
+        "moveId": "megahorn"
+      },
+      {
+        "level": 60,
+        "moveId": "counter"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "body_slam",
+      "take_down",
+      "hyper_beam",
+      "counter",
+      "agility",
+      "screech",
+      "double_team",
+      "focus_energy",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "reversal",
+      "protect",
+      "endure",
+      "false_swipe",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "megahorn",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "rock_smash",
+      "beat_up",
+      "uproar",
+      "facade",
+      "helping_hand",
+      "superpower",
+      "revenge",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "rock_tomb",
+      "iron_defense",
+      "bulk_up",
+      "close_combat",
+      "payback",
+      "assurance",
+      "poison_jab",
+      "focus_blast",
+      "giga_impact",
+      "zen_headbutt",
+      "iron_head",
+      "round",
+      "retaliate",
+      "high_horsepower",
+      "throat_chop",
+      "lunge",
+      "smart_strike",
+      "body_press",
+      "coaching",
+      "tera_blast",
+      "trailblaze",
+      "upper_hand"
+    ],
+    "biomeIds": [
+      "jungle"
+    ]
+  }
+]

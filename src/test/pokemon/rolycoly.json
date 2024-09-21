@@ -1,0 +1,134 @@
+[
+  {
+    "_id": "rolycoly",
+    "gender": "",
+    "pokedexNumber": "837",
+    "name": "rolycoly",
+    "koName": "탄동",
+    "speciesName": "rolycoly",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "48",
+    "friendship": "50",
+    "types": [
+      "rock"
+    ],
+    "normalAbilityIds": [
+      "steam_engine",
+      "heatproof"
+    ],
+    "hiddenAbilityId": "flash_fire",
+    "passiveAbilityId": "solid_rock",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 240,
+    "hp": 30,
+    "attack": 40,
+    "defense": 50,
+    "specialAttack": 40,
+    "specialDefense": 50,
+    "speed": 30,
+    "height": 0.3,
+    "weight": 12,
+    "eggMoveIds": [
+      "bitter_blade",
+      "body_press",
+      "bulk_up",
+      "diamond_storm"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "smokescreen"
+      },
+      {
+        "level": 5,
+        "moveId": "rapid_spin"
+      },
+      {
+        "level": 10,
+        "moveId": "smack_down"
+      },
+      {
+        "level": 15,
+        "moveId": "rock_polish"
+      },
+      {
+        "level": 20,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 25,
+        "moveId": "incinerate"
+      },
+      {
+        "level": 30,
+        "moveId": "stealth_rock"
+      },
+      {
+        "level": 35,
+        "moveId": "heat_crash"
+      },
+      {
+        "level": 40,
+        "moveId": "rock_blast"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "dig",
+      "double_team",
+      "reflect",
+      "self_destruct",
+      "explosion",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "spikes",
+      "sandstorm",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "will_o_wisp",
+      "facade",
+      "rock_tomb",
+      "sand_tomb",
+      "iron_defense",
+      "rock_blast",
+      "gyro_ball",
+      "rock_polish",
+      "power_gem",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "smack_down",
+      "round",
+      "incinerate",
+      "bulldoze",
+      "heat_crash",
+      "meteor_beam",
+      "tera_blast",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "volcano"
+    ]
+  }
+]

@@ -1,0 +1,219 @@
+[
+  {
+    "_id": "golduck",
+    "gender": "",
+    "pokedexNumber": "55",
+    "name": "golduck",
+    "koName": "골덕",
+    "speciesName": "golduck",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "175",
+    "friendship": "50",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "damp",
+      "cloud_nine"
+    ],
+    "hiddenAbilityId": "swift_swim",
+    "passiveAbilityId": "simple",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 500,
+    "hp": 80,
+    "attack": 82,
+    "defense": 78,
+    "specialAttack": 95,
+    "specialDefense": 80,
+    "speed": 85,
+    "height": 1.7,
+    "weight": 76.6,
+    "eggMoveIds": [
+      "splishy_splash",
+      "aqua_step",
+      "aura_sphere",
+      "mystical_power"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 1,
+        "moveId": "aqua_jet"
+      },
+      {
+        "level": 1,
+        "moveId": "water_sport"
+      },
+      {
+        "level": 1,
+        "moveId": "me_first"
+      },
+      {
+        "level": 9,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 12,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 15,
+        "moveId": "disable"
+      },
+      {
+        "level": 18,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 21,
+        "moveId": "screech"
+      },
+      {
+        "level": 24,
+        "moveId": "aqua_tail"
+      },
+      {
+        "level": 27,
+        "moveId": "soak"
+      },
+      {
+        "level": 30,
+        "moveId": "psych_up"
+      },
+      {
+        "level": 36,
+        "moveId": "amnesia"
+      },
+      {
+        "level": 40,
+        "moveId": "hydro_pump"
+      },
+      {
+        "level": 45,
+        "moveId": "wonder_room"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "pay_day",
+      "ice_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "psybeam",
+      "hyper_beam",
+      "low_kick",
+      "counter",
+      "strength",
+      "dig",
+      "toxic",
+      "psychic",
+      "screech",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "haze",
+      "metronome",
+      "waterfall",
+      "swift",
+      "amnesia",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "psych_up",
+      "future_sight",
+      "rock_smash",
+      "whirlpool",
+      "hail",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "skill_swap",
+      "dive",
+      "signal_beam",
+      "muddy_water",
+      "aerial_ace",
+      "mud_shot",
+      "calm_mind",
+      "water_pulse",
+      "brine",
+      "fling",
+      "worry_seed",
+      "aqua_tail",
+      "power_gem",
+      "vacuum_wave",
+      "focus_blast",
+      "giga_impact",
+      "nasty_plot",
+      "shadow_claw",
+      "zen_headbutt",
+      "rock_climb",
+      "grass_knot",
+      "hone_claws",
+      "wonder_room",
+      "psyshock",
+      "low_sweep",
+      "round",
+      "scald",
+      "confide",
+      "power_up_punch",
+      "liquidation",
+      "flip_turn",
+      "tera_blast",
+      "trailblaze",
+      "chilling_water",
+      "psychic_noise"
+    ],
+    "biomeIds": [
+      "swamp",
+      "lake"
+    ]
+  }
+]

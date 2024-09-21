@@ -1,0 +1,186 @@
+[
+  {
+    "_id": "gourgeist",
+    "gender": "",
+    "pokedexNumber": "711",
+    "name": "gourgeist",
+    "koName": "펌킨인",
+    "speciesName": "gourgeist",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "173",
+    "friendship": "50",
+    "types": [
+      "ghost",
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "pickup",
+      "frisk"
+    ],
+    "hiddenAbilityId": "insomnia",
+    "passiveAbilityId": "well_baked_body",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 494,
+    "hp": 65,
+    "attack": 90,
+    "defense": 122,
+    "specialAttack": 58,
+    "specialDefense": 75,
+    "speed": 84,
+    "height": 0.9,
+    "weight": 12.5,
+    "eggMoveIds": [
+      "spirit_shackle",
+      "fire_lash",
+      "dire_claw",
+      "sappy_seed"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 1,
+        "moveId": "explosion"
+      },
+      {
+        "level": 1,
+        "moveId": "astonish"
+      },
+      {
+        "level": 1,
+        "moveId": "shadow_sneak"
+      },
+      {
+        "level": 1,
+        "moveId": "trick_or_treat"
+      },
+      {
+        "level": 1,
+        "moveId": "moonblast"
+      },
+      {
+        "level": 12,
+        "moveId": "razor_leaf"
+      },
+      {
+        "level": 16,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 20,
+        "moveId": "bullet_seed"
+      },
+      {
+        "level": 24,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 28,
+        "moveId": "worry_seed"
+      },
+      {
+        "level": 32,
+        "moveId": "seed_bomb"
+      },
+      {
+        "level": 36,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 40,
+        "moveId": "trick"
+      },
+      {
+        "level": 44,
+        "moveId": "pain_split"
+      },
+      {
+        "level": 48,
+        "moveId": "phantom_force"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "double_edge",
+      "flamethrower",
+      "hyper_beam",
+      "solar_beam",
+      "toxic",
+      "psychic",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "fire_blast",
+      "dream_eater",
+      "flash",
+      "explosion",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "thief",
+      "snore",
+      "spite",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "pain_split",
+      "synthesis",
+      "hidden_power",
+      "sunny_day",
+      "shadow_ball",
+      "rock_smash",
+      "will_o_wisp",
+      "facade",
+      "nature_power",
+      "trick",
+      "skill_swap",
+      "imprison",
+      "bullet_seed",
+      "gyro_ball",
+      "worry_seed",
+      "dark_pulse",
+      "seed_bomb",
+      "focus_blast",
+      "energy_ball",
+      "giga_impact",
+      "nasty_plot",
+      "trick_room",
+      "power_whip",
+      "grass_knot",
+      "charge_beam",
+      "flame_charge",
+      "foul_play",
+      "round",
+      "ally_switch",
+      "hex",
+      "incinerate",
+      "phantom_force",
+      "confide",
+      "mystical_fire",
+      "brutal_swing",
+      "grassy_glide",
+      "skitter_smack",
+      "poltergeist",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "graveyard"
+    ]
+  }
+]

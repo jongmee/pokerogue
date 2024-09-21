@@ -1,0 +1,185 @@
+[
+  {
+    "_id": "bibarel",
+    "gender": "",
+    "pokedexNumber": "400",
+    "name": "bibarel",
+    "koName": "비버통",
+    "speciesName": "bibarel",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "144",
+    "friendship": "70",
+    "types": [
+      "normal",
+      "water"
+    ],
+    "normalAbilityIds": [
+      "simple",
+      "unaware"
+    ],
+    "hiddenAbilityId": "moody",
+    "passiveAbilityId": "sap_sipper",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 410,
+    "hp": 79,
+    "attack": 85,
+    "defense": 60,
+    "specialAttack": 55,
+    "specialDefense": 60,
+    "speed": 71,
+    "height": 1,
+    "weight": 31.5,
+    "eggMoveIds": [
+      "extreme_speed",
+      "cosmic_power",
+      "power_trip",
+      "aqua_step"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "aqua_jet"
+      },
+      {
+        "level": 1,
+        "moveId": "rototiller"
+      },
+      {
+        "level": 5,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": 9,
+        "moveId": "rollout"
+      },
+      {
+        "level": 13,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 18,
+        "moveId": "hyper_fang"
+      },
+      {
+        "level": 23,
+        "moveId": "yawn"
+      },
+      {
+        "level": 28,
+        "moveId": "crunch"
+      },
+      {
+        "level": 33,
+        "moveId": "take_down"
+      },
+      {
+        "level": 38,
+        "moveId": "super_fang"
+      },
+      {
+        "level": 43,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 48,
+        "moveId": "amnesia"
+      },
+      {
+        "level": 53,
+        "moveId": "superpower"
+      },
+      {
+        "level": 58,
+        "moveId": "curse"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "take_down",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "strength",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "dig",
+      "toxic",
+      "double_team",
+      "waterfall",
+      "swift",
+      "amnesia",
+      "rest",
+      "super_fang",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "shadow_ball",
+      "rock_smash",
+      "whirlpool",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "superpower",
+      "dive",
+      "covet",
+      "water_pulse",
+      "pluck",
+      "fling",
+      "aqua_tail",
+      "giga_impact",
+      "rock_climb",
+      "stealth_rock",
+      "grass_knot",
+      "charge_beam",
+      "round",
+      "echoed_voice",
+      "scald",
+      "retaliate",
+      "bulldoze",
+      "work_up",
+      "confide",
+      "stomping_tantrum",
+      "liquidation",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "plains"
+    ]
+  }
+]

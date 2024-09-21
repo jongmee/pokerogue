@@ -1,0 +1,109 @@
+[
+  {
+    "_id": "laboratory",
+    "name": "Laboratory",
+    "koName": "연구소",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "nextBiomes": [
+      {
+        "name": "construction_site",
+        "percentage": 100
+      }
+    ],
+    "nativePokemons": [
+      {
+        "tier": "보통",
+        "pokemonIds": [
+          "magnemite",
+          "magneton",
+          "grimer",
+          "muk",
+          "voltorb",
+          "electrode",
+          "bronzor",
+          "bronzong",
+          "klink",
+          "klang",
+          "klinklang"
+        ]
+      },
+      {
+        "tier": "드묾",
+        "pokemonIds": [
+          "solosis",
+          "duosion",
+          "reuniclus"
+        ]
+      },
+      {
+        "tier": "레어",
+        "pokemonIds": [
+          "ditto",
+          "porygon",
+          "porygon2"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어",
+        "pokemonIds": [
+          "rotom"
+        ]
+      },
+      {
+        "tier": "울트라 레어",
+        "pokemonIds": [
+          "type_null"
+        ]
+      },
+      {
+        "tier": "보스",
+        "pokemonIds": [
+          "muk",
+          "electrode",
+          "bronzong",
+          "magnezone",
+          "porygon_z",
+          "reuniclus",
+          "klinklang"
+        ]
+      },
+      {
+        "tier": "레어 보스",
+        "pokemonIds": []
+      },
+      {
+        "tier": "슈퍼 레어 보스",
+        "pokemonIds": [
+          "rotom",
+          "zygarde",
+          "silvally"
+        ]
+      },
+      {
+        "tier": "슈퍼 울트라 레어 보스",
+        "pokemonIds": [
+          "mewtwo",
+          "miraidon"
+        ]
+      }
+    ],
+    "trainers": [
+      {
+        "name": "비주기",
+        "types": [
+          "poison",
+          "dark"
+        ],
+        "pokemonIds": [
+          "sandile",
+          "murkrow",
+          "nidoran_m",
+          "nidoran_f"
+        ]
+      }
+    ]
+  }
+]

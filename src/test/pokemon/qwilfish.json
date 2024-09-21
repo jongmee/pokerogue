@@ -1,0 +1,195 @@
+[
+  {
+    "_id": "qwilfish",
+    "gender": "",
+    "pokedexNumber": "211",
+    "name": "qwilfish",
+    "koName": "침바루",
+    "speciesName": "qwilfish",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "88",
+    "friendship": "50",
+    "types": [
+      "water",
+      "poison"
+    ],
+    "normalAbilityIds": [
+      "poison_point",
+      "swift_swim"
+    ],
+    "hiddenAbilityId": "intimidate",
+    "passiveAbilityId": "toxic_debris",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 440,
+    "hp": 65,
+    "attack": 95,
+    "defense": 85,
+    "specialAttack": 55,
+    "specialDefense": 55,
+    "speed": 85,
+    "height": 0.5,
+    "weight": 3.9,
+    "eggMoveIds": [
+      "barb_barrage",
+      "baneful_bunker",
+      "knock_off",
+      "fishious_rend"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "poison_sting"
+      },
+      {
+        "level": 4,
+        "moveId": "harden"
+      },
+      {
+        "level": 8,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 12,
+        "moveId": "fell_stinger"
+      },
+      {
+        "level": 16,
+        "moveId": "minimize"
+      },
+      {
+        "level": 20,
+        "moveId": "spikes"
+      },
+      {
+        "level": 24,
+        "moveId": "brine"
+      },
+      {
+        "level": 28,
+        "moveId": "poison_jab"
+      },
+      {
+        "level": 32,
+        "moveId": "pin_missile"
+      },
+      {
+        "level": 36,
+        "moveId": "toxic_spikes"
+      },
+      {
+        "level": 40,
+        "moveId": "stockpile"
+      },
+      {
+        "level": 40,
+        "moveId": "spit_up"
+      },
+      {
+        "level": 44,
+        "moveId": "toxic"
+      },
+      {
+        "level": 48,
+        "moveId": "aqua_tail"
+      },
+      {
+        "level": 52,
+        "moveId": "acupressure"
+      },
+      {
+        "level": 56,
+        "moveId": "destiny_bond"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "take_down",
+      "double_edge",
+      "pin_missile",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "thunder_wave",
+      "toxic",
+      "agility",
+      "double_team",
+      "haze",
+      "self_destruct",
+      "waterfall",
+      "swift",
+      "explosion",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "reversal",
+      "spite",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "spikes",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "hidden_power",
+      "rain_dance",
+      "crunch",
+      "shadow_ball",
+      "whirlpool",
+      "hail",
+      "facade",
+      "taunt",
+      "revenge",
+      "dive",
+      "signal_beam",
+      "bounce",
+      "mud_shot",
+      "poison_tail",
+      "water_pulse",
+      "gyro_ball",
+      "brine",
+      "payback",
+      "assurance",
+      "toxic_spikes",
+      "poison_jab",
+      "aqua_tail",
+      "giga_impact",
+      "gunk_shot",
+      "venoshock",
+      "sludge_wave",
+      "acid_spray",
+      "round",
+      "scald",
+      "hex",
+      "confide",
+      "venom_drench",
+      "throat_chop",
+      "liquidation",
+      "steel_roller",
+      "scale_shot",
+      "flip_turn",
+      "tera_blast",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "seabed"
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "purifying_salt",
+    "name": "Purifying Salt",
+    "koName": "정화의소금",
+    "realased": "",
+    "description": "깨끗한 소금에 의해 상태 이상이 되지 않는다. 고스트타입 기술의 데미지를 반감시킨다.",
+    "generation": 9,
+    "pokemonIds": [
+      "yamask",
+      "cofagrigus",
+      "pyukumuku",
+      "nacli",
+      "naclstack",
+      "garganacl"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

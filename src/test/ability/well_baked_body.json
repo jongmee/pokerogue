@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "well_baked_body",
+    "name": "Well-Baked Body",
+    "koName": "노릇노릇바디",
+    "realased": "",
+    "description": "불꽃타입 기술로 공격받으면 데미지를 입지 않고 방어가 크게 올라간다.",
+    "generation": 9,
+    "pokemonIds": [
+      "baltoy",
+      "claydol",
+      "pansage",
+      "simisage",
+      "maractus",
+      "swirlix",
+      "slurpuff",
+      "pumpkaboo",
+      "gourgeist",
+      "dachsbun"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

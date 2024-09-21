@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "glaciate",
+    "name": "Glaciate",
+    "koName": "얼어붙은세계",
+    "type": "ice",
+    "moveCategory": "special",
+    "moveTarget": "all_near_enemies",
+    "power": 65,
+    "accuracy": 95,
+    "powerPoint": 10,
+    "effect": "차가운 냉기를 상대에게 내뿜어 공격한다. 상대의 스피드를 떨어뜨린다.",
+    "effectChance": 100,
+    "prioirty": 0,
+    "generation": 5,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "kyurem"
+    ]
+  }
+]

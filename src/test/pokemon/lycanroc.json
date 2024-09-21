@@ -1,0 +1,187 @@
+[
+  {
+    "_id": "lycanroc",
+    "gender": "",
+    "pokedexNumber": "745",
+    "name": "lycanroc",
+    "koName": "루가루암",
+    "speciesName": "lycanroc",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "170",
+    "friendship": "50",
+    "types": [
+      "rock"
+    ],
+    "normalAbilityIds": [
+      "keen_eye",
+      "sand_rush"
+    ],
+    "hiddenAbilityId": "steadfast",
+    "passiveAbilityId": "rocky_payload",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 487,
+    "hp": 75,
+    "attack": 115,
+    "defense": 65,
+    "specialAttack": 55,
+    "specialDefense": 65,
+    "speed": 112,
+    "height": 0.8,
+    "weight": 25,
+    "eggMoveIds": [
+      "high_horsepower",
+      "tidy_up",
+      "ice_spinner",
+      "mighty_cleave"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 1,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "double_team"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_guard"
+      },
+      {
+        "level": 1,
+        "moveId": "accelerock"
+      },
+      {
+        "level": 12,
+        "moveId": "rock_throw"
+      },
+      {
+        "level": 16,
+        "moveId": "howl"
+      },
+      {
+        "level": 20,
+        "moveId": "bite"
+      },
+      {
+        "level": 24,
+        "moveId": "rock_tomb"
+      },
+      {
+        "level": 30,
+        "moveId": "roar"
+      },
+      {
+        "level": 36,
+        "moveId": "rock_slide"
+      },
+      {
+        "level": 42,
+        "moveId": "crunch"
+      },
+      {
+        "level": 48,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 54,
+        "moveId": "stealth_rock"
+      },
+      {
+        "level": 60,
+        "moveId": "stone_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "counter",
+      "dig",
+      "toxic",
+      "agility",
+      "double_team",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "scary_face",
+      "sandstorm",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "crunch",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "brick_break",
+      "endeavor",
+      "hyper_voice",
+      "rock_tomb",
+      "iron_defense",
+      "bulk_up",
+      "covet",
+      "rock_blast",
+      "close_combat",
+      "assurance",
+      "rock_polish",
+      "earth_power",
+      "giga_impact",
+      "thunder_fang",
+      "fire_fang",
+      "zen_headbutt",
+      "rock_climb",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "round",
+      "echoed_voice",
+      "bulldoze",
+      "snarl",
+      "play_rough",
+      "confide",
+      "psychic_fangs",
+      "stomping_tantrum",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "plains",
+      "forest",
+      "cave"
+    ]
+  }
+]

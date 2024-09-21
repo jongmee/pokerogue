@@ -1,0 +1,66 @@
+[
+  {
+    "_id": "magikarp",
+    "gender": "",
+    "pokedexNumber": "129",
+    "name": "magikarp",
+    "koName": "잉어킹",
+    "speciesName": "magikarp",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "40",
+    "friendship": "50",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "swift_swim"
+    ],
+    "hiddenAbilityId": "rattled",
+    "passiveAbilityId": "multiscale",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 200,
+    "hp": 20,
+    "attack": 10,
+    "defense": 55,
+    "specialAttack": 15,
+    "specialDefense": 20,
+    "speed": 80,
+    "height": 0.9,
+    "weight": 10,
+    "eggMoveIds": [
+      "flip_turn",
+      "ice_spinner",
+      "dragon_ascent",
+      "surging_strikes"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "splash"
+      },
+      {
+        "level": 15,
+        "moveId": "tackle"
+      },
+      {
+        "level": 25,
+        "moveId": "flail"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "hydro_pump",
+      "bounce"
+    ],
+    "biomeIds": [
+      "sea",
+      "lake"
+    ]
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "_id": "cinccino",
+    "gender": "",
+    "pokedexNumber": "573",
+    "name": "cinccino",
+    "koName": "치라치노",
+    "speciesName": "cinccino",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "165",
+    "friendship": "50",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "cute_charm",
+      "technician"
+    ],
+    "hiddenAbilityId": "skill_link",
+    "passiveAbilityId": "fur_coat",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 470,
+    "hp": 75,
+    "attack": 95,
+    "defense": 60,
+    "specialAttack": 65,
+    "specialDefense": 60,
+    "speed": 115,
+    "height": 0.5,
+    "weight": 7.5,
+    "eggMoveIds": [
+      "icicle_spear",
+      "tidy_up",
+      "knock_off",
+      "population_bomb"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "tail_slap"
+      },
+      {
+        "level": -1,
+        "moveId": "slam"
+      },
+      {
+        "level": -1,
+        "moveId": "swift"
+      },
+      {
+        "level": -1,
+        "moveId": "encore"
+      },
+      {
+        "level": -1,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": -1,
+        "moveId": "hyper_voice"
+      },
+      {
+        "level": -1,
+        "moveId": "tickle"
+      },
+      {
+        "level": -1,
+        "moveId": "rock_blast"
+      },
+      {
+        "level": -1,
+        "moveId": "last_resort"
+      },
+      {
+        "level": -1,
+        "moveId": "after_you"
+      },
+      {
+        "level": -1,
+        "moveId": "echoed_voice"
+      },
+      {
+        "level": -1,
+        "moveId": "baby_doll_eyes"
+      },
+      {
+        "level": 1,
+        "moveId": "bullet_seed"
+      },
+      {
+        "level": 1,
+        "moveId": "sing"
+      },
+      {
+        "level": 1,
+        "moveId": "charm"
+      },
+      {
+        "level": 1,
+        "moveId": "pound"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "double_edge",
+      "hyper_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "dig",
+      "toxic",
+      "double_team",
+      "light_screen",
+      "swift",
+      "rest",
+      "super_fang",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "uproar",
+      "facade",
+      "helping_hand",
+      "knock_off",
+      "endeavor",
+      "hyper_voice",
+      "fake_tears",
+      "bullet_seed",
+      "covet",
+      "calm_mind",
+      "rock_blast",
+      "u_turn",
+      "fling",
+      "aqua_tail",
+      "seed_bomb",
+      "focus_blast",
+      "giga_impact",
+      "gunk_shot",
+      "grass_knot",
+      "round",
+      "echoed_voice",
+      "retaliate",
+      "work_up",
+      "tail_slap",
+      "play_rough",
+      "confide",
+      "dazzling_gleam",
+      "triple_axel",
+      "tera_blast",
+      "ice_spinner",
+      "trailblaze",
+      "chilling_water",
+      "alluring_voice"
+    ],
+    "biomeIds": [
+      "meadow"
+    ]
+  }
+]

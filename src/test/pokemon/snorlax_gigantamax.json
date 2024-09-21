@@ -1,0 +1,158 @@
+[
+  {
+    "_id": "snorlax_gigantamax",
+    "gender": "",
+    "pokedexNumber": "143",
+    "name": "snorlax_gigantamax",
+    "koName": "잠만보_gigantamax",
+    "speciesName": "snorlax",
+    "canChangeForm": true,
+    "formName": "g_max",
+    "baseExp": "189",
+    "friendship": "50",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "harvest"
+    ],
+    "hiddenAbilityId": "harvest",
+    "passiveAbilityId": "ripen",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 640,
+    "hp": 200,
+    "attack": 135,
+    "defense": 80,
+    "specialAttack": 80,
+    "specialDefense": 125,
+    "speed": 20,
+    "height": 35,
+    "weight": 460,
+    "eggMoveIds": [
+      "stuff_cheeks",
+      "grav_apple",
+      "slack_off",
+      "extreme_speed"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "screech"
+      },
+      {
+        "level": 1,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": 1,
+        "moveId": "metronome"
+      },
+      {
+        "level": 1,
+        "moveId": "lick"
+      },
+      {
+        "level": 1,
+        "moveId": "flail"
+      },
+      {
+        "level": 1,
+        "moveId": "stockpile"
+      },
+      {
+        "level": 1,
+        "moveId": "swallow"
+      },
+      {
+        "level": 1,
+        "moveId": "recycle"
+      },
+      {
+        "level": 1,
+        "moveId": "block"
+      },
+      {
+        "level": 1,
+        "moveId": "covet"
+      },
+      {
+        "level": 1,
+        "moveId": "fling"
+      },
+      {
+        "level": 1,
+        "moveId": "last_resort"
+      },
+      {
+        "level": 12,
+        "moveId": "yawn"
+      },
+      {
+        "level": 16,
+        "moveId": "bite"
+      },
+      {
+        "level": 20,
+        "moveId": "rest"
+      },
+      {
+        "level": 20,
+        "moveId": "snore"
+      },
+      {
+        "level": 20,
+        "moveId": "sleep_talk"
+      },
+      {
+        "level": 24,
+        "moveId": "crunch"
+      },
+      {
+        "level": 28,
+        "moveId": "body_slam"
+      },
+      {
+        "level": 32,
+        "moveId": "heavy_slam"
+      },
+      {
+        "level": 36,
+        "moveId": "amnesia"
+      },
+      {
+        "level": 40,
+        "moveId": "high_horsepower"
+      },
+      {
+        "level": 44,
+        "moveId": "hammer_arm"
+      },
+      {
+        "level": 48,
+        "moveId": "belly_drum"
+      },
+      {
+        "level": 52,
+        "moveId": "belch"
+      },
+      {
+        "level": 56,
+        "moveId": "giga_impact"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "plains"
+    ]
+  }
+]

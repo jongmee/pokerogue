@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "behemoth_blade",
+    "name": "Behemoth Blade",
+    "koName": "거수참",
+    "type": "steel",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 100,
+    "accuracy": 100,
+    "powerPoint": 5,
+    "effect": "크고 강한 검을 온몸으로 치켜든 다음 기세 좋게 베어서 공격한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [
+      "makes_contact",
+      "slicing_move"
+    ],
+    "pokemonIds": [
+      "cobalion",
+      "honedge",
+      "doublade",
+      "aegislash",
+      "aegislash_blade",
+      "kartana",
+      "sirfetchd",
+      "galar_farfetchd"
+    ]
+  }
+]

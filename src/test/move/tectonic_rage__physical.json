@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "tectonic_rage__physical",
+    "name": "Tectonic Rage",
+    "koName": "라이징랜드오버",
+    "type": "ground",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 1,
+    "effect": "Z파워로 땅 깊숙이 파고들어 전력으로 상대에게 부딪친다. 원래 기술에 따라 위력이 변한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": " (N)",
+    "flags": [
+      "makes_contact",
+      "ignore_virtual"
+    ],
+    "pokemonIds": []
+  }
+]

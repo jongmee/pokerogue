@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "hyperspace_hole",
+    "name": "Hyperspace Hole",
+    "koName": "이차원홀",
+    "type": "psychic",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 80,
+    "accuracy": -1,
+    "powerPoint": 5,
+    "effect": "이차원홀로 갑자기 상대 바로 옆에 나타나 공격한다. 방어나 판별 등도 무시할 수 있다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 6,
+    "realased": "",
+    "flags": [
+      "ignore_protect"
+    ],
+    "pokemonIds": [
+      "hoopa"
+    ]
+  }
+]

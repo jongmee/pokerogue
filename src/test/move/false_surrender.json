@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "false_surrender",
+    "name": "False Surrender",
+    "koName": "사죄의찌르기",
+    "type": "dark",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 80,
+    "accuracy": -1,
+    "powerPoint": 10,
+    "effect": "고개를 숙이는 척하면서 흐트러진 머리카락으로 찌른다. 공격은 반드시 명중한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "morgrem",
+      "grimmsnarl",
+      "alola_rattata",
+      "alola_raticate"
+    ]
+  }
+]

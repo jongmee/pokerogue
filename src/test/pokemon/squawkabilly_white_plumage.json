@@ -1,0 +1,117 @@
+[
+  {
+    "_id": "squawkabilly_white_plumage",
+    "gender": "",
+    "pokedexNumber": "931",
+    "name": "squawkabilly_white_plumage",
+    "koName": "시비꼬_white_plumage",
+    "speciesName": "squawkabilly",
+    "canChangeForm": true,
+    "formName": "white_plumage",
+    "baseExp": "146",
+    "friendship": "50",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "intimidate",
+      "hustle"
+    ],
+    "hiddenAbilityId": "sheer_force",
+    "passiveAbilityId": "moxie",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 417,
+    "hp": 82,
+    "attack": 96,
+    "defense": 51,
+    "specialAttack": 45,
+    "specialDefense": 51,
+    "speed": 92,
+    "height": 0.6,
+    "weight": 2.4,
+    "eggMoveIds": [
+      "parting_shot",
+      "earthquake",
+      "flare_blitz",
+      "extreme_speed"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "peck"
+      },
+      {
+        "level": 1,
+        "moveId": "mimic"
+      },
+      {
+        "level": 6,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 10,
+        "moveId": "torment"
+      },
+      {
+        "level": 13,
+        "moveId": "aerial_ace"
+      },
+      {
+        "level": 17,
+        "moveId": "fury_attack"
+      },
+      {
+        "level": 20,
+        "moveId": "taunt"
+      },
+      {
+        "level": 24,
+        "moveId": "uproar"
+      },
+      {
+        "level": 27,
+        "moveId": "copycat"
+      },
+      {
+        "level": 30,
+        "moveId": "fly"
+      },
+      {
+        "level": 34,
+        "moveId": "facade"
+      },
+      {
+        "level": 38,
+        "moveId": "swagger"
+      },
+      {
+        "level": 42,
+        "moveId": "brave_bird"
+      },
+      {
+        "level": 47,
+        "moveId": "roost"
+      },
+      {
+        "level": 52,
+        "moveId": "reversal"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "metropolis",
+      "forest"
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "guard_dog",
+    "name": "Guard Dog",
+    "koName": "파수견",
+    "realased": "",
+    "description": "위협을 받으면 공격이 올라간다. 포켓몬을 교체시키는 기술이나 도구의 효과를 받지 않는다.",
+    "generation": 9,
+    "pokemonIds": [
+      "mabosstiff",
+      "okidogi"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

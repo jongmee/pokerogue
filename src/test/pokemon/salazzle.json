@@ -1,0 +1,213 @@
+[
+  {
+    "_id": "salazzle",
+    "gender": "",
+    "pokedexNumber": "758",
+    "name": "salazzle",
+    "koName": "염뉴트",
+    "speciesName": "salazzle",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "168",
+    "friendship": "50",
+    "types": [
+      "poison",
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "corrosion"
+    ],
+    "hiddenAbilityId": "oblivious",
+    "passiveAbilityId": "dragons_maw",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 480,
+    "hp": 68,
+    "attack": 64,
+    "defense": 60,
+    "specialAttack": 111,
+    "specialDefense": 60,
+    "speed": 117,
+    "height": 1.2,
+    "weight": 22.2,
+    "eggMoveIds": [
+      "scald",
+      "sludge_wave",
+      "core_enforcer",
+      "eruption"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "fire_lash"
+      },
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "disable"
+      },
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 1,
+        "moveId": "smog"
+      },
+      {
+        "level": 1,
+        "moveId": "poison_gas"
+      },
+      {
+        "level": 1,
+        "moveId": "swagger"
+      },
+      {
+        "level": 1,
+        "moveId": "encore"
+      },
+      {
+        "level": 1,
+        "moveId": "torment"
+      },
+      {
+        "level": 1,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 1,
+        "moveId": "endeavor"
+      },
+      {
+        "level": 1,
+        "moveId": "captivate"
+      },
+      {
+        "level": 15,
+        "moveId": "poison_fang"
+      },
+      {
+        "level": 20,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 25,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 30,
+        "moveId": "incinerate"
+      },
+      {
+        "level": 37,
+        "moveId": "venoshock"
+      },
+      {
+        "level": 44,
+        "moveId": "dragon_pulse"
+      },
+      {
+        "level": 51,
+        "moveId": "flamethrower"
+      },
+      {
+        "level": 58,
+        "moveId": "toxic"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "flamethrower",
+      "hyper_beam",
+      "thunder_wave",
+      "toxic",
+      "agility",
+      "double_team",
+      "fire_blast",
+      "swift",
+      "leech_life",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "mud_slap",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "sunny_day",
+      "beat_up",
+      "heat_wave",
+      "torment",
+      "will_o_wisp",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "knock_off",
+      "endeavor",
+      "hyper_voice",
+      "fake_tears",
+      "overheat",
+      "dragon_claw",
+      "poison_tail",
+      "covet",
+      "dragon_dance",
+      "payback",
+      "fling",
+      "toxic_spikes",
+      "flare_blitz",
+      "poison_jab",
+      "dragon_pulse",
+      "giga_impact",
+      "nasty_plot",
+      "shadow_claw",
+      "fire_fang",
+      "cross_poison",
+      "gunk_shot",
+      "venoshock",
+      "sludge_wave",
+      "flame_charge",
+      "acid_spray",
+      "foul_play",
+      "round",
+      "incinerate",
+      "acrobatics",
+      "dragon_tail",
+      "confide",
+      "venom_drench",
+      "breaking_swipe",
+      "scale_shot",
+      "skitter_smack",
+      "burning_jealousy",
+      "corrosive_gas",
+      "tera_blast",
+      "trailblaze",
+      "dragon_cheer",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "volcano"
+    ]
+  }
+]

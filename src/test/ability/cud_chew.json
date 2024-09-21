@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "cud_chew",
+    "name": "Cud Chew",
+    "koName": "되새김질",
+    "realased": " (N)",
+    "description": "한 번에 한하여 나무열매를 먹으면 다음 턴이 끝날 때 위에서 꺼내서 또 먹는다.",
+    "generation": 9,
+    "pokemonIds": [
+      "mudbray",
+      "mudsdale",
+      "farigiraf",
+      "paldea_tauros"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

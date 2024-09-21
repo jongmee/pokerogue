@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "stamina",
+    "name": "Stamina",
+    "koName": "지구력",
+    "realased": "",
+    "description": "공격을 받으면 방어가 올라간다.",
+    "generation": 7,
+    "pokemonIds": [
+      "miltank",
+      "makuhita",
+      "hariyama",
+      "throh",
+      "venipede",
+      "whirlipede",
+      "scolipede",
+      "mudbray",
+      "mudsdale",
+      "zamazenta",
+      "tadbulb",
+      "bellibolt",
+      "ting_lu",
+      "archaludon"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

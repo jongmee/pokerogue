@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "lets_snuggle_forever",
+    "name": "Let's Snuggle Forever",
+    "koName": "투닥투닥프렌드타임",
+    "type": "fairy",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 190,
+    "accuracy": -1,
+    "powerPoint": 1,
+    "effect": "Z파워를 얻은 따라큐가 전력으로 투닥투닥 공격한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": " (P)",
+    "flags": [
+      "makes_contact",
+      "ignore_virtual"
+    ],
+    "pokemonIds": []
+  }
+]

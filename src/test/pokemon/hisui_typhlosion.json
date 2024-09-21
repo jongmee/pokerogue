@@ -1,0 +1,194 @@
+[
+  {
+    "_id": "hisui_typhlosion",
+    "gender": "",
+    "pokedexNumber": "6157",
+    "name": "hisui_typhlosion",
+    "koName": "블레이범",
+    "speciesName": "hisui_typhlosion",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "240",
+    "friendship": "70",
+    "types": [
+      "fire",
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "blaze"
+    ],
+    "hiddenAbilityId": "frisk",
+    "passiveAbilityId": "drought",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 534,
+    "hp": 73,
+    "attack": 84,
+    "defense": 78,
+    "specialAttack": 119,
+    "specialDefense": 85,
+    "speed": 95,
+    "height": 1.6,
+    "weight": 69.8,
+    "eggMoveIds": [
+      "nasty_plot",
+      "scorching_sands",
+      "fiery_dance",
+      "electro_drift"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "infernal_parade"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 1,
+        "moveId": "smokescreen"
+      },
+      {
+        "level": 1,
+        "moveId": "eruption"
+      },
+      {
+        "level": 1,
+        "moveId": "gyro_ball"
+      },
+      {
+        "level": 13,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 20,
+        "moveId": "flame_wheel"
+      },
+      {
+        "level": 24,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": 31,
+        "moveId": "swift"
+      },
+      {
+        "level": 35,
+        "moveId": "flame_charge"
+      },
+      {
+        "level": 43,
+        "moveId": "lava_plume"
+      },
+      {
+        "level": 48,
+        "moveId": "flamethrower"
+      },
+      {
+        "level": 56,
+        "moveId": "inferno"
+      },
+      {
+        "level": 61,
+        "moveId": "rollout"
+      },
+      {
+        "level": 74,
+        "moveId": "overheat"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fire_punch",
+      "thunder_punch",
+      "cut",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "hyper_beam",
+      "low_kick",
+      "strength",
+      "solar_beam",
+      "fire_spin",
+      "earthquake",
+      "dig",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "fire_blast",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "curse",
+      "reversal",
+      "spite",
+      "protect",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "sunny_day",
+      "shadow_ball",
+      "rock_smash",
+      "heat_wave",
+      "will_o_wisp",
+      "facade",
+      "focus_punch",
+      "nature_power",
+      "brick_break",
+      "endeavor",
+      "blast_burn",
+      "overheat",
+      "aerial_ace",
+      "covet",
+      "calm_mind",
+      "gyro_ball",
+      "flare_blitz",
+      "focus_blast",
+      "giga_impact",
+      "shadow_claw",
+      "fire_fang",
+      "zen_headbutt",
+      "rock_climb",
+      "iron_head",
+      "flame_charge",
+      "hex",
+      "incinerate",
+      "fire_pledge",
+      "bulldoze",
+      "wild_charge",
+      "play_rough",
+      "stomping_tantrum",
+      "burning_jealousy",
+      "poltergeist",
+      "tera_blast",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "graveyard"
+    ]
+  }
+]

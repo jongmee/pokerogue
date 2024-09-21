@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "battery",
+    "name": "Battery",
+    "koName": "배터리",
+    "realased": "",
+    "description": "같은 편 특수 기술의 위력을 올린다.",
+    "generation": 7,
+    "pokemonIds": [
+      "charjabug"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

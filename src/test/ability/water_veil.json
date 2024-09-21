@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "water_veil",
+    "name": "Water Veil",
+    "koName": "수의베일",
+    "realased": "",
+    "description": "물의 베일을 몸에 둘러서 화상 상태가 되지 않는다.",
+    "generation": 3,
+    "pokemonIds": [
+      "goldeen",
+      "seaking",
+      "mantine",
+      "wailmer",
+      "wailord",
+      "huntail",
+      "buizel",
+      "floatzel",
+      "finneon",
+      "lumineon",
+      "mantyke",
+      "finizen",
+      "dondozo"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

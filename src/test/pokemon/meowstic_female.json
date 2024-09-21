@@ -1,0 +1,130 @@
+[
+  {
+    "_id": "meowstic_female",
+    "gender": "",
+    "pokedexNumber": "678",
+    "name": "meowstic_female",
+    "koName": "냐오닉스_female",
+    "speciesName": "meowstic",
+    "canChangeForm": true,
+    "formName": "female",
+    "baseExp": "163",
+    "friendship": "50",
+    "types": [
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "keen_eye",
+      "infiltrator"
+    ],
+    "hiddenAbilityId": "competitive",
+    "passiveAbilityId": "fur_coat",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 466,
+    "hp": 74,
+    "attack": 48,
+    "defense": 76,
+    "specialAttack": 83,
+    "specialDefense": 81,
+    "speed": 104,
+    "height": 0.6,
+    "weight": 8.5,
+    "eggMoveIds": [
+      "glare",
+      "moonblast",
+      "aura_sphere",
+      "psystrike"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "fake_out"
+      },
+      {
+        "level": 1,
+        "moveId": "magical_leaf"
+      },
+      {
+        "level": 1,
+        "moveId": "disarming_voice"
+      },
+      {
+        "level": 9,
+        "moveId": "confusion"
+      },
+      {
+        "level": 12,
+        "moveId": "stored_power"
+      },
+      {
+        "level": 15,
+        "moveId": "charge_beam"
+      },
+      {
+        "level": 18,
+        "moveId": "covet"
+      },
+      {
+        "level": 21,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 24,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 29,
+        "moveId": "role_play"
+      },
+      {
+        "level": 34,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 34,
+        "moveId": "reflect"
+      },
+      {
+        "level": 39,
+        "moveId": "psyshock"
+      },
+      {
+        "level": 44,
+        "moveId": "extrasensory"
+      },
+      {
+        "level": 49,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 54,
+        "moveId": "psychic"
+      },
+      {
+        "level": 59,
+        "moveId": "future_sight"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "future_sight",
+      "magical_leaf"
+    ],
+    "biomeIds": [
+      "metropolis"
+    ]
+  }
+]

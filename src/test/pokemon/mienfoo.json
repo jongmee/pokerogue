@@ -1,0 +1,174 @@
+[
+  {
+    "_id": "mienfoo",
+    "gender": "",
+    "pokedexNumber": "619",
+    "name": "mienfoo",
+    "koName": "비조푸",
+    "speciesName": "mienfoo",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "70",
+    "friendship": "50",
+    "types": [
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "inner_focus",
+      "regenerator"
+    ],
+    "hiddenAbilityId": "reckless",
+    "passiveAbilityId": "no_guard",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 350,
+    "hp": 45,
+    "attack": 85,
+    "defense": 50,
+    "specialAttack": 55,
+    "specialDefense": 50,
+    "speed": 65,
+    "height": 0.9,
+    "weight": 20,
+    "eggMoveIds": [
+      "gunk_shot",
+      "supercell_slam",
+      "knock_off",
+      "mountain_gale"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "detect"
+      },
+      {
+        "level": 5,
+        "moveId": "fake_out"
+      },
+      {
+        "level": 10,
+        "moveId": "reversal"
+      },
+      {
+        "level": 15,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 20,
+        "moveId": "quick_guard"
+      },
+      {
+        "level": 25,
+        "moveId": "force_palm"
+      },
+      {
+        "level": 30,
+        "moveId": "u_turn"
+      },
+      {
+        "level": 35,
+        "moveId": "drain_punch"
+      },
+      {
+        "level": 40,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 45,
+        "moveId": "aura_sphere"
+      },
+      {
+        "level": 51,
+        "moveId": "bounce"
+      },
+      {
+        "level": 55,
+        "moveId": "calm_mind"
+      },
+      {
+        "level": 60,
+        "moveId": "high_jump_kick"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "swords_dance",
+      "mega_kick",
+      "take_down",
+      "low_kick",
+      "strength",
+      "dig",
+      "toxic",
+      "agility",
+      "double_team",
+      "reflect",
+      "focus_energy",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "reversal",
+      "protect",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "rock_smash",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "revenge",
+      "brick_break",
+      "knock_off",
+      "rock_tomb",
+      "aerial_ace",
+      "bulk_up",
+      "bounce",
+      "calm_mind",
+      "u_turn",
+      "close_combat",
+      "payback",
+      "fling",
+      "aura_sphere",
+      "poison_jab",
+      "drain_punch",
+      "focus_blast",
+      "stone_edge",
+      "grass_knot",
+      "hone_claws",
+      "low_sweep",
+      "round",
+      "ally_switch",
+      "acrobatics",
+      "retaliate",
+      "work_up",
+      "confide",
+      "power_up_punch",
+      "coaching",
+      "tera_blast",
+      "trailblaze",
+      "upper_hand"
+    ],
+    "biomeIds": [
+      "dojo"
+    ]
+  }
+]

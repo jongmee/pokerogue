@@ -1,0 +1,119 @@
+[
+  {
+    "_id": "zarude_dada",
+    "gender": "",
+    "pokedexNumber": "893",
+    "name": "zarude_dada",
+    "koName": "자루도_dada",
+    "speciesName": "zarude",
+    "canChangeForm": true,
+    "formName": "dada",
+    "baseExp": "300",
+    "friendship": "0",
+    "types": [
+      "dark",
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "leaf_guard"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "tough_claws",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": true,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 600,
+    "hp": 105,
+    "attack": 120,
+    "defense": 105,
+    "specialAttack": 70,
+    "specialDefense": 95,
+    "speed": 105,
+    "height": 1.8,
+    "weight": 70,
+    "eggMoveIds": [
+      "sappy_seed",
+      "mighty_cleave",
+      "wicked_blow",
+      "victory_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "bind"
+      },
+      {
+        "level": 6,
+        "moveId": "leer"
+      },
+      {
+        "level": 12,
+        "moveId": "vine_whip"
+      },
+      {
+        "level": 18,
+        "moveId": "growth"
+      },
+      {
+        "level": 24,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 30,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 36,
+        "moveId": "grass_knot"
+      },
+      {
+        "level": 42,
+        "moveId": "bite"
+      },
+      {
+        "level": 48,
+        "moveId": "u_turn"
+      },
+      {
+        "level": 54,
+        "moveId": "swagger"
+      },
+      {
+        "level": 60,
+        "moveId": "energy_ball"
+      },
+      {
+        "level": 66,
+        "moveId": "synthesis"
+      },
+      {
+        "level": 72,
+        "moveId": "hammer_arm"
+      },
+      {
+        "level": 78,
+        "moveId": "thrash"
+      },
+      {
+        "level": 84,
+        "moveId": "power_whip"
+      },
+      {
+        "level": 90,
+        "moveId": "jungle_healing"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "jungle"
+    ]
+  }
+]

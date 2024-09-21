@@ -1,0 +1,115 @@
+[
+  {
+    "_id": "maushold_four",
+    "gender": "",
+    "pokedexNumber": "925",
+    "name": "maushold_four",
+    "koName": "파밀리쥐_four",
+    "speciesName": "maushold",
+    "canChangeForm": true,
+    "formName": "family_of four",
+    "baseExp": "165",
+    "friendship": "50",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "friend_guard",
+      "cheek_pouch"
+    ],
+    "hiddenAbilityId": "technician",
+    "passiveAbilityId": "scrappy",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 470,
+    "hp": 74,
+    "attack": 75,
+    "defense": 70,
+    "specialAttack": 65,
+    "specialDefense": 75,
+    "speed": 111,
+    "height": 0.3,
+    "weight": 2.8,
+    "eggMoveIds": [
+      "baton_pass",
+      "thief",
+      "sizzly_slide",
+      "revival_blessing"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "follow_me"
+      },
+      {
+        "level": 1,
+        "moveId": "baby_doll_eyes"
+      },
+      {
+        "level": 1,
+        "moveId": "tidy_up"
+      },
+      {
+        "level": 5,
+        "moveId": "echoed_voice"
+      },
+      {
+        "level": 8,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 11,
+        "moveId": "super_fang"
+      },
+      {
+        "level": 14,
+        "moveId": "double_hit"
+      },
+      {
+        "level": 18,
+        "moveId": "bullet_seed"
+      },
+      {
+        "level": 22,
+        "moveId": "encore"
+      },
+      {
+        "level": 29,
+        "moveId": "play_rough"
+      },
+      {
+        "level": 33,
+        "moveId": "hyper_voice"
+      },
+      {
+        "level": 37,
+        "moveId": "charm"
+      },
+      {
+        "level": 41,
+        "moveId": "beat_up"
+      },
+      {
+        "level": 46,
+        "moveId": "copycat"
+      },
+      {
+        "level": 53,
+        "moveId": "population_bomb"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "metropolis"
+    ]
+  }
+]

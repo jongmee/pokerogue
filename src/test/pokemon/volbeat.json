@@ -1,0 +1,186 @@
+[
+  {
+    "_id": "volbeat",
+    "gender": "",
+    "pokedexNumber": "313",
+    "name": "volbeat",
+    "koName": "볼비트",
+    "speciesName": "volbeat",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "151",
+    "friendship": "70",
+    "types": [
+      "bug"
+    ],
+    "normalAbilityIds": [
+      "illuminate",
+      "swarm"
+    ],
+    "hiddenAbilityId": "prankster",
+    "passiveAbilityId": "honey_gather",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 430,
+    "hp": 65,
+    "attack": 73,
+    "defense": 75,
+    "specialAttack": 47,
+    "specialDefense": 85,
+    "speed": 85,
+    "height": 0.7,
+    "weight": 17.7,
+    "eggMoveIds": [
+      "baton_pass",
+      "lunge",
+      "decorate",
+      "victory_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "flash"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 5,
+        "moveId": "double_team"
+      },
+      {
+        "level": 8,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 12,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 15,
+        "moveId": "struggle_bug"
+      },
+      {
+        "level": 19,
+        "moveId": "moonlight"
+      },
+      {
+        "level": 22,
+        "moveId": "tail_glow"
+      },
+      {
+        "level": 26,
+        "moveId": "protect"
+      },
+      {
+        "level": 29,
+        "moveId": "zen_headbutt"
+      },
+      {
+        "level": 33,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 36,
+        "moveId": "bug_buzz"
+      },
+      {
+        "level": 40,
+        "moveId": "play_rough"
+      },
+      {
+        "level": 43,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 47,
+        "moveId": "infestation"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "ice_punch",
+      "thunder_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "counter",
+      "solar_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "metronome",
+      "swift",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "mud_slap",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "trick",
+      "brick_break",
+      "endeavor",
+      "air_cutter",
+      "signal_beam",
+      "aerial_ace",
+      "water_pulse",
+      "roost",
+      "tailwind",
+      "u_turn",
+      "fling",
+      "air_slash",
+      "bug_buzz",
+      "zen_headbutt",
+      "defog",
+      "bug_bite",
+      "charge_beam",
+      "round",
+      "acrobatics",
+      "struggle_bug",
+      "play_rough",
+      "confide",
+      "dazzling_gleam",
+      "infestation",
+      "power_up_punch",
+      "lunge",
+      "skitter_smack",
+      "tera_blast",
+      "pounce",
+      "trailblaze",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "meadow"
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "_id": "infiltrator",
+    "name": "Infiltrator",
+    "koName": "틈새포착",
+    "realased": " (N)",
+    "description": "상대의 벽이나 대타출동을 뚫고 공격할 수 있다.",
+    "generation": 5,
+    "pokemonIds": [
+      "zubat",
+      "golbat",
+      "crobat",
+      "hoppip",
+      "skiploom",
+      "jumpluff",
+      "ninjask",
+      "seviper",
+      "spiritomb",
+      "cottonee",
+      "whimsicott",
+      "litwick",
+      "lampent",
+      "chandelure",
+      "espurr",
+      "meowstic",
+      "inkay",
+      "malamar",
+      "noibat",
+      "noivern",
+      "dreepy",
+      "drakloak",
+      "dragapult",
+      "bramblin",
+      "brambleghast"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

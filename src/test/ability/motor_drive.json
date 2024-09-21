@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "motor_drive",
+    "name": "Motor Drive",
+    "koName": "전기엔진",
+    "realased": "",
+    "description": "전기타입의 기술을 받으면 데미지를 받지 않고 스피드가 올라간다.",
+    "generation": 4,
+    "pokemonIds": [
+      "electivire",
+      "blitzle",
+      "zebstrika",
+      "emolga"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

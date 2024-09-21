@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "overcoat",
+    "name": "Overcoat",
+    "koName": "방진",
+    "realased": "",
+    "description": "모래바람이나 싸라기눈 등의 데미지를 입지 않는다. 가루의 기술을 받지 않는다.",
+    "generation": 5,
+    "pokemonIds": [
+      "shellder",
+      "cloyster",
+      "pineco",
+      "forretress",
+      "shelgon",
+      "burmy_plant",
+      "burmy_sandy",
+      "burmy_trash",
+      "sewaddle",
+      "swadloon",
+      "leavanny",
+      "solosis",
+      "duosion",
+      "reuniclus",
+      "escavalier",
+      "shelmet",
+      "vullaby",
+      "mandibuzz",
+      "jangmo_o",
+      "hakamo_o",
+      "kommo_o",
+      "enamorus_therian",
+      "varoom",
+      "revavroom"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "_id": "barraskewda",
+    "gender": "",
+    "pokedexNumber": "847",
+    "name": "barraskewda",
+    "koName": "꼬치조",
+    "speciesName": "barraskewda",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "172",
+    "friendship": "50",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "swift_swim"
+    ],
+    "hiddenAbilityId": "propeller_tail",
+    "passiveAbilityId": "intimidate",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 490,
+    "hp": 61,
+    "attack": 123,
+    "defense": 60,
+    "specialAttack": 60,
+    "specialDefense": 50,
+    "speed": 136,
+    "height": 1.3,
+    "weight": 30,
+    "eggMoveIds": [
+      "supercell_slam",
+      "knock_off",
+      "ice_spinner",
+      "fillet_away"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "fury_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "bite"
+      },
+      {
+        "level": 1,
+        "moveId": "peck"
+      },
+      {
+        "level": 1,
+        "moveId": "aqua_jet"
+      },
+      {
+        "level": 1,
+        "moveId": "throat_chop"
+      },
+      {
+        "level": 18,
+        "moveId": "agility"
+      },
+      {
+        "level": 24,
+        "moveId": "dive"
+      },
+      {
+        "level": 32,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 40,
+        "moveId": "crunch"
+      },
+      {
+        "level": 48,
+        "moveId": "liquidation"
+      },
+      {
+        "level": 56,
+        "moveId": "double_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "double_edge",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "agility",
+      "double_team",
+      "focus_energy",
+      "waterfall",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "scary_face",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "crunch",
+      "whirlpool",
+      "facade",
+      "brick_break",
+      "dive",
+      "bounce",
+      "water_pulse",
+      "close_combat",
+      "assurance",
+      "poison_jab",
+      "giga_impact",
+      "ice_fang",
+      "round",
+      "scald",
+      "drill_run",
+      "throat_chop",
+      "psychic_fangs",
+      "liquidation",
+      "scale_shot",
+      "flip_turn",
+      "tera_blast",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "seabed"
+    ]
+  }
+]

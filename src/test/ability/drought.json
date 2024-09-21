@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "drought",
+    "name": "Drought",
+    "koName": "가뭄",
+    "realased": "",
+    "description": "등장했을 때 날씨를 맑음으로 만든다.",
+    "generation": 3,
+    "pokemonIds": [
+      "charizard_mega_y",
+      "vulpix",
+      "ninetales",
+      "moltres",
+      "cyndaquil",
+      "quilava",
+      "typhlosion",
+      "sunkern",
+      "sunflora",
+      "houndour",
+      "houndoom",
+      "houndoom_mega",
+      "torkoal",
+      "solrock",
+      "groudon",
+      "larvesta",
+      "volcarona",
+      "hisui_typhlosion"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

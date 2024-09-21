@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "court_change",
+    "name": "Court Change",
+    "koName": "코트체인지",
+    "type": "normal",
+    "moveCategory": "status",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "이상한 힘으로 서로의 필드 효과를 교체한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 8,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "cinderace"
+    ]
+  }
+]

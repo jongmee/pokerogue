@@ -1,0 +1,135 @@
+[
+  {
+    "_id": "dolliv",
+    "gender": "",
+    "pokedexNumber": "929",
+    "name": "dolliv",
+    "koName": "올리뇨",
+    "speciesName": "dolliv",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "124",
+    "friendship": "50",
+    "types": [
+      "grass",
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "early_bird"
+    ],
+    "hiddenAbilityId": "harvest",
+    "passiveAbilityId": "ripen",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 354,
+    "hp": 52,
+    "attack": 53,
+    "defense": 60,
+    "specialAttack": 78,
+    "specialDefense": 78,
+    "speed": 33,
+    "height": 0.6,
+    "weight": 11.9,
+    "eggMoveIds": [
+      "strength_sap",
+      "earth_power",
+      "calm_mind",
+      "boomburst"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 5,
+        "moveId": "absorb"
+      },
+      {
+        "level": 7,
+        "moveId": "growth"
+      },
+      {
+        "level": 10,
+        "moveId": "razor_leaf"
+      },
+      {
+        "level": 13,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 16,
+        "moveId": "flail"
+      },
+      {
+        "level": 20,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 23,
+        "moveId": "grassy_terrain"
+      },
+      {
+        "level": 29,
+        "moveId": "seed_bomb"
+      },
+      {
+        "level": 34,
+        "moveId": "energy_ball"
+      },
+      {
+        "level": 37,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 42,
+        "moveId": "terrain_pulse"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "solar_beam",
+      "double_team",
+      "swift",
+      "rest",
+      "substitute",
+      "protect",
+      "giga_drain",
+      "endure",
+      "charm",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "synthesis",
+      "hidden_power",
+      "sunny_day",
+      "facade",
+      "helping_hand",
+      "weather_ball",
+      "bullet_seed",
+      "magical_leaf",
+      "seed_bomb",
+      "energy_ball",
+      "earth_power",
+      "leaf_storm",
+      "grass_knot",
+      "grassy_terrain",
+      "solar_blade",
+      "terrain_pulse",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "meadow"
+    ]
+  }
+]

@@ -1,0 +1,179 @@
+[
+  {
+    "_id": "sharpedo",
+    "gender": "",
+    "pokedexNumber": "319",
+    "name": "sharpedo",
+    "koName": "샤크니아",
+    "speciesName": "sharpedo",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "161",
+    "friendship": "35",
+    "types": [
+      "water",
+      "dark"
+    ],
+    "normalAbilityIds": [
+      "rough_skin"
+    ],
+    "hiddenAbilityId": "speed_boost",
+    "passiveAbilityId": "sheer_force",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 460,
+    "hp": 70,
+    "attack": 120,
+    "defense": 40,
+    "specialAttack": 95,
+    "specialDefense": 40,
+    "speed": 95,
+    "height": 1.8,
+    "weight": 88.8,
+    "eggMoveIds": [
+      "thunder_fang",
+      "swords_dance",
+      "obstruct",
+      "surging_strikes"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "slash"
+      },
+      {
+        "level": 1,
+        "moveId": "night_slash"
+      },
+      {
+        "level": 1,
+        "moveId": "aqua_jet"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "poison_fang"
+      },
+      {
+        "level": 1,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 12,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 16,
+        "moveId": "bite"
+      },
+      {
+        "level": 20,
+        "moveId": "ice_fang"
+      },
+      {
+        "level": 24,
+        "moveId": "screech"
+      },
+      {
+        "level": 28,
+        "moveId": "swagger"
+      },
+      {
+        "level": 34,
+        "moveId": "crunch"
+      },
+      {
+        "level": 40,
+        "moveId": "agility"
+      },
+      {
+        "level": 46,
+        "moveId": "liquidation"
+      },
+      {
+        "level": 52,
+        "moveId": "take_down"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "roar",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "strength",
+      "earthquake",
+      "toxic",
+      "agility",
+      "screech",
+      "double_team",
+      "focus_energy",
+      "waterfall",
+      "swift",
+      "rest",
+      "super_fang",
+      "substitute",
+      "thief",
+      "snore",
+      "spite",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "crunch",
+      "rock_smash",
+      "whirlpool",
+      "uproar",
+      "hail",
+      "torment",
+      "facade",
+      "taunt",
+      "dive",
+      "rock_tomb",
+      "bounce",
+      "water_pulse",
+      "brine",
+      "close_combat",
+      "payback",
+      "assurance",
+      "poison_jab",
+      "dark_pulse",
+      "giga_impact",
+      "avalanche",
+      "ice_fang",
+      "zen_headbutt",
+      "round",
+      "scald",
+      "retaliate",
+      "bulldoze",
+      "snarl",
+      "confide",
+      "psychic_fangs",
+      "liquidation",
+      "scale_shot",
+      "flip_turn",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "sea"
+    ]
+  }
+]

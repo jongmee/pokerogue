@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "tectonic_rage__special",
+    "name": "Tectonic Rage",
+    "koName": "라이징랜드오버",
+    "type": "ground",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 1,
+    "effect": "Dummy Data",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": " (N)",
+    "flags": [
+      "ignore_virtual"
+    ],
+    "pokemonIds": []
+  }
+]

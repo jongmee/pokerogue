@@ -1,0 +1,196 @@
+[
+  {
+    "_id": "onix",
+    "gender": "",
+    "pokedexNumber": "95",
+    "name": "onix",
+    "koName": "롱스톤",
+    "speciesName": "onix",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "77",
+    "friendship": "50",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "normalAbilityIds": [
+      "rock_head",
+      "sturdy"
+    ],
+    "hiddenAbilityId": "weak_armor",
+    "passiveAbilityId": "rocky_payload",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 385,
+    "hp": 35,
+    "attack": 45,
+    "defense": 160,
+    "specialAttack": 30,
+    "specialDefense": 45,
+    "speed": 70,
+    "height": 8.8,
+    "weight": 210,
+    "eggMoveIds": [
+      "shore_up",
+      "body_press",
+      "heavy_slam",
+      "diamond_storm"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "bind"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "rock_throw"
+      },
+      {
+        "level": 1,
+        "moveId": "harden"
+      },
+      {
+        "level": 1,
+        "moveId": "mud_sport"
+      },
+      {
+        "level": 4,
+        "moveId": "smack_down"
+      },
+      {
+        "level": 8,
+        "moveId": "rock_polish"
+      },
+      {
+        "level": 12,
+        "moveId": "dragon_breath"
+      },
+      {
+        "level": 16,
+        "moveId": "curse"
+      },
+      {
+        "level": 20,
+        "moveId": "rock_slide"
+      },
+      {
+        "level": 24,
+        "moveId": "screech"
+      },
+      {
+        "level": 28,
+        "moveId": "sand_tomb"
+      },
+      {
+        "level": 32,
+        "moveId": "stealth_rock"
+      },
+      {
+        "level": 36,
+        "moveId": "slam"
+      },
+      {
+        "level": 40,
+        "moveId": "sandstorm"
+      },
+      {
+        "level": 44,
+        "moveId": "dig"
+      },
+      {
+        "level": 48,
+        "moveId": "iron_tail"
+      },
+      {
+        "level": 52,
+        "moveId": "stone_edge"
+      },
+      {
+        "level": 56,
+        "moveId": "double_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "strength",
+      "earthquake",
+      "dig",
+      "toxic",
+      "screech",
+      "double_team",
+      "self_destruct",
+      "explosion",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "sunny_day",
+      "psych_up",
+      "rock_smash",
+      "torment",
+      "facade",
+      "nature_power",
+      "taunt",
+      "rock_tomb",
+      "sand_tomb",
+      "dragon_dance",
+      "rock_blast",
+      "gyro_ball",
+      "payback",
+      "rock_polish",
+      "dragon_pulse",
+      "earth_power",
+      "flash_cannon",
+      "rock_climb",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "smack_down",
+      "heavy_slam",
+      "round",
+      "bulldoze",
+      "dragon_tail",
+      "drill_run",
+      "confide",
+      "high_horsepower",
+      "brutal_swing",
+      "stomping_tantrum",
+      "body_press",
+      "breaking_swipe",
+      "meteor_beam",
+      "scorching_sands",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "badlands",
+      "cave",
+      "construction_site"
+    ]
+  }
+]

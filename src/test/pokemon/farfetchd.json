@@ -1,0 +1,175 @@
+[
+  {
+    "_id": "farfetchd",
+    "gender": "",
+    "pokedexNumber": "83",
+    "name": "farfetchd",
+    "koName": "파오리",
+    "speciesName": "farfetchd",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "132",
+    "friendship": "50",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "keen_eye",
+      "inner_focus"
+    ],
+    "hiddenAbilityId": "defiant",
+    "passiveAbilityId": "sniper",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 377,
+    "hp": 52,
+    "attack": 90,
+    "defense": 55,
+    "specialAttack": 58,
+    "specialDefense": 62,
+    "speed": 60,
+    "height": 0.8,
+    "weight": 15,
+    "eggMoveIds": [
+      "ivy_cudgel",
+      "triple_arrows",
+      "roost",
+      "victory_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "peck"
+      },
+      {
+        "level": 5,
+        "moveId": "leer"
+      },
+      {
+        "level": 10,
+        "moveId": "fury_cutter"
+      },
+      {
+        "level": 15,
+        "moveId": "cut"
+      },
+      {
+        "level": 20,
+        "moveId": "aerial_ace"
+      },
+      {
+        "level": 25,
+        "moveId": "air_cutter"
+      },
+      {
+        "level": 30,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 35,
+        "moveId": "false_swipe"
+      },
+      {
+        "level": 40,
+        "moveId": "slash"
+      },
+      {
+        "level": 45,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 50,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 55,
+        "moveId": "leaf_blade"
+      },
+      {
+        "level": 60,
+        "moveId": "agility"
+      },
+      {
+        "level": 65,
+        "moveId": "brave_bird"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "fly",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "toxic",
+      "agility",
+      "double_team",
+      "reflect",
+      "focus_energy",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "iron_tail",
+      "hidden_power",
+      "sunny_day",
+      "psych_up",
+      "uproar",
+      "heat_wave",
+      "facade",
+      "helping_hand",
+      "revenge",
+      "knock_off",
+      "feather_dance",
+      "air_cutter",
+      "aerial_ace",
+      "covet",
+      "leaf_blade",
+      "roost",
+      "pluck",
+      "tailwind",
+      "u_turn",
+      "close_combat",
+      "poison_jab",
+      "air_slash",
+      "brave_bird",
+      "defog",
+      "round",
+      "acrobatics",
+      "retaliate",
+      "work_up",
+      "confide",
+      "solar_blade",
+      "throat_chop",
+      "brutal_swing",
+      "dual_wingbeat",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "plains"
+    ]
+  }
+]

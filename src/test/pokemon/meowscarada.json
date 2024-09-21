@@ -1,0 +1,198 @@
+[
+  {
+    "_id": "meowscarada",
+    "gender": "",
+    "pokedexNumber": "908",
+    "name": "meowscarada",
+    "koName": "마스카나",
+    "speciesName": "meowscarada",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "265",
+    "friendship": "50",
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "normalAbilityIds": [
+      "overgrow"
+    ],
+    "hiddenAbilityId": "protean",
+    "passiveAbilityId": "magician",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 530,
+    "hp": 76,
+    "attack": 110,
+    "defense": 70,
+    "specialAttack": 81,
+    "specialDefense": 70,
+    "speed": 123,
+    "height": 1.5,
+    "weight": 31.2,
+    "eggMoveIds": [
+      "fire_lash",
+      "triple_axel",
+      "sucker_punch",
+      "wicked_blow"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "flower_trick"
+      },
+      {
+        "level": -1,
+        "moveId": "double_team"
+      },
+      {
+        "level": -1,
+        "moveId": "trick"
+      },
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "leafage"
+      },
+      {
+        "level": 7,
+        "moveId": "bite"
+      },
+      {
+        "level": 10,
+        "moveId": "hone_claws"
+      },
+      {
+        "level": 13,
+        "moveId": "magical_leaf"
+      },
+      {
+        "level": 15,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 20,
+        "moveId": "seed_bomb"
+      },
+      {
+        "level": 24,
+        "moveId": "u_turn"
+      },
+      {
+        "level": 29,
+        "moveId": "worry_seed"
+      },
+      {
+        "level": 33,
+        "moveId": "slash"
+      },
+      {
+        "level": 38,
+        "moveId": "night_slash"
+      },
+      {
+        "level": 42,
+        "moveId": "energy_ball"
+      },
+      {
+        "level": 47,
+        "moveId": "play_rough"
+      },
+      {
+        "level": 52,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 58,
+        "moveId": "grassy_terrain"
+      },
+      {
+        "level": 64,
+        "moveId": "leaf_storm"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "thunder_punch",
+      "take_down",
+      "hyper_beam",
+      "low_kick",
+      "solar_beam",
+      "agility",
+      "double_team",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "protect",
+      "mud_slap",
+      "spikes",
+      "giga_drain",
+      "endure",
+      "charm",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "shadow_ball",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "trick",
+      "brick_break",
+      "knock_off",
+      "skill_swap",
+      "fake_tears",
+      "bullet_seed",
+      "aerial_ace",
+      "frenzy_plant",
+      "magical_leaf",
+      "u_turn",
+      "fling",
+      "worry_seed",
+      "toxic_spikes",
+      "aura_sphere",
+      "dark_pulse",
+      "seed_bomb",
+      "power_gem",
+      "energy_ball",
+      "giga_impact",
+      "nasty_plot",
+      "shadow_claw",
+      "trick_room",
+      "leaf_storm",
+      "grass_knot",
+      "hone_claws",
+      "low_sweep",
+      "foul_play",
+      "acrobatics",
+      "grass_pledge",
+      "petal_blizzard",
+      "disarming_voice",
+      "grassy_terrain",
+      "play_rough",
+      "pollen_puff",
+      "grassy_glide",
+      "lash_out",
+      "triple_axel",
+      "tera_blast",
+      "trailblaze",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "meadow"
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "_id": "punk_rock",
+    "name": "Punk Rock",
+    "koName": "펑크록",
+    "realased": "",
+    "description": "소리 기술의 위력이 올라간다. 상대로부터 받는 소리 기술의 데미지는 절반이 된다.",
+    "generation": 8,
+    "pokemonIds": [
+      "whismur",
+      "loudred",
+      "exploud",
+      "chimecho",
+      "chingling",
+      "chatot",
+      "noibat",
+      "noivern",
+      "popplio",
+      "brionne",
+      "primarina",
+      "toxtricity",
+      "toxtricity_lowkey",
+      "toxtricity_gigantamax",
+      "fuecoco",
+      "crocalor",
+      "skeledirge"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

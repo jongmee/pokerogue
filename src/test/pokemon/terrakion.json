@@ -1,0 +1,175 @@
+[
+  {
+    "_id": "terrakion",
+    "gender": "",
+    "pokedexNumber": "639",
+    "name": "terrakion",
+    "koName": "테라키온",
+    "speciesName": "terrakion",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "290",
+    "friendship": "35",
+    "types": [
+      "rock",
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "justified"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "rocky_payload",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 580,
+    "hp": 91,
+    "attack": 129,
+    "defense": 90,
+    "specialAttack": 72,
+    "specialDefense": 90,
+    "speed": 108,
+    "height": 1.9,
+    "weight": 260,
+    "eggMoveIds": [
+      "mighty_cleave",
+      "headlong_rush",
+      "ceaseless_edge",
+      "victory_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 1,
+        "moveId": "work_up"
+      },
+      {
+        "level": 7,
+        "moveId": "smack_down"
+      },
+      {
+        "level": 14,
+        "moveId": "quick_guard"
+      },
+      {
+        "level": 21,
+        "moveId": "double_kick"
+      },
+      {
+        "level": 28,
+        "moveId": "retaliate"
+      },
+      {
+        "level": 35,
+        "moveId": "rock_slide"
+      },
+      {
+        "level": 42,
+        "moveId": "take_down"
+      },
+      {
+        "level": 49,
+        "moveId": "sacred_sword"
+      },
+      {
+        "level": 56,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 63,
+        "moveId": "stone_edge"
+      },
+      {
+        "level": 70,
+        "moveId": "close_combat"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "hyper_beam",
+      "strength",
+      "earthquake",
+      "toxic",
+      "double_team",
+      "reflect",
+      "swift",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "reversal",
+      "protect",
+      "scary_face",
+      "sandstorm",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "megahorn",
+      "hidden_power",
+      "psych_up",
+      "rock_smash",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "superpower",
+      "revenge",
+      "brick_break",
+      "rock_tomb",
+      "aerial_ace",
+      "calm_mind",
+      "rock_blast",
+      "close_combat",
+      "rock_polish",
+      "poison_jab",
+      "air_slash",
+      "x_scissor",
+      "focus_blast",
+      "earth_power",
+      "giga_impact",
+      "zen_headbutt",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "smack_down",
+      "round",
+      "retaliate",
+      "bulldoze",
+      "work_up",
+      "sacred_sword",
+      "confide",
+      "high_horsepower",
+      "smart_strike",
+      "stomping_tantrum",
+      "coaching",
+      "tera_blast",
+      "upper_hand"
+    ],
+    "biomeIds": [
+      "dojo"
+    ]
+  }
+]

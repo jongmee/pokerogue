@@ -1,0 +1,192 @@
+[
+  {
+    "_id": "starmie",
+    "gender": "",
+    "pokedexNumber": "121",
+    "name": "starmie",
+    "koName": "아쿠스타",
+    "speciesName": "starmie",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "182",
+    "friendship": "50",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "illuminate",
+      "natural_cure"
+    ],
+    "hiddenAbilityId": "analytic",
+    "passiveAbilityId": "regenerator",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 520,
+    "hp": 60,
+    "attack": 75,
+    "defense": 85,
+    "specialAttack": 100,
+    "specialDefense": 85,
+    "speed": 115,
+    "height": 1.1,
+    "weight": 80,
+    "eggMoveIds": [
+      "calm_mind",
+      "bouncy_bubble",
+      "moonblast",
+      "mystical_power"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "hydro_pump"
+      },
+      {
+        "level": 1,
+        "moveId": "surf"
+      },
+      {
+        "level": 1,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 1,
+        "moveId": "psychic"
+      },
+      {
+        "level": 1,
+        "moveId": "recover"
+      },
+      {
+        "level": 1,
+        "moveId": "harden"
+      },
+      {
+        "level": 1,
+        "moveId": "minimize"
+      },
+      {
+        "level": 1,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 1,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 1,
+        "moveId": "swift"
+      },
+      {
+        "level": 1,
+        "moveId": "spotlight"
+      },
+      {
+        "level": 1,
+        "moveId": "rapid_spin"
+      },
+      {
+        "level": 1,
+        "moveId": "cosmic_power"
+      },
+      {
+        "level": 1,
+        "moveId": "brine"
+      },
+      {
+        "level": 1,
+        "moveId": "power_gem"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "double_edge",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "psybeam",
+      "hyper_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "psychic",
+      "agility",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "waterfall",
+      "swift",
+      "dream_eater",
+      "flash",
+      "rest",
+      "tri_attack",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "hidden_power",
+      "rain_dance",
+      "psych_up",
+      "whirlpool",
+      "hail",
+      "facade",
+      "trick",
+      "recycle",
+      "skill_swap",
+      "dive",
+      "cosmic_power",
+      "signal_beam",
+      "water_pulse",
+      "gravity",
+      "gyro_ball",
+      "brine",
+      "power_gem",
+      "giga_impact",
+      "avalanche",
+      "psycho_cut",
+      "flash_cannon",
+      "trick_room",
+      "grass_knot",
+      "wonder_room",
+      "psyshock",
+      "round",
+      "ally_switch",
+      "scald",
+      "confide",
+      "dazzling_gleam",
+      "expanding_force",
+      "meteor_beam",
+      "flip_turn",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "beach",
+      "sea"
+    ]
+  }
+]

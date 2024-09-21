@@ -1,0 +1,102 @@
+[
+  {
+    "_id": "alcremie_salted_cream",
+    "gender": "",
+    "pokedexNumber": "869",
+    "name": "alcremie_salted_cream",
+    "koName": "마휘핑_salted_cream",
+    "speciesName": "alcremie",
+    "canChangeForm": true,
+    "formName": "salted_cream",
+    "baseExp": "173",
+    "friendship": "50",
+    "types": [
+      "fairy"
+    ],
+    "normalAbilityIds": [
+      "sweet_veil"
+    ],
+    "hiddenAbilityId": "aroma_veil",
+    "passiveAbilityId": "regenerator",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 495,
+    "hp": 65,
+    "attack": 60,
+    "defense": 75,
+    "specialAttack": 110,
+    "specialDefense": 121,
+    "speed": 64,
+    "height": 0.3,
+    "weight": 0.5,
+    "eggMoveIds": [
+      "moonblast",
+      "chilly_reception",
+      "earth_power",
+      "geomancy"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "decorate"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "sweet_kiss"
+      },
+      {
+        "level": 1,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 1,
+        "moveId": "aromatic_mist"
+      },
+      {
+        "level": 15,
+        "moveId": "draining_kiss"
+      },
+      {
+        "level": 20,
+        "moveId": "aromatherapy"
+      },
+      {
+        "level": 25,
+        "moveId": "attract"
+      },
+      {
+        "level": 30,
+        "moveId": "acid_armor"
+      },
+      {
+        "level": 35,
+        "moveId": "dazzling_gleam"
+      },
+      {
+        "level": 40,
+        "moveId": "recover"
+      },
+      {
+        "level": 45,
+        "moveId": "misty_terrain"
+      },
+      {
+        "level": 50,
+        "moveId": "entrainment"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "fairy_cave"
+    ]
+  }
+]

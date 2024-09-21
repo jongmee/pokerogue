@@ -1,0 +1,166 @@
+[
+  {
+    "_id": "frillish",
+    "gender": "",
+    "pokedexNumber": "592",
+    "name": "frillish",
+    "koName": "탱그릴",
+    "speciesName": "frillish",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "67",
+    "friendship": "50",
+    "types": [
+      "water",
+      "ghost"
+    ],
+    "normalAbilityIds": [
+      "water_absorb",
+      "cursed_body"
+    ],
+    "hiddenAbilityId": "damp",
+    "passiveAbilityId": "unaware",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 335,
+    "hp": 55,
+    "attack": 40,
+    "defense": 50,
+    "specialAttack": 65,
+    "specialDefense": 85,
+    "speed": 40,
+    "height": 1.2,
+    "weight": 33,
+    "eggMoveIds": [
+      "strength_sap",
+      "infernal_parade",
+      "freeze_dry",
+      "steam_eruption"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 1,
+        "moveId": "water_sport"
+      },
+      {
+        "level": 4,
+        "moveId": "poison_sting"
+      },
+      {
+        "level": 8,
+        "moveId": "night_shade"
+      },
+      {
+        "level": 12,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 16,
+        "moveId": "rain_dance"
+      },
+      {
+        "level": 20,
+        "moveId": "hex"
+      },
+      {
+        "level": 24,
+        "moveId": "brine"
+      },
+      {
+        "level": 28,
+        "moveId": "recover"
+      },
+      {
+        "level": 32,
+        "moveId": "shadow_ball"
+      },
+      {
+        "level": 36,
+        "moveId": "whirlpool"
+      },
+      {
+        "level": 41,
+        "moveId": "hydro_pump"
+      },
+      {
+        "level": 44,
+        "moveId": "destiny_bond"
+      },
+      {
+        "level": 48,
+        "moveId": "water_spout"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "toxic",
+      "psychic",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "waterfall",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "spite",
+      "protect",
+      "sludge_bomb",
+      "icy_wind",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "pain_split",
+      "hidden_power",
+      "rain_dance",
+      "psych_up",
+      "shadow_ball",
+      "whirlpool",
+      "hail",
+      "will_o_wisp",
+      "facade",
+      "taunt",
+      "trick",
+      "imprison",
+      "dive",
+      "water_pulse",
+      "brine",
+      "dark_pulse",
+      "energy_ball",
+      "trick_room",
+      "sludge_wave",
+      "round",
+      "scald",
+      "hex",
+      "confide",
+      "dazzling_gleam",
+      "poltergeist",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "seabed"
+    ]
+  }
+]

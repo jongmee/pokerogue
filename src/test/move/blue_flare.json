@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "blue_flare",
+    "name": "Blue Flare",
+    "koName": "푸른불꽃",
+    "type": "fire",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 130,
+    "accuracy": 85,
+    "powerPoint": 5,
+    "effect": "아름다우면서도 격렬한 푸른불꽃으로 상대를 둘러싸서 공격한다. 화상 상태로 만들 때가 있다.",
+    "effectChance": 20,
+    "prioirty": 0,
+    "generation": 5,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "numel",
+      "camerupt",
+      "camerupt_mega",
+      "latios",
+      "latios_mega",
+      "victini",
+      "reshiram",
+      "chi_yu"
+    ]
+  }
+]

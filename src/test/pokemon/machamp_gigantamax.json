@@ -1,0 +1,118 @@
+[
+  {
+    "_id": "machamp_gigantamax",
+    "gender": "",
+    "pokedexNumber": "68",
+    "name": "machamp_gigantamax",
+    "koName": "괴력몬_gigantamax",
+    "speciesName": "machamp",
+    "canChangeForm": true,
+    "formName": "g_max",
+    "baseExp": "253",
+    "friendship": "50",
+    "types": [
+      "fighting"
+    ],
+    "normalAbilityIds": [
+      "guts"
+    ],
+    "hiddenAbilityId": "guts",
+    "passiveAbilityId": "quick_feet",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 605,
+    "hp": 115,
+    "attack": 170,
+    "defense": 95,
+    "specialAttack": 65,
+    "specialDefense": 95,
+    "speed": 65,
+    "height": 25,
+    "weight": 130,
+    "eggMoveIds": [
+      "combat_torque",
+      "meteor_mash",
+      "mountain_gale",
+      "fissure"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "low_kick"
+      },
+      {
+        "level": 1,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 1,
+        "moveId": "revenge"
+      },
+      {
+        "level": 1,
+        "moveId": "wide_guard"
+      },
+      {
+        "level": 1,
+        "moveId": "karate_chop"
+      },
+      {
+        "level": 12,
+        "moveId": "low_sweep"
+      },
+      {
+        "level": 16,
+        "moveId": "knock_off"
+      },
+      {
+        "level": 20,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 24,
+        "moveId": "vital_throw"
+      },
+      {
+        "level": 31,
+        "moveId": "strength"
+      },
+      {
+        "level": 36,
+        "moveId": "dual_chop"
+      },
+      {
+        "level": 42,
+        "moveId": "bulk_up"
+      },
+      {
+        "level": 48,
+        "moveId": "seismic_toss"
+      },
+      {
+        "level": 54,
+        "moveId": "dynamic_punch"
+      },
+      {
+        "level": 60,
+        "moveId": "cross_chop"
+      },
+      {
+        "level": 66,
+        "moveId": "double_edge"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "construction_site"
+    ]
+  }
+]

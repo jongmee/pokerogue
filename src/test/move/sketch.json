@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "sketch",
+    "name": "Sketch",
+    "koName": "스케치",
+    "type": "normal",
+    "moveCategory": "status",
+    "moveTarget": "near_other",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 1,
+    "effect": "상대가 쓴 기술을 자신의 것으로 만든다. 한 번 사용하면 스케치는 사라진다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 2,
+    "realased": "",
+    "flags": [
+      "ignore_virtual"
+    ],
+    "pokemonIds": [
+      "ditto",
+      "smeargle",
+      "shroodle",
+      "grafaiai"
+    ]
+  }
+]

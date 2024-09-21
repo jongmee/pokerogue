@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "revelation_dance",
+    "name": "Revelation Dance",
+    "koName": "잠재댄스",
+    "type": "normal",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 90,
+    "accuracy": 100,
+    "powerPoint": 15,
+    "effect": "전력으로 춤추며 공격한다. 이 기술의 타입은 자신의 타입과 같아진다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": "",
+    "flags": [
+      "dance_move"
+    ],
+    "pokemonIds": [
+      "lotad",
+      "lombre",
+      "ludicolo",
+      "oricorio"
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "oblivion_wing",
+    "name": "Oblivion Wing",
+    "koName": "데스윙",
+    "type": "flying",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 80,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "조준한 상대로부터 HP를 흡수한다. 준 데미지의 반 이상 HP를 회복한다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 6,
+    "realased": "",
+    "flags": [
+      "triage_move"
+    ],
+    "pokemonIds": [
+      "charmander",
+      "charmeleon",
+      "charizard",
+      "charizard_mega_x",
+      "charizard_mega_y",
+      "charizard_gigantamax",
+      "mantine",
+      "lugia",
+      "rayquaza",
+      "rayquaza_mega",
+      "drifloon",
+      "drifblim",
+      "mantyke",
+      "woobat",
+      "swoobat",
+      "sigilyph",
+      "tornadus_incarnate",
+      "tornadus_therian",
+      "yveltal",
+      "oricorio",
+      "celesteela",
+      "cramorant",
+      "enamorus_incarnate",
+      "enamorus_therian",
+      "iron_jugulis",
+      "galar_articuno",
+      "galar_moltres"
+    ]
+  }
+]

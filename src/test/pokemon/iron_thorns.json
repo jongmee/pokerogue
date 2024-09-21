@@ -1,0 +1,202 @@
+[
+  {
+    "_id": "iron_thorns",
+    "gender": "",
+    "pokedexNumber": "995",
+    "name": "iron_thorns",
+    "koName": "무쇠가시",
+    "speciesName": "iron_thorns",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "285",
+    "friendship": "0",
+    "types": [
+      "rock",
+      "electric"
+    ],
+    "normalAbilityIds": [
+      "quark_drive"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "sand_stream",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 570,
+    "hp": 100,
+    "attack": 134,
+    "defense": 110,
+    "specialAttack": 70,
+    "specialDefense": 84,
+    "speed": 72,
+    "height": 1.6,
+    "weight": 303,
+    "eggMoveIds": [
+      "diamond_storm",
+      "shore_up",
+      "shift_gear",
+      "plasma_fists"
+    ],
+    "levelMoves": [
+      {
+        "level": -1,
+        "moveId": "electric_terrain"
+      },
+      {
+        "level": 1,
+        "moveId": "rock_throw"
+      },
+      {
+        "level": 1,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_fang"
+      },
+      {
+        "level": 1,
+        "moveId": "ice_fang"
+      },
+      {
+        "level": 1,
+        "moveId": "fire_fang"
+      },
+      {
+        "level": 7,
+        "moveId": "screech"
+      },
+      {
+        "level": 21,
+        "moveId": "rock_tomb"
+      },
+      {
+        "level": 28,
+        "moveId": "bite"
+      },
+      {
+        "level": 35,
+        "moveId": "charge"
+      },
+      {
+        "level": 42,
+        "moveId": "rock_slide"
+      },
+      {
+        "level": 49,
+        "moveId": "sandstorm"
+      },
+      {
+        "level": 56,
+        "moveId": "wild_charge"
+      },
+      {
+        "level": 63,
+        "moveId": "pin_missile"
+      },
+      {
+        "level": 70,
+        "moveId": "earthquake"
+      },
+      {
+        "level": 77,
+        "moveId": "stealth_rock"
+      },
+      {
+        "level": 84,
+        "moveId": "stone_edge"
+      },
+      {
+        "level": 91,
+        "moveId": "giga_impact"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fire_punch",
+      "ice_punch",
+      "thunder_punch",
+      "swords_dance",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "pin_missile",
+      "flamethrower",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "low_kick",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "earthquake",
+      "dig",
+      "screech",
+      "double_team",
+      "fire_blast",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "curse",
+      "protect",
+      "scary_face",
+      "spikes",
+      "sandstorm",
+      "endure",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "metal_claw",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "facade",
+      "charge",
+      "taunt",
+      "brick_break",
+      "rock_tomb",
+      "sand_tomb",
+      "iron_defense",
+      "dragon_claw",
+      "dragon_dance",
+      "rock_blast",
+      "fling",
+      "power_gem",
+      "focus_blast",
+      "earth_power",
+      "giga_impact",
+      "thunder_fang",
+      "ice_fang",
+      "fire_fang",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "charge_beam",
+      "smack_down",
+      "heavy_slam",
+      "electro_ball",
+      "volt_switch",
+      "bulldoze",
+      "dragon_tail",
+      "electroweb",
+      "wild_charge",
+      "snarl",
+      "eerie_impulse",
+      "electric_terrain",
+      "high_horsepower",
+      "stomping_tantrum",
+      "body_press",
+      "breaking_swipe",
+      "meteor_beam",
+      "tera_blast",
+      "supercell_slam"
+    ],
+    "biomeIds": [
+      "end"
+    ]
+  }
+]

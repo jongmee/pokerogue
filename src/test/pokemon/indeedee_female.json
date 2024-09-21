@@ -1,0 +1,107 @@
+[
+  {
+    "_id": "indeedee_female",
+    "gender": "",
+    "pokedexNumber": "876",
+    "name": "indeedee_female",
+    "koName": "에써르_female",
+    "speciesName": "indeedee",
+    "canChangeForm": true,
+    "formName": "female",
+    "baseExp": "166",
+    "friendship": "140",
+    "types": [
+      "psychic",
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "own_tempo",
+      "synchronize"
+    ],
+    "hiddenAbilityId": "psychic_surge",
+    "passiveAbilityId": "friend_guard",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 475,
+    "hp": 70,
+    "attack": 55,
+    "defense": 65,
+    "specialAttack": 95,
+    "specialDefense": 105,
+    "speed": 85,
+    "height": 0.9,
+    "weight": 28,
+    "eggMoveIds": [
+      "matcha_gotcha",
+      "expanding_force",
+      "moonblast",
+      "revival_blessing"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "stored_power"
+      },
+      {
+        "level": 1,
+        "moveId": "play_nice"
+      },
+      {
+        "level": 5,
+        "moveId": "baton_pass"
+      },
+      {
+        "level": 10,
+        "moveId": "disarming_voice"
+      },
+      {
+        "level": 15,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 20,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 25,
+        "moveId": "follow_me"
+      },
+      {
+        "level": 30,
+        "moveId": "healing_wish"
+      },
+      {
+        "level": 35,
+        "moveId": "psychic"
+      },
+      {
+        "level": 40,
+        "moveId": "calm_mind"
+      },
+      {
+        "level": 45,
+        "moveId": "guard_split"
+      },
+      {
+        "level": 50,
+        "moveId": "psychic_terrain"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "light_screen",
+      "reflect",
+      "charm",
+      "safeguard",
+      "baton_pass",
+      "guard_swap"
+    ],
+    "biomeIds": [
+      "metropolis"
+    ]
+  }
+]

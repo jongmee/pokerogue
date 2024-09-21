@@ -1,0 +1,165 @@
+[
+  {
+    "_id": "seedot",
+    "gender": "",
+    "pokedexNumber": "273",
+    "name": "seedot",
+    "koName": "도토링",
+    "speciesName": "seedot",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "44",
+    "friendship": "50",
+    "types": [
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "chlorophyll",
+      "early_bird"
+    ],
+    "hiddenAbilityId": "pickpocket",
+    "passiveAbilityId": "sharpness",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 220,
+    "hp": 40,
+    "attack": 40,
+    "defense": 50,
+    "specialAttack": 30,
+    "specialDefense": 30,
+    "speed": 30,
+    "height": 0.5,
+    "weight": 4,
+    "eggMoveIds": [
+      "swords_dance",
+      "sacred_sword",
+      "kowtow_cleave",
+      "bitter_blade"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "harden"
+      },
+      {
+        "level": 1,
+        "moveId": "bide"
+      },
+      {
+        "level": 3,
+        "moveId": "absorb"
+      },
+      {
+        "level": 6,
+        "moveId": "astonish"
+      },
+      {
+        "level": 9,
+        "moveId": "growth"
+      },
+      {
+        "level": 12,
+        "moveId": "rollout"
+      },
+      {
+        "level": 15,
+        "moveId": "mega_drain"
+      },
+      {
+        "level": 18,
+        "moveId": "payback"
+      },
+      {
+        "level": 21,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 24,
+        "moveId": "sunny_day"
+      },
+      {
+        "level": 27,
+        "moveId": "synthesis"
+      },
+      {
+        "level": 30,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 33,
+        "moveId": "explosion"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "solar_beam",
+      "dig",
+      "toxic",
+      "double_team",
+      "self_destruct",
+      "amnesia",
+      "flash",
+      "explosion",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "spite",
+      "protect",
+      "giga_drain",
+      "endure",
+      "false_swipe",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "synthesis",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "shadow_ball",
+      "rock_smash",
+      "beat_up",
+      "facade",
+      "nature_power",
+      "endeavor",
+      "bullet_seed",
+      "magical_leaf",
+      "payback",
+      "power_swap",
+      "worry_seed",
+      "seed_bomb",
+      "energy_ball",
+      "nasty_plot",
+      "defog",
+      "leaf_storm",
+      "grass_knot",
+      "foul_play",
+      "round",
+      "retaliate",
+      "grassy_terrain",
+      "confide",
+      "grassy_glide",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "town",
+      "grass",
+      "forest"
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "rage",
+    "name": "Rage",
+    "koName": "분노",
+    "type": "normal",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 20,
+    "accuracy": 100,
+    "powerPoint": 20,
+    "effect": "기술을 썼을 때 공격을 받으면 분노의 힘으로 공격이 올라간다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 1,
+    "realased": " (P)",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "beedrill",
+      "poliwag",
+      "poliwhirl",
+      "poliwrath",
+      "politoed",
+      "patrat",
+      "watchog",
+      "mienfoo",
+      "mienshao",
+      "scorbunny",
+      "raboot",
+      "cinderace",
+      "cinderace_gigantamax",
+      "dracozolt"
+    ]
+  }
+]

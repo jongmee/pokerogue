@@ -1,0 +1,119 @@
+[
+  {
+    "_id": "venusaur_mega",
+    "gender": "",
+    "pokedexNumber": "3",
+    "name": "venusaur_mega",
+    "koName": "이상해꽃_mega",
+    "speciesName": "venusaur",
+    "canChangeForm": true,
+    "formName": "mega",
+    "baseExp": "263",
+    "friendship": "50",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "normalAbilityIds": [
+      "thick_fat"
+    ],
+    "hiddenAbilityId": "thick_fat",
+    "passiveAbilityId": "grassy_surge",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 625,
+    "hp": 80,
+    "attack": 100,
+    "defense": 123,
+    "specialAttack": 122,
+    "specialDefense": 120,
+    "speed": 80,
+    "height": 2.4,
+    "weight": 155.5,
+    "eggMoveIds": [
+      "sappy_seed",
+      "sludge_wave",
+      "earth_power",
+      "matcha_gotcha"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "petal_blizzard"
+      },
+      {
+        "level": 1,
+        "moveId": "growth"
+      },
+      {
+        "level": 1,
+        "moveId": "petal_dance"
+      },
+      {
+        "level": 1,
+        "moveId": "vine_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 9,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 12,
+        "moveId": "razor_leaf"
+      },
+      {
+        "level": 15,
+        "moveId": "poison_powder"
+      },
+      {
+        "level": 15,
+        "moveId": "sleep_powder"
+      },
+      {
+        "level": 20,
+        "moveId": "seed_bomb"
+      },
+      {
+        "level": 25,
+        "moveId": "take_down"
+      },
+      {
+        "level": 30,
+        "moveId": "sweet_scent"
+      },
+      {
+        "level": 37,
+        "moveId": "synthesis"
+      },
+      {
+        "level": 44,
+        "moveId": "worry_seed"
+      },
+      {
+        "level": 51,
+        "moveId": "power_whip"
+      },
+      {
+        "level": 58,
+        "moveId": "solar_beam"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "grass"
+    ]
+  }
+]

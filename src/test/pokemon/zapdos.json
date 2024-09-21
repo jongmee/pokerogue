@@ -1,0 +1,181 @@
+[
+  {
+    "_id": "zapdos",
+    "gender": "",
+    "pokedexNumber": "145",
+    "name": "zapdos",
+    "koName": "썬더",
+    "speciesName": "zapdos",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "290",
+    "friendship": "35",
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "pressure"
+    ],
+    "hiddenAbilityId": "static",
+    "passiveAbilityId": "drizzle",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 580,
+    "hp": 90,
+    "attack": 90,
+    "defense": 85,
+    "specialAttack": 125,
+    "specialDefense": 90,
+    "speed": 100,
+    "height": 1.6,
+    "weight": 52.6,
+    "eggMoveIds": [
+      "weather_ball",
+      "calm_mind",
+      "sandsear_storm",
+      "electro_shot"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "peck"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_wave"
+      },
+      {
+        "level": 5,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 10,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 15,
+        "moveId": "pluck"
+      },
+      {
+        "level": 20,
+        "moveId": "agility"
+      },
+      {
+        "level": 25,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 30,
+        "moveId": "charge"
+      },
+      {
+        "level": 35,
+        "moveId": "drill_peck"
+      },
+      {
+        "level": 40,
+        "moveId": "roost"
+      },
+      {
+        "level": 45,
+        "moveId": "discharge"
+      },
+      {
+        "level": 50,
+        "moveId": "rain_dance"
+      },
+      {
+        "level": 55,
+        "moveId": "thunder"
+      },
+      {
+        "level": 60,
+        "moveId": "detect"
+      },
+      {
+        "level": 65,
+        "moveId": "magnetic_flux"
+      },
+      {
+        "level": 70,
+        "moveId": "zap_cannon"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "fly",
+      "take_down",
+      "double_edge",
+      "roar",
+      "hyper_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "agility",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "swift",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "mud_slap",
+      "sandstorm",
+      "endure",
+      "swagger",
+      "steel_wing",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "rock_smash",
+      "heat_wave",
+      "hail",
+      "facade",
+      "charge",
+      "helping_hand",
+      "weather_ball",
+      "air_cutter",
+      "metal_sound",
+      "signal_beam",
+      "aerial_ace",
+      "roost",
+      "pluck",
+      "tailwind",
+      "u_turn",
+      "brave_bird",
+      "giga_impact",
+      "defog",
+      "charge_beam",
+      "electro_ball",
+      "round",
+      "sky_drop",
+      "acrobatics",
+      "volt_switch",
+      "wild_charge",
+      "hurricane",
+      "confide",
+      "eerie_impulse",
+      "electric_terrain",
+      "rising_voltage",
+      "dual_wingbeat",
+      "tera_blast",
+      "supercell_slam"
+    ],
+    "biomeIds": [
+      "power_plant"
+    ]
+  }
+]

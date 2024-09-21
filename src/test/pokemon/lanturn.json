@@ -1,0 +1,184 @@
+[
+  {
+    "_id": "lanturn",
+    "gender": "",
+    "pokedexNumber": "171",
+    "name": "lanturn",
+    "koName": "랜턴",
+    "speciesName": "lanturn",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "161",
+    "friendship": "50",
+    "types": [
+      "water",
+      "electric"
+    ],
+    "normalAbilityIds": [
+      "volt_absorb",
+      "illuminate"
+    ],
+    "hiddenAbilityId": "water_absorb",
+    "passiveAbilityId": "water_bubble",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 460,
+    "hp": 125,
+    "attack": 58,
+    "defense": 58,
+    "specialAttack": 76,
+    "specialDefense": 76,
+    "speed": 67,
+    "height": 1.2,
+    "weight": 22.5,
+    "eggMoveIds": [
+      "thunderclap",
+      "bouncy_bubble",
+      "thunder_cage",
+      "tail_glow"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "stockpile"
+      },
+      {
+        "level": 0,
+        "moveId": "spit_up"
+      },
+      {
+        "level": 0,
+        "moveId": "swallow"
+      },
+      {
+        "level": 1,
+        "moveId": "supersonic"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "spotlight"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_wave"
+      },
+      {
+        "level": 1,
+        "moveId": "electro_ball"
+      },
+      {
+        "level": 1,
+        "moveId": "eerie_impulse"
+      },
+      {
+        "level": 12,
+        "moveId": "bubble_beam"
+      },
+      {
+        "level": 16,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 20,
+        "moveId": "spark"
+      },
+      {
+        "level": 24,
+        "moveId": "charge"
+      },
+      {
+        "level": 30,
+        "moveId": "discharge"
+      },
+      {
+        "level": 36,
+        "moveId": "aqua_ring"
+      },
+      {
+        "level": 42,
+        "moveId": "flail"
+      },
+      {
+        "level": 48,
+        "moveId": "take_down"
+      },
+      {
+        "level": 54,
+        "moveId": "hydro_pump"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "double_edge",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "agility",
+      "screech",
+      "double_team",
+      "confuse_ray",
+      "waterfall",
+      "amnesia",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "icy_wind",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "whirlpool",
+      "hail",
+      "facade",
+      "charge",
+      "dive",
+      "signal_beam",
+      "muddy_water",
+      "bounce",
+      "water_pulse",
+      "brine",
+      "aqua_tail",
+      "giga_impact",
+      "charge_beam",
+      "electro_ball",
+      "round",
+      "scald",
+      "volt_switch",
+      "wild_charge",
+      "confide",
+      "eerie_impulse",
+      "dazzling_gleam",
+      "rising_voltage",
+      "flip_turn",
+      "tera_blast",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "sea",
+      "seabed"
+    ]
+  }
+]

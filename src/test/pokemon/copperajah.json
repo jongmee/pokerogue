@@ -1,0 +1,171 @@
+[
+  {
+    "_id": "copperajah",
+    "gender": "",
+    "pokedexNumber": "879",
+    "name": "copperajah",
+    "koName": "대왕끼리동",
+    "speciesName": "copperajah",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "175",
+    "friendship": "50",
+    "types": [
+      "steel"
+    ],
+    "normalAbilityIds": [
+      "sheer_force"
+    ],
+    "hiddenAbilityId": "heavy_metal",
+    "passiveAbilityId": "earth_eater",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 500,
+    "hp": 122,
+    "attack": 130,
+    "defense": 69,
+    "specialAttack": 80,
+    "specialDefense": 69,
+    "speed": 30,
+    "height": 3,
+    "weight": 650,
+    "eggMoveIds": [
+      "liquidation",
+      "curse",
+      "combat_torque",
+      "gigaton_hammer"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "heavy_slam"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "rollout"
+      },
+      {
+        "level": 1,
+        "moveId": "rock_smash"
+      },
+      {
+        "level": 15,
+        "moveId": "bulldoze"
+      },
+      {
+        "level": 20,
+        "moveId": "stomp"
+      },
+      {
+        "level": 25,
+        "moveId": "iron_defense"
+      },
+      {
+        "level": 30,
+        "moveId": "dig"
+      },
+      {
+        "level": 37,
+        "moveId": "strength"
+      },
+      {
+        "level": 44,
+        "moveId": "iron_head"
+      },
+      {
+        "level": 51,
+        "moveId": "play_rough"
+      },
+      {
+        "level": 58,
+        "moveId": "high_horsepower"
+      },
+      {
+        "level": 65,
+        "moveId": "superpower"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "hyper_beam",
+      "strength",
+      "earthquake",
+      "dig",
+      "screech",
+      "double_team",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "scary_face",
+      "outrage",
+      "sandstorm",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rock_smash",
+      "facade",
+      "taunt",
+      "superpower",
+      "revenge",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "rock_tomb",
+      "iron_defense",
+      "mud_shot",
+      "rock_blast",
+      "payback",
+      "fling",
+      "earth_power",
+      "giga_impact",
+      "zen_headbutt",
+      "flash_cannon",
+      "power_whip",
+      "iron_head",
+      "stone_edge",
+      "stealth_rock",
+      "smack_down",
+      "heavy_slam",
+      "round",
+      "bulldoze",
+      "work_up",
+      "heat_crash",
+      "snarl",
+      "play_rough",
+      "high_horsepower",
+      "brutal_swing",
+      "stomping_tantrum",
+      "body_press",
+      "steel_beam",
+      "steel_roller",
+      "tera_blast",
+      "hard_press",
+      "supercell_slam"
+    ],
+    "biomeIds": [
+      "badlands"
+    ]
+  }
+]

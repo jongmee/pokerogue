@@ -1,0 +1,45 @@
+[
+  {
+    "_id": "wood_hammer",
+    "name": "Wood Hammer",
+    "koName": "우드해머",
+    "type": "grass",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 120,
+    "accuracy": 100,
+    "powerPoint": 15,
+    "effect": "단단한 몸통을 상대에게 부딪쳐서 공격한다. 자신도 상당한 데미지를 입는다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 4,
+    "realased": "",
+    "flags": [
+      "makes_contact",
+      "reckless_move"
+    ],
+    "pokemonIds": [
+      "exeggutor",
+      "cubone",
+      "marowak",
+      "sudowoodo",
+      "torterra",
+      "snover",
+      "abomasnow",
+      "chespin",
+      "quilladin",
+      "chesnaught",
+      "phantump",
+      "trevenant",
+      "komala",
+      "tapu_bulu",
+      "grookey",
+      "thwackey",
+      "rillaboom",
+      "alola_exeggutor",
+      "alola_marowak",
+      "hisui_growlithe",
+      "hisui_arcanine"
+    ]
+  }
+]

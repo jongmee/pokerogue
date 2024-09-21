@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "seed_sower",
+    "name": "Seed Sower",
+    "koName": "넘치는씨",
+    "realased": "",
+    "description": "공격을 받으면 필드를 그래스필드로 만든다.",
+    "generation": 9,
+    "pokemonIds": [
+      "tangela",
+      "lileep",
+      "cradily",
+      "tangrowth",
+      "skiddo",
+      "gogoat",
+      "arboliva"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

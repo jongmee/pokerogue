@@ -1,0 +1,144 @@
+[
+  {
+    "_id": "boltund",
+    "gender": "",
+    "pokedexNumber": "836",
+    "name": "boltund",
+    "koName": "펄스멍",
+    "speciesName": "boltund",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "172",
+    "friendship": "50",
+    "types": [
+      "electric"
+    ],
+    "normalAbilityIds": [
+      "strong_jaw"
+    ],
+    "hiddenAbilityId": "competitive",
+    "passiveAbilityId": "sheer_force",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 490,
+    "hp": 69,
+    "attack": 90,
+    "defense": 60,
+    "specialAttack": 90,
+    "specialDefense": 60,
+    "speed": 121,
+    "height": 1,
+    "weight": 34,
+    "eggMoveIds": [
+      "ice_fang",
+      "swords_dance",
+      "thunder_fang",
+      "bolt_strike"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "bite"
+      },
+      {
+        "level": 1,
+        "moveId": "electrify"
+      },
+      {
+        "level": 1,
+        "moveId": "nuzzle"
+      },
+      {
+        "level": 15,
+        "moveId": "roar"
+      },
+      {
+        "level": 20,
+        "moveId": "spark"
+      },
+      {
+        "level": 28,
+        "moveId": "charm"
+      },
+      {
+        "level": 34,
+        "moveId": "crunch"
+      },
+      {
+        "level": 41,
+        "moveId": "charge"
+      },
+      {
+        "level": 48,
+        "moveId": "wild_charge"
+      },
+      {
+        "level": 55,
+        "moveId": "play_rough"
+      },
+      {
+        "level": 62,
+        "moveId": "electric_terrain"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "roar",
+      "hyper_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "dig",
+      "agility",
+      "double_team",
+      "focus_energy",
+      "swift",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "endure",
+      "charm",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "crunch",
+      "uproar",
+      "facade",
+      "charge",
+      "helping_hand",
+      "hyper_voice",
+      "bulk_up",
+      "giga_impact",
+      "thunder_fang",
+      "fire_fang",
+      "electro_ball",
+      "round",
+      "volt_switch",
+      "wild_charge",
+      "snarl",
+      "play_rough",
+      "eerie_impulse",
+      "electric_terrain",
+      "psychic_fangs",
+      "rising_voltage"
+    ],
+    "biomeIds": [
+      "metropolis"
+    ]
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "_id": "pidgeot_mega",
+    "gender": "",
+    "pokedexNumber": "18",
+    "name": "pidgeot_mega",
+    "koName": "피죤투_mega",
+    "speciesName": "pidgeot",
+    "canChangeForm": true,
+    "formName": "mega",
+    "baseExp": "216",
+    "friendship": "70",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "no_guard"
+    ],
+    "hiddenAbilityId": "no_guard",
+    "passiveAbilityId": "flare_boost",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 579,
+    "hp": 83,
+    "attack": 80,
+    "defense": 80,
+    "specialAttack": 135,
+    "specialDefense": 80,
+    "speed": 121,
+    "height": 2.2,
+    "weight": 50.5,
+    "eggMoveIds": [
+      "wildbolt_storm",
+      "sandsear_storm",
+      "calm_mind",
+      "boomburst"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "gust"
+      },
+      {
+        "level": 1,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "hurricane"
+      },
+      {
+        "level": 5,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 9,
+        "moveId": "gust"
+      },
+      {
+        "level": 17,
+        "moveId": "whirlwind"
+      },
+      {
+        "level": 22,
+        "moveId": "twister"
+      },
+      {
+        "level": 27,
+        "moveId": "feather_dance"
+      },
+      {
+        "level": 32,
+        "moveId": "agility"
+      },
+      {
+        "level": 38,
+        "moveId": "wing_attack"
+      },
+      {
+        "level": 44,
+        "moveId": "roost"
+      },
+      {
+        "level": 50,
+        "moveId": "tailwind"
+      },
+      {
+        "level": 56,
+        "moveId": "aerial_ace"
+      },
+      {
+        "level": 62,
+        "moveId": "air_slash"
+      },
+      {
+        "level": 68,
+        "moveId": "hurricane"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "plains",
+      "mountain"
+    ]
+  }
+]

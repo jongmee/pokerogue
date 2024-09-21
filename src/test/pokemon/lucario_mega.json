@@ -1,0 +1,155 @@
+[
+  {
+    "_id": "lucario_mega",
+    "gender": "",
+    "pokedexNumber": "448",
+    "name": "lucario_mega",
+    "koName": "루카리오_mega",
+    "speciesName": "lucario",
+    "canChangeForm": true,
+    "formName": "mega",
+    "baseExp": "184",
+    "friendship": "50",
+    "types": [
+      "fighting",
+      "steel"
+    ],
+    "normalAbilityIds": [
+      "adaptability"
+    ],
+    "hiddenAbilityId": "adaptability",
+    "passiveAbilityId": "minds_eye",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 625,
+    "hp": 70,
+    "attack": 145,
+    "defense": 88,
+    "specialAttack": 140,
+    "specialDefense": 70,
+    "speed": 112,
+    "height": 1.3,
+    "weight": 57.5,
+    "eggMoveIds": [
+      "thunderous_kick",
+      "tachyon_cutter",
+      "triple_axel",
+      "double_iron_bash"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "aura_sphere"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "screech"
+      },
+      {
+        "level": 1,
+        "moveId": "reversal"
+      },
+      {
+        "level": 1,
+        "moveId": "detect"
+      },
+      {
+        "level": 1,
+        "moveId": "metal_claw"
+      },
+      {
+        "level": 1,
+        "moveId": "rock_smash"
+      },
+      {
+        "level": 1,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 1,
+        "moveId": "feint"
+      },
+      {
+        "level": 1,
+        "moveId": "copycat"
+      },
+      {
+        "level": 1,
+        "moveId": "vacuum_wave"
+      },
+      {
+        "level": 1,
+        "moveId": "final_gambit"
+      },
+      {
+        "level": 1,
+        "moveId": "life_dew"
+      },
+      {
+        "level": 12,
+        "moveId": "counter"
+      },
+      {
+        "level": 16,
+        "moveId": "work_up"
+      },
+      {
+        "level": 20,
+        "moveId": "force_palm"
+      },
+      {
+        "level": 24,
+        "moveId": "calm_mind"
+      },
+      {
+        "level": 28,
+        "moveId": "metal_sound"
+      },
+      {
+        "level": 32,
+        "moveId": "quick_guard"
+      },
+      {
+        "level": 36,
+        "moveId": "bone_rush"
+      },
+      {
+        "level": 40,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 44,
+        "moveId": "heal_pulse"
+      },
+      {
+        "level": 48,
+        "moveId": "meteor_mash"
+      },
+      {
+        "level": 52,
+        "moveId": "dragon_pulse"
+      },
+      {
+        "level": 56,
+        "moveId": "extreme_speed"
+      },
+      {
+        "level": 60,
+        "moveId": "close_combat"
+      }
+    ],
+    "technicalMachineMoveIds": [],
+    "biomeIds": [
+      "dojo"
+    ]
+  }
+]

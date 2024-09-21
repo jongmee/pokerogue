@@ -1,0 +1,112 @@
+[
+  {
+    "_id": "budew",
+    "gender": "",
+    "pokedexNumber": "406",
+    "name": "budew",
+    "koName": "꼬몽울",
+    "speciesName": "budew",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "56",
+    "friendship": "50",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "normalAbilityIds": [
+      "natural_cure",
+      "poison_point"
+    ],
+    "hiddenAbilityId": "leaf_guard",
+    "passiveAbilityId": "grassy_surge",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 280,
+    "hp": 40,
+    "attack": 30,
+    "defense": 35,
+    "specialAttack": 50,
+    "specialDefense": 70,
+    "speed": 55,
+    "height": 0.2,
+    "weight": 1.2,
+    "eggMoveIds": [
+      "fiery_dance",
+      "acid_spray",
+      "bouncy_bubble",
+      "quiver_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "absorb"
+      },
+      {
+        "level": 1,
+        "moveId": "growth"
+      },
+      {
+        "level": 1,
+        "moveId": "stun_spore"
+      },
+      {
+        "level": 1,
+        "moveId": "worry_seed"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "pin_missile",
+      "solar_beam",
+      "toxic",
+      "double_team",
+      "swift",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "sludge_bomb",
+      "mud_slap",
+      "spikes",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "synthesis",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "uproar",
+      "facade",
+      "nature_power",
+      "weather_ball",
+      "bullet_seed",
+      "covet",
+      "worry_seed",
+      "seed_bomb",
+      "energy_ball",
+      "leaf_storm",
+      "grass_knot",
+      "venoshock",
+      "round",
+      "confide",
+      "dazzling_gleam",
+      "grassy_glide",
+      "tera_blast"
+    ],
+    "biomeIds": []
+  }
+]

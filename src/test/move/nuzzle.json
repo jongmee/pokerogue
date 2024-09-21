@@ -1,0 +1,53 @@
+[
+  {
+    "_id": "nuzzle",
+    "name": "Nuzzle",
+    "koName": "볼부비부비",
+    "type": "electric",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 20,
+    "accuracy": 100,
+    "powerPoint": 20,
+    "effect": "전기가 흐르는 볼을 비벼서 공격한다. 상대를 마비 상태로 만든다.",
+    "effectChance": 100,
+    "prioirty": 0,
+    "generation": 6,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": [
+      "pikachu",
+      "pikachu_partner",
+      "pikachu_cosplay",
+      "pikachu_cool_cosplay",
+      "pikachu_beauty_cosplay",
+      "pikachu_cute_cosplay",
+      "pikachu_smart_cosplay",
+      "pikachu_tough_cosplay",
+      "pikachu_gigantamax",
+      "raichu",
+      "sentret",
+      "furret",
+      "pichu",
+      "zigzagoon",
+      "linoone",
+      "plusle",
+      "minun",
+      "pachirisu",
+      "emolga",
+      "dedenne",
+      "togedemaru",
+      "yamper",
+      "boltund",
+      "toxel",
+      "toxtricity",
+      "toxtricity_lowkey",
+      "pawmi",
+      "pawmo",
+      "pawmot",
+      "alola_raichu"
+    ]
+  }
+]

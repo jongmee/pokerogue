@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "heatproof",
+    "name": "Heatproof",
+    "koName": "내열",
+    "realased": "",
+    "description": "내열인 몸으로 인해 불꽃타입 공격의 데미지를 반감한다.",
+    "generation": 4,
+    "pokemonIds": [
+      "bronzor",
+      "bronzong",
+      "celesteela",
+      "rolycoly"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

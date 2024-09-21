@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "spacial_rend",
+    "name": "Spacial Rend",
+    "koName": "공간절단",
+    "type": "dragon",
+    "moveCategory": "special",
+    "moveTarget": "near_other",
+    "power": 100,
+    "accuracy": 95,
+    "powerPoint": 5,
+    "effect": "주위의 공간과 더불어 상대를 찢어서 데미지를 준다. 급소에 맞기 쉽다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 4,
+    "realased": "",
+    "flags": [],
+    "pokemonIds": [
+      "horsea",
+      "seadra",
+      "kingdra",
+      "palkia"
+    ]
+  }
+]

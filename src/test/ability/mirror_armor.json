@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "mirror_armor",
+    "name": "Mirror Armor",
+    "koName": "미러아머",
+    "realased": " (N)",
+    "description": "자신이 받는 능력 다운 효과에 한해 되받아친다.",
+    "generation": 8,
+    "pokemonIds": [
+      "corviknight",
+      "corviknight_gigantamax"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

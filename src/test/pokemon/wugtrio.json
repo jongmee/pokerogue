@@ -1,0 +1,142 @@
+[
+  {
+    "_id": "wugtrio",
+    "gender": "",
+    "pokedexNumber": "961",
+    "name": "wugtrio",
+    "koName": "바닥트리오",
+    "speciesName": "wugtrio",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "149",
+    "friendship": "50",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "gooey",
+      "rattled"
+    ],
+    "hiddenAbilityId": "sand_veil",
+    "passiveAbilityId": "sturdy",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 425,
+    "hp": 35,
+    "attack": 100,
+    "defense": 50,
+    "specialAttack": 50,
+    "specialDefense": 70,
+    "speed": 120,
+    "height": 1.2,
+    "weight": 5.4,
+    "eggMoveIds": [
+      "shell_smash",
+      "icicle_crash",
+      "seed_bomb",
+      "surging_strikes"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "sand_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "wrap"
+      },
+      {
+        "level": 1,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 1,
+        "moveId": "mud_slap"
+      },
+      {
+        "level": 12,
+        "moveId": "aqua_jet"
+      },
+      {
+        "level": 16,
+        "moveId": "slam"
+      },
+      {
+        "level": 20,
+        "moveId": "water_pulse"
+      },
+      {
+        "level": 24,
+        "moveId": "headbutt"
+      },
+      {
+        "level": 30,
+        "moveId": "triple_dive"
+      },
+      {
+        "level": 36,
+        "moveId": "dig"
+      },
+      {
+        "level": 42,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 48,
+        "moveId": "throat_chop"
+      },
+      {
+        "level": 54,
+        "moveId": "liquidation"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "dig",
+      "agility",
+      "double_team",
+      "swift",
+      "rest",
+      "substitute",
+      "protect",
+      "mud_slap",
+      "sandstorm",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "hidden_power",
+      "rain_dance",
+      "whirlpool",
+      "facade",
+      "helping_hand",
+      "muddy_water",
+      "mud_shot",
+      "water_pulse",
+      "earth_power",
+      "giga_impact",
+      "foul_play",
+      "bulldoze",
+      "throat_chop",
+      "stomping_tantrum",
+      "liquidation",
+      "tera_blast",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "beach"
+    ]
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "_id": "wynaut",
+    "gender": "",
+    "pokedexNumber": "360",
+    "name": "wynaut",
+    "koName": "마자",
+    "speciesName": "wynaut",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "52",
+    "friendship": "50",
+    "types": [
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "shadow_tag"
+    ],
+    "hiddenAbilityId": "telepathy",
+    "passiveAbilityId": "sturdy",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 260,
+    "hp": 95,
+    "attack": 23,
+    "defense": 48,
+    "specialAttack": 23,
+    "specialDefense": 48,
+    "speed": 23,
+    "height": 0.6,
+    "weight": 14,
+    "eggMoveIds": [
+      "recover",
+      "shed_tail",
+      "taunt",
+      "comeuppance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "counter"
+      },
+      {
+        "level": 1,
+        "moveId": "mirror_coat"
+      },
+      {
+        "level": 1,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 1,
+        "moveId": "destiny_bond"
+      },
+      {
+        "level": 1,
+        "moveId": "splash"
+      },
+      {
+        "level": 1,
+        "moveId": "charm"
+      },
+      {
+        "level": 1,
+        "moveId": "encore"
+      },
+      {
+        "level": 1,
+        "moveId": "amnesia"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "amnesia",
+      "charm",
+      "safeguard",
+      "encore"
+    ],
+    "biomeIds": []
+  }
+]

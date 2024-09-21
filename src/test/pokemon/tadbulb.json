@@ -1,0 +1,139 @@
+[
+  {
+    "_id": "tadbulb",
+    "gender": "",
+    "pokedexNumber": "938",
+    "name": "tadbulb",
+    "koName": "빈나두",
+    "speciesName": "tadbulb",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "54",
+    "friendship": "50",
+    "types": [
+      "electric"
+    ],
+    "normalAbilityIds": [
+      "own_tempo",
+      "static"
+    ],
+    "hiddenAbilityId": "damp",
+    "passiveAbilityId": "stamina",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 272,
+    "hp": 61,
+    "attack": 31,
+    "defense": 41,
+    "specialAttack": 59,
+    "specialDefense": 35,
+    "speed": 45,
+    "height": 0.3,
+    "weight": 0.4,
+    "eggMoveIds": [
+      "parabolic_charge",
+      "scald",
+      "earth_power",
+      "electro_shot"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "mud_slap"
+      },
+      {
+        "level": 7,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 11,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 17,
+        "moveId": "charge"
+      },
+      {
+        "level": 21,
+        "moveId": "spark"
+      },
+      {
+        "level": 24,
+        "moveId": "mud_shot"
+      },
+      {
+        "level": 25,
+        "moveId": "flail"
+      },
+      {
+        "level": 32,
+        "moveId": "discharge"
+      },
+      {
+        "level": 36,
+        "moveId": "weather_ball"
+      },
+      {
+        "level": 40,
+        "moveId": "electric_terrain"
+      },
+      {
+        "level": 45,
+        "moveId": "sucker_punch"
+      },
+      {
+        "level": 50,
+        "moveId": "zap_cannon"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "swift",
+      "rest",
+      "substitute",
+      "protect",
+      "mud_slap",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "charge",
+      "hyper_voice",
+      "weather_ball",
+      "muddy_water",
+      "mud_shot",
+      "water_pulse",
+      "charge_beam",
+      "electro_ball",
+      "acid_spray",
+      "volt_switch",
+      "electroweb",
+      "wild_charge",
+      "eerie_impulse",
+      "electric_terrain",
+      "tera_blast",
+      "chilling_water"
+    ],
+    "biomeIds": [
+      "power_plant"
+    ]
+  }
+]

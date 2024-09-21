@@ -1,0 +1,108 @@
+[
+  {
+    "_id": "grass",
+    "name": "Grassy Field",
+    "koName": "풀숲",
+    "types": [
+      "grass"
+    ],
+    "nextBiomes": [
+      {
+        "name": "tall_grass",
+        "percentage": 100
+      }
+    ],
+    "nativePokemons": [
+      {
+        "tier": "보통",
+        "pokemonIds": [
+          "hoppip",
+          "skiploom",
+          "sunkern",
+          "cottonee",
+          "petilil",
+          "seedot",
+          "nuzleaf",
+          "shroomish",
+          "breloom"
+        ]
+      },
+      {
+        "tier": "드묾",
+        "pokemonIds": [
+          "combee",
+          "vespiquen",
+          "cherubi",
+          "cherrim",
+          "foongus",
+          "amoonguss"
+        ]
+      },
+      {
+        "tier": "레어",
+        "pokemonIds": [
+          "bulbasaur",
+          "ivysaur",
+          "venusaur",
+          "growlithe",
+          "turtwig",
+          "grotle",
+          "torterra"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어",
+        "pokemonIds": [
+          "sudowoodo"
+        ]
+      },
+      {
+        "tier": "울트라 레어",
+        "pokemonIds": [
+          "virizion"
+        ]
+      },
+      {
+        "tier": "보스",
+        "pokemonIds": [
+          "jumpluff",
+          "sunflora",
+          "whimsicott"
+        ]
+      },
+      {
+        "tier": "레어 보스",
+        "pokemonIds": [
+          "venusaur",
+          "sudowoodo",
+          "torterra"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어 보스",
+        "pokemonIds": [
+          "virizion"
+        ]
+      },
+      {
+        "tier": "슈퍼 울트라 레어 보스",
+        "pokemonIds": []
+      }
+    ],
+    "trainers": [
+      {
+        "name": "민화",
+        "types": [
+          "grass",
+          "poison"
+        ],
+        "pokemonIds": [
+          "oddish",
+          "bellsprout",
+          "tangela",
+          "hoppip"
+        ]
+      }
+    ]
+  }
+]

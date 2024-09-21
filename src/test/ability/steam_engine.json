@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "steam_engine",
+    "name": "Steam Engine",
+    "koName": "증기기관",
+    "realased": "",
+    "description": "물타입이나 불꽃타입 기술을 받으면 스피드가 매우 크게 올라간다.",
+    "generation": 8,
+    "pokemonIds": [
+      "rolycoly",
+      "carkol",
+      "coalossal",
+      "coalossal_gigantamax"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

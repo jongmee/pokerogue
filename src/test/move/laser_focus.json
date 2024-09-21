@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "laser_focus",
+    "name": "Laser Focus",
+    "koName": "예민해지기",
+    "type": "normal",
+    "moveCategory": "status",
+    "moveTarget": "user",
+    "power": -1,
+    "accuracy": -1,
+    "powerPoint": 30,
+    "effect": "정신을 집중해서 다음 공격을 반드시 급소에 맞춘다.",
+    "effectChance": -1,
+    "prioirty": 0,
+    "generation": 7,
+    "realased": "",
+    "flags": [
+      "ignore_protect"
+    ],
+    "pokemonIds": [
+      "rattata",
+      "raticate",
+      "horsea",
+      "seadra",
+      "bunnelby",
+      "diggersby",
+      "kartana",
+      "marshadow",
+      "duraludon"
+    ]
+  }
+]

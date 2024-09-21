@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "ball_fetch",
+    "name": "Ball Fetch",
+    "koName": "볼줍기",
+    "realased": "",
+    "description": "첫 번째로 실패한 몬스터볼을 주워온다.",
+    "generation": 8,
+    "pokemonIds": [
+      "yamper"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

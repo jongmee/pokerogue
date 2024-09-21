@@ -1,0 +1,169 @@
+[
+  {
+    "_id": "skiddo",
+    "gender": "",
+    "pokedexNumber": "672",
+    "name": "skiddo",
+    "koName": "메이클",
+    "speciesName": "skiddo",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "70",
+    "friendship": "70",
+    "types": [
+      "grass"
+    ],
+    "normalAbilityIds": [
+      "sap_sipper"
+    ],
+    "hiddenAbilityId": "grass_pelt",
+    "passiveAbilityId": "seed_sower",
+    "generation": 6,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 350,
+    "hp": 66,
+    "attack": 65,
+    "defense": 48,
+    "specialAttack": 62,
+    "specialDefense": 57,
+    "speed": 52,
+    "height": 0.9,
+    "weight": 31,
+    "eggMoveIds": [
+      "high_horsepower",
+      "grassy_glide",
+      "stone_axe",
+      "sappy_seed"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growth"
+      },
+      {
+        "level": 7,
+        "moveId": "vine_whip"
+      },
+      {
+        "level": 9,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 12,
+        "moveId": "leech_seed"
+      },
+      {
+        "level": 13,
+        "moveId": "razor_leaf"
+      },
+      {
+        "level": 16,
+        "moveId": "worry_seed"
+      },
+      {
+        "level": 20,
+        "moveId": "synthesis"
+      },
+      {
+        "level": 22,
+        "moveId": "take_down"
+      },
+      {
+        "level": 26,
+        "moveId": "bulldoze"
+      },
+      {
+        "level": 30,
+        "moveId": "seed_bomb"
+      },
+      {
+        "level": 34,
+        "moveId": "bulk_up"
+      },
+      {
+        "level": 38,
+        "moveId": "double_edge"
+      },
+      {
+        "level": 42,
+        "moveId": "horn_leech"
+      },
+      {
+        "level": 45,
+        "moveId": "leaf_blade"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "surf",
+      "strength",
+      "solar_beam",
+      "dig",
+      "toxic",
+      "double_team",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "mud_slap",
+      "giga_drain",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "synthesis",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "rock_smash",
+      "facade",
+      "nature_power",
+      "helping_hand",
+      "brick_break",
+      "endeavor",
+      "bullet_seed",
+      "bulk_up",
+      "mud_shot",
+      "magical_leaf",
+      "leaf_blade",
+      "payback",
+      "worry_seed",
+      "seed_bomb",
+      "energy_ball",
+      "zen_headbutt",
+      "leaf_storm",
+      "grass_knot",
+      "round",
+      "retaliate",
+      "bulldoze",
+      "work_up",
+      "wild_charge",
+      "grassy_terrain",
+      "play_rough",
+      "confide",
+      "stomping_tantrum",
+      "grassy_glide",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "mountain"
+    ]
+  }
+]

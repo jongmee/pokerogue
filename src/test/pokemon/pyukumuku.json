@@ -1,0 +1,150 @@
+[
+  {
+    "_id": "pyukumuku",
+    "gender": "",
+    "pokedexNumber": "771",
+    "name": "pyukumuku",
+    "koName": "해무기",
+    "speciesName": "pyukumuku",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "144",
+    "friendship": "50",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "innards_out"
+    ],
+    "hiddenAbilityId": "unaware",
+    "passiveAbilityId": "purifying_salt",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 410,
+    "hp": 55,
+    "attack": 60,
+    "defense": 130,
+    "specialAttack": 30,
+    "specialDefense": 130,
+    "speed": 5,
+    "height": 0.3,
+    "weight": 1.2,
+    "eggMoveIds": [
+      "comeuppance",
+      "baneful_bunker",
+      "toxic_spikes",
+      "salt_cure"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "counter"
+      },
+      {
+        "level": 1,
+        "moveId": "harden"
+      },
+      {
+        "level": 1,
+        "moveId": "baton_pass"
+      },
+      {
+        "level": 1,
+        "moveId": "bide"
+      },
+      {
+        "level": 1,
+        "moveId": "mud_sport"
+      },
+      {
+        "level": 1,
+        "moveId": "water_sport"
+      },
+      {
+        "level": 5,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 10,
+        "moveId": "taunt"
+      },
+      {
+        "level": 15,
+        "moveId": "safeguard"
+      },
+      {
+        "level": 20,
+        "moveId": "mirror_coat"
+      },
+      {
+        "level": 25,
+        "moveId": "purify"
+      },
+      {
+        "level": 30,
+        "moveId": "curse"
+      },
+      {
+        "level": 35,
+        "moveId": "gastro_acid"
+      },
+      {
+        "level": 40,
+        "moveId": "pain_split"
+      },
+      {
+        "level": 45,
+        "moveId": "recover"
+      },
+      {
+        "level": 50,
+        "moveId": "soak"
+      },
+      {
+        "level": 55,
+        "moveId": "toxic"
+      },
+      {
+        "level": 60,
+        "moveId": "memento"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "counter",
+      "toxic",
+      "screech",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "rest",
+      "substitute",
+      "spite",
+      "protect",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "safeguard",
+      "pain_split",
+      "baton_pass",
+      "rain_dance",
+      "psych_up",
+      "hail",
+      "taunt",
+      "helping_hand",
+      "recycle",
+      "gastro_acid",
+      "quash",
+      "confide",
+      "venom_drench"
+    ],
+    "biomeIds": [
+      "seabed"
+    ]
+  }
+]

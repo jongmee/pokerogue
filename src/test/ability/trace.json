@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "trace",
+    "name": "Trace",
+    "koName": "트레이스",
+    "realased": "",
+    "description": "등장했을 때 상대의 특성을 트레이스해서 같은 특성이 된다.",
+    "generation": 3,
+    "pokemonIds": [
+      "alakazam_mega",
+      "porygon",
+      "porygon2",
+      "ralts",
+      "kirlia",
+      "gardevoir",
+      "orbeetle_gigantamax"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": false
+  }
+]

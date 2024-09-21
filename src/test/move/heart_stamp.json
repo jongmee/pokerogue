@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "heart_stamp",
+    "name": "Heart Stamp",
+    "koName": "하트스탬프",
+    "type": "psychic",
+    "moveCategory": "physical",
+    "moveTarget": "near_other",
+    "power": 60,
+    "accuracy": 100,
+    "powerPoint": 25,
+    "effect": "귀여운 모습으로 방심시켜서 강렬한 일격을 날린다. 상대를 풀죽게 만들 때가 있다.",
+    "effectChance": 30,
+    "prioirty": 0,
+    "generation": 5,
+    "realased": "",
+    "flags": [
+      "makes_contact"
+    ],
+    "pokemonIds": []
+  }
+]

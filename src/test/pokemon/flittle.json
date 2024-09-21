@@ -1,0 +1,136 @@
+[
+  {
+    "_id": "flittle",
+    "gender": "",
+    "pokedexNumber": "955",
+    "name": "flittle",
+    "koName": "하느라기",
+    "speciesName": "flittle",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "51",
+    "friendship": "50",
+    "types": [
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "anticipation",
+      "frisk"
+    ],
+    "hiddenAbilityId": "speed_boost",
+    "passiveAbilityId": "magic_bounce",
+    "generation": 9,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 255,
+    "hp": 30,
+    "attack": 35,
+    "defense": 30,
+    "specialAttack": 55,
+    "specialDefense": 30,
+    "speed": 75,
+    "height": 0.2,
+    "weight": 1.5,
+    "eggMoveIds": [
+      "cosmic_power",
+      "aura_sphere",
+      "roost",
+      "fiery_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "peck"
+      },
+      {
+        "level": 5,
+        "moveId": "confusion"
+      },
+      {
+        "level": 8,
+        "moveId": "baby_doll_eyes"
+      },
+      {
+        "level": 11,
+        "moveId": "disarming_voice"
+      },
+      {
+        "level": 15,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 19,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 24,
+        "moveId": "pluck"
+      },
+      {
+        "level": 29,
+        "moveId": "agility"
+      },
+      {
+        "level": 34,
+        "moveId": "uproar"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "psybeam",
+      "psychic",
+      "agility",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "swift",
+      "rest",
+      "substitute",
+      "thief",
+      "protect",
+      "mud_slap",
+      "sandstorm",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "baton_pass",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "uproar",
+      "facade",
+      "helping_hand",
+      "trick",
+      "skill_swap",
+      "calm_mind",
+      "roost",
+      "pluck",
+      "u_turn",
+      "seed_bomb",
+      "zen_headbutt",
+      "trick_room",
+      "psyshock",
+      "foul_play",
+      "stored_power",
+      "ally_switch",
+      "disarming_voice",
+      "psychic_terrain",
+      "tera_blast",
+      "pounce"
+    ],
+    "biomeIds": [
+      "mountain"
+    ]
+  }
+]

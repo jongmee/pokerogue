@@ -1,0 +1,155 @@
+[
+  {
+    "_id": "trumbeak",
+    "gender": "",
+    "pokedexNumber": "732",
+    "name": "trumbeak",
+    "koName": "크라파",
+    "speciesName": "trumbeak",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "124",
+    "friendship": "70",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "normalAbilityIds": [
+      "keen_eye",
+      "skill_link"
+    ],
+    "hiddenAbilityId": "pickup",
+    "passiveAbilityId": "technician",
+    "generation": 7,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 355,
+    "hp": 55,
+    "attack": 85,
+    "defense": 50,
+    "specialAttack": 40,
+    "specialDefense": 50,
+    "speed": 75,
+    "height": 0.6,
+    "weight": 14.8,
+    "eggMoveIds": [
+      "dual_wingbeat",
+      "bone_rush",
+      "burning_bulwark",
+      "population_bomb"
+    ],
+    "levelMoves": [
+      {
+        "level": -1,
+        "moveId": "echoed_voice"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "peck"
+      },
+      {
+        "level": 1,
+        "moveId": "rock_smash"
+      },
+      {
+        "level": 1,
+        "moveId": "rock_blast"
+      },
+      {
+        "level": 13,
+        "moveId": "supersonic"
+      },
+      {
+        "level": 16,
+        "moveId": "pluck"
+      },
+      {
+        "level": 21,
+        "moveId": "roost"
+      },
+      {
+        "level": 24,
+        "moveId": "fury_attack"
+      },
+      {
+        "level": 29,
+        "moveId": "screech"
+      },
+      {
+        "level": 32,
+        "moveId": "drill_peck"
+      },
+      {
+        "level": 37,
+        "moveId": "bullet_seed"
+      },
+      {
+        "level": 40,
+        "moveId": "feather_dance"
+      },
+      {
+        "level": 45,
+        "moveId": "hyper_voice"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "fly",
+      "toxic",
+      "screech",
+      "double_team",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "swagger",
+      "steel_wing",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "sunny_day",
+      "rock_smash",
+      "uproar",
+      "heat_wave",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "feather_dance",
+      "hyper_voice",
+      "air_cutter",
+      "bullet_seed",
+      "aerial_ace",
+      "rock_blast",
+      "roost",
+      "pluck",
+      "tailwind",
+      "u_turn",
+      "air_slash",
+      "brave_bird",
+      "defog",
+      "gunk_shot",
+      "smack_down",
+      "flame_charge",
+      "round",
+      "echoed_voice",
+      "work_up",
+      "confide",
+      "dual_wingbeat",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "jungle"
+    ]
+  }
+]

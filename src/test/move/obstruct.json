@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "obstruct",
+    "name": "Obstruct",
+    "koName": "블로킹",
+    "type": "dark",
+    "moveCategory": "status",
+    "moveTarget": "user",
+    "power": -1,
+    "accuracy": 100,
+    "powerPoint": 10,
+    "effect": "상대의 공격을 전혀 받지 않는다. 연속으로 쓰면 실패하기 쉽다. 접촉한 상대의 방어를 크게 떨어뜨린다.",
+    "effectChance": -1,
+    "prioirty": 4,
+    "generation": 8,
+    "realased": "",
+    "flags": [
+      "ignore_protect"
+    ],
+    "pokemonIds": [
+      "carvanha",
+      "sharpedo",
+      "sharpedo_mega",
+      "purrloin",
+      "liepard",
+      "wimpod",
+      "golisopod",
+      "obstagoon",
+      "morpeko"
+    ]
+  }
+]

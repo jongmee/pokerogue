@@ -1,0 +1,137 @@
+[
+  {
+    "_id": "badlands",
+    "name": "Badlands",
+    "koName": "악지",
+    "types": [
+      "ground"
+    ],
+    "nextBiomes": [
+      {
+        "name": "desert",
+        "percentage": 50
+      },
+      {
+        "name": "mountain",
+        "percentage": 50
+      }
+    ],
+    "nativePokemons": [
+      {
+        "tier": "보통",
+        "pokemonIds": [
+          "phanpy",
+          "donphan",
+          "cubone",
+          "marowak",
+          "diglett",
+          "dugtrio",
+          "geodude",
+          "graveler",
+          "rhyhorn",
+          "rhydon",
+          "drilbur",
+          "excadrill",
+          "mudbray",
+          "mudsdale"
+        ]
+      },
+      {
+        "tier": "드묾",
+        "pokemonIds": [
+          "sizzlipede",
+          "centiskorch",
+          "capsakid",
+          "scovillain",
+          "sandshrew",
+          "sandslash",
+          "numel",
+          "camerupt",
+          "roggenrola",
+          "boldore",
+          "cufant",
+          "copperajah"
+        ]
+      },
+      {
+        "tier": "레어",
+        "pokemonIds": [
+          "onix",
+          "gligar",
+          "poltchageist",
+          "sinistcha"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어",
+        "pokemonIds": []
+      },
+      {
+        "tier": "울트라 레어",
+        "pokemonIds": [
+          "landorus",
+          "okidogi"
+        ]
+      },
+      {
+        "tier": "보스",
+        "pokemonIds": [
+          "donphan",
+          "centiskorch",
+          "scovillain",
+          "marowak",
+          "dugtrio",
+          "golem",
+          "rhyperior",
+          "gliscor",
+          "excadrill",
+          "mudsdale",
+          "copperajah"
+        ]
+      },
+      {
+        "tier": "레어 보스",
+        "pokemonIds": [
+          "steelix",
+          "sinistcha"
+        ]
+      },
+      {
+        "tier": "슈퍼 레어 보스",
+        "pokemonIds": [
+          "landorus",
+          "okidogi"
+        ]
+      },
+      {
+        "tier": "슈퍼 울트라 레어 보스",
+        "pokemonIds": [
+          "groudon"
+        ]
+      }
+    ],
+    "trainers": [
+      {
+        "name": "야콘",
+        "types": [
+          "ground"
+        ],
+        "pokemonIds": [
+          "drilbur",
+          "sandile",
+          "golett"
+        ]
+      },
+      {
+        "name": "자크로",
+        "types": [
+          "rock"
+        ],
+        "pokemonIds": [
+          "amaura",
+          "tyrunt"
+        ]
+      }
+    ]
+  }
+]

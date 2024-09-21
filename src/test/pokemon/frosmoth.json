@@ -1,0 +1,178 @@
+[
+  {
+    "_id": "frosmoth",
+    "gender": "",
+    "pokedexNumber": "873",
+    "name": "frosmoth",
+    "koName": "모스노우",
+    "speciesName": "frosmoth",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "166",
+    "friendship": "50",
+    "types": [
+      "ice",
+      "bug"
+    ],
+    "normalAbilityIds": [
+      "shield_dust"
+    ],
+    "hiddenAbilityId": "ice_scales",
+    "passiveAbilityId": "snow_warning",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 475,
+    "hp": 70,
+    "attack": 65,
+    "defense": 60,
+    "specialAttack": 125,
+    "specialDefense": 90,
+    "speed": 65,
+    "height": 1.3,
+    "weight": 42,
+    "eggMoveIds": [
+      "moonblast",
+      "surf",
+      "earth_power",
+      "fiery_dance"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "icy_wind"
+      },
+      {
+        "level": 1,
+        "moveId": "powder_snow"
+      },
+      {
+        "level": 1,
+        "moveId": "attract"
+      },
+      {
+        "level": 1,
+        "moveId": "helping_hand"
+      },
+      {
+        "level": 1,
+        "moveId": "struggle_bug"
+      },
+      {
+        "level": 4,
+        "moveId": "stun_spore"
+      },
+      {
+        "level": 8,
+        "moveId": "infestation"
+      },
+      {
+        "level": 12,
+        "moveId": "mist"
+      },
+      {
+        "level": 16,
+        "moveId": "defog"
+      },
+      {
+        "level": 21,
+        "moveId": "feather_dance"
+      },
+      {
+        "level": 24,
+        "moveId": "aurora_beam"
+      },
+      {
+        "level": 28,
+        "moveId": "snowscape"
+      },
+      {
+        "level": 32,
+        "moveId": "bug_buzz"
+      },
+      {
+        "level": 36,
+        "moveId": "aurora_veil"
+      },
+      {
+        "level": 40,
+        "moveId": "blizzard"
+      },
+      {
+        "level": 44,
+        "moveId": "tailwind"
+      },
+      {
+        "level": 48,
+        "moveId": "wide_guard"
+      },
+      {
+        "level": 52,
+        "moveId": "quiver_dance"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "ice_beam",
+      "blizzard",
+      "hyper_beam",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "swift",
+      "leech_life",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "icy_wind",
+      "giga_drain",
+      "endure",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "hail",
+      "facade",
+      "helping_hand",
+      "imprison",
+      "feather_dance",
+      "weather_ball",
+      "icicle_spear",
+      "calm_mind",
+      "tailwind",
+      "u_turn",
+      "air_slash",
+      "bug_buzz",
+      "giga_impact",
+      "avalanche",
+      "defog",
+      "bug_bite",
+      "round",
+      "acrobatics",
+      "struggle_bug",
+      "hurricane",
+      "play_rough",
+      "dazzling_gleam",
+      "infestation",
+      "lunge",
+      "skitter_smack",
+      "triple_axel",
+      "dual_wingbeat",
+      "tera_blast",
+      "ice_spinner",
+      "snowscape",
+      "pounce"
+    ],
+    "biomeIds": [
+      "ice_cave",
+      "snowy_forest"
+    ]
+  }
+]

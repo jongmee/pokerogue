@@ -1,0 +1,188 @@
+[
+  {
+    "_id": "duosion",
+    "gender": "",
+    "pokedexNumber": "578",
+    "name": "duosion",
+    "koName": "듀란",
+    "speciesName": "duosion",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "130",
+    "friendship": "50",
+    "types": [
+      "psychic"
+    ],
+    "normalAbilityIds": [
+      "overcoat",
+      "magic_guard"
+    ],
+    "hiddenAbilityId": "regenerator",
+    "passiveAbilityId": "psychic_surge",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 370,
+    "hp": 65,
+    "attack": 40,
+    "defense": 50,
+    "specialAttack": 125,
+    "specialDefense": 60,
+    "speed": 30,
+    "height": 0.6,
+    "weight": 8,
+    "eggMoveIds": [
+      "expanding_force",
+      "trick_room",
+      "aura_sphere",
+      "light_of_ruin"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "confusion"
+      },
+      {
+        "level": 1,
+        "moveId": "recover"
+      },
+      {
+        "level": 1,
+        "moveId": "psywave"
+      },
+      {
+        "level": 1,
+        "moveId": "protect"
+      },
+      {
+        "level": 1,
+        "moveId": "endeavor"
+      },
+      {
+        "level": 1,
+        "moveId": "snatch"
+      },
+      {
+        "level": 12,
+        "moveId": "psybeam"
+      },
+      {
+        "level": 16,
+        "moveId": "charm"
+      },
+      {
+        "level": 20,
+        "moveId": "psyshock"
+      },
+      {
+        "level": 24,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 24,
+        "moveId": "reflect"
+      },
+      {
+        "level": 28,
+        "moveId": "ally_switch"
+      },
+      {
+        "level": 35,
+        "moveId": "pain_split"
+      },
+      {
+        "level": 40,
+        "moveId": "psychic"
+      },
+      {
+        "level": 46,
+        "moveId": "skill_swap"
+      },
+      {
+        "level": 50,
+        "moveId": "heal_block"
+      },
+      {
+        "level": 52,
+        "moveId": "future_sight"
+      },
+      {
+        "level": 58,
+        "moveId": "wonder_room"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "psybeam",
+      "thunder_wave",
+      "thunder",
+      "toxic",
+      "psychic",
+      "night_shade",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "dream_eater",
+      "flash",
+      "explosion",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "protect",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "pain_split",
+      "encore",
+      "hidden_power",
+      "rain_dance",
+      "psych_up",
+      "shadow_ball",
+      "future_sight",
+      "facade",
+      "helping_hand",
+      "trick",
+      "endeavor",
+      "skill_swap",
+      "imprison",
+      "rock_tomb",
+      "signal_beam",
+      "iron_defense",
+      "calm_mind",
+      "gravity",
+      "gyro_ball",
+      "embargo",
+      "power_swap",
+      "guard_swap",
+      "energy_ball",
+      "zen_headbutt",
+      "flash_cannon",
+      "trick_room",
+      "wonder_room",
+      "psyshock",
+      "round",
+      "stored_power",
+      "ally_switch",
+      "confide",
+      "infestation",
+      "psychic_terrain",
+      "expanding_force",
+      "steel_roller",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "space",
+      "laboratory"
+    ]
+  }
+]

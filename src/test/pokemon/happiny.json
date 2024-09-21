@@ -1,0 +1,133 @@
+[
+  {
+    "_id": "happiny",
+    "gender": "",
+    "pokedexNumber": "440",
+    "name": "happiny",
+    "koName": "핑복",
+    "speciesName": "happiny",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "110",
+    "friendship": "140",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "natural_cure",
+      "serene_grace"
+    ],
+    "hiddenAbilityId": "friend_guard",
+    "passiveAbilityId": "fur_coat",
+    "generation": 4,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 220,
+    "hp": 100,
+    "attack": 5,
+    "defense": 5,
+    "specialAttack": 15,
+    "specialDefense": 65,
+    "speed": 30,
+    "height": 0.6,
+    "weight": 24.4,
+    "eggMoveIds": [
+      "cotton_guard",
+      "seismic_toss",
+      "sizzly_slide",
+      "revival_blessing"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "pound"
+      },
+      {
+        "level": 1,
+        "moveId": "copycat"
+      },
+      {
+        "level": 4,
+        "moveId": "defense_curl"
+      },
+      {
+        "level": 8,
+        "moveId": "sweet_kiss"
+      },
+      {
+        "level": 12,
+        "moveId": "disarming_voice"
+      },
+      {
+        "level": 16,
+        "moveId": "covet"
+      },
+      {
+        "level": 20,
+        "moveId": "charm"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "take_down",
+      "flamethrower",
+      "solar_beam",
+      "thunder_wave",
+      "toxic",
+      "psychic",
+      "double_team",
+      "light_screen",
+      "metronome",
+      "fire_blast",
+      "dream_eater",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "mud_slap",
+      "icy_wind",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "safeguard",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "psych_up",
+      "shadow_ball",
+      "uproar",
+      "hail",
+      "facade",
+      "helping_hand",
+      "recycle",
+      "endeavor",
+      "hyper_voice",
+      "covet",
+      "water_pulse",
+      "gravity",
+      "fling",
+      "drain_punch",
+      "zen_headbutt",
+      "grass_knot",
+      "round",
+      "echoed_voice",
+      "stored_power",
+      "incinerate",
+      "work_up",
+      "disarming_voice",
+      "confide",
+      "tera_blast",
+      "snowscape"
+    ],
+    "biomeIds": []
+  }
+]

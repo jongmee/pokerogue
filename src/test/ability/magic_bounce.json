@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "magic_bounce",
+    "name": "Magic Bounce",
+    "koName": "매직미러",
+    "realased": " (N)",
+    "description": "상대가 쓴 변화 기술을 받지 않고 그대로 되받아칠 수 있다.",
+    "generation": 5,
+    "pokemonIds": [
+      "natu",
+      "xatu",
+      "espeon",
+      "sableye_mega",
+      "absol_mega",
+      "diancie_mega",
+      "hatenna",
+      "hattrem",
+      "hatterene",
+      "hatterene_gigantamax",
+      "flittle",
+      "espathra"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

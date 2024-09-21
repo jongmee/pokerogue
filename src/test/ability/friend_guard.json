@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "friend_guard",
+    "name": "Friend Guard",
+    "koName": "프렌드가드",
+    "realased": " (N)",
+    "description": "같은 편의 데미지를 줄일 수 있다.",
+    "generation": 5,
+    "pokemonIds": [
+      "clefairy",
+      "jigglypuff",
+      "cleffa",
+      "igglybuff",
+      "happiny",
+      "audino",
+      "audino_mega",
+      "scatterbug",
+      "spewpa",
+      "comfey",
+      "indeedee"
+    ],
+    "isBypassFaint": false,
+    "isIgnorable": true
+  }
+]

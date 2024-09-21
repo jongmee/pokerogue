@@ -1,0 +1,165 @@
+[
+  {
+    "_id": "mareep",
+    "gender": "",
+    "pokedexNumber": "179",
+    "name": "mareep",
+    "koName": "메리프",
+    "speciesName": "mareep",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "56",
+    "friendship": "70",
+    "types": [
+      "electric"
+    ],
+    "normalAbilityIds": [
+      "static"
+    ],
+    "hiddenAbilityId": "plus",
+    "passiveAbilityId": "electromorphosis",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 280,
+    "hp": 55,
+    "attack": 40,
+    "defense": 40,
+    "specialAttack": 65,
+    "specialDefense": 45,
+    "speed": 35,
+    "height": 0.6,
+    "weight": 7.8,
+    "eggMoveIds": [
+      "ice_beam",
+      "parabolic_charge",
+      "core_enforcer",
+      "tail_glow"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 4,
+        "moveId": "thunder_wave"
+      },
+      {
+        "level": 8,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 11,
+        "moveId": "cotton_spore"
+      },
+      {
+        "level": 15,
+        "moveId": "charge"
+      },
+      {
+        "level": 18,
+        "moveId": "take_down"
+      },
+      {
+        "level": 22,
+        "moveId": "electro_ball"
+      },
+      {
+        "level": 25,
+        "moveId": "confuse_ray"
+      },
+      {
+        "level": 29,
+        "moveId": "power_gem"
+      },
+      {
+        "level": 32,
+        "moveId": "discharge"
+      },
+      {
+        "level": 36,
+        "moveId": "cotton_guard"
+      },
+      {
+        "level": 39,
+        "moveId": "dazzling_gleam"
+      },
+      {
+        "level": 43,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 46,
+        "moveId": "thunder"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "counter",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "dig",
+      "toxic",
+      "agility",
+      "screech",
+      "double_team",
+      "confuse_ray",
+      "light_screen",
+      "reflect",
+      "swift",
+      "flash",
+      "rest",
+      "substitute",
+      "snore",
+      "curse",
+      "protect",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "heal_bell",
+      "return",
+      "frustration",
+      "safeguard",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "facade",
+      "charge",
+      "helping_hand",
+      "endeavor",
+      "signal_beam",
+      "power_gem",
+      "charge_beam",
+      "electro_ball",
+      "round",
+      "echoed_voice",
+      "volt_switch",
+      "electroweb",
+      "wild_charge",
+      "confide",
+      "eerie_impulse",
+      "electric_terrain",
+      "dazzling_gleam",
+      "tera_blast",
+      "trailblaze"
+    ],
+    "biomeIds": [
+      "meadow",
+      "power_plant"
+    ]
+  }
+]

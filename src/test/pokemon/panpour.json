@@ -1,0 +1,176 @@
+[
+  {
+    "_id": "panpour",
+    "gender": "",
+    "pokedexNumber": "515",
+    "name": "panpour",
+    "koName": "앗차프",
+    "speciesName": "panpour",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "63",
+    "friendship": "70",
+    "types": [
+      "water"
+    ],
+    "normalAbilityIds": [
+      "gluttony"
+    ],
+    "hiddenAbilityId": "torrent",
+    "passiveAbilityId": "sap_sipper",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 316,
+    "hp": 50,
+    "attack": 53,
+    "defense": 48,
+    "specialAttack": 53,
+    "specialDefense": 48,
+    "speed": 64,
+    "height": 0.6,
+    "weight": 13.5,
+    "eggMoveIds": [
+      "nasty_plot",
+      "energy_ball",
+      "earth_power",
+      "steam_eruption"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "scratch"
+      },
+      {
+        "level": 1,
+        "moveId": "play_nice"
+      },
+      {
+        "level": 4,
+        "moveId": "leer"
+      },
+      {
+        "level": 7,
+        "moveId": "lick"
+      },
+      {
+        "level": 10,
+        "moveId": "water_gun"
+      },
+      {
+        "level": 13,
+        "moveId": "fury_swipes"
+      },
+      {
+        "level": 16,
+        "moveId": "water_sport"
+      },
+      {
+        "level": 19,
+        "moveId": "bite"
+      },
+      {
+        "level": 22,
+        "moveId": "scald"
+      },
+      {
+        "level": 25,
+        "moveId": "taunt"
+      },
+      {
+        "level": 28,
+        "moveId": "fling"
+      },
+      {
+        "level": 31,
+        "moveId": "acrobatics"
+      },
+      {
+        "level": 34,
+        "moveId": "brine"
+      },
+      {
+        "level": 37,
+        "moveId": "recycle"
+      },
+      {
+        "level": 40,
+        "moveId": "natural_gift"
+      },
+      {
+        "level": 43,
+        "moveId": "crunch"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "ice_punch",
+      "cut",
+      "hydro_pump",
+      "surf",
+      "ice_beam",
+      "blizzard",
+      "low_kick",
+      "dig",
+      "toxic",
+      "double_team",
+      "waterfall",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "protect",
+      "icy_wind",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "crunch",
+      "rock_smash",
+      "uproar",
+      "hail",
+      "torment",
+      "facade",
+      "focus_punch",
+      "taunt",
+      "helping_hand",
+      "recycle",
+      "knock_off",
+      "endeavor",
+      "dive",
+      "rock_tomb",
+      "covet",
+      "water_pulse",
+      "brine",
+      "payback",
+      "fling",
+      "gastro_acid",
+      "aqua_tail",
+      "nasty_plot",
+      "shadow_claw",
+      "gunk_shot",
+      "grass_knot",
+      "hone_claws",
+      "low_sweep",
+      "round",
+      "scald",
+      "acrobatics",
+      "water_pledge",
+      "work_up",
+      "disarming_voice",
+      "confide",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "sea",
+      "jungle"
+    ]
+  }
+]

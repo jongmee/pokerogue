@@ -1,0 +1,152 @@
+[
+  {
+    "_id": "regieleki",
+    "gender": "",
+    "pokedexNumber": "894",
+    "name": "regieleki",
+    "koName": "레지에레키",
+    "speciesName": "regieleki",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "290",
+    "friendship": "35",
+    "types": [
+      "electric"
+    ],
+    "normalAbilityIds": [
+      "transistor"
+    ],
+    "hiddenAbilityId": "none",
+    "passiveAbilityId": "electric_surge",
+    "generation": 8,
+    "legendary": false,
+    "subLegendary": true,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 580,
+    "hp": 80,
+    "attack": 100,
+    "defense": 50,
+    "specialAttack": 100,
+    "specialDefense": 50,
+    "speed": 200,
+    "height": 1.2,
+    "weight": 145,
+    "eggMoveIds": [
+      "nasty_plot",
+      "ice_beam",
+      "earth_power",
+      "electro_drift"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 1,
+        "moveId": "rapid_spin"
+      },
+      {
+        "level": 6,
+        "moveId": "electroweb"
+      },
+      {
+        "level": 12,
+        "moveId": "ancient_power"
+      },
+      {
+        "level": 18,
+        "moveId": "shock_wave"
+      },
+      {
+        "level": 24,
+        "moveId": "thunder_wave"
+      },
+      {
+        "level": 30,
+        "moveId": "extreme_speed"
+      },
+      {
+        "level": 36,
+        "moveId": "thunder_cage"
+      },
+      {
+        "level": 42,
+        "moveId": "thunderbolt"
+      },
+      {
+        "level": 48,
+        "moveId": "magnet_rise"
+      },
+      {
+        "level": 54,
+        "moveId": "thrash"
+      },
+      {
+        "level": 60,
+        "moveId": "lock_on"
+      },
+      {
+        "level": 66,
+        "moveId": "zap_cannon"
+      },
+      {
+        "level": 72,
+        "moveId": "hyper_beam"
+      },
+      {
+        "level": 78,
+        "moveId": "explosion"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "hyper_beam",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "agility",
+      "screech",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "self_destruct",
+      "swift",
+      "explosion",
+      "rest",
+      "substitute",
+      "snore",
+      "protect",
+      "endure",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "hidden_power",
+      "rain_dance",
+      "facade",
+      "charge",
+      "bounce",
+      "assurance",
+      "giga_impact",
+      "charge_beam",
+      "electro_ball",
+      "round",
+      "acrobatics",
+      "volt_switch",
+      "electroweb",
+      "wild_charge",
+      "eerie_impulse",
+      "electric_terrain",
+      "rising_voltage",
+      "tera_blast",
+      "supercell_slam"
+    ],
+    "biomeIds": [
+      "power_plant"
+    ]
+  }
+]

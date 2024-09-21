@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "cascoon",
+    "gender": "",
+    "pokedexNumber": "268",
+    "name": "cascoon",
+    "koName": "카스쿤",
+    "speciesName": "cascoon",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "72",
+    "friendship": "70",
+    "types": [
+      "bug"
+    ],
+    "normalAbilityIds": [
+      "shed_skin"
+    ],
+    "hiddenAbilityId": "shed_skin",
+    "passiveAbilityId": "simple",
+    "generation": 3,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 205,
+    "hp": 50,
+    "attack": 35,
+    "defense": 55,
+    "specialAttack": 25,
+    "specialDefense": 25,
+    "speed": 15,
+    "height": 0.7,
+    "weight": 11.5,
+    "eggMoveIds": [
+      "baton_pass",
+      "bleakwind_storm",
+      "stored_power",
+      "malignant_chain"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "harden"
+      },
+      {
+        "level": 1,
+        "moveId": "harden"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "iron_defense",
+      "bug_bite",
+      "electroweb"
+    ],
+    "biomeIds": [
+      "town"
+    ]
+  }
+]

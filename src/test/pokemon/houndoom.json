@@ -1,0 +1,197 @@
+[
+  {
+    "_id": "houndoom",
+    "gender": "",
+    "pokedexNumber": "229",
+    "name": "houndoom",
+    "koName": "헬가",
+    "speciesName": "houndoom",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "175",
+    "friendship": "35",
+    "types": [
+      "dark",
+      "fire"
+    ],
+    "normalAbilityIds": [
+      "early_bird",
+      "flash_fire"
+    ],
+    "hiddenAbilityId": "unnerve",
+    "passiveAbilityId": "drought",
+    "generation": 2,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 500,
+    "hp": 75,
+    "attack": 90,
+    "defense": 50,
+    "specialAttack": 110,
+    "specialDefense": 80,
+    "speed": 95,
+    "height": 1.4,
+    "weight": 35,
+    "eggMoveIds": [
+      "heat_wave",
+      "fiery_wrath",
+      "solar_beam",
+      "hydro_steam"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "ember"
+      },
+      {
+        "level": 1,
+        "moveId": "smog"
+      },
+      {
+        "level": 1,
+        "moveId": "howl"
+      },
+      {
+        "level": 1,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_fang"
+      },
+      {
+        "level": 13,
+        "moveId": "roar"
+      },
+      {
+        "level": 16,
+        "moveId": "bite"
+      },
+      {
+        "level": 20,
+        "moveId": "incinerate"
+      },
+      {
+        "level": 26,
+        "moveId": "beat_up"
+      },
+      {
+        "level": 30,
+        "moveId": "fire_fang"
+      },
+      {
+        "level": 35,
+        "moveId": "torment"
+      },
+      {
+        "level": 41,
+        "moveId": "comeuppance"
+      },
+      {
+        "level": 45,
+        "moveId": "foul_play"
+      },
+      {
+        "level": 50,
+        "moveId": "flamethrower"
+      },
+      {
+        "level": 56,
+        "moveId": "crunch"
+      },
+      {
+        "level": 62,
+        "moveId": "inferno"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "roar",
+      "flamethrower",
+      "hyper_beam",
+      "counter",
+      "strength",
+      "solar_beam",
+      "fire_spin",
+      "toxic",
+      "double_team",
+      "fire_blast",
+      "swift",
+      "dream_eater",
+      "rest",
+      "super_fang",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "reversal",
+      "spite",
+      "protect",
+      "scary_face",
+      "sludge_bomb",
+      "mud_slap",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "pain_split",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "crunch",
+      "shadow_ball",
+      "rock_smash",
+      "beat_up",
+      "uproar",
+      "heat_wave",
+      "torment",
+      "will_o_wisp",
+      "facade",
+      "taunt",
+      "helping_hand",
+      "endeavor",
+      "hyper_voice",
+      "overheat",
+      "mud_shot",
+      "payback",
+      "embargo",
+      "flare_blitz",
+      "dark_pulse",
+      "giga_impact",
+      "nasty_plot",
+      "thunder_fang",
+      "fire_fang",
+      "flame_charge",
+      "foul_play",
+      "round",
+      "incinerate",
+      "retaliate",
+      "snarl",
+      "confide",
+      "throat_chop",
+      "psychic_fangs",
+      "burning_jealousy",
+      "lash_out",
+      "tera_blast",
+      "trailblaze",
+      "temper_flare"
+    ],
+    "biomeIds": [
+      "metropolis",
+      "abyss"
+    ]
+  }
+]

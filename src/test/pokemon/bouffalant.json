@@ -1,0 +1,168 @@
+[
+  {
+    "_id": "bouffalant",
+    "gender": "",
+    "pokedexNumber": "626",
+    "name": "bouffalant",
+    "koName": "버프론",
+    "speciesName": "bouffalant",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "172",
+    "friendship": "50",
+    "types": [
+      "normal"
+    ],
+    "normalAbilityIds": [
+      "reckless",
+      "sap_sipper"
+    ],
+    "hiddenAbilityId": "soundproof",
+    "passiveAbilityId": "rock_head",
+    "generation": 5,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 490,
+    "hp": 95,
+    "attack": 110,
+    "defense": 95,
+    "specialAttack": 40,
+    "specialDefense": 95,
+    "speed": 55,
+    "height": 1.6,
+    "weight": 94.6,
+    "eggMoveIds": [
+      "slack_off",
+      "jump_kick",
+      "head_smash",
+      "flare_blitz"
+    ],
+    "levelMoves": [
+      {
+        "level": 1,
+        "moveId": "tackle"
+      },
+      {
+        "level": 1,
+        "moveId": "leer"
+      },
+      {
+        "level": 1,
+        "moveId": "pursuit"
+      },
+      {
+        "level": 5,
+        "moveId": "focus_energy"
+      },
+      {
+        "level": 10,
+        "moveId": "fury_attack"
+      },
+      {
+        "level": 15,
+        "moveId": "revenge"
+      },
+      {
+        "level": 20,
+        "moveId": "scary_face"
+      },
+      {
+        "level": 25,
+        "moveId": "horn_attack"
+      },
+      {
+        "level": 30,
+        "moveId": "reversal"
+      },
+      {
+        "level": 35,
+        "moveId": "throat_chop"
+      },
+      {
+        "level": 40,
+        "moveId": "head_charge"
+      },
+      {
+        "level": 45,
+        "moveId": "swords_dance"
+      },
+      {
+        "level": 50,
+        "moveId": "megahorn"
+      },
+      {
+        "level": 55,
+        "moveId": "giga_impact"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "swords_dance",
+      "cut",
+      "body_slam",
+      "surf",
+      "strength",
+      "earthquake",
+      "toxic",
+      "double_team",
+      "focus_energy",
+      "amnesia",
+      "rest",
+      "rock_slide",
+      "substitute",
+      "snore",
+      "reversal",
+      "protect",
+      "scary_face",
+      "mud_slap",
+      "outrage",
+      "endure",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "megahorn",
+      "hidden_power",
+      "rain_dance",
+      "sunny_day",
+      "rock_smash",
+      "uproar",
+      "facade",
+      "taunt",
+      "superpower",
+      "revenge",
+      "endeavor",
+      "rock_tomb",
+      "aerial_ace",
+      "mud_shot",
+      "close_combat",
+      "payback",
+      "assurance",
+      "poison_jab",
+      "giga_impact",
+      "zen_headbutt",
+      "rock_climb",
+      "iron_head",
+      "stone_edge",
+      "round",
+      "retaliate",
+      "bulldoze",
+      "work_up",
+      "wild_charge",
+      "confide",
+      "high_horsepower",
+      "throat_chop",
+      "smart_strike",
+      "stomping_tantrum",
+      "lash_out",
+      "tera_blast"
+    ],
+    "biomeIds": [
+      "meadow"
+    ]
+  }
+]

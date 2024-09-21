@@ -1,0 +1,222 @@
+[
+  {
+    "_id": "raichu",
+    "gender": "",
+    "pokedexNumber": "26",
+    "name": "raichu",
+    "koName": "라이츄",
+    "speciesName": "raichu",
+    "canChangeForm": false,
+    "formName": "",
+    "baseExp": "243",
+    "friendship": "50",
+    "types": [
+      "electric"
+    ],
+    "normalAbilityIds": [
+      "static"
+    ],
+    "hiddenAbilityId": "lightning_rod",
+    "passiveAbilityId": "electric_surge",
+    "generation": 1,
+    "legendary": false,
+    "subLegendary": false,
+    "mythical": false,
+    "evolutions": [],
+    "formEvolutions": [],
+    "formChanges": [],
+    "baseTotal": 485,
+    "hp": 60,
+    "attack": 90,
+    "defense": 55,
+    "specialAttack": 90,
+    "specialDefense": 80,
+    "speed": 110,
+    "height": 0.8,
+    "weight": 30,
+    "eggMoveIds": [
+      "rising_voltage",
+      "splishy_splash",
+      "floaty_fall",
+      "thunderclap"
+    ],
+    "levelMoves": [
+      {
+        "level": 0,
+        "moveId": "zippy_zap"
+      },
+      {
+        "level": 1,
+        "moveId": "tail_whip"
+      },
+      {
+        "level": 1,
+        "moveId": "growl"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_shock"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_wave"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder"
+      },
+      {
+        "level": 1,
+        "moveId": "agility"
+      },
+      {
+        "level": 1,
+        "moveId": "quick_attack"
+      },
+      {
+        "level": 1,
+        "moveId": "double_team"
+      },
+      {
+        "level": 1,
+        "moveId": "light_screen"
+      },
+      {
+        "level": 1,
+        "moveId": "sweet_kiss"
+      },
+      {
+        "level": 1,
+        "moveId": "charm"
+      },
+      {
+        "level": 1,
+        "moveId": "spark"
+      },
+      {
+        "level": 1,
+        "moveId": "iron_tail"
+      },
+      {
+        "level": 1,
+        "moveId": "feint"
+      },
+      {
+        "level": 1,
+        "moveId": "nasty_plot"
+      },
+      {
+        "level": 1,
+        "moveId": "discharge"
+      },
+      {
+        "level": 1,
+        "moveId": "electro_ball"
+      },
+      {
+        "level": 1,
+        "moveId": "play_nice"
+      },
+      {
+        "level": 1,
+        "moveId": "nuzzle"
+      },
+      {
+        "level": 1,
+        "moveId": "thunder_punch"
+      },
+      {
+        "level": 5,
+        "moveId": "thunderbolt"
+      },
+      {
+        "level": 50,
+        "moveId": "pika_papow"
+      }
+    ],
+    "technicalMachineMoveIds": [
+      "mega_punch",
+      "pay_day",
+      "thunder_punch",
+      "mega_kick",
+      "body_slam",
+      "take_down",
+      "double_edge",
+      "surf",
+      "hyper_beam",
+      "counter",
+      "strength",
+      "thunderbolt",
+      "thunder_wave",
+      "thunder",
+      "dig",
+      "toxic",
+      "agility",
+      "double_team",
+      "light_screen",
+      "reflect",
+      "swift",
+      "flash",
+      "rest",
+      "substitute",
+      "thief",
+      "snore",
+      "curse",
+      "reversal",
+      "protect",
+      "mud_slap",
+      "endure",
+      "charm",
+      "swagger",
+      "attract",
+      "sleep_talk",
+      "return",
+      "frustration",
+      "safeguard",
+      "encore",
+      "iron_tail",
+      "hidden_power",
+      "rain_dance",
+      "rock_smash",
+      "uproar",
+      "facade",
+      "focus_punch",
+      "charge",
+      "helping_hand",
+      "brick_break",
+      "knock_off",
+      "endeavor",
+      "signal_beam",
+      "covet",
+      "calm_mind",
+      "fling",
+      "focus_blast",
+      "giga_impact",
+      "nasty_plot",
+      "grass_knot",
+      "charge_beam",
+      "electro_ball",
+      "round",
+      "echoed_voice",
+      "volt_switch",
+      "electroweb",
+      "wild_charge",
+      "disarming_voice",
+      "draining_kiss",
+      "play_rough",
+      "confide",
+      "eerie_impulse",
+      "electric_terrain",
+      "speed_swap",
+      "brutal_swing",
+      "rising_voltage",
+      "tera_blast",
+      "trailblaze",
+      "alluring_voice",
+      "upper_hand"
+    ],
+    "biomeIds": [
+      "power_plant"
+    ]
+  }
+]
