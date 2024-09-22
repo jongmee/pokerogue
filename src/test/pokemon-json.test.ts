@@ -14,15 +14,11 @@ import { pokemonSpeciesLevelMoves, pokemonFormLevelMoves } from "#app/data/pokem
 import { Stat } from "#app/enums/stat.js";
 import { tmSpecies } from "#app/data/tms.js";
 import { generateEvolutionChains, getEvolutionsById } from "#app/test/pokemon-evolution.ts";
+import { generateFormChangeInfo, FormChangeInfo } from "#app/test/pokemon-form.ts";
 
 // 각 포켓몬에 대해 JSON 파일을 생성하는 함수
 const generatePokemonJsonFiles = () => {
-  const evolutionChains = generateEvolutionChains();
-
-  // pokemon 이미지들의 이름 목록을 Set으로 가져오기
-  const path = require("path");
-  const fs = require("fs");
-  const directoryPath = path.join(__dirname, "../../public/images/pokemon");
+  const directoryPath = "C:/Users/s_osang0731/precourse/pokerogue-bito/public/images/pokemon";
   const files = fs.readdirSync(directoryPath);
   const fileNamesSet = new Set<string>();
   files.forEach(file => {
@@ -32,6 +28,7 @@ const generatePokemonJsonFiles = () => {
     }
   });
 
+  const evolutionChains = generateEvolutionChains();
   // Species에 따른 Biome의 Map 생성
   const biomeMap = new Map<Species, Biome[]>();
   for (let i = 0; i < selfPokemonBiomes.length; i++) {
@@ -72,13 +69,15 @@ const generatePokemonJsonFiles = () => {
     }
   }
 
+  const formchangemap: Map<String, FormChangeInfo[]> = generateFormChangeInfo();
+
   for (let i = 0; i < allSpecies.length; i++) {
     const pokemon = allSpecies[i];
 
     // 포켓몬 데이터 형식
     const pokemonData = {
       _id: "",
-      gender: "",
+      imageId: "",
       pokedexNumber: "",
       name: "",
       koName: "",
@@ -117,17 +116,15 @@ const generatePokemonJsonFiles = () => {
     const legend = pokemon.legendary;
     const subLegend = pokemon.subLegendary;
     const myth = pokemon.mythical;
-    if (pokemon.speciesId === Species.LYCANROC) {
-      console.log(pokemon.canChangeForm);
-    }
 
     // form에 따른 포켓몬 정보 세팅
-    if (true) {
+    if (pokemon.forms.length !== 0) {
       for (const form of pokemon.forms) {
         const aaformpokemon = [];
-        // form 이름 체크
-        const checkformname = Species[Species[form.speciesId]] + "-" + form.formKey + ".png";
-        if (!fileNamesSet.has(checkformname)) {
+        // tail
+        const tail = form.formKey !== "" ? "_" + form.formKey.toLowerCase().replace(" ", "_").replace("-", "_") : "";
+        const imageTail = form.getFormSpriteKey(form.formIndex) !== "" ? "-" + form.getFormSpriteKey(form.formIndex) : "";
+        if (!fileNamesSet.has(Species[Species[form.speciesId]] + imageTail + ".png")) {
           continue;
         }
 
@@ -183,8 +180,8 @@ const generatePokemonJsonFiles = () => {
         }
 
         // form에 따른 포켓몬 정보 저장
-        pokemonData._id = Species[form.speciesId].toLowerCase() + "_" + form.formKey.toLowerCase().replace(" ", "_").replace("-", "_");
-        pokemonData.gender = "";
+        pokemonData._id = Species[form.speciesId].toLowerCase() + tail;
+        pokemonData.imageId = Species[form.speciesId].toLowerCase() + imageTail;
         pokemonData.pokedexNumber = `${form.speciesId}`;
         pokemonData.name = Species[form.speciesId].toLowerCase() + "_" + form.formKey.toLowerCase().replace(" ", "_").replace("-", "_");
         pokemonData.koName = FORMKONAME;
@@ -204,7 +201,7 @@ const generatePokemonJsonFiles = () => {
         // @ts-ignore
         pokemonData.evolutions = getEvolutionsById(evolutionChains, pokemonData._id);
         pokemonData.formEvolutions = [];
-        pokemonData.formChanges = [];
+        pokemonData.formChanges = formchangemap.has(pokemonData._id) ? formchangemap.get(pokemonData._id) : [];
         pokemonData.baseTotal = form.baseTotal;
         pokemonData.hp = form.getBaseStat(Stat.HP);
         pokemonData.attack = form.getBaseStat(Stat.ATK);
@@ -221,100 +218,98 @@ const generatePokemonJsonFiles = () => {
 
         aaformpokemon.push(pokemonData);
 
-        const jsonFilePath = path.join(__dirname, `pokemon/${Species[form.speciesId].toLowerCase() + "_" + form.formKey.toLowerCase().replace(" ", "_").replace("-", "_")}.json`);
+        const jsonFilePath = path.join(__dirname, `pokemon/${pokemonData._id}.json`);
         fs.writeFileSync(jsonFilePath, JSON.stringify(aaformpokemon, null, 2));
       }
-    }
-
-    const aapokemon = [];
-
-    // 이름 체크
-    const checkname = Species[Species[pokemon.speciesId]] + ".png";
-    if (!fileNamesSet.has(checkname)) {
-      continue;
-    }
-
-    // 일반적인 포켓몬 정보 파싱
-    // koName
-    i18next.changeLanguage("ko");
-    const KONAME = i18next.t(`pokemon:${Species[pokemon.speciesId].toLowerCase()}`);
-
-    // types
-    let typelist = [];
-    if (pokemon.type1 !== null) {
-      typelist.push(Type[pokemon.type1].toLowerCase());
-    }
-    if (pokemon.type2 !== null) {
-      typelist.push(Type[pokemon.type2].toLowerCase());
-    }
-    typelist = [...new Set(typelist)];
-
-    // normalAbilityIds
-    let abilitylist = [];
-    abilitylist.push(Abilities[pokemon.ability1].toLowerCase());
-    abilitylist.push(Abilities[pokemon.ability2].toLowerCase());
-    abilitylist = [...new Set(abilitylist)];
-
-    // levelmoves
-    const levelmovelist: Moves[] = [];
-    const eachlevelmovelist = pokemonSpeciesLevelMoves[pokemon.speciesId];
-    for (let i = 0; i < eachlevelmovelist.length; i++) {
-      const levelm = {
-        level: eachlevelmovelist[i][0],
-        moveId: Moves[eachlevelmovelist[i][1]].toLowerCase()
-      };
-      levelmovelist.push(levelm);
-    }
-
-    // tms
-    let tmslist = [];
-    if (tmsMap.get(Species[pokemon.speciesId].toLowerCase()) === undefined) {
-      tmslist = [];
     } else {
-      tmslist = tmsMap.get(Species[pokemon.speciesId].toLowerCase());
+      const aapokemon = [];
+
+      if (!fileNamesSet.has(Species[Species[pokemon.speciesId]] + ".png")) {
+        continue;
+      }
+
+      // 일반적인 포켓몬 정보 파싱
+      // koName
+      i18next.changeLanguage("ko");
+      const KONAME = i18next.t(`pokemon:${Species[pokemon.speciesId].toLowerCase()}`);
+
+      // types
+      let typelist = [];
+      if (pokemon.type1 !== null) {
+        typelist.push(Type[pokemon.type1].toLowerCase());
+      }
+      if (pokemon.type2 !== null) {
+        typelist.push(Type[pokemon.type2].toLowerCase());
+      }
+      typelist = [...new Set(typelist)];
+
+      // normalAbilityIds
+      let abilitylist = [];
+      abilitylist.push(Abilities[pokemon.ability1].toLowerCase());
+      abilitylist.push(Abilities[pokemon.ability2].toLowerCase());
+      abilitylist = [...new Set(abilitylist)];
+
+      // levelmoves
+      const levelmovelist: Moves[] = [];
+      const eachlevelmovelist = pokemonSpeciesLevelMoves[pokemon.speciesId];
+      for (let i = 0; i < eachlevelmovelist.length; i++) {
+        const levelm = {
+          level: eachlevelmovelist[i][0],
+          moveId: Moves[eachlevelmovelist[i][1]].toLowerCase()
+        };
+        levelmovelist.push(levelm);
+      }
+
+      // tms
+      let tmslist = [];
+      if (tmsMap.get(Species[pokemon.speciesId].toLowerCase()) === undefined) {
+        tmslist = [];
+      } else {
+        tmslist = tmsMap.get(Species[pokemon.speciesId].toLowerCase());
+      }
+
+      // 일반적인 포켓몬 정보 저장
+      pokemonData._id = Species[pokemon.speciesId].toLowerCase();
+      pokemonData.imageId = Species[pokemon.speciesId].toLowerCase();
+      pokemonData.pokedexNumber = `${pokemon.speciesId}`;
+      pokemonData.name = Species[pokemon.speciesId].toLowerCase();
+      pokemonData.koName = KONAME;
+      pokemonData.speciesName = Species[pokemon.speciesId].toLowerCase();
+      pokemonData.canChangeForm = false;
+      pokemonData.formName = "";
+      pokemonData.baseExp = `${pokemon.baseExp}`;
+      pokemonData.friendship = `${pokemon.baseFriendship}`;
+      pokemonData.types = typelist;
+      pokemonData.normalAbilityIds = abilitylist;
+      pokemonData.hiddenAbilityId = Abilities[pokemon.abilityHidden].toLowerCase();
+      pokemonData.passiveAbilityId = Abilities[starterPassiveAbilities[pokemon.getRootSpeciesId()]].toLowerCase();
+      pokemonData.generation = pokemon.generation;
+      pokemonData.legendary = legend;
+      pokemonData.subLegendary = subLegend;
+      pokemonData.mythical = myth;
+      // @ts-ignore
+      pokemonData.evolutions = getEvolutionsById(evolutionChains, pokemonData._id);
+      pokemonData.formEvolutions = [];
+      pokemonData.formChanges = formchangemap.has(pokemonData._id) ? formchangemap.get(pokemonData._id) : [];
+      pokemonData.baseTotal = pokemon.baseTotal;
+      pokemonData.hp = pokemon.getBaseStat(Stat.HP);
+      pokemonData.attack = pokemon.getBaseStat(Stat.ATK);
+      pokemonData.defense = pokemon.getBaseStat(Stat.DEF);
+      pokemonData.specialAttack = pokemon.getBaseStat(Stat.SPATK);
+      pokemonData.specialDefense = pokemon.getBaseStat(Stat.SPDEF);
+      pokemonData.speed = pokemon.getBaseStat(Stat.SPD);
+      pokemonData.height = pokemon.height;
+      pokemonData.weight = pokemon.weight;
+      pokemonData.eggMoveIds = speciesEggMoves[pokemon.getRootSpeciesId()].map((eggMove) => Moves[eggMove].toLowerCase());
+      pokemonData.levelMoves = levelmovelist;
+      pokemonData.technicalMachineMoveIds = tmslist;
+      pokemonData.biomeIds = biomeMap.get(Species[Species[pokemon.speciesId]]);
+
+      aapokemon.push(pokemonData);
+
+      const jsonFilePath = path.join(__dirname, `pokemon/${pokemonData._id}.json`);
+      fs.writeFileSync(jsonFilePath, JSON.stringify(aapokemon, null, 2));
     }
-
-    // 일반적인 포켓몬 정보 저장
-    pokemonData._id = Species[pokemon.speciesId].toLowerCase();
-    pokemonData.gender = "";
-    pokemonData.pokedexNumber = `${pokemon.speciesId}`;
-    pokemonData.name = Species[pokemon.speciesId].toLowerCase();
-    pokemonData.koName = KONAME;
-    pokemonData.speciesName = Species[pokemon.speciesId].toLowerCase();
-    pokemonData.canChangeForm = false;
-    pokemonData.formName = "";
-    pokemonData.baseExp = `${pokemon.baseExp}`;
-    pokemonData.friendship = `${pokemon.baseFriendship}`;
-    pokemonData.types = typelist;
-    pokemonData.normalAbilityIds = abilitylist;
-    pokemonData.hiddenAbilityId = Abilities[pokemon.abilityHidden].toLowerCase();
-    pokemonData.passiveAbilityId = Abilities[starterPassiveAbilities[pokemon.getRootSpeciesId()]].toLowerCase();
-    pokemonData.generation = pokemon.generation;
-    pokemonData.legendary = legend;
-    pokemonData.subLegendary = subLegend;
-    pokemonData.mythical = myth;
-    // @ts-ignore
-    pokemonData.evolutions = getEvolutionsById(evolutionChains, pokemonData._id);
-    pokemonData.formEvolutions = [];
-    pokemonData.formChanges = [];
-    pokemonData.baseTotal = pokemon.baseTotal;
-    pokemonData.hp = pokemon.getBaseStat(Stat.HP);
-    pokemonData.attack = pokemon.getBaseStat(Stat.ATK);
-    pokemonData.defense = pokemon.getBaseStat(Stat.DEF);
-    pokemonData.specialAttack = pokemon.getBaseStat(Stat.SPATK);
-    pokemonData.specialDefense = pokemon.getBaseStat(Stat.SPDEF);
-    pokemonData.speed = pokemon.getBaseStat(Stat.SPD);
-    pokemonData.height = pokemon.height;
-    pokemonData.weight = pokemon.weight;
-    pokemonData.eggMoveIds = speciesEggMoves[pokemon.getRootSpeciesId()].map((eggMove) => Moves[eggMove].toLowerCase());
-    pokemonData.levelMoves = levelmovelist;
-    pokemonData.technicalMachineMoveIds = tmslist;
-    pokemonData.biomeIds = biomeMap.get(Species[Species[pokemon.speciesId]]);
-
-    aapokemon.push(pokemonData);
-
-    const jsonFilePath = path.join(__dirname, `pokemon/${Species[pokemon.speciesId].toLowerCase()}.json`);
-    fs.writeFileSync(jsonFilePath, JSON.stringify(aapokemon, null, 2));
   }
 };
 
