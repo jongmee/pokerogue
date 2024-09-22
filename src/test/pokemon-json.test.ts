@@ -8,18 +8,31 @@ import { Biome } from "#app/enums/biome.js";
 import { Abilities } from "#app/enums/abilities.js";
 import { Moves } from "#app/enums/moves"
 import { Type } from "#app/data/type"
-import { starterPassiveAbilities, allSpecies } from "#app/data/pokemon-species.js";
+import { starterPassiveAbilities, allSpecies, PokemonForm } from "#app/data/pokemon-species.js";
 import { speciesEggMoves } from "#app/data/egg-moves"
 import { pokemonSpeciesLevelMoves, pokemonFormLevelMoves } from "#app/data/pokemon-level-moves.js";
-import { pokemonEvolutions } from "#app/data/pokemon-evolutions.js";
-import { pokemonFormChanges } from "#app/data/pokemon-forms.js";
+import { pokemonEvolutions, SpeciesEvolution, SpeciesFormEvolution, pokemonFormChanges } from "#app/data/pokemon-evolutions.js";
 import { Stat } from "#app/enums/stat.js";
 import { tmSpecies } from "#app/data/tms.js";
 
 // 각 포켓몬에 대해 JSON 파일을 생성하는 함수
 const generatePokemonJsonFiles = () => {
+    const notStarters = new Set<Species>();
+    for (const speciesKey of Object.keys(pokemonEvolutions)) {
+        const species = Number(speciesKey) as Species; // speciesKey를 적절히 변환
+        if(!pokemonEvolutions[species]) continue;
+        for(const chain of pokemonEvolutions[species]) {
+            notStarters.add(chain.speciesId);
+        }
+    }
+    
+    const evolutionChains = generateEvolutionChains(notStarters);
+    writeChainsToJson(evolutionChains, "evolutionChains.json")
+
     // pokemon 이미지들의 이름 목록을 Set으로 가져오기
-    const directoryPath = 'C:/Users/s_osang0731/precourse/pokerogue/public/images/pokemon';
+    const path = require('path');
+    const fs = require('fs');
+    const directoryPath = path.join(__dirname, '../../public/images/pokemon');
     const files = fs.readdirSync(directoryPath);
     const fileNamesSet = new Set<string>();
     files.forEach(file => {
@@ -198,7 +211,8 @@ const generatePokemonJsonFiles = () => {
                 pokemonData.legendary = legend;
                 pokemonData.subLegendary = subLegend;
                 pokemonData.mythical = myth;
-                pokemonData.evolutions = [];
+                // @ts-ignore
+                pokemonData.evolutions = getEvolutionsById(evolutionChains, pokemonData._id);
                 pokemonData.formEvolutions = [];
                 pokemonData.formChanges = [];
                 pokemonData.baseTotal = form.baseTotal;
@@ -289,7 +303,8 @@ const generatePokemonJsonFiles = () => {
         pokemonData.legendary = legend;
         pokemonData.subLegendary = subLegend;
         pokemonData.mythical = myth;
-        pokemonData.evolutions = [];
+        // @ts-ignore
+        pokemonData.evolutions = getEvolutionsById(evolutionChains, pokemonData._id);
         pokemonData.formEvolutions = [];
         pokemonData.formChanges = [];
         pokemonData.baseTotal = pokemon.baseTotal;
@@ -319,3 +334,118 @@ describe('Pokemon JSON 파일 생성 테스트', () => {
         generatePokemonJsonFiles();
     });
 });
+
+type ParsedEvolution = {
+    from: string
+    level?: number | null
+    to: string
+    item?: string | null
+    condition?: string | null
+}
+
+const generateEvolutionChains = (notStarters: Set<Species>): Record<string, ParsedEvolution[]> => {
+    const chains: Record<string, ParsedEvolution[]> = {};
+
+    const buildChain = (key: Species, species: Species, chains: Record<string, ParsedEvolution[]>, visited: Set<Species>): void => {
+      const nextEvolutions = pokemonEvolutions[species];
+  
+      if (nextEvolutions) {
+        for (const evolution of nextEvolutions) {
+            if ((evolution.evoFormKey == null && evolution.preFormKey == null) || (evolution.evoFormKey == "" && evolution.preFormKey == "")) {
+                visited.add(evolution.speciesId);
+                chains[key].push({
+                    from: generateCommonId(species),
+                    level: evolution.level,
+                    to: generateCommonId(evolution.speciesId),
+                    item: null,
+                    condition: null
+                });
+                buildChain(key, evolution.speciesId, chains, visited); // 재귀적으로 진화 체인 생성
+            } else {
+                chains[key].push({
+                    from: generateFormId(species, evolution.preFormKey),
+                    level: evolution.level,
+                    to: generateFormId(evolution.speciesId, evolution.evoFormKey),
+                    item: null,
+                    condition: null
+                });
+            }
+        }
+      }
+    };
+  
+    // 모든 Pokémon에 대해 진화 체인을 생성
+    const visited = new Set<Species>();
+    // Object.keys를 사용하여 speciesKey를 가져오고, 이를 숫자 타입으로 변환
+    for (const speciesKey of Object.keys(pokemonEvolutions)) {
+        const species = Number(speciesKey) as Species; // speciesKey를 숫자로 변환 (Species가 enum일 경우)
+        if (!notStarters.has(species) && !visited.has(species)) {
+            visited.add(species);
+            chains[species] = [];
+            buildChain(species, species, chains, visited);
+        }
+    }
+  
+    return chains;
+  };
+
+  const printChains = (chains: Record<string, ParsedEvolution[]>) => {
+    for (const key in chains) {
+        // if (Species[Number(key)] !== 'PICHU') continue;
+        console.log(`###Species: ${Species[Number(key)]}`); // Species enum에서 숫자를 이름으로 변환
+
+        for (const evolution of chains[key]) {
+            console.log({
+                from: evolution.from,          // 숫자를 Species 이름으로 변환
+                level: evolution.level,
+                to: evolution.to, // to가 null이 아닌 경우 변환
+                item: evolution.item,
+                condition: evolution.condition
+            });
+        }
+    }
+};
+
+const writeChainsToJson = (chains: Record<string, ParsedEvolution[]>, fileName: string) => {
+    const result: Record<string, any> = {}; // Object to hold results for writing
+
+    for (const key in chains) {
+        // Optional: filter for a specific species, like 'PICHU'
+        // if (Species[Number(key)] !== 'PICHU') continue;
+        
+        result[Species[Number(key)]] = chains[key].map(evolution => ({
+            from: evolution.from,        // Species enum ID
+            level: evolution.level,      // Evolution level
+            to: evolution.to,            // Target evolution species
+            item: evolution.item,        // Evolution item, if any
+            condition: evolution.condition // Evolution condition, if any
+        }));
+    }
+
+    // Write the result object to a JSON file
+    fs.writeFileSync(fileName, JSON.stringify(result, null, 2)); // Pretty print with indentation
+};
+
+const getEvolutionsById = (chains: Record<string, ParsedEvolution[]>, id: string): ParsedEvolution[] => {
+    // Iterate through all species in chains
+    for (const evolutions of Object.values(chains)) {
+        // Iterate through each evolution in the current species
+        for (const evolution of evolutions) {
+            // Check if from or to matches the id
+            if (String(evolution.from) === id || String(evolution.to) === id) {
+                return evolutions; // Return the matching evolution as an array
+            }
+        }
+    }
+    // Return an empty array if no matches found
+    return [];
+};
+
+const generateCommonId = (species: Species) => {
+    return Species[species].toLowerCase();
+}
+
+const generateFormId = (species: Species, formKey: string | null) => {
+    if (!formKey || formKey === "") return Species[species].toLowerCase();
+    return Species[species].toLowerCase() + "_" + formKey.toLowerCase().replace(" ", "_").replace("-", "_");
+}
