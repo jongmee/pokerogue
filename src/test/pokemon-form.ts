@@ -1,6 +1,6 @@
 import * as fs from "fs";
 import { Species } from "#app/enums/species.js";
-import { pokemonFormChanges } from "#app/data/pokemon-forms.js";
+import { pokemonFormChanges, SpeciesFormChangeItemTrigger, FormChangeItem, SpeciesFormChangeCompoundTrigger, SpeciesFormChange, SpeciesFormChangeTrigger } from "#app/data/pokemon-forms.js";
 
 export interface FormChangeInfo {
     from: string,
@@ -8,6 +8,24 @@ export interface FormChangeInfo {
 	currentForm: string,
 	item: string | null
 }
+
+export const generateItem = (fc: SpeciesFormChange): string | null => {
+  if (fc.trigger instanceof SpeciesFormChangeItemTrigger) {
+    return FormChangeItem[fc.trigger.item].toLowerCase();
+  }
+  if (fc.trigger instanceof SpeciesFormChangeCompoundTrigger) {
+    const ts: SpeciesFormChangeTrigger[] = fc.trigger.triggers;
+    let le = "";
+    for (let i = 0; i < ts.length; i++) {
+      const k = ts[i];
+      if (k instanceof SpeciesFormChangeItemTrigger) {
+        le += FormChangeItem[k.item].toLowerCase();
+      }
+    }
+    return le !== "" ? le : null;
+  }
+  return null;
+};
 
 export const generateFormChangeInfo = (): Map<String, FormChangeInfo[]> => {
   const re = new Map<String, FormChangeInfo[]>();
@@ -19,21 +37,8 @@ export const generateFormChangeInfo = (): Map<String, FormChangeInfo[]> => {
       from: Species[key].toLowerCase(),
       previousForm: fc.preFormKey,
       currentForm: fc.formKey,
-      item: ""
+      item: generateItem(fc)
     }));
-    // for (let i = 0; i < formchangelist.length; i++) {
-    // 	var formchange = formchangelist[i];
-    // 	var fcinfo: FormChangeInfo = {
-    // 		from: Species[key].toLowerCase(),
-    // 		previousForm: formchange.preFormKey,
-    // 		currentForm: formchange.formKey,
-    // 		item: ""
-    // 	}
-    // 	formchangeinfolist.push(fcinfo);
-    // }
-
-    // console.log(formchangeinfolist);
-    // console.log("\n");
 
     for (let i = 0; i < formchangelist.length; i++) {
       const formchange = formchangelist[i];
