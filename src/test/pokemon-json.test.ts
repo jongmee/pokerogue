@@ -95,7 +95,6 @@ const generatePokemonJsonFiles = () => {
       subLegendary: false,
       mythical: false,
       evolutions: [],
-      formEvolutions: [],
       formChanges: [],
       baseTotal: 1,
       hp: 1,
@@ -200,7 +199,6 @@ const generatePokemonJsonFiles = () => {
         pokemonData.mythical = myth;
         // @ts-ignore
         pokemonData.evolutions = getEvolutionsById(evolutionChains, pokemonData._id);
-        pokemonData.formEvolutions = [];
         pokemonData.formChanges = formchangemap.has(pokemonData._id) ? formchangemap.get(pokemonData._id) : [];
         pokemonData.baseTotal = form.baseTotal;
         pokemonData.hp = form.getBaseStat(Stat.HP);
@@ -289,7 +287,6 @@ const generatePokemonJsonFiles = () => {
       pokemonData.mythical = myth;
       // @ts-ignore
       pokemonData.evolutions = getEvolutionsById(evolutionChains, pokemonData._id);
-      pokemonData.formEvolutions = [];
       pokemonData.formChanges = formchangemap.has(pokemonData._id) ? formchangemap.get(pokemonData._id) : [];
       pokemonData.baseTotal = pokemon.baseTotal;
       pokemonData.hp = pokemon.getBaseStat(Stat.HP);
