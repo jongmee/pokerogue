@@ -70,18 +70,18 @@ export const generateEvolutionChains = (): Record<string, ParsedEvolution[]> => 
 };
 
 export const generateNotStarters = () => {
-  const notStarters = new Set<Species>();
-  for (const speciesKey of Object.keys(pokemonEvolutions)) {
-    const species = Number(speciesKey) as Species; // speciesKey를 적절히 변환
-    if (!pokemonEvolutions[species]) {
-      continue;
+    const notStarters = new Set<Species>();
+    for (const speciesKey of Object.keys(pokemonEvolutions)) {
+      const species = Number(speciesKey) as Species; // speciesKey를 적절히 변환
+      if (!pokemonEvolutions[species]) {
+        continue;
+      }
+      for (const chain of pokemonEvolutions[species]) {
+        notStarters.add(chain.speciesId);
+      }
     }
-    for (const chain of pokemonEvolutions[species]) {
-      notStarters.add(chain.speciesId);
-    }
-  }
-  return notStarters;
-};
+    return notStarters;
+}
 
 export const generateCommonId = (species: Species) => {
   return Species[species].toLowerCase();
@@ -99,9 +99,7 @@ export const generateFormId = (species: Species, formKey: string | null) => {
 };
 
 export const generateEvolutionItemName = (item: EvolutionItem | null) => {
-  if (!item) {
-    return null;
-  }
+  if (!item) return null;
   return EvolutionItem[item].toLowerCase();
 };
 
@@ -145,10 +143,10 @@ export const writeChainsToJson = (
   for (const key in chains) {
     result[Species[Number(key)]] = chains[key].map((evolution) => ({
       from: evolution.from,
-      level: evolution.level,
-      to: evolution.to,
-      item: evolution.item,
-      condition: evolution.condition,
+      level: evolution.level, 
+      to: evolution.to, 
+      item: evolution.item, 
+      condition: evolution.condition, 
     }));
   }
 
