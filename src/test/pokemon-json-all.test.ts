@@ -93,8 +93,8 @@ const generatePokemonJsonFiles = () => {
           speciesName: "",
           canChangeForm: false,
           formName: "",
-          baseExp: "",
-          friendship: "",
+          baseExp: 1,
+          friendship: 1,
           types: [],
           normalAbilityIds: [],
           hiddenAbilityId: "",
@@ -187,8 +187,8 @@ const generatePokemonJsonFiles = () => {
         formpokemonData.speciesName = Species[form.speciesId].toLowerCase();
         formpokemonData.canChangeForm = true;
         formpokemonData.formName = form.formName.toLowerCase().replace(" ", "_").replace("-", "_");
-        formpokemonData.baseExp = `${form.baseExp}`;
-        formpokemonData.friendship = `${form.baseFriendship}`;
+        formpokemonData.baseExp = form.baseExp;
+        formpokemonData.friendship = form.baseFriendship;
         formpokemonData.types = formtypelist;
         formpokemonData.normalAbilityIds = formabilitylist;
         formpokemonData.hiddenAbilityId = Abilities[form.abilityHidden].toLowerCase();
@@ -230,8 +230,8 @@ const generatePokemonJsonFiles = () => {
         speciesName: "",
         canChangeForm: false,
         formName: "",
-        baseExp: "",
-        friendship: "",
+        baseExp: 1,
+        friendship: 1,
         types: [],
         normalAbilityIds: [],
         hiddenAbilityId: "",
@@ -306,8 +306,8 @@ const generatePokemonJsonFiles = () => {
       pokemonData.speciesName = Species[pokemon.speciesId].toLowerCase();
       pokemonData.canChangeForm = false;
       pokemonData.formName = "";
-      pokemonData.baseExp = `${pokemon.baseExp}`;
-      pokemonData.friendship = `${pokemon.baseFriendship}`;
+      pokemonData.baseExp = pokemon.baseExp;
+      pokemonData.friendship = pokemon.baseFriendship;
       pokemonData.types = typelist;
       pokemonData.normalAbilityIds = abilitylist;
       pokemonData.hiddenAbilityId = Abilities[pokemon.abilityHidden].toLowerCase();
