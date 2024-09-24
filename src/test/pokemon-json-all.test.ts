@@ -89,7 +89,7 @@ const generatePokemonJsonFiles = () => {
         const formpokemonData = {
           _id: "",
           imageId: "",
-          pokedexNumber: "",
+          pokedexNumber: 1,
           name: "",
           koName: "",
           speciesName: "",
@@ -183,7 +183,7 @@ const generatePokemonJsonFiles = () => {
         // form에 따른 포켓몬 정보 저장
         formpokemonData._id = Species[form.speciesId].toLowerCase() + tail;
         formpokemonData.imageId = Species[form.speciesId].toLowerCase() + imageTail;
-        formpokemonData.pokedexNumber = `${form.speciesId}`;
+        formpokemonData.pokedexNumber = form.speciesId;
         formpokemonData.name = Species[form.speciesId].toLowerCase() + "_" + form.formKey.toLowerCase().replace(" ", "_").replace("-", "_");
         formpokemonData.koName = FORMKONAME;
         formpokemonData.speciesName = Species[form.speciesId].toLowerCase();
@@ -226,7 +226,7 @@ const generatePokemonJsonFiles = () => {
       const pokemonData = {
         _id: "",
         imageId: "",
-        pokedexNumber: "",
+        pokedexNumber: 1,
         name: "",
         koName: "",
         speciesName: "",
@@ -302,7 +302,7 @@ const generatePokemonJsonFiles = () => {
       // 일반적인 포켓몬 정보 저장
       pokemonData._id = Species[pokemon.speciesId].toLowerCase();
       pokemonData.imageId = Species[pokemon.speciesId].toLowerCase();
-      pokemonData.pokedexNumber = `${pokemon.speciesId}`;
+      pokemonData.pokedexNumber = pokemon.speciesId;
       pokemonData.name = Species[pokemon.speciesId].toLowerCase();
       pokemonData.koName = KONAME;
       pokemonData.speciesName = Species[pokemon.speciesId].toLowerCase();
@@ -338,7 +338,7 @@ const generatePokemonJsonFiles = () => {
       aapokemon.push(pokemonData);
     }
   }
-  const jsonFilePath = path.join(__dirname, `pokemon-json-all.json`);
+  const jsonFilePath = path.join(__dirname, "pokemon-json-all.json");
   fs.writeFileSync(jsonFilePath, JSON.stringify(aapokemon, null, 2));
 };
 
