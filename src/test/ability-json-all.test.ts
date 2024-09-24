@@ -9,7 +9,9 @@ import { Species } from "#enums/species";
 
 // 각 특성에 대해 JSON 파일을 생성하는 함수
 const generateAbilityJsonFiles = () => {
-  const directoryPath = "C:/Users/s_osang0731/precourse/pokerogue-bito/public/images/pokemon";
+  const path = require("path");
+  const fs = require("fs");
+  const directoryPath = path.join(__dirname, "../../public/images/pokemon");
   const files = fs.readdirSync(directoryPath);
   const fileNamesSet = new Set<string>();
   files.forEach(file => {
