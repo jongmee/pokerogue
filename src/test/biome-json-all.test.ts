@@ -3,6 +3,7 @@ import * as fs from "fs";
 import * as path from "path";
 import i18next from "i18next";
 import { getBiomeName, biomePokemonPools, BiomePoolTier, biomeLinks, biomeTrainerPools } from "#app/data/biomes.js";
+import { getPokemonSpecies } from "#app/data/pokemon-species";
 import { Species } from "#app/enums/species.js";
 import { Biome } from "#app/enums/biome.js";
 import { signatureSpecies } from "#app/data/trainer-config";
@@ -146,6 +147,18 @@ const trainerTypes: TrainerTypes = {
 
 // 각 바이옴에 대해 JSON 파일을 생성하는 함수
 const generateBiomeJsonFiles = () => {
+    const path = require("path");
+    const fs = require("fs");
+    const directoryPath = path.join(__dirname, "../../public/images/pokemon");
+    const files = fs.readdirSync(directoryPath);
+    const fileNamesSet = new Set<string>();
+    files.forEach(file => {
+        const filePath = path.join(directoryPath, file);
+        if (fs.statSync(filePath).isFile() && path.extname(file) === ".png") {
+            fileNamesSet.add(file);
+        }
+    });
+
     var allbiome = [];
     for (const b of Object.keys(biomePokemonPools)) {
         i18next.changeLanguage("en");
@@ -220,15 +233,46 @@ const generateBiomeJsonFiles = () => {
             for (var spe in ll) {
                 if (Array.isArray(ll[spe])) {
                     for (var c in ll[spe]) {
-                        ret2.push(Species[ll[spe[c]]].toLowerCase());
+                        var pokemonspe = getPokemonSpecies(ll[spe[c]]);
+                        if (pokemonspe.forms.length !== 0) {
+                            for (const form of pokemonspe.forms) {
+                                const tail = form.formKey !== "" ? "_" + form.formKey.toLowerCase().replace(" ", "_").replace("-", "_") : "";
+                                const imageTail = form.getFormSpriteKey(form.formIndex) !== "" ? "-" + form.getFormSpriteKey(form.formIndex) : "";
+                                if (!fileNamesSet.has(Species[Species[form.speciesId]] + imageTail + ".png")) {
+                                    continue;
+                                }
+                                ret2.push(Species[form.speciesId].toLowerCase() + tail);
+                            }
+                        } else {
+                            if (!fileNamesSet.has(Species[Species[pokemonspe.speciesId]] + ".png")) {
+                                continue;
+                            }
+                            ret2.push(Species[pokemonspe.speciesId].toLowerCase());
+                        }
                     }
                 } else {
-                    ret2.push(Species[ll[spe]].toLowerCase());
+                    var pokemonspe = getPokemonSpecies(ll[spe]);
+                    if (pokemonspe.forms.length !== 0) {
+                        for (const form of pokemonspe.forms) {
+                            const tail = form.formKey !== "" ? "_" + form.formKey.toLowerCase().replace(" ", "_").replace("-", "_") : "";
+                            const imageTail = form.getFormSpriteKey(form.formIndex) !== "" ? "-" + form.getFormSpriteKey(form.formIndex) : "";
+                            if (!fileNamesSet.has(Species[Species[form.speciesId]] + imageTail + ".png")) {
+                                continue;
+                            }
+                            ret2.push(Species[form.speciesId].toLowerCase() + tail);
+                        }
+                    } else {
+                        if (!fileNamesSet.has(Species[Species[pokemonspe.speciesId]] + ".png")) {
+                            continue;
+                        }
+                        ret2.push(Species[pokemonspe.speciesId].toLowerCase());
+                    }
                 }
             }
 
             let trainerData = {
-                name: tname,
+                name: TrainerType[tt].toLowerCase(),
+                koName: tname,
                 types: trainerTypes[tt],
                 pokemonIds: ret2
             };
@@ -246,10 +290,46 @@ const generateBiomeJsonFiles = () => {
                     if (typeof x === 'object') {
                         let y = Object.values(x);
                         for (let i = 0; i < y.length; i++) {
-                            ret.push(Species[y[i][0]].toLowerCase());
+                            var pokemonospe = getPokemonSpecies(y[i][0]);
+                            if (pokemonospe.forms.length !== 0) {
+                                for (const form of pokemonospe.forms) {
+                                    const tail = form.formKey !== "" ? "_" + form.formKey.toLowerCase().replace(" ", "_").replace("-", "_") : "";
+                                    const imageTail = form.getFormSpriteKey(form.formIndex) !== "" ? "-" + form.getFormSpriteKey(form.formIndex) : "";
+                                    if (tail === "_mega" || tail === "_gigantamax") {
+                                        continue;
+                                    }
+                                    if (!fileNamesSet.has(Species[Species[form.speciesId]] + imageTail + ".png")) {
+                                        continue;
+                                    }
+                                    ret.push(Species[form.speciesId].toLowerCase() + tail);
+                                }
+                            } else {
+                                if (!fileNamesSet.has(Species[Species[pokemonospe.speciesId]] + ".png")) {
+                                    continue;
+                                }
+                                ret.push(Species[pokemonospe.speciesId].toLowerCase());
+                            }
                         }
                     } else {
-                        ret.push(Species[x].toLowerCase());
+                        var pokemonspe = getPokemonSpecies(x);
+                        if (pokemonspe.forms.length !== 0) {
+                            for (const form of pokemonspe.forms) {
+                                const tail = form.formKey !== "" ? "_" + form.formKey.toLowerCase().replace(" ", "_").replace("-", "_") : "";
+                                const imageTail = form.getFormSpriteKey(form.formIndex) !== "" ? "-" + form.getFormSpriteKey(form.formIndex) : "";
+                                if (tail === "_mega" || tail === "_gigantamax") {
+                                    continue;
+                                }
+                                if (!fileNamesSet.has(Species[Species[form.speciesId]] + imageTail + ".png")) {
+                                    continue;
+                                }
+                                ret.push(Species[form.speciesId].toLowerCase() + tail);
+                            }
+                        } else {
+                            if (!fileNamesSet.has(Species[Species[pokemonspe.speciesId]] + ".png")) {
+                                continue;
+                            }
+                            ret.push(Species[pokemonspe.speciesId].toLowerCase());
+                        }
                     }
                 }
             }

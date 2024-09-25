@@ -132,7 +132,7 @@ const generatePokemonJsonFiles = () => {
         // form에 따른 포켓몬 정보 파싱
         // formkoName
         i18next.changeLanguage("ko");
-        const FORMKONAME = i18next.t(`pokemon:${Species[form.speciesId].toLowerCase()}`) + "_" + form.formKey.toLowerCase().replace(" ", "_").replace("-", "_");
+        const FORMKONAME = i18next.t(`pokemon:${Species[form.speciesId].toLowerCase()}`) + tail;
 
         // formtypes
         let formtypelist = [];
@@ -184,7 +184,7 @@ const generatePokemonJsonFiles = () => {
         formpokemonData._id = Species[form.speciesId].toLowerCase() + tail;
         formpokemonData.imageId = Species[form.speciesId].toLowerCase() + imageTail;
         formpokemonData.pokedexNumber = form.speciesId;
-        formpokemonData.name = Species[form.speciesId].toLowerCase() + "_" + form.formKey.toLowerCase().replace(" ", "_").replace("-", "_");
+        formpokemonData.name = Species[form.speciesId].toLowerCase() + tail;
         formpokemonData.koName = FORMKONAME;
         formpokemonData.speciesName = Species[form.speciesId].toLowerCase();
         formpokemonData.canChangeForm = true;

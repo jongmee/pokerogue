@@ -228,7 +228,8 @@ const generateBiomeJsonFiles = () => {
             }
 
             let trainerData = {
-                name: tname,
+                name: TrainerType[tt].toLowerCase(),
+                koName: tname,
                 types: trainerTypes[tt],
                 pokemonIds: ret2
             };
