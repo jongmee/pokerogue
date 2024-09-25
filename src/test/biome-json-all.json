@@ -26,8 +26,46 @@
           "starly",
           "pidove",
           "cottonee",
-          "scatterbug",
-          "spewpa",
+          "scatterbug_meadow",
+          "scatterbug_icy_snow",
+          "scatterbug_polar",
+          "scatterbug_tundra",
+          "scatterbug_continental",
+          "scatterbug_garden",
+          "scatterbug_elegant",
+          "scatterbug_modern",
+          "scatterbug_marine",
+          "scatterbug_archipelago",
+          "scatterbug_high_plains",
+          "scatterbug_sandstorm",
+          "scatterbug_river",
+          "scatterbug_monsoon",
+          "scatterbug_savanna",
+          "scatterbug_sun",
+          "scatterbug_ocean",
+          "scatterbug_jungle",
+          "scatterbug_fancy",
+          "scatterbug_poke_ball",
+          "spewpa_meadow",
+          "spewpa_icy_snow",
+          "spewpa_polar",
+          "spewpa_tundra",
+          "spewpa_continental",
+          "spewpa_garden",
+          "spewpa_elegant",
+          "spewpa_modern",
+          "spewpa_marine",
+          "spewpa_archipelago",
+          "spewpa_high_plains",
+          "spewpa_sandstorm",
+          "spewpa_river",
+          "spewpa_monsoon",
+          "spewpa_savanna",
+          "spewpa_sun",
+          "spewpa_ocean",
+          "spewpa_jungle",
+          "spewpa_fancy",
+          "spewpa_poke_ball",
           "yungoos",
           "skwovet",
           "silcoon",
@@ -95,6 +133,7 @@
         "tier": "슈퍼 레어",
         "pokemonIds": [
           "eevee",
+          "eevee_partner",
           "ralts"
         ]
       },
@@ -165,7 +204,8 @@
           "bidoof",
           "bibarel",
           "lechonk",
-          "oinkologne"
+          "oinkologne_male",
+          "oinkologne_female"
         ]
       },
       {
@@ -185,7 +225,10 @@
           "pawmo",
           "pawmot",
           "rockruff",
-          "lycanroc",
+          "rockruff_own_tempo",
+          "lycanroc_midday",
+          "lycanroc_midnight",
+          "lycanroc_dusk",
           "mankey",
           "primeape",
           "annihilape",
@@ -195,6 +238,13 @@
           "spearow",
           "fearow",
           "pikachu",
+          "pikachu_partner",
+          "pikachu_cosplay",
+          "pikachu_cool_cosplay",
+          "pikachu_beauty_cosplay",
+          "pikachu_cute_cosplay",
+          "pikachu_smart_cosplay",
+          "pikachu_tough_cosplay",
           "fletchling",
           "fletchinder",
           "talonflame"
@@ -203,7 +253,9 @@
       {
         "tier": "레어",
         "pokemonIds": [
-          "paldea_tauros",
+          "paldea_tauros_combat",
+          "paldea_tauros_blaze",
+          "paldea_tauros_aqua",
           "shinx",
           "luxio",
           "luxray",
@@ -223,9 +275,11 @@
           "lickitung",
           "chansey",
           "eevee",
+          "eevee_partner",
           "snorlax",
           "dunsparce",
-          "dudunsparce"
+          "dudunsparce_two_segment",
+          "dudunsparce_three_segment"
         ]
       },
       {
@@ -248,19 +302,25 @@
           "linoone",
           "bibarel",
           "lopunny",
-          "oinkologne"
+          "oinkologne_male",
+          "oinkologne_female"
         ]
       },
       {
         "tier": "레어 보스",
         "pokemonIds": [
           "pawmot",
-          "paldea_tauros",
-          "lycanroc",
+          "paldea_tauros_combat",
+          "paldea_tauros_blaze",
+          "paldea_tauros_aqua",
+          "lycanroc_midday",
+          "lycanroc_midnight",
+          "lycanroc_dusk",
           "farfetchd",
           "snorlax",
           "lickilicky",
-          "dudunsparce"
+          "dudunsparce_two_segment",
+          "dudunsparce_three_segment"
         ]
       },
       {
@@ -277,7 +337,8 @@
     ],
     "trainers": [
       {
-        "name": "덴트",
+        "name": "cilan",
+        "koName": "덴트",
         "types": [
           "grass"
         ],
@@ -288,7 +349,8 @@
         ]
       },
       {
-        "name": "팟",
+        "name": "chili",
+        "koName": "팟",
         "types": [
           "fire"
         ],
@@ -299,18 +361,22 @@
         ]
       },
       {
-        "name": "콘",
+        "name": "cress",
+        "koName": "콘",
         "types": [
           "water"
         ],
         "pokemonIds": [
           "panpour",
-          "basculin",
+          "basculin_red_striped",
+          "basculin_blue_striped",
+          "basculin_white_striped",
           "tympole"
         ]
       },
       {
-        "name": "체렌",
+        "name": "cheren",
+        "koName": "체렌",
         "types": [
           "normal"
         ],
@@ -356,7 +422,8 @@
           "combee",
           "vespiquen",
           "cherubi",
-          "cherrim",
+          "cherrim_overcast",
+          "cherrim_sunshine",
           "foongus",
           "amoonguss"
         ]
@@ -414,7 +481,8 @@
     ],
     "trainers": [
       {
-        "name": "민화",
+        "name": "erika",
+        "koName": "민화",
         "types": [
           "grass",
           "poison"
@@ -500,7 +568,12 @@
         "pokemonIds": [
           "scyther",
           "shedinja",
-          "rotom"
+          "rotom",
+          "rotom_heat",
+          "rotom_wash",
+          "rotom_frost",
+          "rotom_fan",
+          "rotom_mow"
         ]
       },
       {
@@ -534,7 +607,12 @@
       {
         "tier": "슈퍼 레어 보스",
         "pokemonIds": [
-          "rotom"
+          "rotom",
+          "rotom_heat",
+          "rotom_wash",
+          "rotom_frost",
+          "rotom_fan",
+          "rotom_mow"
         ]
       },
       {
@@ -544,7 +622,8 @@
     ],
     "trainers": [
       {
-        "name": "유채",
+        "name": "gardenia",
+        "koName": "유채",
         "types": [
           "grass"
         ],
@@ -555,17 +634,38 @@
         ]
       },
       {
-        "name": "비올라",
+        "name": "viola",
+        "koName": "비올라",
         "types": [
           "bug"
         ],
         "pokemonIds": [
           "surskit",
-          "scatterbug"
+          "scatterbug_meadow",
+          "scatterbug_icy_snow",
+          "scatterbug_polar",
+          "scatterbug_tundra",
+          "scatterbug_continental",
+          "scatterbug_garden",
+          "scatterbug_elegant",
+          "scatterbug_modern",
+          "scatterbug_marine",
+          "scatterbug_archipelago",
+          "scatterbug_high_plains",
+          "scatterbug_sandstorm",
+          "scatterbug_river",
+          "scatterbug_monsoon",
+          "scatterbug_savanna",
+          "scatterbug_sun",
+          "scatterbug_ocean",
+          "scatterbug_jungle",
+          "scatterbug_fancy",
+          "scatterbug_poke_ball"
         ]
       },
       {
-        "name": "콜사",
+        "name": "brassius",
+        "koName": "콜사",
         "types": [
           "grass"
         ],
@@ -614,24 +714,47 @@
         "pokemonIds": [
           "patrat",
           "watchog",
-          "indeedee",
+          "indeedee_male",
+          "indeedee_female",
           "espurr",
-          "meowstic",
+          "meowstic_male",
+          "meowstic_female",
           "pikachu",
+          "pikachu_partner",
+          "pikachu_cosplay",
+          "pikachu_cool_cosplay",
+          "pikachu_beauty_cosplay",
+          "pikachu_cute_cosplay",
+          "pikachu_smart_cosplay",
+          "pikachu_tough_cosplay",
           "glameow",
           "purugly",
           "furfrou",
+          "furfrou_heart",
+          "furfrou_star",
+          "furfrou_diamond",
+          "furfrou_debutante",
+          "furfrou_matron",
+          "furfrou_dandy",
+          "furfrou_la_reine",
+          "furfrou_kabuki",
+          "furfrou_pharaoh",
           "fidough",
           "dachsbun",
-          "squawkabilly"
+          "squawkabilly_green_plumage",
+          "squawkabilly_blue_plumage",
+          "squawkabilly_yellow_plumage",
+          "squawkabilly_white_plumage"
         ]
       },
       {
         "tier": "레어",
         "pokemonIds": [
           "tandemaus",
-          "maushold",
-          "morpeko",
+          "maushold_four",
+          "maushold_three",
+          "morpeko_full_belly",
+          "morpeko_hangry",
           "varoom",
           "revavroom"
         ]
@@ -641,30 +764,48 @@
         "pokemonIds": [
           "ditto",
           "eevee",
+          "eevee_partner",
           "smeargle"
         ]
       },
       {
         "tier": "울트라 레어",
         "pokemonIds": [
-          "castform"
+          "castform",
+          "castform_sunny",
+          "castform_rainy",
+          "castform_snowy"
         ]
       },
       {
         "tier": "보스",
         "pokemonIds": [
           "boltund",
-          "meowstic",
+          "meowstic_male",
+          "meowstic_female",
           "stoutland",
           "furfrou",
+          "furfrou_heart",
+          "furfrou_star",
+          "furfrou_diamond",
+          "furfrou_debutante",
+          "furfrou_matron",
+          "furfrou_dandy",
+          "furfrou_la_reine",
+          "furfrou_kabuki",
+          "furfrou_pharaoh",
           "dachsbun"
         ]
       },
       {
         "tier": "레어 보스",
         "pokemonIds": [
-          "maushold",
+          "maushold_four",
+          "maushold_three",
           "castform",
+          "castform_sunny",
+          "castform_rainy",
+          "castform_snowy",
           "revavroom"
         ]
       },
@@ -679,7 +820,8 @@
     ],
     "trainers": [
       {
-        "name": "꼭두",
+        "name": "whitney",
+        "koName": "꼭두",
         "types": [
           "fairy",
           "normal"
@@ -690,7 +832,8 @@
         ]
       },
       {
-        "name": "종길",
+        "name": "norman",
+        "koName": "종길",
         "types": [
           "normal"
         ],
@@ -698,11 +841,13 @@
           "slakoth",
           "spinda",
           "chansey",
-          "kangaskhan"
+          "kangaskhan",
+          "kangaskhan_mega"
         ]
       },
       {
-        "name": "모야모",
+        "name": "iono",
+        "koName": "모야모",
         "types": [
           "electric"
         ],
@@ -713,7 +858,8 @@
         ]
       },
       {
-        "name": "청목",
+        "name": "larry",
+        "koName": "청목",
         "types": [
           "normal"
         ],
@@ -752,9 +898,34 @@
           "combee",
           "vespiquen",
           "petilil",
-          "deerling",
-          "sawsbuck",
-          "vivillon",
+          "deerling_spring",
+          "deerling_summer",
+          "deerling_autumn",
+          "deerling_winter",
+          "sawsbuck_spring",
+          "sawsbuck_summer",
+          "sawsbuck_autumn",
+          "sawsbuck_winter",
+          "vivillon_meadow",
+          "vivillon_icy_snow",
+          "vivillon_polar",
+          "vivillon_tundra",
+          "vivillon_continental",
+          "vivillon_garden",
+          "vivillon_elegant",
+          "vivillon_modern",
+          "vivillon_marine",
+          "vivillon_archipelago",
+          "vivillon_high_plains",
+          "vivillon_sandstorm",
+          "vivillon_river",
+          "vivillon_monsoon",
+          "vivillon_savanna",
+          "vivillon_sun",
+          "vivillon_ocean",
+          "vivillon_jungle",
+          "vivillon_fancy",
+          "vivillon_poke_ball",
           "beautifly",
           "beedrill",
           "pineco",
@@ -794,13 +965,20 @@
           "hoothoot",
           "noctowl",
           "rockruff",
-          "lycanroc",
+          "rockruff_own_tempo",
+          "lycanroc_midday",
+          "lycanroc_midnight",
+          "lycanroc_dusk",
           "ekans",
           "arbok",
           "teddiursa",
           "ursaring",
-          "burmy",
-          "wormadam",
+          "burmy_plant",
+          "burmy_sandy",
+          "burmy_trash",
+          "wormadam_plant",
+          "wormadam_sandy",
+          "wormadam_trash",
           "pansage",
           "simisage"
         ]
@@ -824,7 +1002,10 @@
           "rowlet",
           "dartrix",
           "decidueye",
-          "squawkabilly",
+          "squawkabilly_green_plumage",
+          "squawkabilly_blue_plumage",
+          "squawkabilly_yellow_plumage",
+          "squawkabilly_white_plumage",
           "toedscool",
           "toedscruel"
         ]
@@ -850,7 +1031,10 @@
           "mothim",
           "vespiquen",
           "lilligant",
-          "sawsbuck",
+          "sawsbuck_spring",
+          "sawsbuck_summer",
+          "sawsbuck_autumn",
+          "sawsbuck_winter",
           "beautifly",
           "ariados",
           "forretress",
@@ -861,7 +1045,9 @@
           "venomoth",
           "noctowl",
           "dustox",
-          "wormadam",
+          "wormadam_plant",
+          "wormadam_sandy",
+          "wormadam_trash",
           "simisage",
           "spidops",
           "lokix",
@@ -872,7 +1058,9 @@
         "tier": "레어 보스",
         "pokemonIds": [
           "stantler",
-          "lycanroc",
+          "lycanroc_midday",
+          "lycanroc_midnight",
+          "lycanroc_dusk",
           "bloodmoon_ursaluna",
           "heracross",
           "sceptile",
@@ -894,25 +1082,31 @@
       {
         "tier": "슈퍼 울트라 레어 보스",
         "pokemonIds": [
-          "calyrex"
+          "calyrex",
+          "calyrex_ice",
+          "calyrex_shadow"
         ]
       }
     ],
     "trainers": [
       {
-        "name": "호일",
+        "name": "bugsy",
+        "koName": "호일",
         "types": [
           "bug"
         ],
         "pokemonIds": [
           "scyther",
           "heracross",
+          "heracross_mega",
           "shuckle",
-          "pinsir"
+          "pinsir",
+          "pinsir_mega"
         ]
       },
       {
-        "name": "아티",
+        "name": "burgh",
+        "koName": "아티",
         "types": [
           "bug"
         ],
@@ -923,14 +1117,16 @@
         ]
       },
       {
-        "name": "단풍",
+        "name": "katy",
+        "koName": "단풍",
         "types": [
           "bug"
         ],
         "pokemonIds": [
           "nymble",
           "tarountula",
-          "heracross"
+          "heracross",
+          "heracross_mega"
         ]
       }
     ]
@@ -961,8 +1157,11 @@
           "wingull",
           "pelipper",
           "cramorant",
+          "cramorant_gulping",
+          "cramorant_gorging",
           "finizen",
-          "palafin",
+          "palafin_zero",
+          "palafin_hero",
           "inkay",
           "malamar",
           "finneon",
@@ -1018,6 +1217,11 @@
         "pokemonIds": [
           "kingdra",
           "rotom",
+          "rotom_heat",
+          "rotom_wash",
+          "rotom_frost",
+          "rotom_fan",
+          "rotom_mow",
           "tirtouga",
           "carracosta"
         ]
@@ -1031,7 +1235,10 @@
         "pokemonIds": [
           "pelipper",
           "cramorant",
-          "palafin",
+          "cramorant_gulping",
+          "cramorant_gorging",
+          "palafin_zero",
+          "palafin_hero",
           "sharpedo",
           "malamar",
           "lumineon",
@@ -1052,7 +1259,12 @@
       {
         "tier": "슈퍼 레어 보스",
         "pokemonIds": [
-          "rotom"
+          "rotom",
+          "rotom_heat",
+          "rotom_wash",
+          "rotom_frost",
+          "rotom_fan",
+          "rotom_mow"
         ]
       },
       {
@@ -1064,7 +1276,8 @@
     ],
     "trainers": [
       {
-        "name": "시즈",
+        "name": "marlon",
+        "koName": "시즈",
         "types": [
           "water"
         ],
@@ -1110,8 +1323,10 @@
           "poliwhirl",
           "gulpin",
           "swalot",
-          "shellos",
-          "gastrodon",
+          "shellos_east",
+          "shellos_west",
+          "gastrodon_east",
+          "gastrodon_west",
           "tympole",
           "palpitoad",
           "seismitoad"
@@ -1174,7 +1389,8 @@
           "poliwrath",
           "swalot",
           "whiscash",
-          "gastrodon",
+          "gastrodon_east",
+          "gastrodon_west",
           "seismitoad",
           "stunfisk",
           "toxapex"
@@ -1206,7 +1422,8 @@
     ],
     "trainers": [
       {
-        "name": "도희",
+        "name": "janine",
+        "koName": "도희",
         "types": [
           "poison"
         ],
@@ -1217,7 +1434,8 @@
         ]
       },
       {
-        "name": "보미카",
+        "name": "roxie",
+        "koName": "보미카",
         "types": [
           "poison"
         ],
@@ -1270,8 +1488,12 @@
       {
         "tier": "드묾",
         "pokemonIds": [
-          "burmy",
-          "wormadam",
+          "burmy_plant",
+          "burmy_sandy",
+          "burmy_trash",
+          "wormadam_plant",
+          "wormadam_sandy",
+          "wormadam_trash",
           "clauncher",
           "clawitzer",
           "sandygast",
@@ -1284,7 +1506,9 @@
           "quaxly",
           "quaxwell",
           "quaquaval",
-          "tatsugiri"
+          "tatsugiri_curly",
+          "tatsugiri_droopy",
+          "tatsugiri_stretchy"
         ]
       },
       {
@@ -1298,7 +1522,8 @@
         "tier": "울트라 레어",
         "pokemonIds": [
           "cresselia",
-          "keldeo",
+          "keldeo_ordinary",
+          "keldeo_resolute",
           "tapu_fini"
         ]
       },
@@ -1309,7 +1534,9 @@
           "cloyster",
           "kingler",
           "crawdaunt",
-          "wormadam",
+          "wormadam_plant",
+          "wormadam_sandy",
+          "wormadam_trash",
           "crustle",
           "barbaracle",
           "clawitzer",
@@ -1328,7 +1555,8 @@
         "tier": "슈퍼 레어 보스",
         "pokemonIds": [
           "cresselia",
-          "keldeo",
+          "keldeo_ordinary",
+          "keldeo_resolute",
           "tapu_fini"
         ]
       },
@@ -1339,7 +1567,8 @@
     ],
     "trainers": [
       {
-        "name": "이슬",
+        "name": "misty",
+        "koName": "이슬",
         "types": [
           "water"
         ],
@@ -1349,7 +1578,8 @@
         ]
       },
       {
-        "name": "곤포",
+        "name": "kofu",
+        "koName": "곤포",
         "types": [
           "water"
         ],
@@ -1414,6 +1644,7 @@
           "surskit",
           "masquerain",
           "wishiwashi",
+          "wishiwashi_school",
           "flamigo"
         ]
       },
@@ -1427,8 +1658,12 @@
           "dewott",
           "samurott",
           "froakie",
+          "froakie_battle_bond",
           "frogadier",
+          "frogadier_battle_bond",
           "greninja",
+          "greninja_battle_bond",
+          "greninja_ash",
           "sobble",
           "drizzile",
           "inteleon"
@@ -1460,6 +1695,7 @@
           "gyarados",
           "masquerain",
           "wishiwashi",
+          "wishiwashi_school",
           "drednaw"
         ]
       },
@@ -1471,6 +1707,8 @@
           "slowking",
           "samurott",
           "greninja",
+          "greninja_battle_bond",
+          "greninja_ash",
           "inteleon"
         ]
       },
@@ -1488,7 +1726,8 @@
     ],
     "trainers": [
       {
-        "name": "맥실러",
+        "name": "crasher_wake",
+        "koName": "맥실러",
         "types": [
           "water"
         ],
@@ -1525,7 +1764,9 @@
           "lanturn",
           "remoraid",
           "clamperl",
-          "basculin",
+          "basculin_red_striped",
+          "basculin_blue_striped",
+          "basculin_white_striped",
           "frillish",
           "jellicent",
           "arrokuda",
@@ -1542,8 +1783,10 @@
           "wailmer",
           "wailord",
           "luvdisc",
-          "shellos",
-          "gastrodon",
+          "shellos_east",
+          "shellos_west",
+          "gastrodon_east",
+          "gastrodon_west",
           "skrelp",
           "dragalge",
           "pincurchin",
@@ -1616,7 +1859,8 @@
           "dhelmise",
           "cursola",
           "arctovish",
-          "basculegion",
+          "basculegion_male",
+          "basculegion_female",
           "overqwil"
         ]
       },
@@ -1630,13 +1874,15 @@
       {
         "tier": "슈퍼 울트라 레어 보스",
         "pokemonIds": [
-          "kyogre"
+          "kyogre",
+          "kyogre_primal"
         ]
       }
     ],
     "trainers": [
       {
-        "name": "아단",
+        "name": "juan",
+        "koName": "아단",
         "types": [
           "water"
         ],
@@ -1763,6 +2009,11 @@
           "gabite",
           "garchomp",
           "rotom",
+          "rotom_heat",
+          "rotom_wash",
+          "rotom_frost",
+          "rotom_fan",
+          "rotom_mow",
           "archeops",
           "axew",
           "fraxure"
@@ -1771,9 +2022,17 @@
       {
         "tier": "울트라 레어",
         "pokemonIds": [
-          "tornadus",
+          "tornadus_incarnate",
+          "tornadus_therian",
           "ting_lu",
-          "ogerpon"
+          "ogerpon_teal_mask",
+          "ogerpon_wellspring_mask",
+          "ogerpon_hearthflame_mask",
+          "ogerpon_cornerstone_mask",
+          "ogerpon_teal_mask-tera",
+          "ogerpon_wellspring_mask-tera",
+          "ogerpon_hearthflame_mask-tera",
+          "ogerpon_cornerstone_mask-tera"
         ]
       },
       {
@@ -1810,9 +2069,22 @@
         "tier": "슈퍼 레어 보스",
         "pokemonIds": [
           "rotom",
-          "tornadus",
+          "rotom_heat",
+          "rotom_wash",
+          "rotom_frost",
+          "rotom_fan",
+          "rotom_mow",
+          "tornadus_incarnate",
+          "tornadus_therian",
           "ting_lu",
-          "ogerpon"
+          "ogerpon_teal_mask",
+          "ogerpon_wellspring_mask",
+          "ogerpon_hearthflame_mask",
+          "ogerpon_cornerstone_mask",
+          "ogerpon_teal_mask-tera",
+          "ogerpon_wellspring_mask-tera",
+          "ogerpon_hearthflame_mask-tera",
+          "ogerpon_cornerstone_mask-tera"
         ]
       },
       {
@@ -1824,7 +2096,8 @@
     ],
     "trainers": [
       {
-        "name": "비상",
+        "name": "falkner",
+        "koName": "비상",
         "types": [
           "flying"
         ],
@@ -1835,7 +2108,8 @@
         ]
       },
       {
-        "name": "은송",
+        "name": "winona",
+        "koName": "은송",
         "types": [
           "flying"
         ],
@@ -1847,7 +2121,8 @@
         ]
       },
       {
-        "name": "풍란",
+        "name": "skyla",
+        "koName": "풍란",
         "types": [
           "flying"
         ],
@@ -1918,8 +2193,8 @@
         "pokemonIds": [
           "onix",
           "gligar",
-          "poltchageist",
-          "sinistcha"
+          "poltchageist_counterfeit",
+          "sinistcha_unremarkable"
         ]
       },
       {
@@ -1929,7 +2204,8 @@
       {
         "tier": "울트라 레어",
         "pokemonIds": [
-          "landorus",
+          "landorus_incarnate",
+          "landorus_therian",
           "okidogi"
         ]
       },
@@ -1953,26 +2229,29 @@
         "tier": "레어 보스",
         "pokemonIds": [
           "steelix",
-          "sinistcha"
+          "sinistcha_unremarkable"
         ]
       },
       {
         "tier": "슈퍼 레어 보스",
         "pokemonIds": [
-          "landorus",
+          "landorus_incarnate",
+          "landorus_therian",
           "okidogi"
         ]
       },
       {
         "tier": "슈퍼 울트라 레어 보스",
         "pokemonIds": [
-          "groudon"
+          "groudon",
+          "groudon_primal"
         ]
       }
     ],
     "trainers": [
       {
-        "name": "야콘",
+        "name": "clay",
+        "koName": "야콘",
         "types": [
           "ground"
         ],
@@ -1983,7 +2262,8 @@
         ]
       },
       {
-        "name": "자크로",
+        "name": "grant",
+        "koName": "자크로",
         "types": [
           "rock"
         ],
@@ -2043,7 +2323,10 @@
         "tier": "드묾",
         "pokemonIds": [
           "rockruff",
-          "lycanroc",
+          "rockruff_own_tempo",
+          "lycanroc_midday",
+          "lycanroc_midnight",
+          "lycanroc_dusk",
           "geodude",
           "graveler",
           "makuhita",
@@ -2098,7 +2381,9 @@
       {
         "tier": "레어 보스",
         "pokemonIds": [
-          "lycanroc",
+          "lycanroc_midday",
+          "lycanroc_midnight",
+          "lycanroc_dusk",
           "shuckle",
           "ferrothorn",
           "glimmora"
@@ -2113,13 +2398,16 @@
       {
         "tier": "슈퍼 울트라 레어 보스",
         "pokemonIds": [
-          "terapagos"
+          "terapagos",
+          "terapagos_terastal",
+          "terapagos_stellar"
         ]
       }
     ],
     "trainers": [
       {
-        "name": "웅",
+        "name": "brock",
+        "koName": "웅",
         "types": [
           "rock"
         ],
@@ -2129,7 +2417,8 @@
         ]
       },
       {
-        "name": "원규",
+        "name": "roxanne",
+        "koName": "원규",
         "types": [
           "rock"
         ],
@@ -2139,7 +2428,8 @@
         ]
       },
       {
-        "name": "강석",
+        "name": "roark",
+        "koName": "강석",
         "types": [
           "rock"
         ],
@@ -2209,7 +2499,8 @@
           "vibrava",
           "flygon",
           "darumaka",
-          "darmanitan"
+          "darmanitan",
+          "darmanitan_zen"
         ]
       },
       {
@@ -2240,6 +2531,7 @@
           "sandslash",
           "drapion",
           "darmanitan",
+          "darmanitan_zen",
           "maractus",
           "sandaconda",
           "brambleghast"
@@ -2267,7 +2559,8 @@
     ],
     "trainers": [
       {
-        "name": "마쿠와",
+        "name": "gordie",
+        "koName": "마쿠와",
         "types": [
           "rock"
         ],
@@ -2324,6 +2617,7 @@
           "sealeo",
           "walrein",
           "eiscue",
+          "eiscue_no_ice",
           "cetoddle",
           "cetitan"
         ]
@@ -2342,6 +2636,11 @@
         "pokemonIds": [
           "delibird",
           "rotom",
+          "rotom_heat",
+          "rotom_wash",
+          "rotom_frost",
+          "rotom_fan",
+          "rotom_mow",
           "amaura",
           "aurorus"
         ]
@@ -2384,19 +2683,27 @@
         "pokemonIds": [
           "articuno",
           "regice",
-          "rotom"
+          "rotom",
+          "rotom_heat",
+          "rotom_wash",
+          "rotom_frost",
+          "rotom_fan",
+          "rotom_mow"
         ]
       },
       {
         "tier": "슈퍼 울트라 레어 보스",
         "pokemonIds": [
-          "kyurem"
+          "kyurem",
+          "kyurem_black",
+          "kyurem_white"
         ]
       }
     ],
     "trainers": [
       {
-        "name": "류옹",
+        "name": "pryce",
+        "koName": "류옹",
         "types": [
           "ice"
         ],
@@ -2406,7 +2713,8 @@
         ]
       },
       {
-        "name": "담죽",
+        "name": "brycen",
+        "koName": "담죽",
         "types": [
           "ice"
         ],
@@ -2417,7 +2725,8 @@
         ]
       },
       {
-        "name": "우르프",
+        "name": "wulfric",
+        "koName": "우르프",
         "types": [
           "ice"
         ],
@@ -2428,7 +2737,8 @@
         ]
       },
       {
-        "name": "그루샤",
+        "name": "grusha",
+        "koName": "그루샤",
         "types": [
           "ice"
         ],
@@ -2469,8 +2779,16 @@
           "minccino",
           "blitzle",
           "zebstrika",
-          "flabebe",
-          "floette",
+          "flabebe_red",
+          "flabebe_yellow",
+          "flabebe_orange",
+          "flabebe_blue",
+          "flabebe_white",
+          "floette_red",
+          "floette_yellow",
+          "floette_orange",
+          "floette_blue",
+          "floette_white",
           "cutiefly",
           "ribombee",
           "gossifleur",
@@ -2502,7 +2820,10 @@
           "gardevoir",
           "glameow",
           "purugly",
-          "oricorio"
+          "oricorio_baile",
+          "oricorio_pompom",
+          "oricorio_pau",
+          "oricorio_sensu"
         ]
       },
       {
@@ -2512,6 +2833,7 @@
           "illumise",
           "tauros",
           "eevee",
+          "eevee_partner",
           "miltank",
           "spinda",
           "applin",
@@ -2531,7 +2853,8 @@
       {
         "tier": "울트라 레어",
         "pokemonIds": [
-          "meloetta"
+          "meloetta_aria",
+          "meloetta_pirouette"
         ]
       },
       {
@@ -2549,7 +2872,11 @@
           "gardevoir",
           "purugly",
           "zebstrika",
-          "florges",
+          "florges_red",
+          "florges_yellow",
+          "florges_orange",
+          "florges_blue",
+          "florges_white",
           "ribombee",
           "dubwool"
         ]
@@ -2569,30 +2896,39 @@
       {
         "tier": "슈퍼 레어 보스",
         "pokemonIds": [
-          "meloetta"
+          "meloetta_aria",
+          "meloetta_pirouette"
         ]
       },
       {
         "tier": "슈퍼 울트라 레어 보스",
         "pokemonIds": [
-          "shaymin"
+          "shaymin_land",
+          "shaymin_sky"
         ]
       }
     ],
     "trainers": [
       {
-        "name": "알로에",
+        "name": "lenora",
+        "koName": "알로에",
         "types": [
           "normal"
         ],
         "pokemonIds": [
           "kangaskhan",
-          "deerling",
-          "audino"
+          "kangaskhan_mega",
+          "deerling_spring",
+          "deerling_summer",
+          "deerling_autumn",
+          "deerling_winter",
+          "audino",
+          "audino_mega"
         ]
       },
       {
-        "name": "아킬",
+        "name": "milo",
+        "koName": "아킬",
         "types": [
           "grass"
         ],
@@ -2622,6 +2958,13 @@
         "tier": "보통",
         "pokemonIds": [
           "pikachu",
+          "pikachu_partner",
+          "pikachu_cosplay",
+          "pikachu_cool_cosplay",
+          "pikachu_beauty_cosplay",
+          "pikachu_cute_cosplay",
+          "pikachu_smart_cosplay",
+          "pikachu_tough_cosplay",
           "magnemite",
           "magneton",
           "voltorb",
@@ -2670,7 +3013,8 @@
         "tier": "울트라 레어",
         "pokemonIds": [
           "raikou",
-          "thundurus",
+          "thundurus_incarnate",
+          "thundurus_therian",
           "xurkitree",
           "zeraora",
           "regieleki"
@@ -2704,7 +3048,8 @@
         "pokemonIds": [
           "zapdos",
           "raikou",
-          "thundurus",
+          "thundurus_incarnate",
+          "thundurus_therian",
           "xurkitree",
           "zeraora",
           "regieleki"
@@ -2719,18 +3064,25 @@
     ],
     "trainers": [
       {
-        "name": "전진",
+        "name": "volkner",
+        "koName": "전진",
         "types": [
           "electric"
         ],
         "pokemonIds": [
           "shinx",
           "chinchou",
-          "rotom"
+          "rotom",
+          "rotom_heat",
+          "rotom_wash",
+          "rotom_frost",
+          "rotom_fan",
+          "rotom_mow"
         ]
       },
       {
-        "name": "카밀레",
+        "name": "elesa",
+        "koName": "카밀레",
         "types": [
           "electric"
         ],
@@ -2741,7 +3093,8 @@
         ]
       },
       {
-        "name": "시트론",
+        "name": "clemont",
+        "koName": "시트론",
         "types": [
           "electric"
         ],
@@ -2806,6 +3159,8 @@
           "charmander",
           "charmeleon",
           "charizard",
+          "charizard_mega_x",
+          "charizard_mega_y",
           "cyndaquil",
           "quilava",
           "typhlosion",
@@ -2833,6 +3188,11 @@
         "pokemonIds": [
           "flareon",
           "rotom",
+          "rotom_heat",
+          "rotom_wash",
+          "rotom_frost",
+          "rotom_fan",
+          "rotom_mow",
           "larvesta",
           "volcarona",
           "hisui_growlithe"
@@ -2868,6 +3228,8 @@
         "tier": "레어 보스",
         "pokemonIds": [
           "charizard",
+          "charizard_mega_x",
+          "charizard_mega_y",
           "flareon",
           "typhlosion",
           "infernape",
@@ -2886,6 +3248,11 @@
           "moltres",
           "entei",
           "rotom",
+          "rotom_heat",
+          "rotom_wash",
+          "rotom_frost",
+          "rotom_fan",
+          "rotom_mow",
           "heatran",
           "volcanion",
           "chi_yu"
@@ -2900,7 +3267,8 @@
     ],
     "trainers": [
       {
-        "name": "강연",
+        "name": "blaine",
+        "koName": "강연",
         "types": [
           "fire"
         ],
@@ -2911,7 +3279,8 @@
         ]
       },
       {
-        "name": "민지",
+        "name": "flannery",
+        "koName": "민지",
         "types": [
           "fire"
         ],
@@ -2922,7 +3291,8 @@
         ]
       },
       {
-        "name": "순무",
+        "name": "kabu",
+        "koName": "순무",
         "types": [
           "fire"
         ],
@@ -2963,6 +3333,9 @@
           "lampent",
           "phantump",
           "pumpkaboo",
+          "pumpkaboo_small",
+          "pumpkaboo_large",
+          "pumpkaboo_super",
           "greavard",
           "houndstone"
         ]
@@ -2974,15 +3347,18 @@
           "marowak",
           "yamask",
           "cofagrigus",
-          "sinistea",
-          "polteageist"
+          "sinistea_phony",
+          "sinistea_antique",
+          "polteageist_phony",
+          "polteageist_antique"
         ]
       },
       {
         "tier": "레어",
         "pokemonIds": [
           "misdreavus",
-          "mimikyu",
+          "mimikyu_disguised",
+          "mimikyu_busted",
           "fuecoco",
           "crocalor",
           "skeledirge",
@@ -2999,6 +3375,7 @@
         "tier": "울트라 레어",
         "pokemonIds": [
           "marshadow",
+          "marshadow_zenith",
           "spectrier"
         ]
       },
@@ -3014,8 +3391,13 @@
           "chandelure",
           "trevenant",
           "gourgeist",
-          "mimikyu",
-          "polteageist",
+          "gourgeist_small",
+          "gourgeist_large",
+          "gourgeist_super",
+          "mimikyu_disguised",
+          "mimikyu_busted",
+          "polteageist_phony",
+          "polteageist_antique",
           "houndstone"
         ]
       },
@@ -3031,30 +3413,35 @@
         "tier": "슈퍼 레어 보스",
         "pokemonIds": [
           "marshadow",
+          "marshadow_zenith",
           "spectrier"
         ]
       },
       {
         "tier": "슈퍼 울트라 레어 보스",
         "pokemonIds": [
-          "giratina"
+          "giratina_altered",
+          "giratina_origin"
         ]
       }
     ],
     "trainers": [
       {
-        "name": "유빈",
+        "name": "morty",
+        "koName": "유빈",
         "types": [
           "ghost"
         ],
         "pokemonIds": [
           "gastly",
           "misdreavus",
-          "sableye"
+          "sableye",
+          "sableye_mega"
         ]
       },
       {
-        "name": "어니언",
+        "name": "allister",
+        "koName": "어니언",
         "types": [
           "ghost"
         ],
@@ -3065,14 +3452,16 @@
         ]
       },
       {
-        "name": "라임",
+        "name": "ryme",
+        "koName": "라임",
         "types": [
           "ghost"
         ],
         "pokemonIds": [
           "greavard",
           "shuppet",
-          "mimikyu"
+          "mimikyu_disguised",
+          "mimikyu_busted"
         ]
       }
     ]
@@ -3186,20 +3575,25 @@
         "tier": "슈퍼 레어 보스",
         "pokemonIds": [
           "terrakion",
-          "urshifu"
+          "urshifu_single_strike",
+          "urshifu_rapid_strike",
+          "urshifu_gigantamax_single",
+          "urshifu_gigantamax_rapid"
         ]
       },
       {
         "tier": "슈퍼 울트라 레어 보스",
         "pokemonIds": [
-          "zamazenta",
+          "zamazenta_hero_of-many-battles",
+          "zamazenta_crowned",
           "galar_zapdos"
         ]
       }
     ],
     "trainers": [
       {
-        "name": "철구",
+        "name": "brawly",
+        "koName": "철구",
         "types": [
           "fighting"
         ],
@@ -3209,29 +3603,34 @@
         ]
       },
       {
-        "name": "자두",
+        "name": "maylene",
+        "koName": "자두",
         "types": [
           "fighting"
         ],
         "pokemonIds": [
           "lucario",
+          "lucario_mega",
           "meditite",
           "chimchar"
         ]
       },
       {
-        "name": "코르니",
+        "name": "korrina",
+        "koName": "코르니",
         "types": [
           "fighting"
         ],
         "pokemonIds": [
           "hawlucha",
           "lucario",
+          "lucario_mega",
           "mienfoo"
         ]
       },
       {
-        "name": "채두",
+        "name": "bea",
+        "koName": "채두",
         "types": [
           "fighting"
         ],
@@ -3304,7 +3703,12 @@
         "tier": "울트라 레어",
         "pokemonIds": [
           "genesect",
-          "magearna"
+          "genesect_shock",
+          "genesect_burn",
+          "genesect_chill",
+          "genesect_douse",
+          "magearna",
+          "magearna_original"
         ]
       },
       {
@@ -3322,7 +3726,12 @@
         "tier": "슈퍼 레어 보스",
         "pokemonIds": [
           "genesect",
-          "magearna"
+          "genesect_shock",
+          "genesect_burn",
+          "genesect_chill",
+          "genesect_douse",
+          "magearna",
+          "magearna_original"
         ]
       },
       {
@@ -3332,24 +3741,28 @@
     ],
     "trainers": [
       {
-        "name": "규리",
+        "name": "jasmine",
+        "koName": "규리",
         "types": [
           "steel"
         ],
         "pokemonIds": [
           "magnemite",
-          "steelix"
+          "steelix",
+          "steelix_mega"
         ]
       },
       {
-        "name": "동관",
+        "name": "byron",
+        "koName": "동관",
         "types": [
           "steel"
         ],
         "pokemonIds": [
           "shieldon",
           "bronzor",
-          "aggron"
+          "aggron",
+          "aggron_mega"
         ]
       }
     ]
@@ -3379,7 +3792,34 @@
           "hypno",
           "natu",
           "xatu",
-          "unown",
+          "unown_a",
+          "unown_b",
+          "unown_c",
+          "unown_d",
+          "unown_e",
+          "unown_f",
+          "unown_g",
+          "unown_h",
+          "unown_i",
+          "unown_j",
+          "unown_k",
+          "unown_l",
+          "unown_m",
+          "unown_n",
+          "unown_o",
+          "unown_p",
+          "unown_q",
+          "unown_r",
+          "unown_s",
+          "unown_t",
+          "unown_u",
+          "unown_v",
+          "unown_w",
+          "unown_x",
+          "unown_y",
+          "unown_z",
+          "unown_exclamation",
+          "unown_question",
           "spoink",
           "grumpig",
           "baltoy",
@@ -3461,13 +3901,14 @@
       {
         "tier": "슈퍼 울트라 레어 보스",
         "pokemonIds": [
-          "koraidon"
+          "koraidon_apex_build"
         ]
       }
     ],
     "trainers": [
       {
-        "name": "초련",
+        "name": "sabrina",
+        "koName": "초련",
         "types": [
           "psychic"
         ],
@@ -3478,7 +3919,8 @@
         ]
       },
       {
-        "name": "풍",
+        "name": "tate",
+        "koName": "풍",
         "types": [
           "psychic"
         ],
@@ -3486,11 +3928,13 @@
           "solrock",
           "natu",
           "chimecho",
-          "gallade"
+          "gallade",
+          "gallade_mega"
         ]
       },
       {
-        "name": "란",
+        "name": "liza",
+        "koName": "란",
         "types": [
           "psychic"
         ],
@@ -3498,11 +3942,13 @@
           "lunatone",
           "spoink",
           "baltoy",
-          "gardevoir"
+          "gardevoir",
+          "gardevoir_mega"
         ]
       },
       {
-        "name": "리파",
+        "name": "tulip",
+        "koName": "리파",
         "types": [
           "psychic"
         ],
@@ -3631,24 +4077,28 @@
       {
         "tier": "슈퍼 울트라 레어 보스",
         "pokemonIds": [
-          "dialga"
+          "dialga",
+          "dialga_origin"
         ]
       }
     ],
     "trainers": [
       {
-        "name": "이향",
+        "name": "clair",
+        "koName": "이향",
         "types": [
           "water"
         ],
         "pokemonIds": [
           "dratini",
           "horsea",
-          "gyarados"
+          "gyarados",
+          "gyarados_mega"
         ]
       },
       {
-        "name": "사간",
+        "name": "drayden",
+        "koName": "사간",
         "types": [
           "dragon"
         ],
@@ -3659,12 +4109,14 @@
         ]
       },
       {
-        "name": "금랑",
+        "name": "raihan",
+        "koName": "금랑",
         "types": [
           "dragon"
         ],
         "pokemonIds": [
           "duraludon",
+          "duraludon_gigantamax",
           "turtonator",
           "goomy"
         ]
@@ -3777,6 +4229,7 @@
         "tier": "슈퍼 울트라 레어 보스",
         "pokemonIds": [
           "palkia",
+          "palkia_origin",
           "yveltal",
           "galar_moltres"
         ]
@@ -3784,14 +4237,16 @@
     ],
     "trainers": [
       {
-        "name": "마리",
+        "name": "marnie",
+        "koName": "마리",
         "types": [
           "dark"
         ],
         "pokemonIds": [
           "impidimp",
           "purrloin",
-          "morpeko"
+          "morpeko_full_belly",
+          "morpeko_hangry"
         ]
       }
     ]
@@ -3820,7 +4275,20 @@
           "bronzong",
           "munna",
           "musharna",
-          "minior"
+          "minior_red_meteor",
+          "minior_orange_meteor",
+          "minior_yellow_meteor",
+          "minior_green_meteor",
+          "minior_blue_meteor",
+          "minior_indigo_meteor",
+          "minior_violet_meteor",
+          "minior_red",
+          "minior_orange",
+          "minior_yellow",
+          "minior_green",
+          "minior_blue",
+          "minior_indigo",
+          "minior_violet"
         ]
       },
       {
@@ -3868,7 +4336,20 @@
           "bronzong",
           "musharna",
           "reuniclus",
-          "minior"
+          "minior_red_meteor",
+          "minior_orange_meteor",
+          "minior_yellow_meteor",
+          "minior_green_meteor",
+          "minior_blue_meteor",
+          "minior_indigo_meteor",
+          "minior_violet_meteor",
+          "minior_red",
+          "minior_orange",
+          "minior_yellow",
+          "minior_green",
+          "minior_blue",
+          "minior_indigo",
+          "minior_violet"
         ]
       },
       {
@@ -3890,13 +4371,17 @@
           "solgaleo",
           "lunala",
           "rayquaza",
-          "necrozma"
+          "necrozma",
+          "necrozma_dusk_mane",
+          "necrozma_dawn_wings",
+          "necrozma_ultra"
         ]
       }
     ],
     "trainers": [
       {
-        "name": "고지카",
+        "name": "olympia",
+        "koName": "고지카",
         "types": [
           "psychic"
         ],
@@ -4006,18 +4491,28 @@
     ],
     "trainers": [
       {
-        "name": "마티스",
+        "name": "lt_surge",
+        "koName": "마티스",
         "types": [
           "electric"
         ],
         "pokemonIds": [
           "voltorb",
           "pikachu",
+          "pikachu_partner",
+          "pikachu_cosplay",
+          "pikachu_cool_cosplay",
+          "pikachu_beauty_cosplay",
+          "pikachu_cute_cosplay",
+          "pikachu_smart_cosplay",
+          "pikachu_tough_cosplay",
+          "pikachu_gigantamax",
           "electabuzz"
         ]
       },
       {
-        "name": "사도",
+        "name": "chuck",
+        "koName": "사도",
         "types": [
           "fighting"
         ],
@@ -4027,7 +4522,8 @@
         ]
       },
       {
-        "name": "암페어",
+        "name": "wattson",
+        "koName": "암페어",
         "types": [
           "electric"
         ],
@@ -4059,7 +4555,8 @@
         "pokemonIds": [
           "vespiquen",
           "cherubi",
-          "cherrim",
+          "cherrim_overcast",
+          "cherrim_sunshine",
           "sewaddle",
           "swadloon",
           "leavanny",
@@ -4143,6 +4640,7 @@
           "tapu_lele",
           "buzzwole",
           "zarude",
+          "zarude_dada",
           "munkidori"
         ]
       },
@@ -4151,7 +4649,8 @@
         "pokemonIds": [
           "exeggutor",
           "tropius",
-          "cherrim",
+          "cherrim_overcast",
+          "cherrim_sunshine",
           "leavanny",
           "komala",
           "breloom",
@@ -4188,6 +4687,7 @@
           "tapu_lele",
           "buzzwole",
           "zarude",
+          "zarude_dada",
           "munkidori"
         ]
       },
@@ -4200,7 +4700,8 @@
     ],
     "trainers": [
       {
-        "name": "후쿠지",
+        "name": "ramos",
+        "koName": "후쿠지",
         "types": [
           "bug"
         ],
@@ -4247,7 +4748,15 @@
           "morelull",
           "shiinotic",
           "milcery",
-          "alcremie"
+          "alcremie_vanilla_cream",
+          "alcremie_ruby_cream",
+          "alcremie_matcha_cream",
+          "alcremie_mint_cream",
+          "alcremie_lemon_cream",
+          "alcremie_salted_cream",
+          "alcremie_ruby_swirl",
+          "alcremie_caramel_swirl",
+          "alcremie_rainbow_swirl"
         ]
       },
       {
@@ -4280,7 +4789,8 @@
         "tier": "울트라 레어",
         "pokemonIds": [
           "diancie",
-          "enamorus"
+          "enamorus_incarnate",
+          "enamorus_therian"
         ]
       },
       {
@@ -4297,7 +4807,15 @@
           "shiinotic",
           "comfey",
           "hatterene",
-          "alcremie"
+          "alcremie_vanilla_cream",
+          "alcremie_ruby_cream",
+          "alcremie_matcha_cream",
+          "alcremie_mint_cream",
+          "alcremie_lemon_cream",
+          "alcremie_salted_cream",
+          "alcremie_ruby_swirl",
+          "alcremie_caramel_swirl",
+          "alcremie_rainbow_swirl"
         ]
       },
       {
@@ -4310,30 +4828,35 @@
         "tier": "슈퍼 레어 보스",
         "pokemonIds": [
           "diancie",
-          "enamorus"
+          "enamorus_incarnate",
+          "enamorus_therian"
         ]
       },
       {
         "tier": "슈퍼 울트라 레어 보스",
         "pokemonIds": [
-          "xerneas"
+          "xerneas_neutral",
+          "xerneas_active"
         ]
       }
     ],
     "trainers": [
       {
-        "name": "마슈",
+        "name": "valerie",
+        "koName": "마슈",
         "types": [
           "fairy"
         ],
         "pokemonIds": [
           "sylveon",
           "mawile",
+          "mawile_mega",
           "mr_mime"
         ]
       },
       {
-        "name": "포플러",
+        "name": "opal",
+        "koName": "포플러",
         "types": [
           "fairy"
         ],
@@ -4344,14 +4867,16 @@
         ]
       },
       {
-        "name": "비트",
+        "name": "bede",
+        "koName": "비트",
         "types": [
           "psychic"
         ],
         "pokemonIds": [
           "hatenna",
           "galar_ponyta",
-          "gardevoir"
+          "gardevoir",
+          "gardevoir_mega"
         ]
       }
     ]
@@ -4413,7 +4938,8 @@
       {
         "tier": "레어",
         "pokemonIds": [
-          "gimmighoul",
+          "gimmighoul_chest",
+          "gimmighoul_roaming",
           "gholdengo"
         ]
       },
@@ -4425,6 +4951,7 @@
         "tier": "울트라 레어",
         "pokemonIds": [
           "hoopa",
+          "hoopa_unbound",
           "tapu_koko"
         ]
       },
@@ -4434,7 +4961,8 @@
           "chimecho",
           "cofagrigus",
           "golurk",
-          "aegislash"
+          "aegislash_shield",
+          "aegislash_blade"
         ]
       },
       {
@@ -4447,6 +4975,7 @@
         "tier": "슈퍼 레어 보스",
         "pokemonIds": [
           "hoopa",
+          "hoopa_unbound",
           "tapu_koko"
         ]
       },
@@ -4459,7 +4988,8 @@
     ],
     "trainers": [
       {
-        "name": "멜리사",
+        "name": "fantina",
+        "koName": "멜리사",
         "types": [
           "ghost"
         ],
@@ -4509,14 +5039,19 @@
         "pokemonIds": [
           "stunky",
           "skuntank",
-          "burmy",
-          "wormadam"
+          "burmy_plant",
+          "burmy_sandy",
+          "burmy_trash",
+          "wormadam_plant",
+          "wormadam_sandy",
+          "wormadam_trash"
         ]
       },
       {
         "tier": "레어",
         "pokemonIds": [
-          "toxtricity",
+          "toxtricity_amped",
+          "toxtricity_lowkey",
           "galar_linoone",
           "obstagoon",
           "galar_zigzagoon",
@@ -4541,14 +5076,17 @@
           "watchog",
           "muk",
           "weezing",
-          "wormadam",
+          "wormadam_plant",
+          "wormadam_sandy",
+          "wormadam_trash",
           "garbodor"
         ]
       },
       {
         "tier": "레어 보스",
         "pokemonIds": [
-          "toxtricity",
+          "toxtricity_amped",
+          "toxtricity_lowkey",
           "obstagoon",
           "revavroom",
           "galar_weezing"
@@ -4567,7 +5105,8 @@
     ],
     "trainers": [
       {
-        "name": "두송",
+        "name": "piers",
+        "koName": "두송",
         "types": [
           "dark"
         ],
@@ -4613,7 +5152,8 @@
           "piloswine",
           "snover",
           "abomasnow",
-          "eiscue"
+          "eiscue",
+          "eiscue_no_ice"
         ]
       },
       {
@@ -4630,6 +5170,7 @@
         "pokemonIds": [
           "galar_darumaka",
           "galar_darmanitan",
+          "galar_darmanitan_zen",
           "delibird",
           "alola_sandshrew",
           "alola_sandslash",
@@ -4671,6 +5212,7 @@
         "pokemonIds": [
           "sneasler",
           "galar_darmanitan",
+          "galar_darmanitan_zen",
           "hisui_zoroark",
           "mr_rime",
           "arctozolt",
@@ -4688,14 +5230,16 @@
       {
         "tier": "슈퍼 울트라 레어 보스",
         "pokemonIds": [
-          "zacian",
+          "zacian_hero_of-many-battles",
+          "zacian_crowned",
           "galar_articuno"
         ]
       }
     ],
     "trainers": [
       {
-        "name": "무청",
+        "name": "candice",
+        "koName": "무청",
         "types": [
           "ice"
         ],
@@ -4706,7 +5250,8 @@
         ]
       },
       {
-        "name": "멜론",
+        "name": "melony",
+        "koName": "멜론",
         "types": [
           "ice"
         ],
@@ -4740,7 +5285,10 @@
           "alola_raticate",
           "alola_meowth",
           "alola_persian",
-          "oricorio",
+          "oricorio_baile",
+          "oricorio_pompom",
+          "oricorio_pau",
+          "oricorio_sensu",
           "alola_sandshrew",
           "alola_sandslash",
           "alola_vulpix",
@@ -4785,7 +5333,10 @@
           "alola_raticate",
           "alola_persian",
           "alola_marowak",
-          "oricorio",
+          "oricorio_baile",
+          "oricorio_pompom",
+          "oricorio_pau",
+          "oricorio_sensu",
           "bruxish",
           "alola_sandslash",
           "alola_ninetales",
@@ -4811,7 +5362,8 @@
     ],
     "trainers": [
       {
-        "name": "야청",
+        "name": "nessa",
+        "koName": "야청",
         "types": [
           "water"
         ],
@@ -4873,7 +5425,12 @@
       {
         "tier": "슈퍼 레어",
         "pokemonIds": [
-          "rotom"
+          "rotom",
+          "rotom_heat",
+          "rotom_wash",
+          "rotom_frost",
+          "rotom_fan",
+          "rotom_mow"
         ]
       },
       {
@@ -4902,21 +5459,50 @@
         "tier": "슈퍼 레어 보스",
         "pokemonIds": [
           "rotom",
-          "zygarde",
-          "silvally"
+          "rotom_heat",
+          "rotom_wash",
+          "rotom_frost",
+          "rotom_fan",
+          "rotom_mow",
+          "zygarde_50",
+          "zygarde_10",
+          "zygarde_50_pc",
+          "zygarde_10_pc",
+          "zygarde_complete",
+          "silvally_normal",
+          "silvally_fighting",
+          "silvally_flying",
+          "silvally_poison",
+          "silvally_ground",
+          "silvally_rock",
+          "silvally_bug",
+          "silvally_ghost",
+          "silvally_steel",
+          "silvally_fire",
+          "silvally_water",
+          "silvally_grass",
+          "silvally_electric",
+          "silvally_psychic",
+          "silvally_ice",
+          "silvally_dragon",
+          "silvally_dark",
+          "silvally_fairy"
         ]
       },
       {
         "tier": "슈퍼 울트라 레어 보스",
         "pokemonIds": [
           "mewtwo",
-          "miraidon"
+          "mewtwo_mega_x",
+          "mewtwo_mega_y",
+          "miraidon_ultimate_mode"
         ]
       }
     ],
     "trainers": [
       {
-        "name": "비주기",
+        "name": "giovanni",
+        "koName": "비주기",
         "types": [
           "poison",
           "dark"
@@ -4985,7 +5571,8 @@
       {
         "tier": "보스",
         "pokemonIds": [
-          "eternatus"
+          "eternatus",
+          "eternatus_eternamax"
         ]
       },
       {
